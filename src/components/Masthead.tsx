@@ -12,6 +12,7 @@ interface MastheadProps {
   totalItems: number;
   onRefresh: () => void;
   isRefreshing: boolean;
+  onGoHome?: () => void;
 }
 
 export const Masthead: React.FC<MastheadProps> = ({
@@ -21,11 +22,16 @@ export const Masthead: React.FC<MastheadProps> = ({
   totalItems,
   onRefresh,
   isRefreshing,
+  onGoHome,
 }) => {
   const [currentDate, setCurrentDate] = useState<string>('');
   const [isLightMode, setIsLightMode] = useState<boolean>(false);
 
   useEffect(() => {
+    // Sync with HTML class
+    const isLight = document.documentElement.classList.contains('light');
+    setIsLightMode(isLight);
+
     const updateTime = () => {
       const now = new Date();
       const formattedDate = format(now, "EEEE d. MMMM yyyy • HH:mm:ss 'CET'", { locale: da });
@@ -37,8 +43,21 @@ export const Masthead: React.FC<MastheadProps> = ({
   }, []);
 
   const toggleTheme = () => {
-    setIsLightMode(!isLightMode);
-    document.documentElement.classList.toggle('light');
+    const nextLight = !isLightMode;
+    setIsLightMode(nextLight);
+    if (nextLight) {
+      document.documentElement.classList.remove('dark');
+      document.documentElement.classList.add('light');
+      try {
+        localStorage.setItem('ai_opdatering_theme', 'light');
+      } catch (e) {}
+    } else {
+      document.documentElement.classList.remove('light');
+      document.documentElement.classList.add('dark');
+      try {
+        localStorage.setItem('ai_opdatering_theme', 'dark');
+      } catch (e) {}
+    }
   };
 
   return (
@@ -79,10 +98,21 @@ export const Masthead: React.FC<MastheadProps> = ({
           {/* Theme Switcher */}
           <button
             onClick={toggleTheme}
-            className="p-1 text-gray-400 hover:text-yellow-400 transition-colors"
-            title="Skift lys/mørk tilstand"
+            className="flex items-center gap-1.5 px-2.5 py-1 rounded bg-gray-900 hover:bg-gray-800 border border-gray-700 hover:border-amber-400 text-gray-300 hover:text-amber-400 transition-all active:scale-95 text-[11px]"
+            title={isLightMode ? 'Skift til mørk tilstand (Dark mode)' : 'Skift til lys tilstand (Light mode)'}
+            aria-label={isLightMode ? 'Skift til mørk tilstand' : 'Skift til lys tilstand'}
           >
-            {isLightMode ? <Moon className="w-3.5 h-3.5" /> : <Sun className="w-3.5 h-3.5" />}
+            {isLightMode ? (
+              <>
+                <Moon className="w-3.5 h-3.5 text-indigo-400 fill-indigo-400/20" />
+                <span className="hidden sm:inline text-[10px] font-mono">Mørk</span>
+              </>
+            ) : (
+              <>
+                <Sun className="w-3.5 h-3.5 text-amber-400 fill-amber-400/20" />
+                <span className="hidden sm:inline text-[10px] font-mono">Lys</span>
+              </>
+            )}
           </button>
         </div>
       </div>
@@ -97,11 +127,23 @@ export const Masthead: React.FC<MastheadProps> = ({
         </div>
 
         {/* Title */}
-        <div className="my-3">
-          <h1 className="text-4xl sm:text-6xl md:text-7xl font-extrabold tracking-tighter text-transparent bg-clip-text bg-gradient-to-b from-white via-gray-100 to-gray-400 font-serif drop-shadow-sm">
+        <div
+          onClick={onGoHome}
+          role="button"
+          tabIndex={0}
+          onKeyDown={(e) => {
+            if (e.key === 'Enter' || e.key === ' ') {
+              e.preventDefault();
+              onGoHome?.();
+            }
+          }}
+          className="my-3 inline-block cursor-pointer group select-none transition-transform active:scale-[0.99]"
+          title="Gå til forsiden"
+        >
+          <h1 className="text-4xl sm:text-6xl md:text-7xl font-extrabold tracking-tighter text-transparent bg-clip-text bg-gradient-to-b from-white via-gray-100 to-gray-400 group-hover:from-white group-hover:via-cyan-200 group-hover:to-cyan-400 font-serif drop-shadow-sm transition-all duration-200">
             AI OPDATERING
           </h1>
-          <p className="text-xs sm:text-sm font-mono tracking-[0.3em] uppercase text-cyan-500/90 mt-1">
+          <p className="text-xs sm:text-sm font-mono tracking-[0.3em] uppercase text-cyan-500/90 group-hover:text-cyan-400 mt-1 transition-colors">
             THE INTELLIGENCE CHRONICLE // FRONTIER LABS • POLICY • FORSKNING • DANMARK
           </p>
         </div>

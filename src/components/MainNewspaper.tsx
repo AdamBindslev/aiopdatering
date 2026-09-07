@@ -154,6 +154,15 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
   const danishAndSafetyItems = useMemo(() => remainingCoreItems.filter(i => i.category === 'danish' || i.category === 'safety').slice(0, 6), [remainingCoreItems]);
   const coreVideoItems = useMemo(() => filteredItems.filter(i => i.category === 'video' || i.videoId).slice(0, 3), [filteredItems]);
 
+  // Reset to frontpage view
+  const handleGoHome = () => {
+    setActiveTab('core');
+    setSearchQuery('');
+    setSelectedSource('all');
+    setTimeFilter('all');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
   return (
     <div className="min-h-screen bg-[#0a0d12] text-gray-100 flex flex-col">
       {/* Live Breaking News Ticker */}
@@ -167,6 +176,7 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
         totalItems={data.items.length}
         onRefresh={handleRefresh}
         isRefreshing={isRefreshing}
+        onGoHome={handleGoHome}
       />
 
       {/* Category Navigation Bar */}
@@ -456,7 +466,13 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
       <footer className="border-t border-gray-800 bg-[#070a0f] py-8 text-xs font-mono text-gray-500">
         <div className="max-w-7xl mx-auto px-4 flex flex-col md:flex-row items-center justify-between gap-4">
           <div>
-            <p className="text-gray-300 font-bold font-serif text-sm">AI OPDATERING // THE INTELLIGENCE CHRONICLE</p>
+            <button
+              onClick={handleGoHome}
+              className="text-left text-gray-300 hover:text-cyan-400 font-bold font-serif text-sm transition-colors cursor-pointer block"
+              title="Gå til forsiden"
+            >
+              AI OPDATERING // THE INTELLIGENCE CHRONICLE
+            </button>
             <p className="text-gray-600 mt-0.5">Uafhængig realtidsaggregator for kunstig intelligens og maskinlæring.</p>
           </div>
 
