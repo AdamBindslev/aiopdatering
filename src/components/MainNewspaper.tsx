@@ -1,0 +1,393 @@
+'use client';
+
+import React, { useState, useEffect, useMemo } from 'react';
+import { FeedItem, FeedSource, FeedsResponse } from '@/types';
+import { Masthead } from './Masthead';
+import { LiveTicker } from './LiveTicker';
+import { CategoryNav } from './CategoryNav';
+import { FilterBar } from './FilterBar';
+import { LeadArticle } from './LeadArticle';
+import { ArticleCard } from './ArticleCard';
+import { SourcesDirectory } from './SourcesDirectory';
+import { Cpu, Flag, Lightbulb, ShieldAlert, Sparkles, Bookmark, Search } from 'lucide-react';
+
+interface MainNewspaperProps {
+  initialData: FeedsResponse;
+}
+
+export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => {
+  const [data, setData] = useState<FeedsResponse>(initialData);
+  const [activeTab, setActiveTab] = useState<string>('core');
+  const [searchQuery, setSearchQuery] = useState<string>('');
+  const [selectedSource, setSelectedSource] = useState<string>('all');
+  const [timeFilter, setTimeFilter] = useState<string>('all');
+  const [isRefreshing, setIsRefreshing] = useState<boolean>(false);
+  const [bookmarkedIds, setBookmarkedIds] = useState<string[]>([]);
+
+  // Load bookmarks from localStorage
+  useEffect(() => {
+    try {
+      const saved = localStorage.getItem('ai_opdatering_bookmarks');
+      if (saved) {
+        setBookmarkedIds(JSON.parse(saved));
+      }
+    } catch (e) {
+      console.warn('Could not read bookmarks from localStorage');
+    }
+  }, []);
+
+  const toggleBookmark = (item: FeedItem) => {
+    setBookmarkedIds((prev) => {
+      let updated: string[];
+      if (prev.includes(item.id)) {
+        updated = prev.filter(id => id !== item.id);
+      } else {
+        updated = [...prev, item.id];
+      }
+      try {
+        localStorage.setItem('ai_opdatering_bookmarks', JSON.stringify(updated));
+      } catch (e) {
+        console.warn('Could not write bookmarks');
+      }
+      return updated;
+    });
+  };
+
+  // Manual refresh handler
+  const handleRefresh = async () => {
+    setIsRefreshing(true);
+    try {
+      const res = await fetch('/api/feeds?refresh=true');
+      if (res.ok) {
+        const freshData: FeedsResponse = await res.json();
+        setData(freshData);
+      }
+    } catch (err) {
+      console.error('Failed to refresh feeds:', err);
+    } finally {
+      setIsRefreshing(false);
+    }
+  };
+
+  // Filter items based on time, source, search query
+  const filteredItems = useMemo(() => {
+    const now = Date.now();
+    let maxAgeMs = Infinity;
+
+    if (timeFilter === '24h') maxAgeMs = 24 * 60 * 60 * 1000;
+    else if (timeFilter === '48h') maxAgeMs = 48 * 60 * 60 * 1000;
+    else if (timeFilter === '7d') maxAgeMs = 7 * 24 * 60 * 60 * 1000;
+
+    return data.items.filter((item) => {
+      // Time filter
+      if (timeFilter !== 'all' && now - item.timestamp > maxAgeMs) {
+        return false;
+      }
+
+      // Source filter
+      if (selectedSource !== 'all' && item.sourceId !== selectedSource) {
+        return false;
+      }
+
+      // Search query filter
+      if (searchQuery.trim()) {
+        const q = searchQuery.toLowerCase();
+        const matchTitle = item.title.toLowerCase().includes(q);
+        const matchSnippet = item.snippet.toLowerCase().includes(q);
+        const matchSource = item.sourceName.toLowerCase().includes(q);
+        const matchAuthor = item.author ? item.author.toLowerCase().includes(q) : false;
+        if (!matchTitle && !matchSnippet && !matchSource && !matchAuthor) {
+          return false;
+        }
+      }
+
+      return true;
+    });
+  }, [data.items, timeFilter, selectedSource, searchQuery]);
+
+  // Counts for category badges
+  const categoryCounts = useMemo(() => {
+    const counts: Record<string, number> = {
+      all: filteredItems.length,
+      core: filteredItems.filter(i => {
+        const src = data.sources.find(s => s.id === i.sourceId);
+        return src?.isCore;
+      }).length,
+      labs: filteredItems.filter(i => i.category === 'labs').length,
+      danish: filteredItems.filter(i => i.category === 'danish').length,
+      experts: filteredItems.filter(i => i.category === 'experts').length,
+      safety: filteredItems.filter(i => i.category === 'safety').length,
+      tools: filteredItems.filter(i => i.category === 'tools').length,
+      arxiv: filteredItems.filter(i => i.category === 'arxiv').length,
+    };
+    return counts;
+  }, [filteredItems, data.sources]);
+
+  // Display items for the current active tab
+  const tabItems = useMemo(() => {
+    if (activeTab === 'bookmarks') {
+      return filteredItems.filter(i => bookmarkedIds.includes(i.id));
+    }
+    if (activeTab === 'all') {
+      return filteredItems;
+    }
+    if (activeTab === 'core') {
+      return filteredItems.filter(i => {
+        const src = data.sources.find(s => s.id === i.sourceId);
+        return src?.isCore;
+      });
+    }
+    return filteredItems.filter(i => i.category === activeTab);
+  }, [activeTab, filteredItems, bookmarkedIds, data.sources]);
+
+  // For the 'core' broadsheet view:
+  const leadArticle = tabItems[0] || null;
+  const remainingCoreItems = tabItems.slice(1);
+
+  const labsItems = useMemo(() => remainingCoreItems.filter(i => i.category === 'labs').slice(0, 6), [remainingCoreItems]);
+  const expertsAndMediaItems = useMemo(() => remainingCoreItems.filter(i => i.category === 'experts' || i.category === 'media').slice(0, 6), [remainingCoreItems]);
+  const danishAndSafetyItems = useMemo(() => remainingCoreItems.filter(i => i.category === 'danish' || i.category === 'safety').slice(0, 6), [remainingCoreItems]);
+
+  return (
+    <div className="min-h-screen bg-[#0a0d12] text-gray-100 flex flex-col">
+      {/* Live Breaking News Ticker */}
+      <LiveTicker items={data.items} />
+
+      {/* Futuristic Newspaper Masthead */}
+      <Masthead
+        lastUpdated={data.lastUpdated}
+        totalSources={data.totalSources}
+        successfulSources={data.successfulSources}
+        totalItems={data.items.length}
+        onRefresh={handleRefresh}
+        isRefreshing={isRefreshing}
+      />
+
+      {/* Category Navigation Bar */}
+      <CategoryNav
+        activeTab={activeTab}
+        onSelectTab={(tab) => {
+          setActiveTab(tab);
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        }}
+        counts={categoryCounts}
+        bookmarkCount={bookmarkedIds.length}
+      />
+
+      {/* Main Content Area */}
+      <main className="max-w-7xl mx-auto px-4 w-full flex-grow pb-16">
+        {activeTab !== 'sources' && (
+          <FilterBar
+            searchQuery={searchQuery}
+            onSearchChange={setSearchQuery}
+            selectedSource={selectedSource}
+            onSourceChange={setSelectedSource}
+            timeFilter={timeFilter}
+            onTimeFilterChange={setTimeFilter}
+            sources={data.sources}
+          />
+        )}
+
+        {/* View 1: Sources Directory */}
+        {activeTab === 'sources' ? (
+          <SourcesDirectory />
+        ) : activeTab === 'bookmarks' ? (
+          /* View 2: Bookmarks */
+          <div>
+            <div className="border-b border-gray-800 pb-3 mb-6 flex items-center justify-between">
+              <h2 className="text-2xl font-bold font-serif text-white flex items-center gap-2">
+                <Bookmark className="w-6 h-6 text-cyan-400 fill-cyan-400" />
+                Gemte Artikler & Læseliste
+              </h2>
+              <span className="text-xs font-mono text-gray-400">
+                {tabItems.length} {tabItems.length === 1 ? 'artikel' : 'artikler'}
+              </span>
+            </div>
+            {tabItems.length === 0 ? (
+              <div className="text-center py-20 bg-[#0e131b] border border-gray-800 rounded-lg p-6">
+                <Bookmark className="w-12 h-12 text-gray-600 mx-auto mb-3" />
+                <p className="text-gray-400 font-serif text-lg">Du har ingen gemte artikler endnu.</p>
+                <p className="text-xs font-mono text-gray-500 mt-1">
+                  Klik på bogmærke-ikonet på enhver artikel for at gemme den her til senere læsning.
+                </p>
+              </div>
+            ) : (
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                {tabItems.map((item) => (
+                  <ArticleCard
+                    key={item.id}
+                    item={item}
+                    isBookmarked={true}
+                    onToggleBookmark={toggleBookmark}
+                  />
+                ))}
+              </div>
+            )}
+          </div>
+        ) : activeTab === 'core' && !searchQuery && selectedSource === 'all' && timeFilter === 'all' ? (
+          /* View 3: Futuristic Broadsheet Front Page */
+          <div>
+            {/* Lead Story */}
+            {leadArticle && (
+              <LeadArticle
+                item={leadArticle}
+                isBookmarked={bookmarkedIds.includes(leadArticle.id)}
+                onToggleBookmark={toggleBookmark}
+              />
+            )}
+
+            {/* 3-Column Newspaper Broadsheet Grid */}
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 pt-4 border-t border-gray-800">
+              {/* Column 1: Frontier Labs */}
+              <div className="space-y-4">
+                <div className="flex items-center justify-between border-b-2 border-cyan-500/80 pb-2">
+                  <h3 className="font-serif font-bold text-lg text-white flex items-center gap-2">
+                    <Cpu className="w-4 h-4 text-cyan-400" />
+                    Frontier Labs
+                  </h3>
+                  <span className="text-[11px] font-mono text-cyan-500 uppercase font-semibold tracking-wider">
+                    Modeludviklere
+                  </span>
+                </div>
+                <div className="space-y-3">
+                  {labsItems.map((item) => (
+                    <ArticleCard
+                      key={item.id}
+                      item={item}
+                      isBookmarked={bookmarkedIds.includes(item.id)}
+                      onToggleBookmark={toggleBookmark}
+                    />
+                  ))}
+                </div>
+              </div>
+
+              {/* Column 2: Eksperter & Medier */}
+              <div className="space-y-4">
+                <div className="flex items-center justify-between border-b-2 border-emerald-500/80 pb-2">
+                  <h3 className="font-serif font-bold text-lg text-white flex items-center gap-2">
+                    <Lightbulb className="w-4 h-4 text-emerald-400" />
+                    Analyse & Indsigt
+                  </h3>
+                  <span className="text-[11px] font-mono text-emerald-500 uppercase font-semibold tracking-wider">
+                    Eksperter
+                  </span>
+                </div>
+                <div className="space-y-3">
+                  {expertsAndMediaItems.map((item) => (
+                    <ArticleCard
+                      key={item.id}
+                      item={item}
+                      isBookmarked={bookmarkedIds.includes(item.id)}
+                      onToggleBookmark={toggleBookmark}
+                    />
+                  ))}
+                </div>
+              </div>
+
+              {/* Column 3: Dansk AI & Lovgivning */}
+              <div className="space-y-4">
+                <div className="flex items-center justify-between border-b-2 border-red-500/80 pb-2">
+                  <h3 className="font-serif font-bold text-lg text-white flex items-center gap-2">
+                    <Flag className="w-4 h-4 text-red-400" />
+                    Dansk AI & Politik
+                  </h3>
+                  <span className="text-[11px] font-mono text-red-500 uppercase font-semibold tracking-wider">
+                    Norden & EU
+                  </span>
+                </div>
+                <div className="space-y-3">
+                  {danishAndSafetyItems.map((item) => (
+                    <ArticleCard
+                      key={item.id}
+                      item={item}
+                      isBookmarked={bookmarkedIds.includes(item.id)}
+                      onToggleBookmark={toggleBookmark}
+                    />
+                  ))}
+                </div>
+              </div>
+            </div>
+
+            {/* Bottom Section: More Stories from Core */}
+            {remainingCoreItems.length > 18 && (
+              <div className="mt-12 pt-6 border-t border-gray-800">
+                <h3 className="text-xl font-bold font-serif text-white mb-4">Flere opdateringer fra Kerne-kilderne</h3>
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                  {remainingCoreItems.slice(18, 36).map((item) => (
+                    <ArticleCard
+                      key={item.id}
+                      item={item}
+                      variant="standard"
+                      isBookmarked={bookmarkedIds.includes(item.id)}
+                      onToggleBookmark={toggleBookmark}
+                    />
+                  ))}
+                </div>
+              </div>
+            )}
+          </div>
+        ) : (
+          /* View 4: Standard Category Grid / Search Results */
+          <div>
+            <div className="flex items-center justify-between border-b border-gray-800 pb-3 mb-6">
+              <div className="flex items-center gap-2">
+                <h2 className="text-2xl font-bold font-serif text-white">
+                  {searchQuery ? `Søgeresultater for "${searchQuery}"` : 'Artikler'}
+                </h2>
+                <span className="text-xs font-mono text-cyan-400 bg-cyan-950/60 border border-cyan-800 px-2 py-0.5 rounded">
+                  {tabItems.length} fundet
+                </span>
+              </div>
+            </div>
+
+            {tabItems.length === 0 ? (
+              <div className="text-center py-20 bg-[#0e131b] border border-gray-800 rounded-lg p-6">
+                <Search className="w-10 h-10 text-gray-600 mx-auto mb-2" />
+                <p className="text-gray-400 font-serif text-lg">Ingen artikler matcher de valgte kriterier.</p>
+                <p className="text-xs font-mono text-gray-500 mt-1">Prøv at nulstille søgeordet eller tidsfiltret.</p>
+              </div>
+            ) : (
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                {tabItems.map((item) => (
+                  <ArticleCard
+                    key={item.id}
+                    item={item}
+                    isBookmarked={bookmarkedIds.includes(item.id)}
+                    onToggleBookmark={toggleBookmark}
+                  />
+                ))}
+              </div>
+            )}
+          </div>
+        )}
+      </main>
+
+      {/* Footer */}
+      <footer className="border-t border-gray-800 bg-[#070a0f] py-8 text-xs font-mono text-gray-500">
+        <div className="max-w-7xl mx-auto px-4 flex flex-col md:flex-row items-center justify-between gap-4">
+          <div>
+            <p className="text-gray-300 font-bold font-serif text-sm">AI OPDATERING // THE INTELLIGENCE CHRONICLE</p>
+            <p className="text-gray-600 mt-0.5">Uafhængig realtidsaggregator for kunstig intelligens og maskinlæring.</p>
+          </div>
+
+          <div className="flex items-center gap-6 text-gray-400">
+            <button onClick={() => setActiveTab('sources')} className="hover:text-cyan-400 transition-colors">
+              Kildekatalog ({data.totalSources})
+            </button>
+            <span>•</span>
+            <a
+              href="https://github.com/AdamBindslev/aiopdatering"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-cyan-400 transition-colors"
+            >
+              GitHub Repo
+            </a>
+            <span>•</span>
+            <span>Auto-opdatering via Vercel ISR</span>
+          </div>
+        </div>
+      </footer>
+    </div>
+  );
+};
