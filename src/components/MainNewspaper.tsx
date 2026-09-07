@@ -8,8 +8,11 @@ import { CategoryNav } from './CategoryNav';
 import { FilterBar } from './FilterBar';
 import { LeadArticle } from './LeadArticle';
 import { ArticleCard } from './ArticleCard';
+import { VideoCard } from './VideoCard';
+import { VideoModal } from './VideoModal';
+import { VideoSection } from './VideoSection';
 import { SourcesDirectory } from './SourcesDirectory';
-import { Cpu, Flag, Lightbulb, ShieldAlert, Sparkles, Bookmark, Search } from 'lucide-react';
+import { Cpu, Flag, Lightbulb, ShieldAlert, Sparkles, Bookmark, Search, Youtube, ArrowRight } from 'lucide-react';
 
 interface MainNewspaperProps {
   initialData: FeedsResponse;
@@ -23,6 +26,7 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
   const [timeFilter, setTimeFilter] = useState<string>('all');
   const [isRefreshing, setIsRefreshing] = useState<boolean>(false);
   const [bookmarkedIds, setBookmarkedIds] = useState<string[]>([]);
+  const [activeVideo, setActiveVideo] = useState<FeedItem | null>(null);
 
   // Load bookmarks from localStorage
   useEffect(() => {
@@ -113,6 +117,7 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
         const src = data.sources.find(s => s.id === i.sourceId);
         return src?.isCore;
       }).length,
+      video: filteredItems.filter(i => i.category === 'video' || i.videoId).length,
       labs: filteredItems.filter(i => i.category === 'labs').length,
       danish: filteredItems.filter(i => i.category === 'danish').length,
       experts: filteredItems.filter(i => i.category === 'experts').length,
@@ -147,6 +152,7 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
   const labsItems = useMemo(() => remainingCoreItems.filter(i => i.category === 'labs').slice(0, 6), [remainingCoreItems]);
   const expertsAndMediaItems = useMemo(() => remainingCoreItems.filter(i => i.category === 'experts' || i.category === 'media').slice(0, 6), [remainingCoreItems]);
   const danishAndSafetyItems = useMemo(() => remainingCoreItems.filter(i => i.category === 'danish' || i.category === 'safety').slice(0, 6), [remainingCoreItems]);
+  const coreVideoItems = useMemo(() => filteredItems.filter(i => i.category === 'video' || i.videoId).slice(0, 3), [filteredItems]);
 
   return (
     <div className="min-h-screen bg-[#0a0d12] text-gray-100 flex flex-col">
@@ -176,7 +182,7 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
 
       {/* Main Content Area */}
       <main className="max-w-7xl mx-auto px-4 w-full flex-grow pb-16">
-        {activeTab !== 'sources' && (
+        {activeTab !== 'sources' && activeTab !== 'video' && (
           <FilterBar
             searchQuery={searchQuery}
             onSearchChange={setSearchQuery}
@@ -191,6 +197,15 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
         {/* View 1: Sources Directory */}
         {activeTab === 'sources' ? (
           <SourcesDirectory />
+        ) : activeTab === 'video' ? (
+          /* View 2: Video Section */
+          <VideoSection
+            items={filteredItems}
+            sources={data.sources}
+            bookmarkedIds={bookmarkedIds}
+            onToggleBookmark={toggleBookmark}
+            onPlayVideo={(v) => setActiveVideo(v)}
+          />
         ) : activeTab === 'bookmarks' ? (
           /* View 2: Bookmarks */
           <div>
@@ -214,12 +229,22 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
             ) : (
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                 {tabItems.map((item) => (
-                  <ArticleCard
-                    key={item.id}
-                    item={item}
-                    isBookmarked={true}
-                    onToggleBookmark={toggleBookmark}
-                  />
+                  item.category === 'video' || item.videoId ? (
+                    <VideoCard
+                      key={item.id}
+                      item={item}
+                      onPlay={(v) => setActiveVideo(v)}
+                      isBookmarked={true}
+                      onToggleBookmark={toggleBookmark}
+                    />
+                  ) : (
+                    <ArticleCard
+                      key={item.id}
+                      item={item}
+                      isBookmarked={true}
+                      onToggleBookmark={toggleBookmark}
+                    />
+                  )
                 ))}
               </div>
             )}
@@ -308,19 +333,68 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
               </div>
             </div>
 
+            {/* Frontpage Video Spotlight */}
+            {coreVideoItems.length > 0 && (
+              <div className="mt-12 pt-6 border-t border-gray-800">
+                <div className="flex items-center justify-between mb-4">
+                  <div className="flex items-center gap-2.5">
+                    <div className="w-7 h-7 rounded-md bg-red-950/80 border border-red-800/80 flex items-center justify-center text-red-400">
+                      <Youtube className="w-4 h-4" />
+                    </div>
+                    <div>
+                      <h3 className="text-xl font-bold font-serif text-white">Seneste AI Videoer & Gennemgange</h3>
+                      <p className="text-xs text-gray-400 font-mono">Dybdegående papiranalyser og tutorials fra YouTube</p>
+                    </div>
+                  </div>
+                  <button
+                    onClick={() => {
+                      setActiveTab('video');
+                      window.scrollTo({ top: 0, behavior: 'smooth' });
+                    }}
+                    className="inline-flex items-center gap-1.5 text-xs font-mono text-cyan-400 hover:text-cyan-300 font-semibold transition-colors"
+                  >
+                    <span>Se alle videoer</span>
+                    <ArrowRight className="w-3.5 h-3.5" />
+                  </button>
+                </div>
+
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+                  {coreVideoItems.map((item) => (
+                    <VideoCard
+                      key={item.id}
+                      item={item}
+                      onPlay={(v) => setActiveVideo(v)}
+                      isBookmarked={bookmarkedIds.includes(item.id)}
+                      onToggleBookmark={toggleBookmark}
+                    />
+                  ))}
+                </div>
+              </div>
+            )}
+
             {/* Bottom Section: More Stories from Core */}
             {remainingCoreItems.length > 18 && (
               <div className="mt-12 pt-6 border-t border-gray-800">
                 <h3 className="text-xl font-bold font-serif text-white mb-4">Flere opdateringer fra Kerne-kilderne</h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                   {remainingCoreItems.slice(18, 36).map((item) => (
-                    <ArticleCard
-                      key={item.id}
-                      item={item}
-                      variant="standard"
-                      isBookmarked={bookmarkedIds.includes(item.id)}
-                      onToggleBookmark={toggleBookmark}
-                    />
+                    item.category === 'video' || item.videoId ? (
+                      <VideoCard
+                        key={item.id}
+                        item={item}
+                        onPlay={(v) => setActiveVideo(v)}
+                        isBookmarked={bookmarkedIds.includes(item.id)}
+                        onToggleBookmark={toggleBookmark}
+                      />
+                    ) : (
+                      <ArticleCard
+                        key={item.id}
+                        item={item}
+                        variant="standard"
+                        isBookmarked={bookmarkedIds.includes(item.id)}
+                        onToggleBookmark={toggleBookmark}
+                      />
+                    )
                   ))}
                 </div>
               </div>
@@ -349,18 +423,34 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
             ) : (
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                 {tabItems.map((item) => (
-                  <ArticleCard
-                    key={item.id}
-                    item={item}
-                    isBookmarked={bookmarkedIds.includes(item.id)}
-                    onToggleBookmark={toggleBookmark}
-                  />
+                  item.category === 'video' || item.videoId ? (
+                    <VideoCard
+                      key={item.id}
+                      item={item}
+                      onPlay={(v) => setActiveVideo(v)}
+                      isBookmarked={bookmarkedIds.includes(item.id)}
+                      onToggleBookmark={toggleBookmark}
+                    />
+                  ) : (
+                    <ArticleCard
+                      key={item.id}
+                      item={item}
+                      isBookmarked={bookmarkedIds.includes(item.id)}
+                      onToggleBookmark={toggleBookmark}
+                    />
+                  )
                 ))}
               </div>
             )}
           </div>
         )}
       </main>
+
+      {/* Video Modal Player */}
+      <VideoModal
+        item={activeVideo}
+        onClose={() => setActiveVideo(null)}
+      />
 
       {/* Footer */}
       <footer className="border-t border-gray-800 bg-[#070a0f] py-8 text-xs font-mono text-gray-500">

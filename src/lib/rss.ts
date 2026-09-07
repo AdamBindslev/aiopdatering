@@ -3,6 +3,12 @@ import { FEED_SOURCES } from '../data/sources';
 import { FeedItem, FeedSource, FeedsResponse } from '../types';
 
 const parser = new Parser({
+  customFields: {
+    item: [
+      ['yt:videoId', 'ytVideoId'],
+      ['media:group', 'mediaGroup'],
+    ],
+  },
   headers: {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 (AI-Opdatering/1.0)',
     'Accept': 'application/rss+xml, application/xml, application/atom+xml, text/xml;q=0.9, */*;q=0.8',
@@ -88,13 +94,6 @@ async function fetchSingleFeed(source: FeedSource): Promise<FeedItem[]> {
         }
       }
 
-      // Format clean snippet
-      const rawSnippet = item.contentSnippet || item.summary || item.content || '';
-      let cleanSnippet = stripHtml(typeof rawSnippet === 'string' ? rawSnippet : '');
-      if (cleanSnippet.length > 240) {
-        cleanSnippet = cleanSnippet.slice(0, 237) + '...';
-      }
-
       // Safe guid resolution
       let guidStr = '';
       if (typeof item.guid === 'string') {
@@ -113,6 +112,38 @@ async function fetchSingleFeed(source: FeedSource): Promise<FeedItem[]> {
       const titleStr = typeof item.title === 'string' ? item.title.trim() : 'Uden titel';
       const linkStr = typeof item.link === 'string' ? item.link.trim() : source.url;
 
+      // Extract YouTube video ID if applicable
+      let videoId: string | undefined = undefined;
+      if (item.ytVideoId && typeof item.ytVideoId === 'string') {
+        videoId = item.ytVideoId.trim();
+      } else if (linkStr) {
+        const match = linkStr.match(/(?:v=|youtu\.be\/|embed\/|videos\/)([\w-]{11})/);
+        if (match && match[1]) {
+          videoId = match[1];
+        }
+      }
+
+      let thumbnailUrl: string | undefined = undefined;
+      if (videoId) {
+        thumbnailUrl = `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
+      }
+
+      // Format clean snippet
+      let rawSnippet = item.contentSnippet || item.summary || item.content || '';
+      if (!rawSnippet && item.mediaGroup) {
+        const mediaDesc = item.mediaGroup['media:description'];
+        if (typeof mediaDesc === 'string') {
+          rawSnippet = mediaDesc;
+        } else if (Array.isArray(mediaDesc) && typeof mediaDesc[0] === 'string') {
+          rawSnippet = mediaDesc[0];
+        }
+      }
+
+      let cleanSnippet = stripHtml(typeof rawSnippet === 'string' ? rawSnippet : '');
+      if (cleanSnippet.length > 240) {
+        cleanSnippet = cleanSnippet.slice(0, 237) + '...';
+      }
+
       return {
         id,
         title: titleStr,
@@ -126,6 +157,8 @@ async function fetchSingleFeed(source: FeedSource): Promise<FeedItem[]> {
         snippet: cleanSnippet,
         author: extractCleanAuthor(item.creator || item.author || item['dc:creator']),
         badgeColor: source.badgeColor,
+        videoId,
+        thumbnailUrl,
       };
     });
   } catch (error) {

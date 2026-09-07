@@ -11,7 +11,8 @@ import {
   Layers, 
   GraduationCap, 
   Database,
-  Bookmark
+  Bookmark,
+  Video
 } from 'lucide-react';
 
 interface CategoryNavProps {
@@ -23,6 +24,7 @@ interface CategoryNavProps {
 
 const TABS = [
   { id: 'core', label: 'Kerne-Sæt', icon: Flame, color: 'text-amber-400' },
+  { id: 'video', label: 'AI Video', icon: Video, color: 'text-red-400' },
   { id: 'danish', label: 'Dansk AI', icon: Flag, color: 'text-red-400' },
   { id: 'labs', label: 'Frontier Labs', icon: Cpu, color: 'text-cyan-400' },
   { id: 'experts', label: 'Eksperter & Analyse', icon: Lightbulb, color: 'text-emerald-400' },

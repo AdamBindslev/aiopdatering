@@ -5,7 +5,8 @@ export type FeedCategory =
   | 'tools'       // Open Source Runtimes, Agents & Infrastructure
   | 'media'       // Tech Media & Industry
   | 'arxiv'       // Academic arXiv pre-prints
-  | 'danish';     // Danish AI sources
+  | 'danish'      // Danish AI sources
+  | 'video';      // YouTube & Video Analysis
 
 export interface FeedSource {
   id: string;
@@ -32,6 +33,8 @@ export interface FeedItem {
   snippet: string;
   author?: string;
   badgeColor?: string;
+  videoId?: string;
+  thumbnailUrl?: string;
 }
 
 export interface FeedsResponse {
