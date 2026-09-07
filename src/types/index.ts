@@ -8,6 +8,11 @@ export type FeedCategory =
   | 'danish'      // Danish AI sources
   | 'video';      // YouTube & Video Analysis
 
+export type TechnicalLevel = 'Low' | 'Medium' | 'High' | 'Very High';
+export type BeginnerFriendly = 'Low' | 'Medium' | 'High';
+export type SignalToNoise = 'Medium' | 'High' | 'Very High';
+export type StatusType = 'Core' | 'Recommended' | 'Optional' | 'Official source';
+
 export interface FeedSource {
   id: string;
   name: string;
@@ -18,6 +23,14 @@ export interface FeedSource {
   description?: string;
   language: 'da' | 'en';
   badgeColor?: string;
+  // YouTube video specific metadata
+  videoCategory?: string;
+  videoCategories?: string[];
+  technicalLevel?: TechnicalLevel;
+  beginnerFriendly?: BeginnerFriendly;
+  signalToNoise?: SignalToNoise;
+  statusType?: StatusType;
+  notes?: string;
 }
 
 export interface FeedItem {
@@ -35,6 +48,13 @@ export interface FeedItem {
   badgeColor?: string;
   videoId?: string;
   thumbnailUrl?: string;
+  // Video specific metadata inherited from source
+  videoCategory?: string;
+  videoCategories?: string[];
+  technicalLevel?: TechnicalLevel;
+  beginnerFriendly?: BeginnerFriendly;
+  signalToNoise?: SignalToNoise;
+  statusType?: StatusType;
 }
 
 export interface FeedsResponse {

@@ -159,6 +159,12 @@ async function fetchSingleFeed(source: FeedSource): Promise<FeedItem[]> {
         badgeColor: source.badgeColor,
         videoId,
         thumbnailUrl,
+        videoCategory: source.videoCategory,
+        videoCategories: source.videoCategories,
+        technicalLevel: source.technicalLevel,
+        beginnerFriendly: source.beginnerFriendly,
+        signalToNoise: source.signalToNoise,
+        statusType: source.statusType,
       };
     });
   } catch (error) {

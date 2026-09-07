@@ -29,6 +29,20 @@ const BADGE_STYLES: Record<string, string> = {
   zinc: 'border-zinc-500/40 text-zinc-400 bg-zinc-900/40',
 };
 
+const TECHNICAL_LEVEL_STYLES: Record<string, string> = {
+  Low: 'text-blue-400 border-blue-500/30 bg-blue-950/40',
+  Medium: 'text-emerald-400 border-emerald-500/30 bg-emerald-950/40',
+  High: 'text-amber-400 border-amber-500/30 bg-amber-950/40',
+  'Very High': 'text-purple-400 border-purple-500/30 bg-purple-950/40',
+};
+
+const STATUS_STYLES: Record<string, string> = {
+  Core: 'text-rose-400 border-rose-500/30 bg-rose-950/40',
+  Recommended: 'text-cyan-400 border-cyan-500/30 bg-cyan-950/40',
+  Optional: 'text-gray-400 border-gray-700 bg-gray-900/40',
+  'Official source': 'text-teal-400 border-teal-500/30 bg-teal-950/40',
+};
+
 export const VideoCard: React.FC<VideoCardProps> = ({
   item,
   onPlay,
@@ -89,12 +103,29 @@ export const VideoCard: React.FC<VideoCardProps> = ({
         {/* Content Area */}
         <div className="lg:col-span-5 p-5 sm:p-6 flex flex-col justify-between">
           <div>
-            <div className="flex items-center justify-between gap-2 text-xs font-mono mb-3">
-              <span className={`px-2 py-0.5 rounded border text-[10px] uppercase tracking-wider font-semibold ${badgeClass}`}>
-                {item.sourceName}
-              </span>
+            <div className="flex flex-wrap items-center justify-between gap-2 text-xs font-mono mb-3">
+              <div className="flex flex-wrap items-center gap-1.5">
+                <span className={`px-2 py-0.5 rounded border text-[10px] uppercase tracking-wider font-semibold ${badgeClass}`}>
+                  {item.sourceName}
+                </span>
+                {item.videoCategory && (
+                  <span className="px-2 py-0.5 rounded border border-gray-700/60 bg-gray-900/80 text-gray-300 text-[10px] font-mono">
+                    {item.videoCategory}
+                  </span>
+                )}
+                {item.technicalLevel && (
+                  <span className={`px-2 py-0.5 rounded border text-[10px] font-mono font-medium ${TECHNICAL_LEVEL_STYLES[item.technicalLevel] || ''}`}>
+                    Niveau: {item.technicalLevel}
+                  </span>
+                )}
+                {item.statusType && item.statusType !== 'Optional' && (
+                  <span className={`px-2 py-0.5 rounded border text-[10px] font-mono font-medium ${STATUS_STYLES[item.statusType] || ''}`}>
+                    {item.statusType}
+                  </span>
+                )}
+              </div>
 
-              <div className="flex items-center gap-2 text-gray-400 text-[11px]">
+              <div className="flex items-center gap-2 text-gray-400 text-[11px] ml-auto">
                 <span title={exactDate} className="flex items-center gap-1">
                   <Clock className="w-3 h-3 text-gray-500" />
                   {timeAgo}
@@ -180,10 +211,18 @@ export const VideoCard: React.FC<VideoCardProps> = ({
             </div>
           </div>
 
-          <div className="absolute top-2 left-2">
+          <div className="absolute top-2 left-2 flex items-center gap-1">
             <span className={`px-1.5 py-0.5 rounded border text-[9px] uppercase tracking-wider font-semibold backdrop-blur ${badgeClass}`}>
               {item.sourceName}
             </span>
+          </div>
+
+          <div className="absolute top-2 right-2 flex items-center gap-1">
+            {item.technicalLevel && (
+              <span className={`px-1.5 py-0.5 rounded border text-[9px] font-mono font-medium backdrop-blur ${TECHNICAL_LEVEL_STYLES[item.technicalLevel] || 'text-gray-300 border-gray-700 bg-gray-900/80'}`}>
+                {item.technicalLevel}
+              </span>
+            )}
           </div>
 
           <div className="absolute bottom-2 right-2">
@@ -196,14 +235,27 @@ export const VideoCard: React.FC<VideoCardProps> = ({
         {/* Card Body */}
         <div className="p-3.5 sm:p-4">
           <div className="flex items-center justify-between gap-2 mb-2">
-            <span className="text-[10px] font-mono text-gray-500 uppercase tracking-wider flex items-center gap-1">
-              <Youtube className="w-3 h-3 text-red-500" />
-              Videoanalyse
-            </span>
+            <div className="flex items-center gap-1.5 overflow-hidden">
+              {item.videoCategory ? (
+                <span className="text-[10px] font-mono text-cyan-400 truncate font-medium">
+                  {item.videoCategory}
+                </span>
+              ) : (
+                <span className="text-[10px] font-mono text-gray-500 uppercase tracking-wider flex items-center gap-1">
+                  <Youtube className="w-3 h-3 text-red-500" />
+                  Videoanalyse
+                </span>
+              )}
+              {item.statusType && item.statusType !== 'Optional' && (
+                <span className={`px-1.5 py-0.2 rounded border text-[9px] font-mono ${STATUS_STYLES[item.statusType] || ''}`}>
+                  {item.statusType}
+                </span>
+              )}
+            </div>
             {onToggleBookmark && (
               <button
                 onClick={() => onToggleBookmark(item)}
-                className={`p-1 hover:text-cyan-400 transition-colors ${isBookmarked ? 'text-cyan-400' : 'text-gray-500'}`}
+                className={`p-1 hover:text-cyan-400 transition-colors shrink-0 ${isBookmarked ? 'text-cyan-400' : 'text-gray-500'}`}
                 title={isBookmarked ? 'Fjern bogmærke' : 'Gem video'}
               >
                 <Bookmark className={`w-3.5 h-3.5 ${isBookmarked ? 'fill-cyan-400' : ''}`} />
