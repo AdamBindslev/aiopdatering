@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#06090e"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#0891b2"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Squircle background -->
+  <rect x="16" y="16" width="480" height="480" rx="110" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="16"/>
+
+  <!-- Inner subtle stroke -->
+  <rect x="32" y="32" width="448" height="448" rx="96" fill="none" stroke="#0e7490" stroke-width="3" stroke-opacity="0.45"/>
+
+  <!-- Live telemetry beacon at top-right -->
+  <circle cx="412" cy="100" r="32" fill="#10b981" opacity="0.2"/>
+  <circle cx="412" cy="100" r="20" fill="#10b981" opacity="0.45"/>
+  <circle cx="412" cy="100" r="12" fill="#34d399"/>
+  <circle cx="412" cy="100" r="5" fill="#ffffff"/>
+
+  <!-- Letter A -->
+  <polygon points="182,135 218,135 295,365 245,365 221,292 179,292 155,365 105,365" fill="#f8fafc"/>
+  <polygon points="200,185 219,268 181,268" fill="#0b101b"/>
+
+  <!-- Cyan crossbar on A -->
+  <rect x="172" y="268" width="56" height="24" rx="4" fill="#06b6d4"/>
+  <rect x="175" y="273" width="50" height="14" rx="2" fill="#a5f3fc"/>
+
+  <!-- Letter I -->
+  <rect x="325" y="135" width="45" height="230" rx="6" fill="#f8fafc"/>
+  <!-- Cyber notch on I -->
+  <rect x="325" y="268" width="45" height="24" rx="4" fill="#06b6d4"/>
+  <rect x="328" y="273" width="39" height="14" rx="2" fill="#a5f3fc"/>
+
+  <!-- Bottom telegraph rule line -->
+  <rect x="125" y="412" width="262" height="6" rx="3" fill="#06b6d4" opacity="0.75"/>
+  <circle cx="112" cy="415" r="4" fill="#22d3ee"/>
+  <circle cx="400" cy="415" r="4" fill="#22d3ee"/>
+</svg>

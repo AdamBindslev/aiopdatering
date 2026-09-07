@@ -11,6 +11,16 @@ export const metadata: Metadata = {
   description: "Futuristisk avis og live aggregator for AI-nyheder fra Frontier Labs, uafhængige analytikere, danske kilder og forskningsverdenen.",
   keywords: ["AI", "Kunstig Intelligens", "OpenAI", "Anthropic", "DeepMind", "Version2", "LLM", "Machine Learning"],
   authors: [{ name: "Adam Bindslev" }],
+  icons: {
+    icon: [
+      { url: "/icon.svg", type: "image/svg+xml" },
+      { url: "/favicon.ico", sizes: "any" },
+    ],
+    apple: [
+      { url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" },
+    ],
+  },
+  manifest: "/manifest.json",
 };
 
 export default function RootLayout({
