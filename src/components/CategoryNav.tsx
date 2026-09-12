@@ -11,7 +11,6 @@ import {
   Layers, 
   GraduationCap, 
   Database,
-  Bookmark,
   Video,
   Newspaper
 } from 'lucide-react';
@@ -20,7 +19,6 @@ interface CategoryNavProps {
   activeTab: string;
   onSelectTab: (tab: string) => void;
   counts: Record<string, number>;
-  bookmarkCount: number;
 }
 
 const TABS = [
@@ -41,12 +39,11 @@ export const CategoryNav: React.FC<CategoryNavProps> = ({
   activeTab,
   onSelectTab,
   counts,
-  bookmarkCount,
 }) => {
   return (
     <nav className="w-full border-b border-gray-800 bg-[#0a0d12]/95 backdrop-blur-md sticky top-0 z-30 mb-6">
-      <div className="max-w-7xl mx-auto px-4 flex items-center justify-between py-2.5 gap-3">
-        <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar flex-1 min-w-0 pr-2">
+      <div className="max-w-7xl mx-auto px-3 sm:px-4 py-2 sm:py-2.5">
+        <div className="flex items-center gap-1.5 sm:gap-2 overflow-x-auto sm:flex-wrap sm:justify-center no-scrollbar py-0.5">
           {TABS.map((tab) => {
             const Icon = tab.icon;
             const isActive = activeTab === tab.id;
@@ -56,18 +53,24 @@ export const CategoryNav: React.FC<CategoryNavProps> = ({
               <button
                 key={tab.id}
                 onClick={() => onSelectTab(tab.id)}
-                className={`flex items-center gap-2 px-3 py-1.5 rounded text-xs font-mono transition-all whitespace-nowrap ${
+                className={`group flex items-center gap-1.5 sm:gap-2 px-2.5 sm:px-3 py-1.5 rounded-md text-xs sm:text-[13px] font-medium transition-all whitespace-nowrap ${
                   isActive
-                    ? 'bg-gray-800 text-white border border-cyan-500/80 shadow-sm shadow-cyan-950/40 font-bold'
-                    : 'text-gray-400 hover:text-gray-200 hover:bg-gray-900 border border-transparent'
+                    ? 'bg-cyan-950/80 text-cyan-300 border border-cyan-500/90 shadow-sm shadow-cyan-950/50 font-semibold'
+                    : 'bg-[#0f141c]/90 text-gray-300 hover:text-white hover:bg-gray-800/90 border border-gray-800/90 hover:border-gray-700'
                 }`}
               >
-                <Icon className={`w-3.5 h-3.5 ${isActive ? tab.color : 'text-gray-500'}`} />
-                <span>{tab.label}</span>
+                <Icon
+                  className={`w-3.5 h-3.5 shrink-0 transition-opacity ${
+                    isActive ? `${tab.color} opacity-100` : `${tab.color} opacity-75 group-hover:opacity-100`
+                  }`}
+                />
+                <span className="tracking-tight">{tab.label}</span>
                 {tab.id !== 'sources' && count > 0 && (
                   <span
-                    className={`text-[10px] px-1.5 py-0.2 rounded-full ${
-                      isActive ? 'bg-cyan-950 text-cyan-400 border border-cyan-800' : 'bg-gray-800 text-gray-400'
+                    className={`text-[10px] font-mono px-1.5 py-0.5 rounded-full transition-colors ${
+                      isActive
+                        ? 'bg-cyan-900/90 text-cyan-200 border border-cyan-700/80'
+                        : 'bg-gray-800 text-gray-400 border border-gray-700/60 group-hover:text-gray-300'
                     }`}
                   >
                     {count}
@@ -76,26 +79,6 @@ export const CategoryNav: React.FC<CategoryNavProps> = ({
               </button>
             );
           })}
-        </div>
-
-        {/* Bookmarks Tab */}
-        <div className="shrink-0 pl-2 border-l border-gray-800">
-          <button
-            onClick={() => onSelectTab('bookmarks')}
-            className={`flex items-center gap-1.5 px-3 py-1.5 rounded text-xs font-mono transition-all ${
-              activeTab === 'bookmarks'
-                ? 'bg-gray-800 text-white border border-cyan-500 font-bold'
-                : 'text-gray-400 hover:text-gray-200 hover:bg-gray-900 border border-transparent'
-            }`}
-          >
-            <Bookmark className={`w-3.5 h-3.5 ${activeTab === 'bookmarks' ? 'fill-cyan-400 text-cyan-400' : 'text-gray-500'}`} />
-            <span>Gemte</span>
-            {bookmarkCount > 0 && (
-              <span className="text-[10px] px-1.5 py-0.2 rounded-full bg-cyan-950 text-cyan-400 border border-cyan-800">
-                {bookmarkCount}
-              </span>
-            )}
-          </button>
         </div>
       </div>
     </nav>

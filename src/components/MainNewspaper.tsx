@@ -215,7 +215,6 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
           window.scrollTo({ top: 0, behavior: 'smooth' });
         }}
         counts={categoryCounts}
-        bookmarkCount={bookmarkedIds.length}
       />
 
       {/* Main Content Area */}
