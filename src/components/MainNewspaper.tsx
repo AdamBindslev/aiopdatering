@@ -199,6 +199,12 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
         onRefresh={handleRefresh}
         isRefreshing={isRefreshing}
         onGoHome={handleGoHome}
+        bookmarkCount={bookmarkedIds.length}
+        onSelectBookmarks={() => {
+          setActiveTab('bookmarks');
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        }}
+        isBookmarksActive={activeTab === 'bookmarks'}
       />
 
       {/* Category Navigation Bar */}

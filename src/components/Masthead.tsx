@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import { RefreshCw, Zap, Shield, Sun, Moon, Database } from 'lucide-react';
+import { RefreshCw, Zap, Shield, Sun, Moon, Database, Bookmark } from 'lucide-react';
 import { format } from 'date-fns';
 import { da } from 'date-fns/locale';
 
@@ -13,6 +13,9 @@ interface MastheadProps {
   onRefresh: () => void;
   isRefreshing: boolean;
   onGoHome?: () => void;
+  bookmarkCount?: number;
+  onSelectBookmarks?: () => void;
+  isBookmarksActive?: boolean;
 }
 
 export const Masthead: React.FC<MastheadProps> = ({
@@ -23,6 +26,9 @@ export const Masthead: React.FC<MastheadProps> = ({
   onRefresh,
   isRefreshing,
   onGoHome,
+  bookmarkCount = 0,
+  onSelectBookmarks,
+  isBookmarksActive = false,
 }) => {
   const [currentDate, setCurrentDate] = useState<string>('');
   const [isLightMode, setIsLightMode] = useState<boolean>(false);
@@ -83,6 +89,33 @@ export const Masthead: React.FC<MastheadProps> = ({
           <span className="text-gray-400 hidden lg:inline">
             OPDATERET: <strong className="text-cyan-400">{lastUpdated ? format(new Date(lastUpdated), 'HH:mm:ss') : '--:--'}</strong>
           </span>
+
+          {/* Bookmarks Button */}
+          {onSelectBookmarks && (
+            <button
+              onClick={onSelectBookmarks}
+              className={`flex items-center gap-1.5 px-2.5 py-1 rounded border transition-all active:scale-95 text-[11px] font-mono ${
+                isBookmarksActive
+                  ? 'bg-cyan-950 text-cyan-400 border-cyan-500 font-bold shadow-sm shadow-cyan-950/40'
+                  : 'bg-gray-900 hover:bg-gray-800 border-gray-700 hover:border-cyan-500 text-gray-300 hover:text-cyan-400'
+              }`}
+              title="Vis gemte artikler og læseliste"
+            >
+              <Bookmark className={`w-3 h-3 ${isBookmarksActive ? 'fill-cyan-400 text-cyan-400' : 'text-cyan-400'}`} />
+              <span>Gemte</span>
+              {bookmarkCount > 0 && (
+                <span
+                  className={`text-[10px] px-1.5 py-0.2 rounded-full font-bold ${
+                    isBookmarksActive
+                      ? 'bg-cyan-500 text-black'
+                      : 'bg-cyan-950 text-cyan-400 border border-cyan-800'
+                  }`}
+                >
+                  {bookmarkCount}
+                </span>
+              )}
+            </button>
+          )}
 
           {/* Refresh Button */}
           <button

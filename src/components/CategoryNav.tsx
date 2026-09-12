@@ -45,8 +45,8 @@ export const CategoryNav: React.FC<CategoryNavProps> = ({
 }) => {
   return (
     <nav className="w-full border-b border-gray-800 bg-[#0a0d12]/95 backdrop-blur-md sticky top-0 z-30 mb-6">
-      <div className="max-w-7xl mx-auto px-4 flex items-center justify-between overflow-x-auto no-scrollbar py-2.5 gap-2">
-        <div className="flex items-center gap-1.5 shrink-0">
+      <div className="max-w-7xl mx-auto px-4 flex items-center justify-between py-2.5 gap-3">
+        <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar flex-1 min-w-0 pr-2">
           {TABS.map((tab) => {
             const Icon = tab.icon;
             const isActive = activeTab === tab.id;
