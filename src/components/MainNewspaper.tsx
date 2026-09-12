@@ -25,31 +25,37 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
   const [selectedSource, setSelectedSource] = useState<string>('all');
   const [timeFilter, setTimeFilter] = useState<string>('all');
   const [isRefreshing, setIsRefreshing] = useState<boolean>(false);
-  const [bookmarkedIds, setBookmarkedIds] = useState<string[]>([]);
+  const [bookmarkedItems, setBookmarkedItems] = useState<FeedItem[]>([]);
   const [activeVideo, setActiveVideo] = useState<FeedItem | null>(null);
 
-  // Load bookmarks from localStorage
+  const bookmarkedIds = useMemo(() => bookmarkedItems.map((i) => i.id), [bookmarkedItems]);
+
+  // Load bookmarks from localStorage with fallback migration
   useEffect(() => {
     try {
-      const saved = localStorage.getItem('ai_opdatering_bookmarks');
-      if (saved) {
-        setBookmarkedIds(JSON.parse(saved));
+      const savedItems = localStorage.getItem('ai_opdatering_bookmarked_items');
+      if (savedItems) {
+        setBookmarkedItems(JSON.parse(savedItems));
+      } else {
+        const oldIds = localStorage.getItem('ai_opdatering_bookmarks');
+        if (oldIds) {
+          const parsedIds: string[] = JSON.parse(oldIds);
+          const matched = data.items.filter((i) => parsedIds.includes(i.id));
+          setBookmarkedItems(matched);
+        }
       }
     } catch (e) {
       console.warn('Could not read bookmarks from localStorage');
     }
-  }, []);
+  }, [data.items]);
 
   const toggleBookmark = (item: FeedItem) => {
-    setBookmarkedIds((prev) => {
-      let updated: string[];
-      if (prev.includes(item.id)) {
-        updated = prev.filter(id => id !== item.id);
-      } else {
-        updated = [...prev, item.id];
-      }
+    setBookmarkedItems((prev) => {
+      const exists = prev.some((i) => i.id === item.id);
+      const updated = exists ? prev.filter((i) => i.id !== item.id) : [item, ...prev];
       try {
-        localStorage.setItem('ai_opdatering_bookmarks', JSON.stringify(updated));
+        localStorage.setItem('ai_opdatering_bookmarked_items', JSON.stringify(updated));
+        localStorage.setItem('ai_opdatering_bookmarks', JSON.stringify(updated.map((i) => i.id)));
       } catch (e) {
         console.warn('Could not write bookmarks');
       }
@@ -121,6 +127,7 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
       labs: filteredItems.filter(i => i.category === 'labs').length,
       danish: filteredItems.filter(i => i.category === 'danish').length,
       experts: filteredItems.filter(i => i.category === 'experts').length,
+      media: filteredItems.filter(i => i.category === 'media').length,
       safety: filteredItems.filter(i => i.category === 'safety').length,
       tools: filteredItems.filter(i => i.category === 'tools').length,
       arxiv: filteredItems.filter(i => i.category === 'arxiv').length,
@@ -131,7 +138,7 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
   // Display items for the current active tab
   const tabItems = useMemo(() => {
     if (activeTab === 'bookmarks') {
-      return filteredItems.filter(i => bookmarkedIds.includes(i.id));
+      return bookmarkedItems;
     }
     if (activeTab === 'all') {
       return filteredItems;
@@ -143,7 +150,7 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
       });
     }
     return filteredItems.filter(i => i.category === activeTab);
-  }, [activeTab, filteredItems, bookmarkedIds, data.sources]);
+  }, [activeTab, filteredItems, bookmarkedItems, data.sources]);
 
   // For the 'core' broadsheet view:
   const leadArticle = tabItems[0] || null;
@@ -153,6 +160,21 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
   const expertsAndMediaItems = useMemo(() => remainingCoreItems.filter(i => i.category === 'experts' || i.category === 'media').slice(0, 6), [remainingCoreItems]);
   const danishAndSafetyItems = useMemo(() => remainingCoreItems.filter(i => i.category === 'danish' || i.category === 'safety').slice(0, 6), [remainingCoreItems]);
   const coreVideoItems = useMemo(() => filteredItems.filter(i => i.category === 'video' || i.videoId).slice(0, 3), [filteredItems]);
+
+  // Track items already rendered in top sections so they are not repeated and no category is omitted
+  const displayedItemIds = useMemo(() => {
+    const ids = new Set<string>();
+    if (leadArticle) ids.add(leadArticle.id);
+    labsItems.forEach((i) => ids.add(i.id));
+    expertsAndMediaItems.forEach((i) => ids.add(i.id));
+    danishAndSafetyItems.forEach((i) => ids.add(i.id));
+    coreVideoItems.forEach((i) => ids.add(i.id));
+    return ids;
+  }, [leadArticle, labsItems, expertsAndMediaItems, danishAndSafetyItems, coreVideoItems]);
+
+  const moreCoreItems = useMemo(() => {
+    return remainingCoreItems.filter((i) => !displayedItemIds.has(i.id)).slice(0, 18);
+  }, [remainingCoreItems, displayedItemIds]);
 
   // Reset to frontpage view
   const handleGoHome = () => {
@@ -383,11 +405,11 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
             )}
 
             {/* Bottom Section: More Stories from Core */}
-            {remainingCoreItems.length > 18 && (
+            {moreCoreItems.length > 0 && (
               <div className="mt-12 pt-6 border-t border-gray-800">
                 <h3 className="text-xl font-bold font-serif text-white mb-4">Flere opdateringer fra Kerne-kilderne</h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-                  {remainingCoreItems.slice(18, 36).map((item) => (
+                  {moreCoreItems.map((item) => (
                     item.category === 'video' || item.videoId ? (
                       <VideoCard
                         key={item.id}

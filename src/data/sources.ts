@@ -432,65 +432,8 @@ export const FEED_SOURCES: FeedSource[] = [
     description: 'Træningsmetoder, optimering, statistisk læringsteori og generalisering.',
     badgeColor: 'zinc',
   },
-
-  // 8. Video, Tutorials & Dybdegående Analyser (YouTube)
-  {
-    id: 'ai-explained',
-    name: 'AI Explained',
-    url: 'https://www.youtube.com/@ai-explained-',
-    feedUrl: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw',
-    category: 'video',
-    isCore: true,
-    language: 'en',
-    description: 'Nøgterne, dybdegående analyser af nye AI-modeller, benchmarks og fremtidsudsigter.',
-    badgeColor: 'red',
-  },
-  {
-    id: 'two-minute-papers',
-    name: 'Two Minute Papers',
-    url: 'https://www.youtube.com/@TwoMinutePapers',
-    feedUrl: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg',
-    category: 'video',
-    isCore: true,
-    language: 'en',
-    description: 'Károly Zsolnai-Fehérs hurtige og fascinerende gennemgange af de nyeste visuelle og generative AI-gennembrud.',
-    badgeColor: 'amber',
-  },
-  {
-    id: 'yannic-kilcher',
-    name: 'Yannic Kilcher',
-    url: 'https://www.youtube.com/@YannicKilcher',
-    feedUrl: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew',
-    category: 'video',
-    isCore: true,
-    language: 'en',
-    description: 'Tekniske gennemgange af de vigtigste nye AI-forskningsartikler og modellers matematiske arkitektur.',
-    badgeColor: 'rose',
-  },
-  {
-    id: 'matthew-berman',
-    name: 'Matthew Berman',
-    url: 'https://www.youtube.com/@matthew_berman',
-    feedUrl: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCaw1hx8pMtzb4pE3i8b8gvw',
-    category: 'video',
-    isCore: true,
-    language: 'en',
-    description: 'Hands-on tests af open source AI-modeller, lokale LLMs og autonome agenter.',
-    badgeColor: 'purple',
-  },
-  {
-    id: 'wes-roth',
-    name: 'Wes Roth',
-    url: 'https://www.youtube.com/@WesRoth',
-    feedUrl: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCqcbQf6yw5KzRoDDcZ_wBSw',
-    category: 'video',
-    isCore: false,
-    language: 'en',
-    description: 'Daglige analyser af AI-nyheder, teknologitendenser og selskabernes udmeldinger.',
-    badgeColor: 'cyan',
-  },
   // ==========================================
-  // 9. AI Video & YouTube Channels (29 kilder)
+  // 8. AI Video & YouTube Channels (29 kilder)
   // ==========================================
   // 1. Grundforståelse og undervisning
   {

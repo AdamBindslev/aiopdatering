@@ -1,6 +1,6 @@
 'use client';
 
-import React from 'react';
+import React, { useMemo } from 'react';
 import { Search, Filter, Clock, X } from 'lucide-react';
 import { FeedSource } from '@/types';
 
@@ -23,6 +23,10 @@ export const FilterBar: React.FC<FilterBarProps> = ({
   onTimeFilterChange,
   sources,
 }) => {
+  const sortedSources = useMemo(() => {
+    return [...sources].sort((a, b) => a.name.localeCompare(b.name, 'da'));
+  }, [sources]);
+
   return (
     <div className="bg-[#0e131b] border border-gray-800 rounded-lg p-3 sm:p-4 mb-8 flex flex-col md:flex-row items-center justify-between gap-3 font-mono text-xs">
       {/* Search Field */}
@@ -53,10 +57,10 @@ export const FilterBar: React.FC<FilterBarProps> = ({
           <select
             value={selectedSource}
             onChange={(e) => onSourceChange(e.target.value)}
-            className="bg-transparent border-none text-gray-200 focus:outline-none text-xs cursor-pointer max-w-[150px] truncate"
+            className="bg-transparent border-none text-gray-200 focus:outline-none text-xs cursor-pointer max-w-[180px] sm:max-w-[220px] truncate"
           >
-            <option value="all" className="bg-[#0e131b]">Alle kilder ({sources.length})</option>
-            {sources.map((s) => (
+            <option value="all" className="bg-[#0e131b]">Alle kilder ({sortedSources.length})</option>
+            {sortedSources.map((s) => (
               <option key={s.id} value={s.id} className="bg-[#0e131b]">
                 {s.name}
               </option>

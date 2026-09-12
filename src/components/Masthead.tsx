@@ -34,7 +34,7 @@ export const Masthead: React.FC<MastheadProps> = ({
 
     const updateTime = () => {
       const now = new Date();
-      const formattedDate = format(now, "EEEE d. MMMM yyyy • HH:mm:ss 'CET'", { locale: da });
+      const formattedDate = format(now, "EEEE d. MMMM yyyy • HH:mm:ss", { locale: da });
       setCurrentDate(formattedDate.toUpperCase());
     };
     updateTime();
@@ -61,7 +61,7 @@ export const Masthead: React.FC<MastheadProps> = ({
   };
 
   return (
-    <header className="border-b border-gray-800 bg-[#0a0d12]/95 backdrop-blur-md sticky top-0 z-40">
+    <header className="border-b border-gray-800 bg-[#0a0d12]/95 backdrop-blur-md">
       {/* Top Telemetry & Status Bar */}
       <div className="max-w-7xl mx-auto px-4 py-1.5 flex flex-wrap items-center justify-between text-[11px] font-mono text-gray-400 border-b border-gray-900">
         <div className="flex items-center gap-4">

@@ -12,7 +12,8 @@ import {
   GraduationCap, 
   Database,
   Bookmark,
-  Video
+  Video,
+  Newspaper
 } from 'lucide-react';
 
 interface CategoryNavProps {
@@ -28,6 +29,7 @@ const TABS = [
   { id: 'danish', label: 'Dansk AI', icon: Flag, color: 'text-red-400' },
   { id: 'labs', label: 'Frontier Labs', icon: Cpu, color: 'text-cyan-400' },
   { id: 'experts', label: 'Eksperter & Analyse', icon: Lightbulb, color: 'text-emerald-400' },
+  { id: 'media', label: 'Tech Medier', icon: Newspaper, color: 'text-rose-400' },
   { id: 'safety', label: 'Sikkerhed & Jura', icon: ShieldAlert, color: 'text-blue-400' },
   { id: 'tools', label: 'Værktøjer & Chips', icon: Layers, color: 'text-purple-400' },
   { id: 'all', label: 'Alle Nyheder', icon: Globe, color: 'text-gray-300' },
@@ -42,7 +44,7 @@ export const CategoryNav: React.FC<CategoryNavProps> = ({
   bookmarkCount,
 }) => {
   return (
-    <nav className="w-full border-b border-gray-800 bg-[#0a0d12]/90 backdrop-blur sticky top-[89px] z-30 mb-6">
+    <nav className="w-full border-b border-gray-800 bg-[#0a0d12]/95 backdrop-blur-md sticky top-0 z-30 mb-6">
       <div className="max-w-7xl mx-auto px-4 flex items-center justify-between overflow-x-auto no-scrollbar py-2.5 gap-2">
         <div className="flex items-center gap-1.5 shrink-0">
           {TABS.map((tab) => {

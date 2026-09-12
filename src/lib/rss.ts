@@ -56,20 +56,61 @@ function sanitizeXml(rawXml: string): string {
   return rawXml.replace(/&(?!(?:amp|lt|gt|quot|apos|#\d+|#x[0-9a-fA-F]+);)/g, '&amp;');
 }
 
-async function fetchSingleFeed(source: FeedSource): Promise<FeedItem[]> {
+const TRACKING_QUERY_PARAMS = new Set([
+  'utm_source',
+  'utm_medium',
+  'utm_campaign',
+  'utm_term',
+  'utm_content',
+  'ref',
+  'fbclid',
+  'gclid',
+  'mc_cid',
+  'mc_eid',
+  '_hsenc',
+  '_hsmi',
+]);
+
+function normalizeUrl(url: string, videoId?: string): string {
+  if (videoId) {
+    return `yt:${videoId.toLowerCase()}`;
+  }
+  try {
+    const parsed = new URL(url);
+    const keysToDelete: string[] = [];
+    parsed.searchParams.forEach((_, key) => {
+      if (TRACKING_QUERY_PARAMS.has(key.toLowerCase()) || key.toLowerCase().startsWith('utm_')) {
+        keysToDelete.push(key);
+      }
+    });
+    keysToDelete.forEach((key) => parsed.searchParams.delete(key));
+
+    let clean = `${parsed.origin}${parsed.pathname}`;
+    const search = parsed.searchParams.toString();
+    if (search) {
+      clean += `?${search}`;
+    }
+    return clean.toLowerCase().replace(/\/+$/, '');
+  } catch {
+    return url.split('?')[0].toLowerCase().replace(/\/+$/, '');
+  }
+}
+
+async function fetchSingleFeed(source: FeedSource): Promise<{ sourceId: string; items: FeedItem[] }> {
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), 8000);
+
   try {
     let feed: any = null;
 
     try {
-      const controller = new AbortController();
-      const timeoutId = setTimeout(() => controller.abort(), 8000);
       const res = await fetch(source.feedUrl, {
         headers: {
           'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 (AI-Opdatering/1.0)',
           'Accept': 'application/rss+xml, application/xml, application/atom+xml, text/xml;q=0.9, */*;q=0.8',
         },
         signal: controller.signal,
-        cache: 'no-store', // Avoid Next.js data cache 2MB per item warnings
+        cache: 'no-store',
       });
       clearTimeout(timeoutId);
 
@@ -78,15 +119,25 @@ async function fetchSingleFeed(source: FeedSource): Promise<FeedItem[]> {
         const sanitized = sanitizeXml(text);
         feed = await parser.parseString(sanitized);
       }
-    } catch (fetchErr) {
-      feed = await parser.parseURL(source.feedUrl);
+    } catch (fetchErr: any) {
+      clearTimeout(timeoutId);
+      // Only attempt parser fallback if it wasn't a network abort/timeout
+      if (fetchErr?.name !== 'AbortError') {
+        try {
+          feed = await parser.parseURL(source.feedUrl);
+        } catch {
+          // Both approaches failed
+        }
+      }
     }
 
-    if (!feed || !Array.isArray(feed.items)) return [];
+    if (!feed || !Array.isArray(feed.items)) {
+      return { sourceId: source.id, items: [] };
+    }
 
-    return feed.items.slice(0, 15).map((item: any, index: number): FeedItem => {
+    const items: FeedItem[] = feed.items.slice(0, 15).map((item: any, index: number): FeedItem => {
       const rawDate = item.isoDate || item.pubDate || item.date;
-      let dateObj = new Date();
+      let dateObj: Date | null = null;
       if (rawDate) {
         const parsed = new Date(rawDate);
         if (!isNaN(parsed.getTime())) {
@@ -110,7 +161,14 @@ async function fetchSingleFeed(source: FeedSource): Promise<FeedItem[]> {
 
       const id = `${source.id}-${guidStr}`;
       const titleStr = typeof item.title === 'string' ? item.title.trim() : 'Uden titel';
-      const linkStr = typeof item.link === 'string' ? item.link.trim() : source.url;
+
+      // Safe link extraction
+      let linkStr = source.url;
+      if (typeof item.link === 'string' && (item.link.startsWith('http://') || item.link.startsWith('https://'))) {
+        linkStr = item.link.trim();
+      } else if (item.link && typeof item.link === 'object' && typeof item.link.href === 'string') {
+        linkStr = item.link.href.trim();
+      }
 
       // Extract YouTube video ID if applicable
       let videoId: string | undefined = undefined;
@@ -148,8 +206,8 @@ async function fetchSingleFeed(source: FeedSource): Promise<FeedItem[]> {
         id,
         title: titleStr,
         link: linkStr,
-        pubDate: dateObj.toISOString(),
-        timestamp: dateObj.getTime(),
+        pubDate: dateObj ? dateObj.toISOString() : new Date(0).toISOString(),
+        timestamp: dateObj ? dateObj.getTime() : 0,
         sourceId: source.id,
         sourceName: source.name,
         category: source.category,
@@ -167,15 +225,19 @@ async function fetchSingleFeed(source: FeedSource): Promise<FeedItem[]> {
         statusType: source.statusType,
       };
     });
+
+    return { sourceId: source.id, items };
   } catch (error) {
+    clearTimeout(timeoutId);
     console.warn(`[RSS Warning] Failed to fetch feed for ${source.name} (${source.feedUrl}):`, (error as Error).message);
-    return [];
+    return { sourceId: source.id, items: [] };
   }
 }
 
 // In-memory cache for fast response
 let cachedData: FeedsResponse | null = null;
 let lastFetchTimestamp = 0;
+let inFlightFetchPromise: Promise<FeedsResponse> | null = null;
 const CACHE_TTL_MS = 1000 * 60 * 10; // 10 minutes cache
 
 export async function getAllFeeds(forceRefresh = false): Promise<FeedsResponse> {
@@ -185,43 +247,63 @@ export async function getAllFeeds(forceRefresh = false): Promise<FeedsResponse> 
     return cachedData;
   }
 
-  const results = await Promise.allSettled(FEED_SOURCES.map(source => fetchSingleFeed(source)));
-
-  const allItems: FeedItem[] = [];
-  let successfulSources = 0;
-
-  results.forEach((res) => {
-    if (res.status === 'fulfilled' && res.value.length > 0) {
-      successfulSources++;
-      allItems.push(...res.value);
-    }
-  });
-
-  // Deduplicate by URL or normalized title
-  const seenLinks = new Set<string>();
-  const uniqueItems: FeedItem[] = [];
-
-  // Sort descending by timestamp first so freshest items take priority
-  allItems.sort((a, b) => b.timestamp - a.timestamp);
-
-  for (const item of allItems) {
-    const cleanLink = item.link.split('?')[0].toLowerCase();
-    if (!seenLinks.has(cleanLink)) {
-      seenLinks.add(cleanLink);
-      uniqueItems.push(item);
-    }
+  // Deduplicate concurrent fetch requests (coalescing)
+  if (inFlightFetchPromise) {
+    return inFlightFetchPromise;
   }
 
-  const response: FeedsResponse = {
-    items: uniqueItems,
-    lastUpdated: new Date().toISOString(),
-    totalSources: FEED_SOURCES.length,
-    successfulSources,
-    sources: FEED_SOURCES,
-  };
+  inFlightFetchPromise = (async () => {
+    try {
+      // Batch fetch feeds with concurrency limit (chunks of 10) to avoid socket exhaustion
+      const BATCH_SIZE = 10;
+      const allItems: FeedItem[] = [];
+      const successfulSourceIds = new Set<string>();
 
-  cachedData = response;
-  lastFetchTimestamp = now;
+      for (let i = 0; i < FEED_SOURCES.length; i += BATCH_SIZE) {
+        const batch = FEED_SOURCES.slice(i, i + BATCH_SIZE);
+        const batchResults = await Promise.allSettled(batch.map((source) => fetchSingleFeed(source)));
 
-  return response;
+        batchResults.forEach((res) => {
+          if (res.status === 'fulfilled' && res.value.items.length > 0) {
+            successfulSourceIds.add(res.value.sourceId);
+            allItems.push(...res.value.items);
+          }
+        });
+      }
+
+      // Deduplicate items safely:
+      // Preserves distinct YouTube videos by using normalizeUrl (yt:videoId)
+      // Removes tracking params on regular URLs without destroying valid query parameters
+      const seenKeys = new Set<string>();
+      const uniqueItems: FeedItem[] = [];
+
+      // Sort descending by timestamp first so freshest items take priority
+      allItems.sort((a, b) => b.timestamp - a.timestamp);
+
+      for (const item of allItems) {
+        const dedupKey = normalizeUrl(item.link, item.videoId);
+        if (!seenKeys.has(dedupKey)) {
+          seenKeys.add(dedupKey);
+          uniqueItems.push(item);
+        }
+      }
+
+      const response: FeedsResponse = {
+        items: uniqueItems,
+        lastUpdated: new Date().toISOString(),
+        totalSources: FEED_SOURCES.length,
+        successfulSources: successfulSourceIds.size,
+        sources: FEED_SOURCES,
+      };
+
+      cachedData = response;
+      lastFetchTimestamp = Date.now();
+
+      return response;
+    } finally {
+      inFlightFetchPromise = null;
+    }
+  })();
+
+  return inFlightFetchPromise;
 }

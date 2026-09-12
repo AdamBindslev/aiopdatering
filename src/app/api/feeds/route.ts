@@ -9,7 +9,13 @@ export async function GET(request: Request) {
 
   try {
     const data = await getAllFeeds(force);
-    return NextResponse.json(data);
+    return NextResponse.json(data, {
+      headers: {
+        'Cache-Control': force
+          ? 'no-store, max-age=0'
+          : 'public, s-maxage=900, stale-while-revalidate=3600',
+      },
+    });
   } catch (error) {
     return NextResponse.json(
       { error: 'Kunne ikke hente feeds', details: (error as Error).message },
