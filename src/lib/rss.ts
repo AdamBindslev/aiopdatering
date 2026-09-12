@@ -7,6 +7,7 @@ const parser = new Parser({
     item: [
       ['yt:videoId', 'ytVideoId'],
       ['media:group', 'mediaGroup'],
+      ['category', 'rawCategory'],
     ],
   },
   headers: {
@@ -96,6 +97,205 @@ function normalizeUrl(url: string, videoId?: string): string {
   }
 }
 
+function extractCategories(item: any): string[] {
+  const cats: string[] = [];
+  if (Array.isArray(item.categories)) {
+    for (const c of item.categories) {
+      if (typeof c === 'string') cats.push(c);
+      else if (c && typeof c._ === 'string') cats.push(c._);
+      else if (c && typeof c.name === 'string') cats.push(c.name);
+    }
+  } else if (typeof item.categories === 'string') {
+    cats.push(item.categories);
+  }
+  if (typeof item.category === 'string') {
+    cats.push(item.category);
+  } else if (Array.isArray(item.category)) {
+    for (const c of item.category) {
+      if (typeof c === 'string') cats.push(c);
+      else if (c && typeof c._ === 'string') cats.push(c._);
+    }
+  }
+  if (typeof item.rawCategory === 'string') {
+    cats.push(item.rawCategory);
+  }
+  return cats;
+}
+
+const AI_KEYWORDS_REGEX = new RegExp(
+  '\\b(' +
+    [
+      // General & concepts (DA & EN)
+      'ai',
+      'a\\.i\\.',
+      'artificial intelligence',
+      'kunstig intelligens',
+      'kunstige intelligenser',
+      'maskinlæring',
+      'machine learning',
+      'deep learning',
+      'dyb læring',
+      'neuralt netværk',
+      'neurale netværk',
+      'neural network',
+      'neural networks',
+      'sprogmodel',
+      'sprogmodeller',
+      'sprogmodellen',
+      'sprogmodellerne',
+      'language model',
+      'language models',
+      'large language model',
+      'large language models',
+      'llm',
+      'llms',
+      "llm['’]er",
+      'generativ ai',
+      'generative ai',
+      'generativ kunstig intelligens',
+      'generative modeller',
+      'generative models',
+      'foundation model',
+      'foundation models',
+      'frontier model',
+      'frontier models',
+      'post-training',
+      'reinforcement learning',
+      'rlhf',
+      'transformer-model',
+      'transformer-modeller',
+      'transformers',
+      'prompt engineering',
+      'prompting',
+      'prompts',
+      'ai-agent',
+      'ai-agenter',
+      'ai agent',
+      'ai agents',
+      'autonome agenter',
+      'autonomous agents',
+      'computervision',
+      'computer vision',
+      'natural language processing',
+      'nlp',
+      'ai act',
+      'ai-forordning',
+      'ai-forordningen',
+      'ai-lov',
+      'ai-lovgivning',
+      'ai-regulering',
+      'ai-sikkerhed',
+      'ai safety',
+      'ai-etik',
+      'ai ethics',
+      'alignment',
+      'superintelligens',
+      'superintelligence',
+      'agi',
+      'asi',
+      'syntetisk data',
+      'syntetiske data',
+      'deepfake',
+      'deepfakes',
+      'copilot',
+      'copilots',
+      // Labs, tools & models
+      'chatgpt',
+      'openai',
+      'anthropic',
+      'claude',
+      'deepmind',
+      'gemini',
+      'mistral',
+      'deepseek',
+      'qwen',
+      'llama',
+      'llama-3',
+      'llama-4',
+      'gpt-3',
+      'gpt-4',
+      'gpt-4o',
+      'gpt-5',
+      'gpt-o1',
+      'gpt-o3',
+      'grok',
+      'xai',
+      'perplexity',
+      'midjourney',
+      'stable diffusion',
+      'dall-e',
+      'sora',
+      'runway',
+      'elevenlabs',
+      'hugging face',
+      'huggingface',
+      'ollama',
+      'langchain',
+      'tensorrt',
+      // Robotics & hardware
+      'robot',
+      'robotter',
+      'robotik',
+      'robotics',
+      'humanoid',
+      'humanoide',
+      'ai-chip',
+      'ai-chips',
+      'gpu-klynge',
+      'gpu-klynger',
+      'compute-klynge',
+    ].join('|') +
+  ')\\b',
+  'i'
+);
+
+function isCategoryAi(category: string): boolean {
+  const lower = category.toLowerCase().trim();
+  return (
+    lower.includes('kunstig intelligens') ||
+    lower.includes('artificial intelligence') ||
+    lower.includes('machine learning') ||
+    lower.includes('maskinlæring') ||
+    lower.includes('deep learning') ||
+    lower.includes('sprogmodel') ||
+    lower.includes('llm') ||
+    lower.includes('robot') ||
+    lower.includes('generativ') ||
+    lower === 'ai'
+  );
+}
+
+function isItemAiRelevant(
+  title: string,
+  snippet: string,
+  categories: string[],
+  customKeywords?: string[]
+): boolean {
+  // Check categories first
+  for (const cat of categories) {
+    if (isCategoryAi(cat)) {
+      return true;
+    }
+  }
+
+  // Check custom keywords if configured
+  if (customKeywords && customKeywords.length > 0) {
+    const combined = `${title} ${snippet}`.toLowerCase();
+    for (const kw of customKeywords) {
+      if (combined.includes(kw.toLowerCase())) {
+        return true;
+      }
+    }
+  }
+
+  // Check standard AI regex on title and snippet
+  if (AI_KEYWORDS_REGEX.test(title) || AI_KEYWORDS_REGEX.test(snippet)) {
+    return true;
+  }
+
+  return false;
+}
+
 async function fetchSingleFeed(source: FeedSource): Promise<{ sourceId: string; items: FeedItem[] }> {
   const controller = new AbortController();
   const timeoutId = setTimeout(() => controller.abort(), 8000);
@@ -135,7 +335,20 @@ async function fetchSingleFeed(source: FeedSource): Promise<{ sourceId: string; 
       return { sourceId: source.id, items: [] };
     }
 
-    const items: FeedItem[] = feed.items.slice(0, 15).map((item: any, index: number): FeedItem => {
+    let candidateItems = feed.items;
+
+    // Filter broad sources for AI relevance if enabled
+    if (source.filterOnlyAi) {
+      candidateItems = candidateItems.filter((item: any) => {
+        const title = typeof item.title === 'string' ? item.title : '';
+        const rawSnippet = item.contentSnippet || item.summary || item.content || '';
+        const cleanSnippet = stripHtml(typeof rawSnippet === 'string' ? rawSnippet : '');
+        const categories = extractCategories(item);
+        return isItemAiRelevant(title, cleanSnippet, categories, source.filterKeywords);
+      });
+    }
+
+    const items: FeedItem[] = candidateItems.slice(0, 15).map((item: any, index: number): FeedItem => {
       const rawDate = item.isoDate || item.pubDate || item.date;
       let dateObj: Date | null = null;
       if (rawDate) {

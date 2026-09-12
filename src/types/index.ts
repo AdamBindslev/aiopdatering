@@ -23,6 +23,9 @@ export interface FeedSource {
   description?: string;
   language: 'da' | 'en';
   badgeColor?: string;
+  // Content filtering for broad sources
+  filterOnlyAi?: boolean;
+  filterKeywords?: string[];
   // YouTube video specific metadata
   videoCategory?: string;
   videoCategories?: string[];
