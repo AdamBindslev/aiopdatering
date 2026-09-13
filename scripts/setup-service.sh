@@ -15,8 +15,8 @@ NODE_PATH="$(which node || echo "$HOME/.local/bin/node")"
 NPM_PATH="$(which npm || echo "$HOME/.local/bin/npm")"
 DIR_PATH="$(dirname "$NODE_PATH"):$(dirname "$NPM_PATH"):$HOME/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 
-# Default sync interval: 3600 seconds (1 hour). Can be changed via INTERVAL env var.
-INTERVAL="${INTERVAL:-3600}"
+# Default sync interval: 10800 seconds (3 hours). Can be changed via INTERVAL env var.
+INTERVAL="${INTERVAL:-10800}"
 
 mkdir -p "$LOGS_DIR"
 mkdir -p "$HOME/Library/LaunchAgents"

@@ -18,7 +18,7 @@ Dette vil:
 1. Registrere din lokale Node- og npm-installation (`~/.local/bin/node` m.fl.).
 2. Oprette logmappen `logs/`.
 3. Installere LaunchAgent'en i `~/Library/LaunchAgents/com.aiopdatering.syncllm.plist`.
-4. Starte servicen automatisk, så den kører i baggrunden hver time (3600 sekunder) og overlever genstart af maskinen.
+4. Starte servicen automatisk, så den kører i baggrunden hver 3. time (10800 sekunder) og overlever genstart af maskinen.
 
 ---
 
