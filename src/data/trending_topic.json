@@ -1,29 +1,29 @@
 {
-  "headline": "GPT-6 Astra udfordrer eksisterende AI-systemer",
-  "summary": "OpenAI har præsenteret GPT-6 Astra, en ny model, der viser betydelige forbedringer i rymdforståelse og overvågning af industrielle processer. Dette udfordrer eksisterende AI-systemer og kan skabe nye muligheder for lokale AI-agenter.",
-  "whyItMatters": "Denne nye model kan gøre virksomheder mindre afhængige af de store udbyderes prismodeller og skabe nye markedsopportuniteter.",
-  "synthesizedAt": "2026-09-13T17:45:53.664Z",
+  "headline": "GPT-6 Astra piloter industrielle opgaver, udfordrer eksisterende AI-modeller",
+  "summary": "GPT-6 Astra, en ny AI-modell fra OpenAI, vinder benchmarktesterne og piloter industrielle opgaver som overvågning af produktionssystemer. Dette udfordrer eksisterende modeller og indikerer, at åbne vægt-modeller kan blande sig mere dybt i industrielle processer.",
+  "whyItMatters": "Det viser, at åbne vægt-modeller kan blande sig dybt i industrielle processer, udfordrer eksisterende modeller og kan skabe nye muligheder for automatisering og effektivitet.",
+  "synthesizedAt": "2026-09-13T20:53:08.131Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=40208",
-    "title": "Nye åbne vægt search-agenter er stærkeste i sin klasse",
-    "link": "https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-09-13T12:58:18.000Z",
-    "badgeColor": "slate",
-    "angle": "Primær kilde"
+    "id": "openai-https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "title": "Perplexity-trusts GPT-6 Astra med end-to-end systemer",
+    "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "sourceName": "OpenAI News",
+    "sourceId": "openai",
+    "pubDate": "2026-09-14T00:00:00.000Z",
+    "badgeColor": "emerald",
+    "angle": "Officiel lancering"
   },
   "supportingStories": [
     {
-      "id": "openai-https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "title": "Perplexity-trusts GPT-6 Astra med end-to-end systemer",
-      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "sourceName": "OpenAI News",
-      "sourceId": "openai",
-      "pubDate": "2026-09-14T00:00:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Officiel udmelding"
+      "id": "the-decoder-https://the-decoder.com/?p=40208",
+      "title": "Nye åbne vægt search-agenter er stærkeste i sin klasse",
+      "link": "https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-13T12:58:18.000Z",
+      "badgeColor": "slate",
+      "angle": "Teknisk dybde"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=40123",
@@ -33,27 +33,16 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-09-13T10:52:16.000Z",
       "badgeColor": "slate",
-      "angle": "Pilottestresultater"
+      "angle": "Industrielle anvendelser"
     },
     {
-      "id": "openai-channel-yt:video:SiJGdlmdUms",
-      "title": "OpenAI præsenterer GPT-6 Astra, en mere selvstændig modell",
-      "link": "https://www.youtube.com/shorts/SiJGdlmdUms",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-09-12T15:00:30.000Z",
-      "badgeColor": "emerald",
-      "angle": "Teknisk præsentation"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=40181",
-      "title": "GPT-6 Astra viser 'stigningskurve' i rymdforståelse",
-      "link": "https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-09-12T14:26:09.000Z",
-      "badgeColor": "slate",
-      "angle": "Benchmarkresultater"
+      "id": "cognitive-revolution-yt:video:wqQ5kIwe1nQ",
+      "title": "AI:AM Highlights: Astra som AGI, OpenAI's Pause og Mozilla's Mythos",
+      "link": "https://www.youtube.com/watch?v=wqQ5kIwe1nQ",
+      "sourceName": "The Cognitive Revolution",
+      "sourceId": "cognitive-revolution",
+      "pubDate": "2026-09-12T15:45:14.000Z",
+      "badgeColor": "teal"
     }
   ]
 }
