@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "sync:llm": "tsx scripts/sync-llm.ts",
+    "sync:llm:push": "tsx scripts/sync-llm.ts --push",
+    "sync:llm:auto": "tsx scripts/sync-llm.ts --push --auto"
   },
   "dependencies": {
     "date-fns": "^3.6.0",
@@ -21,10 +24,12 @@
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
     "autoprefixer": "^10.4.20",
+    "dotenv": "^16.4.7",
     "eslint": "^9.0.0",
     "eslint-config-next": "^15.1.7",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.17",
+    "tsx": "^4.19.2",
     "typescript": "^5.7.3"
   }
 }

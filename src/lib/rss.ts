@@ -1,6 +1,7 @@
 import Parser from 'rss-parser';
 import { FEED_SOURCES } from '../data/sources';
-import { FeedItem, FeedSource, FeedsResponse } from '../types';
+import { FeedItem, FeedSource, FeedsResponse, EnrichedArticleData } from '../types';
+import enrichedArticlesRaw from '../data/enriched_articles.json';
 
 const parser = new Parser({
   customFields: {
@@ -72,7 +73,7 @@ const TRACKING_QUERY_PARAMS = new Set([
   '_hsmi',
 ]);
 
-function normalizeUrl(url: string, videoId?: string): string {
+export function normalizeUrl(url: string, videoId?: string): string {
   if (videoId) {
     return `yt:${videoId.toLowerCase()}`;
   }
@@ -95,6 +96,24 @@ function normalizeUrl(url: string, videoId?: string): string {
   } catch {
     return url.split('?')[0].toLowerCase().replace(/\/+$/, '');
   }
+}
+
+export function getEnrichedArticlesMap(): Record<string, EnrichedArticleData> {
+  try {
+    if (typeof window === 'undefined') {
+      // Dynamic require in server environment to always pick up newly synced articles
+      const fs = require('fs');
+      const path = require('path');
+      const filePath = path.join(process.cwd(), 'src/data/enriched_articles.json');
+      if (fs.existsSync(filePath)) {
+        const content = fs.readFileSync(filePath, 'utf-8');
+        return JSON.parse(content);
+      }
+    }
+  } catch {
+    // Fall back to bundled JSON
+  }
+  return (enrichedArticlesRaw || {}) as Record<string, EnrichedArticleData>;
 }
 
 function extractCategories(item: any): string[] {
@@ -493,10 +512,19 @@ export async function getAllFeeds(forceRefresh = false): Promise<FeedsResponse> 
       // Sort descending by timestamp first so freshest items take priority
       allItems.sort((a, b) => b.timestamp - a.timestamp);
 
+      const enrichedMap = getEnrichedArticlesMap();
+
       for (const item of allItems) {
         const dedupKey = normalizeUrl(item.link, item.videoId);
         if (!seenKeys.has(dedupKey)) {
           seenKeys.add(dedupKey);
+
+          // Check if AI enriched editorial data exists for this article
+          const aiData = enrichedMap[item.id] || enrichedMap[dedupKey] || enrichedMap[item.link];
+          if (aiData) {
+            item.ai = aiData;
+          }
+
           uniqueItems.push(item);
         }
       }

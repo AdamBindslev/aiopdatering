@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { FeedItem } from '@/types';
-import { ExternalLink, Clock, User, Bookmark } from 'lucide-react';
+import { ExternalLink, Clock, User, Bookmark, Sparkles } from 'lucide-react';
 import { formatDistanceToNow, format } from 'date-fns';
 import { da } from 'date-fns/locale';
 
@@ -47,13 +47,26 @@ export const ArticleCard: React.FC<ArticleCardProps> = ({
 
   const exactDate = format(new Date(item.pubDate), "d. MMM yyyy, HH:mm");
 
+  const hasAi = Boolean(item.ai);
+  const displayTitle = item.ai?.danishTitle || item.title;
+  const originalTitle = item.ai ? item.title : null;
+  const displaySnippet = item.ai?.danishSummary || item.snippet;
+
   if (variant === 'compact') {
     return (
       <article className="p-3 bg-[#0f141c] hover:bg-[#151c27] border border-gray-800/80 hover:border-gray-700 transition-all rounded group">
         <div className="flex items-center justify-between gap-2 text-[10px] font-mono text-gray-500 mb-1.5">
-          <span className={`px-1.5 py-0.5 rounded border text-[9px] uppercase tracking-wider font-semibold ${badgeClass}`}>
-            {item.sourceName}
-          </span>
+          <div className="flex items-center gap-1.5 flex-wrap">
+            <span className={`px-1.5 py-0.5 rounded border text-[9px] uppercase tracking-wider font-semibold ${badgeClass}`}>
+              {item.sourceName}
+            </span>
+            {hasAi && (
+              <span className="inline-flex items-center gap-0.5 px-1 py-0.2 rounded bg-cyan-950/40 border border-cyan-500/30 text-cyan-300 text-[8px] font-mono">
+                <Sparkles className="w-2 h-2 text-cyan-400" />
+                AI
+              </span>
+            )}
+          </div>
           <span title={exactDate} className="flex items-center gap-1 text-gray-400">
             <Clock className="w-2.5 h-2.5" />
             {timeAgo}
@@ -64,8 +77,9 @@ export const ArticleCard: React.FC<ArticleCardProps> = ({
           target="_blank"
           rel="noopener noreferrer"
           className="text-sm font-medium text-gray-200 group-hover:text-cyan-400 transition-colors line-clamp-2 block font-serif"
+          title={originalTitle || undefined}
         >
-          {item.title}
+          {displayTitle}
         </a>
       </article>
     );
@@ -83,6 +97,12 @@ export const ArticleCard: React.FC<ArticleCardProps> = ({
             {item.language === 'da' && (
               <span className="px-1.5 py-0.5 rounded bg-red-950/40 border border-red-800/60 text-red-400 text-[9px] font-bold">
                 DK
+              </span>
+            )}
+            {hasAi && (
+              <span className="inline-flex items-center gap-1 px-1.5 py-0.5 rounded bg-cyan-950/50 border border-cyan-500/40 text-cyan-300 text-[9px] font-mono font-semibold" title={`Beriget af lokal LLM (${item.ai?.modelUsed || 'Ollama'})`}>
+                <Sparkles className="w-2.5 h-2.5 text-cyan-400" />
+                AI Resumé
               </span>
             )}
           </div>
@@ -105,17 +125,36 @@ export const ArticleCard: React.FC<ArticleCardProps> = ({
         </div>
 
         {/* Title */}
-        <h3 className="text-base sm:text-lg font-bold text-gray-100 group-hover:text-cyan-400 transition-colors font-serif leading-snug mb-2">
+        <h3 className="text-base sm:text-lg font-bold text-gray-100 group-hover:text-cyan-400 transition-colors font-serif leading-snug mb-1">
           <a href={item.link} target="_blank" rel="noopener noreferrer" className="inline-flex items-baseline gap-1.5">
-            <span>{item.title}</span>
+            <span>{displayTitle}</span>
           </a>
         </h3>
 
-        {/* Snippet / Excerpt */}
-        {item.snippet && (
-          <p className="text-xs sm:text-sm text-gray-400 leading-relaxed font-sans line-clamp-3 mb-4">
-            {item.snippet}
+        {originalTitle && originalTitle !== displayTitle && (
+          <p className="text-[11px] font-mono text-gray-500 line-clamp-1 mb-2 italic" title={originalTitle}>
+            Orig: {originalTitle}
           </p>
+        )}
+
+        {/* Snippet / Excerpt */}
+        {displaySnippet && (
+          <p className="text-xs sm:text-sm text-gray-300 leading-relaxed font-sans line-clamp-3 mb-3">
+            {displaySnippet}
+          </p>
+        )}
+
+        {/* Why It Matters Box */}
+        {item.ai?.whyItMatters && (
+          <div className="mb-3 p-2.5 rounded bg-cyan-950/20 border border-cyan-500/20 text-xs group-hover:border-cyan-500/30 transition-colors">
+            <div className="flex items-center gap-1.5 text-cyan-400 font-mono text-[10px] font-bold uppercase tracking-wider mb-1">
+              <Sparkles className="w-3 h-3 text-cyan-400" />
+              <span>Hvorfor det er vigtigt</span>
+            </div>
+            <p className="text-gray-300 text-[11px] leading-relaxed font-sans">
+              {item.ai.whyItMatters}
+            </p>
+          </div>
         )}
       </div>
 

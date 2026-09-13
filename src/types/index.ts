@@ -36,6 +36,14 @@ export interface FeedSource {
   notes?: string;
 }
 
+export interface EnrichedArticleData {
+  danishTitle: string;
+  danishSummary: string;
+  whyItMatters: string;
+  enrichedAt: string;
+  modelUsed?: string;
+}
+
 export interface FeedItem {
   id: string;
   title: string;
@@ -58,6 +66,8 @@ export interface FeedItem {
   beginnerFriendly?: BeginnerFriendly;
   signalToNoise?: SignalToNoise;
   statusType?: StatusType;
+  // AI-enriched editorial data
+  ai?: EnrichedArticleData;
 }
 
 export interface FeedsResponse {

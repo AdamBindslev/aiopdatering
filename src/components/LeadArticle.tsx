@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { FeedItem } from '@/types';
-import { ExternalLink, Flame, Clock, User, Bookmark } from 'lucide-react';
+import { ExternalLink, Flame, Clock, User, Bookmark, Sparkles } from 'lucide-react';
 import { formatDistanceToNow, format } from 'date-fns';
 import { da } from 'date-fns/locale';
 
@@ -26,11 +26,16 @@ export const LeadArticle: React.FC<LeadArticleProps> = ({
 
   const exactDate = format(new Date(item.pubDate), "d. MMMM yyyy, 'kl.' HH:mm");
 
+  const hasAi = Boolean(item.ai);
+  const displayTitle = item.ai?.danishTitle || item.title;
+  const originalTitle = item.ai ? item.title : null;
+  const displaySnippet = item.ai?.danishSummary || item.snippet;
+
   return (
     <div className="relative border-2 border-cyan-500/40 bg-gradient-to-b from-[#0f1622] to-[#0a0e14] p-6 sm:p-8 rounded-lg shadow-xl shadow-cyan-950/20 hud-corner mb-8">
       {/* Top Banner Tag */}
       <div className="flex flex-wrap items-center justify-between gap-3 pb-4 mb-4 border-b border-gray-800">
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 flex-wrap">
           <span className="flex items-center gap-1.5 px-2.5 py-1 bg-cyan-500/10 border border-cyan-500/50 text-cyan-400 text-xs font-mono font-bold uppercase tracking-widest rounded">
             <Flame className="w-3.5 h-3.5 text-cyan-400" />
             TOPHISTORIE // LEAD STORY
@@ -41,6 +46,12 @@ export const LeadArticle: React.FC<LeadArticleProps> = ({
           {item.language === 'da' && (
             <span className="px-2 py-0.5 rounded bg-red-950/60 border border-red-700 text-red-400 text-xs font-mono font-bold">
               DANSK KILDE
+            </span>
+          )}
+          {hasAi && (
+            <span className="flex items-center gap-1 px-2.5 py-1 bg-cyan-950/60 border border-cyan-500/50 text-cyan-300 text-xs font-mono font-bold rounded" title={`Beriget af lokal LLM (${item.ai?.modelUsed || 'Ollama'})`}>
+              <Sparkles className="w-3.5 h-3.5 text-cyan-400" />
+              AI RESUMÉ
             </span>
           )}
         </div>
@@ -65,17 +76,36 @@ export const LeadArticle: React.FC<LeadArticleProps> = ({
       </div>
 
       {/* Main Headline */}
-      <h2 className="text-2xl sm:text-4xl md:text-5xl font-extrabold font-serif tracking-tight text-white hover:text-cyan-400 transition-colors leading-[1.15] mb-4">
+      <h2 className="text-2xl sm:text-4xl md:text-5xl font-extrabold font-serif tracking-tight text-white hover:text-cyan-400 transition-colors leading-[1.15] mb-2">
         <a href={item.link} target="_blank" rel="noopener noreferrer">
-          {item.title}
+          {displayTitle}
         </a>
       </h2>
 
-      {/* Excerpt / Story Body */}
-      {item.snippet && (
-        <p className="text-base sm:text-lg text-gray-300 font-sans leading-relaxed mb-6 max-w-4xl">
-          {item.snippet}
+      {originalTitle && originalTitle !== displayTitle && (
+        <p className="text-xs sm:text-sm font-mono text-gray-400 mb-4 italic" title={originalTitle}>
+          Original titel: {originalTitle}
         </p>
+      )}
+
+      {/* Excerpt / Story Body */}
+      {displaySnippet && (
+        <p className="text-base sm:text-lg text-gray-300 font-sans leading-relaxed mb-6 max-w-4xl">
+          {displaySnippet}
+        </p>
+      )}
+
+      {/* Why It Matters Box */}
+      {item.ai?.whyItMatters && (
+        <div className="mb-6 p-4 rounded-md bg-cyan-950/30 border border-cyan-500/30 max-w-4xl shadow-inner">
+          <div className="flex items-center gap-2 text-cyan-400 font-mono text-xs font-bold uppercase tracking-wider mb-1.5">
+            <Sparkles className="w-4 h-4 text-cyan-400" />
+            <span>Hvorfor det er vigtigt // Editorial Perspective</span>
+          </div>
+          <p className="text-gray-200 text-sm sm:text-base leading-relaxed font-sans">
+            {item.ai.whyItMatters}
+          </p>
+        </div>
       )}
 
       {/* Footer Info & Action */}
