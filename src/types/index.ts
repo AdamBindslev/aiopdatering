@@ -70,10 +70,32 @@ export interface FeedItem {
   ai?: EnrichedArticleData;
 }
 
+export interface SupportingStory {
+  id: string;
+  title: string;
+  link: string;
+  sourceName: string;
+  sourceId: string;
+  pubDate: string;
+  badgeColor?: string;
+  angle?: string;
+}
+
+export interface TrendingTopicData {
+  headline: string;
+  summary: string;
+  whyItMatters: string;
+  synthesizedAt: string;
+  modelUsed?: string;
+  primaryArticle: SupportingStory;
+  supportingStories: SupportingStory[];
+}
+
 export interface FeedsResponse {
   items: FeedItem[];
   lastUpdated: string;
   totalSources: number;
   successfulSources: number;
   sources: FeedSource[];
+  trendingTopic?: TrendingTopicData | null;
 }

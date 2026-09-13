@@ -7,6 +7,7 @@ import { LiveTicker } from './LiveTicker';
 import { CategoryNav } from './CategoryNav';
 import { FilterBar } from './FilterBar';
 import { LeadArticle } from './LeadArticle';
+import { TrendingStory } from './TrendingStory';
 import { ArticleCard } from './ArticleCard';
 import { VideoCard } from './VideoCard';
 import { VideoModal } from './VideoModal';
@@ -152,9 +153,24 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
     return filteredItems.filter(i => i.category === activeTab);
   }, [activeTab, filteredItems, bookmarkedItems, data.sources]);
 
+  const trendingStoryIds = useMemo(() => {
+    const ids = new Set<string>();
+    if (data.trendingTopic) {
+      if (data.trendingTopic.primaryArticle?.id) ids.add(data.trendingTopic.primaryArticle.id);
+      data.trendingTopic.supportingStories?.forEach((s) => ids.add(s.id));
+    }
+    return ids;
+  }, [data.trendingTopic]);
+
   // For the 'core' broadsheet view:
-  const leadArticle = tabItems[0] || null;
-  const remainingCoreItems = tabItems.slice(1);
+  const hasTrending = Boolean(data.trendingTopic);
+  const leadArticle = !hasTrending ? tabItems[0] || null : null;
+  const remainingCoreItems = useMemo(() => {
+    if (hasTrending) {
+      return tabItems.filter((i) => !trendingStoryIds.has(i.id));
+    }
+    return tabItems.slice(1);
+  }, [tabItems, hasTrending, trendingStoryIds]);
 
   const labsItems = useMemo(() => remainingCoreItems.filter(i => i.category === 'labs').slice(0, 6), [remainingCoreItems]);
   const expertsAndMediaItems = useMemo(() => remainingCoreItems.filter(i => i.category === 'experts' || i.category === 'media').slice(0, 6), [remainingCoreItems]);
@@ -164,13 +180,17 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
   // Track items already rendered in top sections so they are not repeated and no category is omitted
   const displayedItemIds = useMemo(() => {
     const ids = new Set<string>();
-    if (leadArticle) ids.add(leadArticle.id);
+    if (hasTrending) {
+      trendingStoryIds.forEach((id) => ids.add(id));
+    } else if (leadArticle) {
+      ids.add(leadArticle.id);
+    }
     labsItems.forEach((i) => ids.add(i.id));
     expertsAndMediaItems.forEach((i) => ids.add(i.id));
     danishAndSafetyItems.forEach((i) => ids.add(i.id));
     coreVideoItems.forEach((i) => ids.add(i.id));
     return ids;
-  }, [leadArticle, labsItems, expertsAndMediaItems, danishAndSafetyItems, coreVideoItems]);
+  }, [hasTrending, trendingStoryIds, leadArticle, labsItems, expertsAndMediaItems, danishAndSafetyItems, coreVideoItems]);
 
   const moreCoreItems = useMemo(() => {
     return remainingCoreItems.filter((i) => !displayedItemIds.has(i.id)).slice(0, 18);
@@ -289,14 +309,20 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
         ) : activeTab === 'core' && !searchQuery && selectedSource === 'all' && timeFilter === 'all' ? (
           /* View 3: Futuristic Broadsheet Front Page */
           <div>
-            {/* Lead Story */}
-            {leadArticle && (
+            {/* Lead Story: Trending Techmeme-Style Cluster or Lead Article Fallback */}
+            {data.trendingTopic ? (
+              <TrendingStory
+                trending={data.trendingTopic}
+                bookmarkedIds={bookmarkedIds}
+                onToggleBookmark={toggleBookmark}
+              />
+            ) : leadArticle ? (
               <LeadArticle
                 item={leadArticle}
                 isBookmarked={bookmarkedIds.includes(leadArticle.id)}
                 onToggleBookmark={toggleBookmark}
               />
-            )}
+            ) : null}
 
             {/* 3-Column Newspaper Broadsheet Grid */}
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 pt-4 border-t border-gray-800">

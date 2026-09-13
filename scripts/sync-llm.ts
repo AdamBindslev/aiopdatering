@@ -3,7 +3,7 @@ import path from 'path';
 import { execSync } from 'child_process';
 import dotenv from 'dotenv';
 import { getAllFeeds, normalizeUrl } from '../src/lib/rss';
-import { FeedItem, EnrichedArticleData } from '../src/types';
+import { FeedItem, EnrichedArticleData, TrendingTopicData, SupportingStory } from '../src/types';
 
 // Load environment variables (.env.local first, then .env)
 dotenv.config({ path: path.join(process.cwd(), '.env.local') });
@@ -19,7 +19,17 @@ interface EnrichedJsonPayload {
   whyItMatters?: string;
 }
 
+interface TrendingJsonPayload {
+  headline?: string;
+  summary?: string;
+  whyItMatters?: string;
+  primaryArticleIndex?: number;
+  supportingArticleIndices?: number[];
+  angles?: Record<string, string>;
+}
+
 const DATA_FILE_PATH = path.join(process.cwd(), 'src/data/enriched_articles.json');
+const TRENDING_DATA_PATH = path.join(process.cwd(), 'src/data/trending_topic.json');
 const OLLAMA_HOST = process.env.OLLAMA_HOST || 'http://127.0.0.1:11434';
 const DEFAULT_MODEL = process.env.OLLAMA_MODEL || 'qwen2.5:7b';
 
@@ -85,6 +95,14 @@ function saveEnrichedMap(map: Record<string, EnrichedArticleData>) {
     fs.mkdirSync(dir, { recursive: true });
   }
   fs.writeFileSync(DATA_FILE_PATH, JSON.stringify(map, null, 2), 'utf-8');
+}
+
+function saveTrendingTopic(data: TrendingTopicData) {
+  const dir = path.dirname(TRENDING_DATA_PATH);
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
+  }
+  fs.writeFileSync(TRENDING_DATA_PATH, JSON.stringify(data, null, 2), 'utf-8');
 }
 
 async function callOllama(
@@ -158,19 +176,168 @@ Link: ${article.link}`;
   }
 }
 
+async function synthesizeTrendingTopic(
+  model: string,
+  allItems: FeedItem[],
+  enrichedMap: Record<string, EnrichedArticleData>
+): Promise<TrendingTopicData | null> {
+  const now = Date.now();
+  const cutoff = now - 48 * 60 * 60 * 1000;
+  const recentItems = allItems.filter((i) => i.timestamp >= cutoff);
+  const pool = (recentItems.length >= 10 ? recentItems : allItems).slice(0, 30);
+
+  if (pool.length === 0) {
+    log(`⚠️ Ikke nok artikler til at danne en syntese for tophistorien.`);
+    return null;
+  }
+
+  const lines: string[] = [];
+  pool.forEach((item, idx) => {
+    const dedupKey = normalizeUrl(item.link, item.videoId);
+    const enriched = enrichedMap[item.id] || enrichedMap[dedupKey] || enrichedMap[item.link] || item.ai;
+    const title = enriched?.danishTitle || item.title;
+    const desc = enriched?.danishSummary || item.snippet || '';
+    const cleanSnippet = desc.replace(/\s+/g, ' ').substring(0, 150);
+    lines.push(`[${idx}] Kilde: ${item.sourceName} | Titel: "${title}" | Resumé: ${cleanSnippet}`);
+  });
+
+  const systemPrompt = `Du er chefredaktør for 'AI Opdatering'.
+Din opgave er at identificere det vigtigste emne eller den mest afgørende nyhedsbegivenhed lige nu blandt de seneste artikler og skabe en samlet redaktionel syntese (Techmeme-stil).
+
+Du skal analysere artikellisten og vælge det emne, der har størst betydning eller omtale.
+Du SKAL svare udelukkende med et gyldigt JSON-objekt med præcis disse felter:
+- "headline": En skarp, fængende og præcis overskrift på fejlfrit dansk, der indkapsler historien/trenden.
+- "summary": Et præcist resumé på 2-3 velskrevne sætninger på dansk, der syntetiserer hvad der sker og hvorfor det er i fokus.
+- "whyItMatters": 1-2 skarpe sætninger på dansk om "Hvorfor det er vigtigt" (konsekvensen for AI-branchen, udviklere eller samfundet).
+- "primaryArticleIndex": Indeksnummeret (heltal, f.eks. 0) for den primære kilde eller hovedartikel.
+- "supportingArticleIndices": Et array af 2-4 indeksnumre (heltal, f.eks. [1, 3]) på andre artikler fra listen, der belyser samme emne eller tilgrænsende vinkler.
+- "angles": Et objekt hvor hver nøgle er et indeks som tekst ("0", "1"...), og værdien er en ultrakort vinkel-label på dansk (maks 2-3 ord, f.eks. "Officiel udmelding", "Teknisk analyse", "Kritik & debat", "Hands-on test").
+
+Eksempel på format:
+{
+  "headline": "Åbne ræsonneringsmodeller presser tech-giganterne",
+  "summary": "Nye open weight-modeller leverer ræsonneringsevner tæt på de førende lukkede systemer. Dette sætter gang i en ny bølge af lokale AI-agenter og udfordrer de store udbyderes prismodeller.",
+  "whyItMatters": "Det demokratiserer adgangen til avanceret AI og gør virksomheder mindre afhængige af lukkede platforme.",
+  "primaryArticleIndex": 0,
+  "supportingArticleIndices": [2, 5],
+  "angles": {
+    "0": "Officiel lancering",
+    "2": "Teknisk dybde",
+    "5": "Brancheanalyse"
+  }
+}`;
+
+  const userContent = `Her er de seneste kandidatartikler:\n\n${lines.join('\n')}\n\nIdentificer det vigtigste emne lige nu og returner JSON-syntesen.`;
+
+  try {
+    const res = await fetch(`${OLLAMA_HOST}/api/chat`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        model,
+        messages: [
+          { role: 'system', content: systemPrompt },
+          { role: 'user', content: userContent },
+        ],
+        stream: false,
+        format: 'json',
+        options: {
+          temperature: 0.3,
+        },
+      }),
+      signal: AbortSignal.timeout(60000),
+    });
+
+    if (!res.ok) {
+      errorLog(`Ollama fejl (${res.status}) ved syntese af toptema`);
+      return null;
+    }
+
+    const data: any = await res.json();
+    const content = data.message?.content || '';
+
+    let cleanJson = content.trim();
+    if (cleanJson.startsWith('```')) {
+      cleanJson = cleanJson.replace(/^```json\s*/i, '').replace(/^```\s*/, '').replace(/\s*```$/, '');
+    }
+
+    const parsed: TrendingJsonPayload = JSON.parse(cleanJson);
+    if (!parsed.headline || !parsed.summary || typeof parsed.primaryArticleIndex !== 'number') {
+      log(`⚠️ Ufuldstændigt svar fra LLM for trending topic.`);
+      return null;
+    }
+
+    const primaryRaw = pool[parsed.primaryArticleIndex] || pool[0];
+    const primaryEnriched = enrichedMap[primaryRaw.id] || enrichedMap[normalizeUrl(primaryRaw.link, primaryRaw.videoId)] || enrichedMap[primaryRaw.link] || primaryRaw.ai;
+
+    const primaryArticle: SupportingStory = {
+      id: primaryRaw.id,
+      title: primaryEnriched?.danishTitle || primaryRaw.title,
+      link: primaryRaw.link,
+      sourceName: primaryRaw.sourceName,
+      sourceId: primaryRaw.sourceId,
+      pubDate: primaryRaw.pubDate,
+      badgeColor: primaryRaw.badgeColor,
+      angle: parsed.angles?.[String(parsed.primaryArticleIndex)] || 'Primær kilde',
+    };
+
+    const supportingStories: SupportingStory[] = [];
+    const usedIds = new Set<string>([primaryArticle.id]);
+
+    if (Array.isArray(parsed.supportingArticleIndices)) {
+      for (const idx of parsed.supportingArticleIndices) {
+        if (typeof idx === 'number' && pool[idx]) {
+          const rawItem = pool[idx];
+          if (!usedIds.has(rawItem.id)) {
+            usedIds.add(rawItem.id);
+            const enriched = enrichedMap[rawItem.id] || enrichedMap[normalizeUrl(rawItem.link, rawItem.videoId)] || enrichedMap[rawItem.link] || rawItem.ai;
+            supportingStories.push({
+              id: rawItem.id,
+              title: enriched?.danishTitle || rawItem.title,
+              link: rawItem.link,
+              sourceName: rawItem.sourceName,
+              sourceId: rawItem.sourceId,
+              pubDate: rawItem.pubDate,
+              badgeColor: rawItem.badgeColor,
+              angle: parsed.angles?.[String(idx)] || undefined,
+            });
+          }
+        }
+      }
+    }
+
+    const trendingTopic: TrendingTopicData = {
+      headline: parsed.headline.trim(),
+      summary: parsed.summary.trim(),
+      whyItMatters: (parsed.whyItMatters || '').trim(),
+      synthesizedAt: new Date().toISOString(),
+      modelUsed: model,
+      primaryArticle,
+      supportingStories,
+    };
+
+    saveTrendingTopic(trendingTopic);
+    log(`✅ Toptema-syntese fuldført: "${trendingTopic.headline}" (${supportingStories.length} understøttende kilder)`);
+    return trendingTopic;
+  } catch (err: any) {
+    errorLog(`Fejl under syntese af toptema: ${err.message}`);
+    return null;
+  }
+}
+
 async function runGitSync() {
   try {
     log(`Kører Git-synkronisering mod fjernlager...`);
-    const status = execSync('git status --porcelain src/data/enriched_articles.json', { encoding: 'utf-8' }).trim();
+    const status = execSync('git status --porcelain src/data/enriched_articles.json src/data/trending_topic.json', { encoding: 'utf-8' }).trim();
     if (!status) {
-      log(`Ingen ændringer i enriched_articles.json - skipper git commit/push.`);
+      log(`Ingen ændringer i JSON-datafiler - skipper git commit/push.`);
       return;
     }
 
-    execSync('git add src/data/enriched_articles.json', { stdio: 'pipe' });
+    execSync('git add src/data/enriched_articles.json src/data/trending_topic.json', { stdio: 'pipe' });
     const count = Object.keys(loadEnrichedMap()).length;
-    execSync(`git commit -m "chore(feeds): opdater AI-resuméer (${count} artikler) [skip ci]"`, { stdio: 'pipe' });
-    log(`Artikler committet. Pusher til GitHub...`);
+    execSync(`git commit -m "chore(feeds): opdater AI-resuméer (${count} artikler) og toptema [skip ci]"`, { stdio: 'pipe' });
+    log(`Artikler og toptema committet. Pusher til GitHub...`);
     execSync('git push', { stdio: 'pipe' });
     log(`✅ Git push fuldført! Vercel opdateres automatisk.`);
   } catch (gitErr: any) {
@@ -246,8 +413,10 @@ async function main() {
   log(`Fandt ${candidates.length} nye artikler der skal beriges af LLM (loft: ${limit}).`);
 
   if (candidates.length === 0) {
-    log(`Alt er opdateret! Ingen nye artikler mangler AI-resumé.`);
-    if (shouldPush) await runGitSync();
+    log(`Ingen nye artikler mangler individuelt AI-resumé.`);
+    log(`Opdaterer redaktionel toptema-syntese for "Det er vigtigt lige nu"...`);
+    await synthesizeTrendingTopic(activeModel, items, enrichedMap);
+    if (shouldPush || isAuto) await runGitSync();
     return;
   }
 
@@ -284,11 +453,13 @@ async function main() {
 
   log(`Færdig! ${successCount} af ${candidates.length} artikler blev beriget og gemt i src/data/enriched_articles.json.`);
 
-  // 7. Git commit & push if requested
+  // 7. Synthesize 'Det er vigtigt lige nu' (Techmeme-style Lead Topic Cluster)
+  log(`Genererer redaktionel syntese for "Det er vigtigt lige nu"...`);
+  await synthesizeTrendingTopic(activeModel, items, enrichedMap);
+
+  // 8. Git commit & push if requested
   if (shouldPush || isAuto) {
-    if (successCount > 0) {
-      await runGitSync();
-    }
+    await runGitSync();
   }
 }
 

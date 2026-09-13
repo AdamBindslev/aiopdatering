@@ -1,7 +1,8 @@
 import Parser from 'rss-parser';
 import { FEED_SOURCES } from '../data/sources';
-import { FeedItem, FeedSource, FeedsResponse, EnrichedArticleData } from '../types';
+import { FeedItem, FeedSource, FeedsResponse, EnrichedArticleData, TrendingTopicData } from '../types';
 import enrichedArticlesRaw from '../data/enriched_articles.json';
+import trendingTopicRaw from '../data/trending_topic.json';
 
 const parser = new Parser({
   customFields: {
@@ -114,6 +115,29 @@ export function getEnrichedArticlesMap(): Record<string, EnrichedArticleData> {
     // Fall back to bundled JSON
   }
   return (enrichedArticlesRaw || {}) as Record<string, EnrichedArticleData>;
+}
+
+export function getTrendingTopic(): TrendingTopicData | null {
+  try {
+    if (typeof window === 'undefined') {
+      const fs = require('fs');
+      const path = require('path');
+      const filePath = path.join(process.cwd(), 'src/data/trending_topic.json');
+      if (fs.existsSync(filePath)) {
+        const content = fs.readFileSync(filePath, 'utf-8');
+        const parsed = JSON.parse(content);
+        if (parsed && parsed.headline && parsed.summary) {
+          return parsed;
+        }
+      }
+    }
+  } catch {
+    // Fall back to bundled JSON
+  }
+  if (trendingTopicRaw && (trendingTopicRaw as any).headline) {
+    return trendingTopicRaw as TrendingTopicData;
+  }
+  return null;
 }
 
 function extractCategories(item: any): string[] {
@@ -535,6 +559,7 @@ export async function getAllFeeds(forceRefresh = false): Promise<FeedsResponse> 
         totalSources: FEED_SOURCES.length,
         successfulSources: successfulSourceIds.size,
         sources: FEED_SOURCES,
+        trendingTopic: getTrendingTopic(),
       };
 
       cachedData = response;

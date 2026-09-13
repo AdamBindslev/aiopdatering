@@ -1,0 +1,49 @@
+{
+  "headline": "Åbne søge- og ræsonneringsagenter udfordrer de etablerede AI-platforme",
+  "summary": "En række nye modeller med åbne vægte – anført af optimerede søgeagenter bygget på Qwen og nye multimodale systemer – overgår nu etablerede lukkede løsninger på specifikke benchmarks. Samtidig accelererer udrulningen af AI-værktøjer til produktion, hvilket øger presset på global AI-regulering.",
+  "whyItMatters": "Udviklingen gør avancerede autonome agenter og specialiserede modeller tilgængelige for udviklere og virksomheder til en brøkdel af de traditionelle API-omkostninger, uden afhængighed af enkelte tech-giganter.",
+  "synthesizedAt": "2026-09-13T14:30:00.000Z",
+  "modelUsed": "qwen2.5:7b",
+  "primaryArticle": {
+    "id": "the-decoder-https://the-decoder.com/?p=40208",
+    "title": "Nye åbne vægt search-agenter er stærkeste i sin klasse",
+    "link": "https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-09-13T12:00:00.000Z",
+    "badgeColor": "cyan",
+    "angle": "Gennembrud i åben AI"
+  },
+  "supportingStories": [
+    {
+      "id": "openai-https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "title": "Perplexity anvender avancerede ræsonneringsmodeller i drift",
+      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "sourceName": "OpenAI",
+      "sourceId": "openai",
+      "pubDate": "2026-09-13T10:30:00.000Z",
+      "badgeColor": "purple",
+      "angle": "Produktions-implementering"
+    },
+    {
+      "id": "tech-policy-press-https://techpolicy.press/ai-governance-reaches-crisis-point-ahead-of-trumpxi-summit",
+      "title": "AI-reguleringen når kritisk punkt før internationalt topmøde",
+      "link": "https://techpolicy.press/ai-governance-reaches-crisis-point-ahead-of-trumpxi-summit",
+      "sourceName": "Tech Policy Press",
+      "sourceId": "tech-policy-press",
+      "pubDate": "2026-09-13T09:15:00.000Z",
+      "badgeColor": "red",
+      "angle": "Regulering & geopolitik"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=40216",
+      "title": "ElevenLabs lancerer Music v2.5 trænet udelukkende på licenseret materiale",
+      "link": "https://the-decoder.com/elevenlabs-makes-music-v2-5-available-via-app-and-api-with-free-and-pro-tier-options/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-13T08:00:00.000Z",
+      "badgeColor": "cyan",
+      "angle": "Multimodal udvikling"
+    }
+  ]
+}
