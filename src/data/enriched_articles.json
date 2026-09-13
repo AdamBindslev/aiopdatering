@@ -859,5 +859,68 @@
     "whyItMatters": "Det er vigtigt, fordi det påpeger potentielle risici i superintelligensudvikling og kan påvirke debatten om sikkerhed og regulering i AI-branchen.",
     "enrichedAt": "2026-09-13T14:41:26.274Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-9da22a53a45cf214e154c67bafd0a4bd7eefa26b": {
+    "danishTitle": "AWS introducerer dublerende overvågningsmetoder for produktionsagenter",
+    "danishSummary": "AWS har i denne artikel præsenteret en ny approache til overvågning af produktionsagenter ved hjælp af Amazon Bedrock AgentCore Evaluations og AWS DevOps Agent. Metoden giver kontinuerlig kvalitetsvurdering og automatisk overvågning, der kan forbedre systemets robusthed og effektivitet.",
+    "whyItMatters": "Dette nye overvågningssystem er vigtigt for AI-branchen, da det hjælper med at identificere og korrigere fejl i agenter i realtid, hvilket kan forhindre katastrofale fejl i multi-agent systems og øge den generelle sikkerhed og tillid til AI-systemer.",
+    "enrichedAt": "2026-09-13T14:41:43.818Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations": {
+    "danishTitle": "AWS introducerer dublerende overvågningsmetoder for produktionsagenter",
+    "danishSummary": "AWS har i denne artikel præsenteret en ny approache til overvågning af produktionsagenter ved hjælp af Amazon Bedrock AgentCore Evaluations og AWS DevOps Agent. Metoden giver kontinuerlig kvalitetsvurdering og automatisk overvågning, der kan forbedre systemets robusthed og effektivitet.",
+    "whyItMatters": "Dette nye overvågningssystem er vigtigt for AI-branchen, da det hjælper med at identificere og korrigere fejl i agenter i realtid, hvilket kan forhindre katastrofale fejl i multi-agent systems og øge den generelle sikkerhed og tillid til AI-systemer.",
+    "enrichedAt": "2026-09-13T14:41:43.818Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/": {
+    "danishTitle": "AWS introducerer dublerende overvågningsmetoder for produktionsagenter",
+    "danishSummary": "AWS har i denne artikel præsenteret en ny approache til overvågning af produktionsagenter ved hjælp af Amazon Bedrock AgentCore Evaluations og AWS DevOps Agent. Metoden giver kontinuerlig kvalitetsvurdering og automatisk overvågning, der kan forbedre systemets robusthed og effektivitet.",
+    "whyItMatters": "Dette nye overvågningssystem er vigtigt for AI-branchen, da det hjælper med at identificere og korrigere fejl i agenter i realtid, hvilket kan forhindre katastrofale fejl i multi-agent systems og øge den generelle sikkerhed og tillid til AI-systemer.",
+    "enrichedAt": "2026-09-13T14:41:43.818Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-4fe7cafaba3f92f547e3e291a89c2e4e2100f953": {
+    "danishTitle": "Hiba: Vælg den rigtige OpenAI-model på Amazon Bedrock baseret på resultater, ikke priser per token",
+    "danishSummary": "AWS har præsenteret en ny benchmarkingsværktøjskasse til at overveje OpenAI-modeller på Amazon Bedrock. Værktøjet mærker ikke bare priserne per million tokens, men også prisen pr. korrekt svar og agenttrajectkostninger, hvilket giver en mere præcise vurdering af modellens effektivitet i produktionsmiljøer.",
+    "whyItMatters": "Denne ny metode giver virksomheder en mere præcise måde at vælge den rigtige OpenAI-model, hvilket kan resultere i bedre resultater og effektivitet i deres AI-projekter, uanset priserne per token.",
+    "enrichedAt": "2026-09-13T14:42:01.887Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload": {
+    "danishTitle": "Hiba: Vælg den rigtige OpenAI-model på Amazon Bedrock baseret på resultater, ikke priser per token",
+    "danishSummary": "AWS har præsenteret en ny benchmarkingsværktøjskasse til at overveje OpenAI-modeller på Amazon Bedrock. Værktøjet mærker ikke bare priserne per million tokens, men også prisen pr. korrekt svar og agenttrajectkostninger, hvilket giver en mere præcise vurdering af modellens effektivitet i produktionsmiljøer.",
+    "whyItMatters": "Denne ny metode giver virksomheder en mere præcise måde at vælge den rigtige OpenAI-model, hvilket kan resultere i bedre resultater og effektivitet i deres AI-projekter, uanset priserne per token.",
+    "enrichedAt": "2026-09-13T14:42:01.887Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/": {
+    "danishTitle": "Hiba: Vælg den rigtige OpenAI-model på Amazon Bedrock baseret på resultater, ikke priser per token",
+    "danishSummary": "AWS har præsenteret en ny benchmarkingsværktøjskasse til at overveje OpenAI-modeller på Amazon Bedrock. Værktøjet mærker ikke bare priserne per million tokens, men også prisen pr. korrekt svar og agenttrajectkostninger, hvilket giver en mere præcise vurdering af modellens effektivitet i produktionsmiljøer.",
+    "whyItMatters": "Denne ny metode giver virksomheder en mere præcise måde at vælge den rigtige OpenAI-model, hvilket kan resultere i bedre resultater og effektivitet i deres AI-projekter, uanset priserne per token.",
+    "enrichedAt": "2026-09-13T14:42:01.887Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-1b81a239f751889181ea1d02ab731440b400b140": {
+    "danishTitle": "Amazon Bedrock AgentCore tilbyder interaktive opslagsmuligheder for MCP Apps",
+    "danishSummary": "AWS har introduceret Amazon Bedrock AgentCore, en platform der gør det muligt at oprette og deploye interaktive MCP Apps med HTML widgets. Dette giver udviklere mulighed for at skabe brugervennelige applikationer, der kan fungere over flere AI-virker, inklusive ChatGPT og Claude.",
+    "whyItMatters": "Amazon Bedrock AgentCore giver en standardiseret løsning, der kan forbedre brugervenlighed og interoperabilitet i AI-applikationer, hvilket er vigtigt for at opnå mere sammenhængende og effektive brugerværktøjer i den AI-branchen.",
+    "enrichedAt": "2026-09-13T14:42:17.822Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore": {
+    "danishTitle": "Amazon Bedrock AgentCore tilbyder interaktive opslagsmuligheder for MCP Apps",
+    "danishSummary": "AWS har introduceret Amazon Bedrock AgentCore, en platform der gør det muligt at oprette og deploye interaktive MCP Apps med HTML widgets. Dette giver udviklere mulighed for at skabe brugervennelige applikationer, der kan fungere over flere AI-virker, inklusive ChatGPT og Claude.",
+    "whyItMatters": "Amazon Bedrock AgentCore giver en standardiseret løsning, der kan forbedre brugervenlighed og interoperabilitet i AI-applikationer, hvilket er vigtigt for at opnå mere sammenhængende og effektive brugerværktøjer i den AI-branchen.",
+    "enrichedAt": "2026-09-13T14:42:17.822Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/": {
+    "danishTitle": "Amazon Bedrock AgentCore tilbyder interaktive opslagsmuligheder for MCP Apps",
+    "danishSummary": "AWS har introduceret Amazon Bedrock AgentCore, en platform der gør det muligt at oprette og deploye interaktive MCP Apps med HTML widgets. Dette giver udviklere mulighed for at skabe brugervennelige applikationer, der kan fungere over flere AI-virker, inklusive ChatGPT og Claude.",
+    "whyItMatters": "Amazon Bedrock AgentCore giver en standardiseret løsning, der kan forbedre brugervenlighed og interoperabilitet i AI-applikationer, hvilket er vigtigt for at opnå mere sammenhængende og effektive brugerværktøjer i den AI-branchen.",
+    "enrichedAt": "2026-09-13T14:42:17.822Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }
