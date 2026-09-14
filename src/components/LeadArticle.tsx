@@ -26,10 +26,10 @@ export const LeadArticle: React.FC<LeadArticleProps> = ({
 
   const exactDate = format(new Date(item.pubDate), "MMMM d, yyyy, 'at' HH:mm");
 
-  const hasAi = Boolean(item.ai);
-  const displayTitle = item.ai?.title || item.ai?.danishTitle || item.title;
-  const originalTitle = item.ai ? item.title : null;
-  const displaySnippet = item.ai?.summary || item.ai?.danishSummary || item.snippet;
+  const hasAi = Boolean(item.ai?.title);
+  const displayTitle = item.ai?.title || item.title;
+  const originalTitle = item.ai?.title && item.ai.title !== item.title ? item.title : null;
+  const displaySnippet = item.ai?.summary || item.snippet;
 
   return (
     <div className="relative border-2 border-cyan-500/40 bg-gradient-to-b from-[#0f1622] to-[#0a0e14] p-6 sm:p-8 rounded-lg shadow-xl shadow-cyan-950/20 hud-corner mb-8">
@@ -96,7 +96,7 @@ export const LeadArticle: React.FC<LeadArticleProps> = ({
       )}
 
       {/* Why It Matters Box */}
-      {item.ai?.whyItMatters && (
+      {item.ai?.title && item.ai?.whyItMatters && (
         <div className="mb-6 p-4 rounded-md bg-cyan-950/30 border border-cyan-500/30 max-w-4xl shadow-inner">
           <div className="flex items-center gap-2 text-cyan-400 font-mono text-xs font-bold uppercase tracking-wider mb-1.5">
             <Sparkles className="w-4 h-4 text-cyan-400" />

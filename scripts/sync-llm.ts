@@ -410,7 +410,8 @@ async function main() {
     if (candidates.length >= limit) break;
 
     const dedupKey = normalizeUrl(item.link, item.videoId);
-    const alreadyEnriched = !isForce && (existingKeys.has(item.id) || existingKeys.has(dedupKey) || existingKeys.has(item.link));
+    const existing = enrichedMap[item.id] || enrichedMap[dedupKey] || enrichedMap[item.link];
+    const alreadyEnriched = !isForce && Boolean(existing && existing.title);
 
     if (!alreadyEnriched) {
       // Prioritize articles within 48h, or include if we have few candidates

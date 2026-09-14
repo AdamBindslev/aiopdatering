@@ -47,10 +47,10 @@ export const ArticleCard: React.FC<ArticleCardProps> = ({
 
   const exactDate = format(new Date(item.pubDate), "MMM d, yyyy, HH:mm");
 
-  const hasAi = Boolean(item.ai);
-  const displayTitle = item.ai?.title || item.ai?.danishTitle || item.title;
-  const originalTitle = item.ai ? item.title : null;
-  const displaySnippet = item.ai?.summary || item.ai?.danishSummary || item.snippet;
+  const hasAi = Boolean(item.ai?.title);
+  const displayTitle = item.ai?.title || item.title;
+  const originalTitle = item.ai?.title && item.ai.title !== item.title ? item.title : null;
+  const displaySnippet = item.ai?.summary || item.snippet;
 
   if (variant === 'compact') {
     return (
@@ -145,7 +145,7 @@ export const ArticleCard: React.FC<ArticleCardProps> = ({
         )}
 
         {/* Why It Matters Box */}
-        {item.ai?.whyItMatters && (
+        {item.ai?.title && item.ai?.whyItMatters && (
           <div className="mb-3 p-2.5 rounded bg-cyan-950/20 border border-cyan-500/20 text-xs group-hover:border-cyan-500/30 transition-colors">
             <div className="flex items-center gap-1.5 text-cyan-400 font-mono text-[10px] font-bold uppercase tracking-wider mb-1">
               <Sparkles className="w-3 h-3 text-cyan-400" />

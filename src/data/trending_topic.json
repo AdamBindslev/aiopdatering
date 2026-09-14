@@ -1,49 +1,48 @@
 {
-  "headline": "The AI Industry's 'Doomer Turn': Frontier Labs Debate Slowing the Pace",
-  "summary": "MIT Technology Review reports that leading AI executives and safety researchers are increasingly questioning the breakneck speed of frontier model development. Sparked by Anthropic CEO Dario Amodei's call to 'pace the frontier,' industry leaders are openly debating whether catastrophic safety, biosecurity, and national security risks warrant a more measured trajectory.",
-  "whyItMatters": "A strategic pivot by frontier lab leadership could accelerate international AI safety standards and alter the timeline for next-generation frontier deployments.",
-  "synthesizedAt": "2026-09-14T20:15:00.000Z",
-  "modelUsed": "qwen2.5:7b (editorial)",
+  "headline": "AI Industry Leaders Call for Caution Amid Rapid Development",
+  "summary": "Top AI experts are advocating for more cautious approaches in the field, emphasizing safety measures. This shift could lead to improved ethical standards and more responsible AI deployment, addressing growing concerns about the rapid development of AI technologies.",
+  "whyItMatters": "It highlights the need for ethical considerations and regulatory frameworks in AI development, which could influence future AI projects and policies.",
+  "synthesizedAt": "2026-09-14T20:29:45.213Z",
+  "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "mit-tech-review-https://www.technologyreview.com/?p=1144048",
-    "title": "The AI Industry Has Taken a Doomer Turn: What Now?",
-    "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-    "sourceName": "MIT Technology Review",
-    "sourceId": "mit-tech-review",
-    "pubDate": "2026-09-14T17:54:22.000Z",
-    "badgeColor": "red",
+    "id": "ars-technica-https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+    "title": "AI Industry Leaders Call for Caution Amid Rapid Development",
+    "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+    "sourceName": "Ars Technica – AI",
+    "sourceId": "ars-technica",
+    "pubDate": "2026-09-14T19:06:13.000Z",
+    "badgeColor": "orange",
     "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "latent-space-https://www.latent.space/p/recursive",
-      "title": "Richard Socher's New Startup Tackles Recursive Self-Improvement",
-      "link": "https://www.latent.space/p/recursive",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-09-14T16:04:16.000Z",
-      "badgeColor": "pink",
-      "angle": "Founder Perspective"
+      "id": "mit-tech-review-https://www.technologyreview.com/?p=1144048",
+      "title": "The AI Industry Has Taken a Doomer Turn: What Now?",
+      "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "sourceName": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "pubDate": "2026-09-14T17:54:22.000Z",
+      "badgeColor": "red",
+      "angle": "Industry Trend"
     },
     {
-      "id": "the-zvi-https://thezvi.substack.com/p/we-must-pace-the-frontier",
-      "title": "Dario Amodei's Call to 'Pace the Frontier'",
-      "link": "https://thezvi.substack.com/p/we-must-pace-the-frontier",
-      "sourceName": "Don't Worry About the Vase (Zvi)",
-      "sourceId": "the-zvi",
-      "pubDate": "2026-09-14T15:21:57.000Z",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3163598",
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-09-14T16:27:53.000Z",
       "badgeColor": "emerald",
-      "angle": "Strategic Analysis"
+      "angle": "Code of Conduct"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40223",
-      "title": "China Pushes Back Against U.S. AI Safety Warnings as Fearmongering",
-      "link": "https://the-decoder.com/china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage/",
+      "id": "the-decoder-https://the-decoder.com/?p=40233",
+      "title": "Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights",
+      "link": "https://the-decoder.com/microsofts-ai-rulebook-readable-thinking-no-inner-life-and-definitely-no-rights/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-09-14T12:20:22.000Z",
-      "badgeColor": "slate",
-      "angle": "Geopolitical Angle"
+      "pubDate": "2026-09-14T15:52:51.000Z",
+      "badgeColor": "slate"
     }
   ]
 }
