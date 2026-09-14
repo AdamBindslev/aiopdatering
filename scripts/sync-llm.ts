@@ -14,6 +14,8 @@ interface OllamaTagResponse {
 }
 
 interface EnrichedJsonPayload {
+  title?: string;
+  summary?: string;
   danishTitle?: string;
   danishSummary?: string;
   whyItMatters?: string;
@@ -109,26 +111,26 @@ async function callOllama(
   model: string,
   article: FeedItem
 ): Promise<EnrichedJsonPayload | null> {
-  const systemPrompt = `Du er en skarp dansk AI- og tech-journalist for avisen 'AI Opdatering'.
-Din opgave er at analysere den givne artikel og generere et struktureret JSON-output på fejlfrit, flydende og professionelt dansk.
+  const systemPrompt = `You are a sharp, senior AI and tech journalist for the newspaper 'AI Opdatering // The Intelligence Chronicle'.
+Your task is to analyze the given article and generate a structured JSON output in clear, professional, and grammatically impeccable English.
 
-Du SKAL svare udelukkende med et gyldigt JSON-objekt med præcis disse tre felter:
-- "danishTitle": En fængende, præcis og dækkende overskrift på dansk (faglig, skarp, ikke clickbait).
-- "danishSummary": Et præcist og velskrevet dansk resumé på 2-3 sætninger, der forklarer hvad nyheden handler om.
-- "whyItMatters": 1-2 skarpe sætninger om "Hvorfor det er vigtigt" (konsekvensen for AI-branchen, udviklere, virksomheder eller samfundet).
+You MUST respond exclusively with a valid JSON object containing exactly these three fields:
+- "title": A compelling, accurate, and informative headline in English (journalistic, sharp, non-clickbait, preserving technical fidelity).
+- "summary": A precise, well-written summary in 2-3 sentences explaining what this news is about and its context.
+- "whyItMatters": 1-2 sharp sentences on "Why it matters" (the strategic consequence for the AI industry, developers, enterprise, or society).
 
-Eksempel på output-format:
+Example output format:
 {
-  "danishTitle": "OpenAI lancerer ny optimeret ræsonneringsmodel",
-  "danishSummary": "OpenAI har i dag præsenteret en ny modelvariant, der reducerer inferensomkostninger med 40% ved komplekse opgaver. Modellen er målrettet kode- og matematiske workflows.",
-  "whyItMatters": "Det markante prisfald gør avancerede AI-agenter økonomisk rentable for langt flere virksomheder i produktion."
+  "title": "OpenAI Launches Optimized Reasoning Model to Slash Inference Costs",
+  "summary": "OpenAI has introduced a new model variant designed to reduce reasoning inference costs by 40% across complex workflows. The release focuses on enhancing agentic coding and mathematical problem solving.",
+  "whyItMatters": "Drastic price reductions make deploying autonomous AI agents at production scale economically viable for far more enterprises."
 }`;
 
-  const userContent = `Analyser denne artikel:
-Oprindelig titel: ${article.title}
-Kilde: ${article.sourceName} (${article.category})
-Dato: ${article.pubDate}
-Tekstuddrag: ${article.snippet || 'Ingen tekst'}
+  const userContent = `Analyze this article:
+Original Title: ${article.title}
+Source: ${article.sourceName} (${article.category})
+Date: ${article.pubDate}
+Snippet: ${article.snippet || 'No snippet provided'}
 Link: ${article.link}`;
 
   try {
@@ -165,8 +167,16 @@ Link: ${article.link}`;
     }
 
     const parsed = JSON.parse(cleanJson);
-    if (parsed.danishTitle && parsed.danishSummary && parsed.whyItMatters) {
-      return parsed;
+    const title = parsed.title || parsed.danishTitle;
+    const summary = parsed.summary || parsed.danishSummary;
+    if (title && summary && parsed.whyItMatters) {
+      return {
+        title: title.trim(),
+        summary: summary.trim(),
+        danishTitle: title.trim(),
+        danishSummary: summary.trim(),
+        whyItMatters: parsed.whyItMatters.trim(),
+      };
     }
 
     return null;
@@ -195,39 +205,39 @@ async function synthesizeTrendingTopic(
   pool.forEach((item, idx) => {
     const dedupKey = normalizeUrl(item.link, item.videoId);
     const enriched = enrichedMap[item.id] || enrichedMap[dedupKey] || enrichedMap[item.link] || item.ai;
-    const title = enriched?.danishTitle || item.title;
-    const desc = enriched?.danishSummary || item.snippet || '';
+    const title = enriched?.title || enriched?.danishTitle || item.title;
+    const desc = enriched?.summary || enriched?.danishSummary || item.snippet || '';
     const cleanSnippet = desc.replace(/\s+/g, ' ').substring(0, 150);
-    lines.push(`[${idx}] Kilde: ${item.sourceName} | Titel: "${title}" | Resumé: ${cleanSnippet}`);
+    lines.push(`[${idx}] Source: ${item.sourceName} | Title: "${title}" | Excerpt: ${cleanSnippet}`);
   });
 
-  const systemPrompt = `Du er chefredaktør for 'AI Opdatering'.
-Din opgave er at identificere det vigtigste emne eller den mest afgørende nyhedsbegivenhed lige nu blandt de seneste artikler og skabe en samlet redaktionel syntese (Techmeme-stil).
+  const systemPrompt = `You are the executive editor for 'AI Opdatering // The Intelligence Chronicle'.
+Your task is to identify the single most important story or defining trend right now across the latest candidate articles and create an authoritative, Techmeme-style editorial synthesis in crisp, professional English.
 
-Du skal analysere artikellisten og vælge det emne, der har størst betydning eller omtale.
-Du SKAL svare udelukkende med et gyldigt JSON-objekt med præcis disse felter:
-- "headline": En skarp, fængende og præcis overskrift på fejlfrit dansk, der indkapsler historien/trenden.
-- "summary": Et præcist resumé på 2-3 velskrevne sætninger på dansk, der syntetiserer hvad der sker og hvorfor det er i fokus.
-- "whyItMatters": 1-2 skarpe sætninger på dansk om "Hvorfor det er vigtigt" (konsekvensen for AI-branchen, udviklere eller samfundet).
-- "primaryArticleIndex": Indeksnummeret (heltal, f.eks. 0) for den primære kilde eller hovedartikel.
-- "supportingArticleIndices": Et array af 2-4 indeksnumre (heltal, f.eks. [1, 3]) på andre artikler fra listen, der belyser samme emne eller tilgrænsende vinkler.
-- "angles": Et objekt hvor hver nøgle er et indeks som tekst ("0", "1"...), og værdien er en ultrakort vinkel-label på dansk (maks 2-3 ord, f.eks. "Officiel udmelding", "Teknisk analyse", "Kritik & debat", "Hands-on test").
+Analyze the list of candidate articles and select the topic with the highest industry significance, debate, or momentum.
+You MUST respond exclusively with a valid JSON object containing exactly these fields:
+- "headline": A sharp, compelling, and accurate editorial headline in English encapsulating the story or overarching trend.
+- "summary": A concise, 2-3 sentence overview in English synthesizing what is happening and why it is commanding industry attention.
+- "whyItMatters": 1-2 sharp sentences in English explaining "Why it matters" (the strategic consequences for the AI industry, developers, or society).
+- "primaryArticleIndex": The integer index (e.g. 0) of the lead source or main article.
+- "supportingArticleIndices": An array of 2-4 integer indices (e.g. [1, 3]) of other articles from the list that provide essential context, different angles, or corroborating analysis.
+- "angles": An object where each key is an index as a string ("0", "1"...), and the value is an ultra-concise angle label in English (max 2-3 words, e.g. "Industry Analysis", "Official Launch", "Critical Debate", "Hands-on Benchmark", "Policy Impact").
 
-Eksempel på format:
+Example format:
 {
-  "headline": "Åbne ræsonneringsmodeller presser tech-giganterne",
-  "summary": "Nye open weight-modeller leverer ræsonneringsevner tæt på de førende lukkede systemer. Dette sætter gang i en ny bølge af lokale AI-agenter og udfordrer de store udbyderes prismodeller.",
-  "whyItMatters": "Det demokratiserer adgangen til avanceret AI og gør virksomheder mindre afhængige af lukkede platforme.",
+  "headline": "Open-Weight Reasoning Models Challenge Proprietary Frontier Labs",
+  "summary": "A wave of new open-weight models is demonstrating reasoning capabilities rivaling top commercial frontier systems. This shift is accelerating local AI agent deployment and putting downward pressure on closed-API pricing models.",
+  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on closed proprietary platforms.",
   "primaryArticleIndex": 0,
   "supportingArticleIndices": [2, 5],
   "angles": {
-    "0": "Officiel lancering",
-    "2": "Teknisk dybde",
-    "5": "Brancheanalyse"
+    "0": "Official Release",
+    "2": "Technical Deep Dive",
+    "5": "Industry Analysis"
   }
 }`;
 
-  const userContent = `Her er de seneste kandidatartikler:\n\n${lines.join('\n')}\n\nIdentificer det vigtigste emne lige nu og returner JSON-syntesen.`;
+  const userContent = `Here are the latest candidate articles:\n\n${lines.join('\n')}\n\nIdentify the top trending story or theme right now and return the JSON synthesis.`;
 
   try {
     const res = await fetch(`${OLLAMA_HOST}/api/chat`, {
@@ -272,13 +282,13 @@ Eksempel på format:
 
     const primaryArticle: SupportingStory = {
       id: primaryRaw.id,
-      title: primaryEnriched?.danishTitle || primaryRaw.title,
+      title: primaryEnriched?.title || primaryEnriched?.danishTitle || primaryRaw.title,
       link: primaryRaw.link,
       sourceName: primaryRaw.sourceName,
       sourceId: primaryRaw.sourceId,
       pubDate: primaryRaw.pubDate,
       badgeColor: primaryRaw.badgeColor,
-      angle: parsed.angles?.[String(parsed.primaryArticleIndex)] || 'Primær kilde',
+      angle: parsed.angles?.[String(parsed.primaryArticleIndex)] || 'Primary Source',
     };
 
     const supportingStories: SupportingStory[] = [];
@@ -293,7 +303,7 @@ Eksempel på format:
             const enriched = enrichedMap[rawItem.id] || enrichedMap[normalizeUrl(rawItem.link, rawItem.videoId)] || enrichedMap[rawItem.link] || rawItem.ai;
             supportingStories.push({
               id: rawItem.id,
-              title: enriched?.danishTitle || rawItem.title,
+              title: enriched?.title || enriched?.danishTitle || rawItem.title,
               link: rawItem.link,
               sourceName: rawItem.sourceName,
               sourceId: rawItem.sourceId,
@@ -428,10 +438,14 @@ async function main() {
     log(`[${i + 1}/${candidates.length}] Behandler: "${item.title.substring(0, 50)}..." (${item.sourceName})`);
 
     const enriched = await callOllama(activeModel, item);
-    if (enriched && enriched.danishTitle && enriched.danishSummary) {
+    const title = enriched?.title || enriched?.danishTitle;
+    const summary = enriched?.summary || enriched?.danishSummary;
+    if (enriched && title && summary) {
       const data: EnrichedArticleData = {
-        danishTitle: enriched.danishTitle.trim(),
-        danishSummary: enriched.danishSummary.trim(),
+        title: title.trim(),
+        summary: summary.trim(),
+        danishTitle: title.trim(), // for legacy consumers
+        danishSummary: summary.trim(), // for legacy consumers
         whyItMatters: (enriched.whyItMatters || '').trim(),
         enrichedAt: new Date().toISOString(),
         modelUsed: activeModel,
@@ -445,7 +459,7 @@ async function main() {
 
       // Save incrementally so progress is preserved if interrupted
       saveEnrichedMap(enrichedMap);
-      log(`  ✓ Beriget: "${data.danishTitle}"`);
+      log(`  ✓ Enriched: "${data.title}"`);
     } else {
       log(`  ⚠️ Sprang over pga. ugyldigt LLM-svar.`);
     }

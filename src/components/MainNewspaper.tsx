@@ -269,18 +269,18 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
             <div className="border-b border-gray-800 pb-3 mb-6 flex items-center justify-between">
               <h2 className="text-2xl font-bold font-serif text-white flex items-center gap-2">
                 <Bookmark className="w-6 h-6 text-cyan-400 fill-cyan-400" />
-                Gemte Artikler & Læseliste
+                Saved Articles & Reading List
               </h2>
               <span className="text-xs font-mono text-gray-400">
-                {tabItems.length} {tabItems.length === 1 ? 'artikel' : 'artikler'}
+                {tabItems.length} {tabItems.length === 1 ? 'article' : 'articles'}
               </span>
             </div>
             {tabItems.length === 0 ? (
               <div className="text-center py-20 bg-[#0e131b] border border-gray-800 rounded-lg p-6">
                 <Bookmark className="w-12 h-12 text-gray-600 mx-auto mb-3" />
-                <p className="text-gray-400 font-serif text-lg">Du har ingen gemte artikler endnu.</p>
+                <p className="text-gray-400 font-serif text-lg">You have no saved articles yet.</p>
                 <p className="text-xs font-mono text-gray-500 mt-1">
-                  Klik på bogmærke-ikonet på enhver artikel for at gemme den her til senere læsning.
+                  Click the bookmark icon on any article to save it here for later reading.
                 </p>
               </div>
             ) : (
@@ -334,7 +334,7 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
                     Frontier Labs
                   </h3>
                   <span className="text-[11px] font-mono text-cyan-500 uppercase font-semibold tracking-wider">
-                    Modeludviklere
+                    Model Developers
                   </span>
                 </div>
                 <div className="space-y-3">
@@ -349,15 +349,15 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
                 </div>
               </div>
 
-              {/* Column 2: Eksperter & Medier */}
+              {/* Column 2: Experts & Analysis */}
               <div className="space-y-4">
                 <div className="flex items-center justify-between border-b-2 border-emerald-500/80 pb-2">
                   <h3 className="font-serif font-bold text-lg text-white flex items-center gap-2">
                     <Lightbulb className="w-4 h-4 text-emerald-400" />
-                    Analyse & Indsigt
+                    Analysis & Insights
                   </h3>
                   <span className="text-[11px] font-mono text-emerald-500 uppercase font-semibold tracking-wider">
-                    Eksperter
+                    Experts
                   </span>
                 </div>
                 <div className="space-y-3">
@@ -372,15 +372,15 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
                 </div>
               </div>
 
-              {/* Column 3: Dansk AI & Lovgivning */}
+              {/* Column 3: Policy & Safety / Nordic AI */}
               <div className="space-y-4">
                 <div className="flex items-center justify-between border-b-2 border-red-500/80 pb-2">
                   <h3 className="font-serif font-bold text-lg text-white flex items-center gap-2">
                     <Flag className="w-4 h-4 text-red-400" />
-                    Dansk AI & Politik
+                    Policy & Nordic AI
                   </h3>
                   <span className="text-[11px] font-mono text-red-500 uppercase font-semibold tracking-wider">
-                    Norden & EU
+                    EU & Regional
                   </span>
                 </div>
                 <div className="space-y-3">
@@ -405,8 +405,8 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
                       <Youtube className="w-4 h-4" />
                     </div>
                     <div>
-                      <h3 className="text-xl font-bold font-serif text-white">Seneste AI Videoer & Gennemgange</h3>
-                      <p className="text-xs text-gray-400 font-mono">Dybdegående papiranalyser og tutorials fra YouTube</p>
+                      <h3 className="text-xl font-bold font-serif text-white">Latest AI Videos & Breakdowns</h3>
+                      <p className="text-xs text-gray-400 font-mono">In-depth paper reviews and technical walkthroughs from YouTube</p>
                     </div>
                   </div>
                   <button
@@ -416,7 +416,7 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
                     }}
                     className="inline-flex items-center gap-1.5 text-xs font-mono text-cyan-400 hover:text-cyan-300 font-semibold transition-colors"
                   >
-                    <span>Se alle videoer</span>
+                    <span>View all videos</span>
                     <ArrowRight className="w-3.5 h-3.5" />
                   </button>
                 </div>
@@ -438,7 +438,7 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
             {/* Bottom Section: More Stories from Core */}
             {moreCoreItems.length > 0 && (
               <div className="mt-12 pt-6 border-t border-gray-800">
-                <h3 className="text-xl font-bold font-serif text-white mb-4">Flere opdateringer fra Kerne-kilderne</h3>
+                <h3 className="text-xl font-bold font-serif text-white mb-4">More Stories from Core Sources</h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                   {moreCoreItems.map((item) => (
                     item.category === 'video' || item.videoId ? (
@@ -469,10 +469,10 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
             <div className="flex items-center justify-between border-b border-gray-800 pb-3 mb-6">
               <div className="flex items-center gap-2">
                 <h2 className="text-2xl font-bold font-serif text-white">
-                  {searchQuery ? `Søgeresultater for "${searchQuery}"` : 'Artikler'}
+                  {searchQuery ? `Search results for "${searchQuery}"` : 'Articles'}
                 </h2>
                 <span className="text-xs font-mono text-cyan-400 bg-cyan-950/60 border border-cyan-800 px-2 py-0.5 rounded">
-                  {tabItems.length} fundet
+                  {tabItems.length} found
                 </span>
               </div>
             </div>
@@ -480,8 +480,8 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
             {tabItems.length === 0 ? (
               <div className="text-center py-20 bg-[#0e131b] border border-gray-800 rounded-lg p-6">
                 <Search className="w-10 h-10 text-gray-600 mx-auto mb-2" />
-                <p className="text-gray-400 font-serif text-lg">Ingen artikler matcher de valgte kriterier.</p>
-                <p className="text-xs font-mono text-gray-500 mt-1">Prøv at nulstille søgeordet eller tidsfiltret.</p>
+                <p className="text-gray-400 font-serif text-lg">No articles match your selected criteria.</p>
+                <p className="text-xs font-mono text-gray-500 mt-1">Try resetting the search query or time filter.</p>
               </div>
             ) : (
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -522,16 +522,16 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
             <button
               onClick={handleGoHome}
               className="text-left text-gray-300 hover:text-cyan-400 font-bold font-serif text-sm transition-colors cursor-pointer block"
-              title="Gå til forsiden"
+              title="Go to front page"
             >
               AI OPDATERING // THE INTELLIGENCE CHRONICLE
             </button>
-            <p className="text-gray-600 mt-0.5">Uafhængig realtidsaggregator for kunstig intelligens og maskinlæring.</p>
+            <p className="text-gray-600 mt-0.5">Independent real-time intelligence aggregator for artificial intelligence and machine learning.</p>
           </div>
 
           <div className="flex items-center gap-6 text-gray-400">
             <button onClick={() => setActiveTab('sources')} className="hover:text-cyan-400 transition-colors">
-              Kildekatalog ({data.totalSources})
+              Source Catalog ({data.totalSources})
             </button>
             <span>•</span>
             <a
@@ -543,7 +543,7 @@ export const MainNewspaper: React.FC<MainNewspaperProps> = ({ initialData }) => 
               GitHub Repo
             </a>
             <span>•</span>
-            <span>Auto-opdatering via Vercel ISR</span>
+            <span>Auto-updating via Vercel ISR</span>
           </div>
         </div>
       </footer>

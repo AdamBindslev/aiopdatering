@@ -37,8 +37,10 @@ export interface FeedSource {
 }
 
 export interface EnrichedArticleData {
-  danishTitle: string;
-  danishSummary: string;
+  title?: string;
+  summary?: string;
+  danishTitle?: string;
+  danishSummary?: string;
   whyItMatters: string;
   enrichedAt: string;
   modelUsed?: string;

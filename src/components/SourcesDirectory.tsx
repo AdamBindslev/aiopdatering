@@ -19,9 +19,9 @@ export const SourcesDirectory: React.FC = () => {
   return (
     <div className="space-y-8">
       <div className="border-b border-gray-800 pb-4">
-        <h2 className="text-2xl font-bold font-serif text-white mb-2">Kildekatalog & RSS Directory</h2>
+        <h2 className="text-2xl font-bold font-serif text-white mb-2">Source Catalog & RSS Directory</h2>
         <p className="text-sm text-gray-400 font-mono">
-          Oversigt over alle {FEED_SOURCES.length} integrerede feeds, opdelt efter kategori. Hver kilde overvåges automatisk via Vercel ISR.
+          Overview of all {FEED_SOURCES.length} integrated feeds, organized by category. Monitored continuously.
         </p>
       </div>
 
@@ -35,7 +35,7 @@ export const SourcesDirectory: React.FC = () => {
           <section key={catKey} className="space-y-3">
             <div className="flex items-center gap-2 border-b border-gray-800/80 pb-2">
               <h3 className="text-lg font-bold font-serif text-cyan-400">{catInfo.label}</h3>
-              <span className="text-xs font-mono text-gray-500">({catSources.length} kilder)</span>
+              <span className="text-xs font-mono text-gray-500">({catSources.length} sources)</span>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
@@ -57,12 +57,12 @@ export const SourcesDirectory: React.FC = () => {
                       </a>
                       {source.isCore && (
                         <span className="px-1.5 py-0.5 rounded bg-amber-950/60 border border-amber-800/80 text-amber-400 text-[9px] font-mono font-bold uppercase">
-                          Kerne
+                          Core
                         </span>
                       )}
                     </div>
                     <p className="text-xs text-gray-400 font-sans mb-3 line-clamp-2">
-                      {source.description || 'Automatisk RSS opdatering.'}
+                      {source.description || 'Continuous feed ingestion.'}
                     </p>
                   </div>
 
@@ -77,12 +77,12 @@ export const SourcesDirectory: React.FC = () => {
                       {copiedId === source.id ? (
                         <>
                           <Check className="w-3 h-3 text-emerald-400" />
-                          <span className="text-emerald-400">Kopieret</span>
+                          <span className="text-emerald-400">Copied</span>
                         </>
                       ) : (
                         <>
                           <Rss className="w-3 h-3" />
-                          <span>Kopier RSS</span>
+                          <span>Copy RSS</span>
                         </>
                       )}
                     </button>

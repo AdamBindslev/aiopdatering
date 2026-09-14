@@ -1,48 +1,49 @@
 {
-  "headline": "AI-branchens doomer rot: Ledere kritisere hastighed",
-  "summary": "MIT Technology Review rapporterer, at ledere i AI-branchen nu kritisere hurtig udvikling og foreslår en mere fornuftig tilgang. Dario Amodei, CEO af Anthropic, har indledt en debat, der kan have stor konsekvens for hele brancheindustrien.",
-  "whyItMatters": "Debatten kan føre til mere regulering og kontrol, hvilket påvirker udviklere og samfundets opfattelse af AI-udviklingens risici.",
-  "synthesizedAt": "2026-09-14T18:45:08.574Z",
-  "modelUsed": "qwen2.5:7b",
+  "headline": "The AI Industry's 'Doomer Turn': Frontier Labs Debate Slowing the Pace",
+  "summary": "MIT Technology Review reports that leading AI executives and safety researchers are increasingly questioning the breakneck speed of frontier model development. Sparked by Anthropic CEO Dario Amodei's call to 'pace the frontier,' industry leaders are openly debating whether catastrophic safety, biosecurity, and national security risks warrant a more measured trajectory.",
+  "whyItMatters": "A strategic pivot by frontier lab leadership could accelerate international AI safety standards and alter the timeline for next-generation frontier deployments.",
+  "synthesizedAt": "2026-09-14T20:15:00.000Z",
+  "modelUsed": "qwen2.5:7b (editorial)",
   "primaryArticle": {
     "id": "mit-tech-review-https://www.technologyreview.com/?p=1144048",
-    "title": "AI-branchen tager en doomer rot. Hvorfor nu?",
+    "title": "The AI Industry Has Taken a Doomer Turn: What Now?",
     "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
     "sourceName": "MIT Technology Review",
     "sourceId": "mit-tech-review",
     "pubDate": "2026-09-14T17:54:22.000Z",
     "badgeColor": "red",
-    "angle": "Brancheanalyse"
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
       "id": "latent-space-https://www.latent.space/p/recursive",
-      "title": "Richard Socher's Ny Startup Tager Skridt I RSI-Industrien",
+      "title": "Richard Socher's New Startup Tackles Recursive Self-Improvement",
       "link": "https://www.latent.space/p/recursive",
       "sourceName": "Latent Space (Swyx & Alessio)",
       "sourceId": "latent-space",
       "pubDate": "2026-09-14T16:04:16.000Z",
       "badgeColor": "pink",
-      "angle": "Officiel udmelding"
+      "angle": "Founder Perspective"
     },
     {
       "id": "the-zvi-https://thezvi.substack.com/p/we-must-pace-the-frontier",
-      "title": "Dario Amodei præsenterer 'Pace the Frontier'-kallet",
+      "title": "Dario Amodei's Call to 'Pace the Frontier'",
       "link": "https://thezvi.substack.com/p/we-must-pace-the-frontier",
       "sourceName": "Don't Worry About the Vase (Zvi)",
       "sourceId": "the-zvi",
       "pubDate": "2026-09-14T15:21:57.000Z",
       "badgeColor": "emerald",
-      "angle": "Teknisk dybde"
+      "angle": "Strategic Analysis"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=40223",
-      "title": "Kina rejser sig mod amerikanske AI-sikkerhedsovervejelser",
+      "title": "China Pushes Back Against U.S. AI Safety Warnings as Fearmongering",
       "link": "https://the-decoder.com/china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
       "pubDate": "2026-09-14T12:20:22.000Z",
-      "badgeColor": "slate"
+      "badgeColor": "slate",
+      "angle": "Geopolitical Angle"
     }
   ]
 }

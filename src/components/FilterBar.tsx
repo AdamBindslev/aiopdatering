@@ -36,7 +36,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
           type="text"
           value={searchQuery}
           onChange={(e) => onSearchChange(e.target.value)}
-          placeholder="Søg i overskrifter, emner, forfattere..."
+          placeholder="Search headlines, topics, authors..."
           className="w-full bg-[#070a0f] border border-gray-700/80 rounded pl-9 pr-8 py-2 text-gray-200 placeholder-gray-500 focus:outline-none focus:border-cyan-500 transition-colors"
         />
         {searchQuery && (
@@ -59,7 +59,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({
             onChange={(e) => onSourceChange(e.target.value)}
             className="bg-transparent border-none text-gray-200 focus:outline-none text-xs cursor-pointer max-w-[180px] sm:max-w-[220px] truncate"
           >
-            <option value="all" className="bg-[#0e131b]">Alle kilder ({sortedSources.length})</option>
+            <option value="all" className="bg-[#0e131b]">All sources ({sortedSources.length})</option>
             {sortedSources.map((s) => (
               <option key={s.id} value={s.id} className="bg-[#0e131b]">
                 {s.name}
@@ -72,10 +72,10 @@ export const FilterBar: React.FC<FilterBarProps> = ({
         <div className="flex items-center gap-1 bg-[#070a0f] border border-gray-700/80 rounded p-1">
           <Clock className="w-3 h-3 text-gray-500 ml-1.5 mr-1" />
           {[
-            { id: '24h', label: '24t' },
-            { id: '48h', label: '48t' },
-            { id: '7d', label: '7 dage' },
-            { id: 'all', label: 'Alt' },
+            { id: '24h', label: '24h' },
+            { id: '48h', label: '48h' },
+            { id: '7d', label: '7 days' },
+            { id: 'all', label: 'All' },
           ].map((t) => (
             <button
               key={t.id}

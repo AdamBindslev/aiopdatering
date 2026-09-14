@@ -4,7 +4,7 @@ import React from 'react';
 import { FeedItem } from '@/types';
 import { ExternalLink, Clock, User, Bookmark, Sparkles } from 'lucide-react';
 import { formatDistanceToNow, format } from 'date-fns';
-import { da } from 'date-fns/locale';
+import { enUS } from 'date-fns/locale';
 
 interface ArticleCardProps {
   item: FeedItem;
@@ -40,17 +40,17 @@ export const ArticleCard: React.FC<ArticleCardProps> = ({
 
   let timeAgo = '';
   try {
-    timeAgo = formatDistanceToNow(new Date(item.pubDate), { addSuffix: true, locale: da });
+    timeAgo = formatDistanceToNow(new Date(item.pubDate), { addSuffix: true, locale: enUS });
   } catch (e) {
-    timeAgo = 'Nyligt';
+    timeAgo = 'Recently';
   }
 
-  const exactDate = format(new Date(item.pubDate), "d. MMM yyyy, HH:mm");
+  const exactDate = format(new Date(item.pubDate), "MMM d, yyyy, HH:mm");
 
   const hasAi = Boolean(item.ai);
-  const displayTitle = item.ai?.danishTitle || item.title;
+  const displayTitle = item.ai?.title || item.ai?.danishTitle || item.title;
   const originalTitle = item.ai ? item.title : null;
-  const displaySnippet = item.ai?.danishSummary || item.snippet;
+  const displaySnippet = item.ai?.summary || item.ai?.danishSummary || item.snippet;
 
   if (variant === 'compact') {
     return (
@@ -100,9 +100,9 @@ export const ArticleCard: React.FC<ArticleCardProps> = ({
               </span>
             )}
             {hasAi && (
-              <span className="inline-flex items-center gap-1 px-1.5 py-0.5 rounded bg-cyan-950/50 border border-cyan-500/40 text-cyan-300 text-[9px] font-mono font-semibold" title={`Beriget af lokal LLM (${item.ai?.modelUsed || 'Ollama'})`}>
+              <span className="inline-flex items-center gap-1 px-1.5 py-0.5 rounded bg-cyan-950/50 border border-cyan-500/40 text-cyan-300 text-[9px] font-mono font-semibold" title={`Enriched by local LLM (${item.ai?.modelUsed || 'Ollama'})`}>
                 <Sparkles className="w-2.5 h-2.5 text-cyan-400" />
-                AI Resumé
+                AI Summary
               </span>
             )}
           </div>
@@ -116,7 +116,7 @@ export const ArticleCard: React.FC<ArticleCardProps> = ({
               <button
                 onClick={() => onToggleBookmark(item)}
                 className={`p-1 hover:text-cyan-400 transition-colors ${isBookmarked ? 'text-cyan-400' : 'text-gray-500'}`}
-                title={isBookmarked ? 'Fjern bogmærke' : 'Gem artikel'}
+                title={isBookmarked ? 'Remove bookmark' : 'Bookmark article'}
               >
                 <Bookmark className={`w-3.5 h-3.5 ${isBookmarked ? 'fill-cyan-400' : ''}`} />
               </button>
@@ -133,7 +133,7 @@ export const ArticleCard: React.FC<ArticleCardProps> = ({
 
         {originalTitle && originalTitle !== displayTitle && (
           <p className="text-[11px] font-mono text-gray-500 line-clamp-1 mb-2 italic" title={originalTitle}>
-            Orig: {originalTitle}
+            Original: {originalTitle}
           </p>
         )}
 
@@ -149,7 +149,7 @@ export const ArticleCard: React.FC<ArticleCardProps> = ({
           <div className="mb-3 p-2.5 rounded bg-cyan-950/20 border border-cyan-500/20 text-xs group-hover:border-cyan-500/30 transition-colors">
             <div className="flex items-center gap-1.5 text-cyan-400 font-mono text-[10px] font-bold uppercase tracking-wider mb-1">
               <Sparkles className="w-3 h-3 text-cyan-400" />
-              <span>Hvorfor det er vigtigt</span>
+              <span>Why It Matters</span>
             </div>
             <p className="text-gray-300 text-[11px] leading-relaxed font-sans">
               {item.ai.whyItMatters}
@@ -175,7 +175,7 @@ export const ArticleCard: React.FC<ArticleCardProps> = ({
           rel="noopener noreferrer"
           className="inline-flex items-center gap-1 text-[11px] text-cyan-500 hover:text-cyan-300 font-semibold group-hover:translate-x-0.5 transition-all"
         >
-          <span>Læs artikel</span>
+          <span>Read article</span>
           <ExternalLink className="w-3 h-3" />
         </a>
       </div>

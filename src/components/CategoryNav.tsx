@@ -22,17 +22,17 @@ interface CategoryNavProps {
 }
 
 const TABS = [
-  { id: 'core', label: 'Kerne-Sæt', icon: Flame, color: 'text-amber-400' },
+  { id: 'core', label: 'Core Set', icon: Flame, color: 'text-amber-400' },
   { id: 'video', label: 'AI Video', icon: Video, color: 'text-red-400' },
-  { id: 'danish', label: 'Dansk AI', icon: Flag, color: 'text-red-400' },
+  { id: 'danish', label: 'Danish AI', icon: Flag, color: 'text-red-400' },
   { id: 'labs', label: 'Frontier Labs', icon: Cpu, color: 'text-cyan-400' },
-  { id: 'experts', label: 'Eksperter & Analyse', icon: Lightbulb, color: 'text-emerald-400' },
-  { id: 'media', label: 'Tech Medier', icon: Newspaper, color: 'text-rose-400' },
-  { id: 'safety', label: 'Sikkerhed & Jura', icon: ShieldAlert, color: 'text-blue-400' },
-  { id: 'tools', label: 'Værktøjer & Chips', icon: Layers, color: 'text-purple-400' },
-  { id: 'all', label: 'Alle Nyheder', icon: Globe, color: 'text-gray-300' },
-  { id: 'arxiv', label: 'Forskning (arXiv)', icon: GraduationCap, color: 'text-yellow-400' },
-  { id: 'sources', label: 'Kildekatalog', icon: Database, color: 'text-indigo-400' },
+  { id: 'experts', label: 'Analysis & Experts', icon: Lightbulb, color: 'text-emerald-400' },
+  { id: 'media', label: 'Tech Media', icon: Newspaper, color: 'text-rose-400' },
+  { id: 'safety', label: 'Safety & Policy', icon: ShieldAlert, color: 'text-blue-400' },
+  { id: 'tools', label: 'Tools & Infra', icon: Layers, color: 'text-purple-400' },
+  { id: 'all', label: 'All Stories', icon: Globe, color: 'text-gray-300' },
+  { id: 'arxiv', label: 'Research (arXiv)', icon: GraduationCap, color: 'text-yellow-400' },
+  { id: 'sources', label: 'Source Catalog', icon: Database, color: 'text-indigo-400' },
 ];
 
 export const CategoryNav: React.FC<CategoryNavProps> = ({
