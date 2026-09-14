@@ -1664,5 +1664,411 @@
     "whyItMatters": "Dette kan give mærklig inspiration og nye synsvinkler for udviklere og entreprenører i tech-sektoren, der søger inspiration og vejledning i deres egne projekter.",
     "enrichedAt": "2026-09-14T03:05:14.626Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.11955v1": {
+    "danishTitle": "R2VC: Ny Modulær Metode for Faktaoversættelse med Hentning, Verifikation og Tillidskalibrering",
+    "danishSummary": "ArXiv har præsenteret R2VC, en ny modulær metode for automatisk faktaoversættelse, der separerer processerne af hentning, verifikation og tillidskalibrering. Dette giver en mere præcise og robust løsning for faktaoversættelse i LLM'er.",
+    "whyItMatters": "Dette er vigtigt for AI-branchen, da det gør faktaoversættelse mere effektivt og præcist, hvilket er kritisk for brugen af LLM'er i verificeret indhold og informationssikkerhed.",
+    "enrichedAt": "2026-09-14T06:09:49.513Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.11955": {
+    "danishTitle": "R2VC: Ny Modulær Metode for Faktaoversættelse med Hentning, Verifikation og Tillidskalibrering",
+    "danishSummary": "ArXiv har præsenteret R2VC, en ny modulær metode for automatisk faktaoversættelse, der separerer processerne af hentning, verifikation og tillidskalibrering. Dette giver en mere præcise og robust løsning for faktaoversættelse i LLM'er.",
+    "whyItMatters": "Dette er vigtigt for AI-branchen, da det gør faktaoversættelse mere effektivt og præcist, hvilket er kritisk for brugen af LLM'er i verificeret indhold og informationssikkerhed.",
+    "enrichedAt": "2026-09-14T06:09:49.513Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.12085v1": {
+    "danishTitle": "Hvad Tæller Som Fejl? Annotering af Udtalebegivenheder i Koranens Hjortefedte Transkripter",
+    "danishSummary": "En ny studie fra arXiv har præsenteret metoder til at differentiere uklare fejl fra genforetagelser, rettelser, åbne formuler og accepterede skrivningsforskelle i transkripter af Koranens udtale. Dette er vigtigt for korrekte vurdering af ASR-transkriberinger.",
+    "whyItMatters": "Metoderne for at annotere udtalebegivenheder er nødvendige for at forbedre kvaliteten af automatiske transkriberinger af Koran, hvilket har stor betydning for både forskning og religiøs praksis.",
+    "enrichedAt": "2026-09-14T06:10:06.366Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.12085": {
+    "danishTitle": "Hvad Tæller Som Fejl? Annotering af Udtalebegivenheder i Koranens Hjortefedte Transkripter",
+    "danishSummary": "En ny studie fra arXiv har præsenteret metoder til at differentiere uklare fejl fra genforetagelser, rettelser, åbne formuler og accepterede skrivningsforskelle i transkripter af Koranens udtale. Dette er vigtigt for korrekte vurdering af ASR-transkriberinger.",
+    "whyItMatters": "Metoderne for at annotere udtalebegivenheder er nødvendige for at forbedre kvaliteten af automatiske transkriberinger af Koran, hvilket har stor betydning for både forskning og religiøs praksis.",
+    "enrichedAt": "2026-09-14T06:10:06.366Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.12107v1": {
+    "danishTitle": "Ny framework for at identificere datasetmener i flygtningesakker og FCV-dokumenter",
+    "danishSummary": "En ny forskning fra arXiv introducerer et weakly supervised framework, der bruger LLM-baseret label refinement til at identificere datasetmener i dokumenter om forsyning og forsvarende. Dette framework kan styrke datamining og analyseprocesser i udvikling og humanitære organisationer.",
+    "whyItMatters": "Dette framework kan forbedre effektiviteten og præcisionen i at hente relevante data fra store dokumentkorpora, hvilket er vigtigt for forskning, politik og operationer i udvikling og humanitære områder.",
+    "enrichedAt": "2026-09-14T06:10:21.089Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.12107": {
+    "danishTitle": "Ny framework for at identificere datasetmener i flygtningesakker og FCV-dokumenter",
+    "danishSummary": "En ny forskning fra arXiv introducerer et weakly supervised framework, der bruger LLM-baseret label refinement til at identificere datasetmener i dokumenter om forsyning og forsvarende. Dette framework kan styrke datamining og analyseprocesser i udvikling og humanitære organisationer.",
+    "whyItMatters": "Dette framework kan forbedre effektiviteten og præcisionen i at hente relevante data fra store dokumentkorpora, hvilket er vigtigt for forskning, politik og operationer i udvikling og humanitære områder.",
+    "enrichedAt": "2026-09-14T06:10:21.089Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.12111v1": {
+    "danishTitle": "Kostpris for Komprimering: En Rate-Distortion Grænse for Fakta-Hallucination",
+    "danishSummary": "En ny forskning fra arXiv indikerer, at fakta-hallucinationer i lukket-bog kvæstionsbevarelse ikke bare er en omfattelsesproblematik, men også er begrænset af en rate-distortion grænse. Dette bidrager til en mere præcise forståelse af, hvorfor modeller fejler og kan have konsekvenser for deres udvikling og brug.",
+    "whyItMatters": "Forståelsen af rate-distortion grænsen kan hjælpe med at udvikle mere præcise og reliabla AI-modeller, der kan forbedre deres evne til at give korrekte svar på kvæstioner, uden at indføre udsagn, der ikke er baseret på faktiske data.",
+    "enrichedAt": "2026-09-14T06:10:39.933Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.12111": {
+    "danishTitle": "Kostpris for Komprimering: En Rate-Distortion Grænse for Fakta-Hallucination",
+    "danishSummary": "En ny forskning fra arXiv indikerer, at fakta-hallucinationer i lukket-bog kvæstionsbevarelse ikke bare er en omfattelsesproblematik, men også er begrænset af en rate-distortion grænse. Dette bidrager til en mere præcise forståelse af, hvorfor modeller fejler og kan have konsekvenser for deres udvikling og brug.",
+    "whyItMatters": "Forståelsen af rate-distortion grænsen kan hjælpe med at udvikle mere præcise og reliabla AI-modeller, der kan forbedre deres evne til at give korrekte svar på kvæstioner, uden at indføre udsagn, der ikke er baseret på faktiske data.",
+    "enrichedAt": "2026-09-14T06:10:39.933Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.12122v1": {
+    "danishTitle": "Konsonanter's bidrag til ordforståelse kan nu måles præcist",
+    "danishSummary": "En ny forskning fra arXiv har præsenteret en metode til at måle konsonanter's bidrag til ordforståelse ved hjælp af akustisk maskering. Dette kan hjælpe med at prioritere behandling i talterapaterapi, hvor tid er en vigtig faktor.",
+    "whyItMatters": "Denne metode giver en mere præcise forståelse af, hvilke konsonanter der er mest vigtige for ordforståelse, hvilket kan optimere behandlingsstrategier og forbedre effektiviteten af talterapaterapi.",
+    "enrichedAt": "2026-09-14T06:10:54.580Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.12122": {
+    "danishTitle": "Konsonanter's bidrag til ordforståelse kan nu måles præcist",
+    "danishSummary": "En ny forskning fra arXiv har præsenteret en metode til at måle konsonanter's bidrag til ordforståelse ved hjælp af akustisk maskering. Dette kan hjælpe med at prioritere behandling i talterapaterapi, hvor tid er en vigtig faktor.",
+    "whyItMatters": "Denne metode giver en mere præcise forståelse af, hvilke konsonanter der er mest vigtige for ordforståelse, hvilket kan optimere behandlingsstrategier og forbedre effektiviteten af talterapaterapi.",
+    "enrichedAt": "2026-09-14T06:10:54.580Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.12132v1": {
+    "danishTitle": "Perceived Food Access Measures Unveil Geographical and Social Barriers",
+    "danishSummary": "Et nyttigt forskningsarbejde fra arXiv har vist, at måle food access på en populationel niveau stadig er baseret på geografisk nærhed, da subjektive aspekter af food access er svære at måle på en større skala. Forskere har brugt data til at identificere nye barrierer, der glemmes ved en enkelt geografisk analyse.",
+    "whyItMatters": "Denne forskning er vigtig, da den understreger, at food access ikke kun er en geografisk problem, men også en kompleks samfundsmæssig spørgsmål, der kræver mere omfattende metoder for at identificere og adressere de reelle barrierer.",
+    "enrichedAt": "2026-09-14T06:11:28.277Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.12132": {
+    "danishTitle": "Perceived Food Access Measures Unveil Geographical and Social Barriers",
+    "danishSummary": "Et nyttigt forskningsarbejde fra arXiv har vist, at måle food access på en populationel niveau stadig er baseret på geografisk nærhed, da subjektive aspekter af food access er svære at måle på en større skala. Forskere har brugt data til at identificere nye barrierer, der glemmes ved en enkelt geografisk analyse.",
+    "whyItMatters": "Denne forskning er vigtig, da den understreger, at food access ikke kun er en geografisk problem, men også en kompleks samfundsmæssig spørgsmål, der kræver mere omfattende metoder for at identificere og adressere de reelle barrierer.",
+    "enrichedAt": "2026-09-14T06:11:28.277Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.12191v1": {
+    "danishTitle": "GAUGE: En ny metode til bedre vurdering af LLM-agenter",
+    "danishSummary": "Artiklen præsenterer en ny metode kaldet GAUGE, der hjælper med at identificere situationer, hvor LLM-as-a-judges ikke kan tiltræde i vurdering af task-orienterede LLM-agenter. Metoden er baseret på persona-driven LLM user-simulators, der konverserer med kandidater og evaluerer deres evner.",
+    "whyItMatters": "GAUGE giver en mere præcise vurdering af LLM-agenter, der er vigtig for at sikre, at disse agenter virkelig kan levere på deres belægning i forskellige task-orienterede scenarier.",
+    "enrichedAt": "2026-09-14T06:11:44.412Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.12191": {
+    "danishTitle": "GAUGE: En ny metode til bedre vurdering af LLM-agenter",
+    "danishSummary": "Artiklen præsenterer en ny metode kaldet GAUGE, der hjælper med at identificere situationer, hvor LLM-as-a-judges ikke kan tiltræde i vurdering af task-orienterede LLM-agenter. Metoden er baseret på persona-driven LLM user-simulators, der konverserer med kandidater og evaluerer deres evner.",
+    "whyItMatters": "GAUGE giver en mere præcise vurdering af LLM-agenter, der er vigtig for at sikre, at disse agenter virkelig kan levere på deres belægning i forskellige task-orienterede scenarier.",
+    "enrichedAt": "2026-09-14T06:11:44.412Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.12230v1": {
+    "danishTitle": "Repair Before Reinforce: Ny Metode for Forbedret Multi-Hop Spørgsmålsbehandling",
+    "danishSummary": "En ny metode for multi-hop spørgsmålsbehandling har præsenteret sig på arXiv, der anvender kontekst-augmenterede kunstige videngrafier (KGs). Metoden er designet til at håndtere komplekse spørgsmål, der kræver forbindelser mellem flere fakta, og kan potentielt forbedre effektiviteten og præcisionen i AI-systemer, der arbejder med videngrafier.",
+    "whyItMatters": "Dette arbejde er vigtigt for AI-branchen, da det kan lede til bedre og mere effektive systemer til at håndtere komplekse spørgsmål, hvilket kan have en stor indvirkning på forskellige brancheområder, der anvender videngrafier, som datamining, søgning og analyse af data.",
+    "enrichedAt": "2026-09-14T06:12:04.394Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.12230": {
+    "danishTitle": "Repair Before Reinforce: Ny Metode for Forbedret Multi-Hop Spørgsmålsbehandling",
+    "danishSummary": "En ny metode for multi-hop spørgsmålsbehandling har præsenteret sig på arXiv, der anvender kontekst-augmenterede kunstige videngrafier (KGs). Metoden er designet til at håndtere komplekse spørgsmål, der kræver forbindelser mellem flere fakta, og kan potentielt forbedre effektiviteten og præcisionen i AI-systemer, der arbejder med videngrafier.",
+    "whyItMatters": "Dette arbejde er vigtigt for AI-branchen, da det kan lede til bedre og mere effektive systemer til at håndtere komplekse spørgsmål, hvilket kan have en stor indvirkning på forskellige brancheområder, der anvender videngrafier, som datamining, søgning og analyse af data.",
+    "enrichedAt": "2026-09-14T06:12:04.394Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.12243v1": {
+    "danishTitle": "Chopthin-Consensus Power Sampling: En ny metode til at forbedre LLM-ræsonnering",
+    "danishSummary": "ArXiv har præsenteret en ny metode kaldet Chopthin-Consensus Power Sampling, der anvender Sequential Monte Carlo (SMC) til inferens-tids power sampling. Dette forbedrer ræsonneringsfærdighederne i store sprogmodelle (LLM) uden behov for post-træningsjusteringer.",
+    "whyItMatters": "Denne ny metode kan gøre ræsonneringsprocesserne i LLM mere effektive og rentable, hvilket kan have betydning for udviklere og virksomheder, der bruger disse modelle i deres workflow.",
+    "enrichedAt": "2026-09-14T06:12:19.552Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.12243": {
+    "danishTitle": "Chopthin-Consensus Power Sampling: En ny metode til at forbedre LLM-ræsonnering",
+    "danishSummary": "ArXiv har præsenteret en ny metode kaldet Chopthin-Consensus Power Sampling, der anvender Sequential Monte Carlo (SMC) til inferens-tids power sampling. Dette forbedrer ræsonneringsfærdighederne i store sprogmodelle (LLM) uden behov for post-træningsjusteringer.",
+    "whyItMatters": "Denne ny metode kan gøre ræsonneringsprocesserne i LLM mere effektive og rentable, hvilket kan have betydning for udviklere og virksomheder, der bruger disse modelle i deres workflow.",
+    "enrichedAt": "2026-09-14T06:12:19.552Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.12254v1": {
+    "danishTitle": "Automatiseret opdagelse og strukturering af sociale spredningspunktbevis i klimadokumenter: Et modulært AI-rumsskelet",
+    "danishSummary": "En ny AI-rammeværk har præsenteret en metode til automatisk opdagelse og strukturering af socialt spredningspunktbevis i klimadokumenter. Dette hjælper med at overvåge klimaforhold, der kan skifte rækkevidde, og gør det muligt at håndtere den vækst i klimalitteraturen, der er udbredt hurtigere end det kan blive overvåget manuelt.",
+    "whyItMatters": "Dette bidrager til en hurtigere og mere præcise analyse af klimaforhold, hvilket er vigtigt for at forstå og reagere på potentielle socialt spredningspunkter, der kan have stor indvirkning på klimapolitikken og -handlungen.",
+    "enrichedAt": "2026-09-14T06:12:39.830Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.12254": {
+    "danishTitle": "Automatiseret opdagelse og strukturering af sociale spredningspunktbevis i klimadokumenter: Et modulært AI-rumsskelet",
+    "danishSummary": "En ny AI-rammeværk har præsenteret en metode til automatisk opdagelse og strukturering af socialt spredningspunktbevis i klimadokumenter. Dette hjælper med at overvåge klimaforhold, der kan skifte rækkevidde, og gør det muligt at håndtere den vækst i klimalitteraturen, der er udbredt hurtigere end det kan blive overvåget manuelt.",
+    "whyItMatters": "Dette bidrager til en hurtigere og mere præcise analyse af klimaforhold, hvilket er vigtigt for at forstå og reagere på potentielle socialt spredningspunkter, der kan have stor indvirkning på klimapolitikken og -handlungen.",
+    "enrichedAt": "2026-09-14T06:12:39.830Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.12260v1": {
+    "danishTitle": "HypoKG: Evidens-Baseret Biomedicinsk Hypotesgenerering Udenfor Endpunktviden",
+    "danishSummary": "Artiklen præsenterer HypoKG, en ny model, der genererer biomedicinske hypoteser baseret på videnskabeligt bevis, i stedet for kun at producere overbevisende ideer. Dette bidrager til at forbedre den teknologis kapacitet til at gennemgå komplekse videnskabelige data og generere hensigtsmæssige hypoteser.",
+    "whyItMatters": "Modellen kan potentielt forbedre kvaliteten af biomedicinsk forskning ved at sikre, at hypoteser baseres på videnskabeligt bevis, hvilket kan resultere i mere præcise og relevante forskningsresultater.",
+    "enrichedAt": "2026-09-14T06:12:57.207Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.12260": {
+    "danishTitle": "HypoKG: Evidens-Baseret Biomedicinsk Hypotesgenerering Udenfor Endpunktviden",
+    "danishSummary": "Artiklen præsenterer HypoKG, en ny model, der genererer biomedicinske hypoteser baseret på videnskabeligt bevis, i stedet for kun at producere overbevisende ideer. Dette bidrager til at forbedre den teknologis kapacitet til at gennemgå komplekse videnskabelige data og generere hensigtsmæssige hypoteser.",
+    "whyItMatters": "Modellen kan potentielt forbedre kvaliteten af biomedicinsk forskning ved at sikre, at hypoteser baseres på videnskabeligt bevis, hvilket kan resultere i mere præcise og relevante forskningsresultater.",
+    "enrichedAt": "2026-09-14T06:12:57.207Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.12268v1": {
+    "danishTitle": "EAR: En ny partitioneringsmetode til forbedret RAG-udvikling",
+    "danishSummary": "En ny metode for partitionering af kildekorpora, kalt Entity-Aware Partitioning (EAR), er præsenteret i en ny artikel på arXiv. Metoden fokuserer på at forbedre retrieval-augmented generation (RAG), en teknologi der er vigtig for effektivt og korrekt svar på spørgsmål baseret på indhold.",
+    "whyItMatters": "Dette nyttige nytteværdi forudser potentielt bedre og mere præcise svar i RAG-systemer, hvilket er vigtigt for virksomheder og forskere, der bruger disse teknologier i deres produktionsproceser og forskningsprojekter.",
+    "enrichedAt": "2026-09-14T06:13:13.973Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.12268": {
+    "danishTitle": "EAR: En ny partitioneringsmetode til forbedret RAG-udvikling",
+    "danishSummary": "En ny metode for partitionering af kildekorpora, kalt Entity-Aware Partitioning (EAR), er præsenteret i en ny artikel på arXiv. Metoden fokuserer på at forbedre retrieval-augmented generation (RAG), en teknologi der er vigtig for effektivt og korrekt svar på spørgsmål baseret på indhold.",
+    "whyItMatters": "Dette nyttige nytteværdi forudser potentielt bedre og mere præcise svar i RAG-systemer, hvilket er vigtigt for virksomheder og forskere, der bruger disse teknologier i deres produktionsproceser og forskningsprojekter.",
+    "enrichedAt": "2026-09-14T06:13:13.973Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.12303v1": {
+    "danishTitle": "Små modeller gør en stor skridt frem: Smidige, stærke byte-modeller gennem distillation",
+    "danishSummary": "En ny forskning fra arXiv viser, at små modeller kan blive stærkere ved at distilere kunnskaber fra større modeller, der deler dens tokenisering. Dette resultat kan have betydning for effektivitet og brug af ressourcer i AI-udvikling.",
+    "whyItMatters": "Dette kan øge effektiviteten af AI-modeller, særligt for små virksomheder, der har begrænset ressourcer, og bidrage til mere gennemsigtig og optimistisk udvikling af AI-systemer.",
+    "enrichedAt": "2026-09-14T06:13:29.214Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.12303": {
+    "danishTitle": "Små modeller gør en stor skridt frem: Smidige, stærke byte-modeller gennem distillation",
+    "danishSummary": "En ny forskning fra arXiv viser, at små modeller kan blive stærkere ved at distilere kunnskaber fra større modeller, der deler dens tokenisering. Dette resultat kan have betydning for effektivitet og brug af ressourcer i AI-udvikling.",
+    "whyItMatters": "Dette kan øge effektiviteten af AI-modeller, særligt for små virksomheder, der har begrænset ressourcer, og bidrage til mere gennemsigtig og optimistisk udvikling af AI-systemer.",
+    "enrichedAt": "2026-09-14T06:13:29.214Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.12310v1": {
+    "danishTitle": "ESTS bidrager med ny metode til modellkomprimering i WMT26",
+    "danishSummary": "ESTS har præsenteret seks bidrag til WMT26 Model Compression Shared Task, der fokuserer på komprimering af modeller til at håndtere engelsk-simplificeret kinesisk og engelsk-egyptisk arabisk. Metoden, der hedder Routing-Informed Expert Pruning, viser potentielt at reducere modellomkostninger uden at forsvare kvaliteten.",
+    "whyItMatters": "Ny metoder til modellkomprimering kan gøre AI-systemer mere effektive og rentable, hvilket er vigtigt for at udvide anvendelsesområderne og gøre teknologi tilgængelig for en bredere række af brugere og virksomheder.",
+    "enrichedAt": "2026-09-14T06:13:46.499Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.12310": {
+    "danishTitle": "ESTS bidrager med ny metode til modellkomprimering i WMT26",
+    "danishSummary": "ESTS har præsenteret seks bidrag til WMT26 Model Compression Shared Task, der fokuserer på komprimering af modeller til at håndtere engelsk-simplificeret kinesisk og engelsk-egyptisk arabisk. Metoden, der hedder Routing-Informed Expert Pruning, viser potentielt at reducere modellomkostninger uden at forsvare kvaliteten.",
+    "whyItMatters": "Ny metoder til modellkomprimering kan gøre AI-systemer mere effektive og rentable, hvilket er vigtigt for at udvide anvendelsesområderne og gøre teknologi tilgængelig for en bredere række af brugere og virksomheder.",
+    "enrichedAt": "2026-09-14T06:13:46.499Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2609.11934v1": {
+    "danishTitle": "Ny metode for at opdage interaktionsstruktur i netværkssystemer fra støttefølger",
+    "danishSummary": "En ny metode er blevet præsenteret i en artikel på arXiv, der introducerer fundamentale dynamiske enheder til at opdage interaktionsstruktur i netværkssystemer fra støttefølger. Metoden er vigtig for at forbedre strukturel inferens i netværkssystemer, der er vigtige for mange tekniske og teknologi-orienterede områder.",
+    "whyItMatters": "Denne metode kan revolutionere vores kapacitet til at analysere og forstå komplekse netværkssystemer, hvilket har potentielle anvendelser i teknologi, medicin og økonomi, hvor interaktionsstruktur er af afgørende betydning.",
+    "enrichedAt": "2026-09-14T06:14:04.596Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.11934": {
+    "danishTitle": "Ny metode for at opdage interaktionsstruktur i netværkssystemer fra støttefølger",
+    "danishSummary": "En ny metode er blevet præsenteret i en artikel på arXiv, der introducerer fundamentale dynamiske enheder til at opdage interaktionsstruktur i netværkssystemer fra støttefølger. Metoden er vigtig for at forbedre strukturel inferens i netværkssystemer, der er vigtige for mange tekniske og teknologi-orienterede områder.",
+    "whyItMatters": "Denne metode kan revolutionere vores kapacitet til at analysere og forstå komplekse netværkssystemer, hvilket har potentielle anvendelser i teknologi, medicin og økonomi, hvor interaktionsstruktur er af afgørende betydning.",
+    "enrichedAt": "2026-09-14T06:14:04.596Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2609.11935v1": {
+    "danishTitle": "Fysik-baserede konformale prædiktioner: Integrering af PDE-konsistens i udfyldelsesfrie usikkerhedskvantifikation for neuronale operatører",
+    "danishSummary": "En ny metode, der kombinerer fysik-baserede konformale prædiktioner med neuronale operatører, er blevet præsenteret. Metoden sikrer, at neurale modeller respekterer partielle differentialligninger (PDE) i deres prædiktioner, hvilket forbedrer deres generelle forståelse og præcision i løsninger af komplekse problemer.",
+    "whyItMatters": "Dette bidrager til at gøre neuronale operatører mere robuste og præcise, hvilket er vigtigt for brug i videnskabelige og tekniske områder, hvor nøjagtighed er af primært vigtighed.",
+    "enrichedAt": "2026-09-14T06:14:23.882Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.11935": {
+    "danishTitle": "Fysik-baserede konformale prædiktioner: Integrering af PDE-konsistens i udfyldelsesfrie usikkerhedskvantifikation for neuronale operatører",
+    "danishSummary": "En ny metode, der kombinerer fysik-baserede konformale prædiktioner med neuronale operatører, er blevet præsenteret. Metoden sikrer, at neurale modeller respekterer partielle differentialligninger (PDE) i deres prædiktioner, hvilket forbedrer deres generelle forståelse og præcision i løsninger af komplekse problemer.",
+    "whyItMatters": "Dette bidrager til at gøre neuronale operatører mere robuste og præcise, hvilket er vigtigt for brug i videnskabelige og tekniske områder, hvor nøjagtighed er af primært vigtighed.",
+    "enrichedAt": "2026-09-14T06:14:23.882Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2609.11937v1": {
+    "danishTitle": "Fed-Equilibrium Framework for Topological Pareto Control i Robust og Fair Clinical Federated Learning",
+    "danishSummary": "Artiklen præsenterer Fed-Equilibrium, et nyt rammeværk til topologisk Pareto-kontrol i robust og fair kliniske Federated Learning. Dette rammeværk har til formål at løse problemet med 'knowledge dominance', hvor højt belastede centrale knuder kan overvælde mindre belastede knuder i multi-center kliniske netværk.",
+    "whyItMatters": "Fed-Equilibrium er vigtigt, da det kan forbedre fairhed og robusthed i Federated Learning, hvilket er afgørende for sikkerheden og etisk acceptabelitet af databrug i kliniske miljøer.",
+    "enrichedAt": "2026-09-14T06:14:40.139Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.11937": {
+    "danishTitle": "Fed-Equilibrium Framework for Topological Pareto Control i Robust og Fair Clinical Federated Learning",
+    "danishSummary": "Artiklen præsenterer Fed-Equilibrium, et nyt rammeværk til topologisk Pareto-kontrol i robust og fair kliniske Federated Learning. Dette rammeværk har til formål at løse problemet med 'knowledge dominance', hvor højt belastede centrale knuder kan overvælde mindre belastede knuder i multi-center kliniske netværk.",
+    "whyItMatters": "Fed-Equilibrium er vigtigt, da det kan forbedre fairhed og robusthed i Federated Learning, hvilket er afgørende for sikkerheden og etisk acceptabelitet af databrug i kliniske miljøer.",
+    "enrichedAt": "2026-09-14T06:14:40.139Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2609.11954v1": {
+    "danishTitle": "Ny værktøj til kvantisering optimiserer AI-modeller for effektivt deployment",
+    "danishSummary": "En ny forskning fra arXiv introducerer et værktøj til kvantisering, der effektiviserer deployment af AI-modeller på begrænset ressourcer. Dette værktøj hjælper med at optimere modeller uden at forsvare deres genvejse-kapacitet.",
+    "whyItMatters": "Denne teknologi er vigtig for udviklere og virksomheder, da den gør det muligt at bruge AI på mindre potente enheder uden at miste genvejse-kvaliteten, hvilket er essentiel for bredere deployment i IoT-og edge-environments.",
+    "enrichedAt": "2026-09-14T06:14:55.693Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.11954": {
+    "danishTitle": "Ny værktøj til kvantisering optimiserer AI-modeller for effektivt deployment",
+    "danishSummary": "En ny forskning fra arXiv introducerer et værktøj til kvantisering, der effektiviserer deployment af AI-modeller på begrænset ressourcer. Dette værktøj hjælper med at optimere modeller uden at forsvare deres genvejse-kapacitet.",
+    "whyItMatters": "Denne teknologi er vigtig for udviklere og virksomheder, da den gør det muligt at bruge AI på mindre potente enheder uden at miste genvejse-kvaliteten, hvilket er essentiel for bredere deployment i IoT-og edge-environments.",
+    "enrichedAt": "2026-09-14T06:14:55.693Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2609.11956v1": {
+    "danishTitle": "Offline Post-Training af Kode-LLMs: Fordele og Udfordringer",
+    "danishSummary": "Artiklen præsenterer nyt forskning om post-træningsproces med reinforcement learning (RL) i forbindelse med kode-genererende store språkmodelle (LLMs). Den undersøger, hvordan denne proces sikrer, at modeller følger instruktioner og producerer korrekt kode, mens den også tager højde for effektivitet og kvalitet.",
+    "whyItMatters": "Forudsigelserne om offline post-træning kan have betydende konsekvenser for AI-branchen, da de kan forbedre modellens evne til at følge instruktioner og generere korrekt kode, samtidig med at de optimere effektiviteten og kvaliteten.",
+    "enrichedAt": "2026-09-14T06:15:12.719Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.11956": {
+    "danishTitle": "Offline Post-Training af Kode-LLMs: Fordele og Udfordringer",
+    "danishSummary": "Artiklen præsenterer nyt forskning om post-træningsproces med reinforcement learning (RL) i forbindelse med kode-genererende store språkmodelle (LLMs). Den undersøger, hvordan denne proces sikrer, at modeller følger instruktioner og producerer korrekt kode, mens den også tager højde for effektivitet og kvalitet.",
+    "whyItMatters": "Forudsigelserne om offline post-træning kan have betydende konsekvenser for AI-branchen, da de kan forbedre modellens evne til at følge instruktioner og generere korrekt kode, samtidig med at de optimere effektiviteten og kvaliteten.",
+    "enrichedAt": "2026-09-14T06:15:12.719Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2609.11957v1": {
+    "danishTitle": "Forhåndsverificering for LLM-agenter: En ny metode til sikkerhed og effektivitet",
+    "danishSummary": "ArXiv har præsenteret en ny metode for forhåndsverificering af LLM-agenter, der kan forbedre deres sikkerhed og effektivitet ved at undgå udsendelse af fejlaktige handlinger. Denne teknik gør det muligt at overveje potentielle konsekvenser af en agents handlinger inden de udføres.",
+    "whyItMatters": "Dette bidrager til at forbedre den generelle sikkerhed og ansvarlighed af LLM-agenter, hvilket er vigtigt for at opfylde brugernes forventninger og undgå potentielle skader eller fejl.",
+    "enrichedAt": "2026-09-14T06:15:29.173Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.11957": {
+    "danishTitle": "Forhåndsverificering for LLM-agenter: En ny metode til sikkerhed og effektivitet",
+    "danishSummary": "ArXiv har præsenteret en ny metode for forhåndsverificering af LLM-agenter, der kan forbedre deres sikkerhed og effektivitet ved at undgå udsendelse af fejlaktige handlinger. Denne teknik gør det muligt at overveje potentielle konsekvenser af en agents handlinger inden de udføres.",
+    "whyItMatters": "Dette bidrager til at forbedre den generelle sikkerhed og ansvarlighed af LLM-agenter, hvilket er vigtigt for at opfylde brugernes forventninger og undgå potentielle skader eller fejl.",
+    "enrichedAt": "2026-09-14T06:15:29.173Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2609.11958v1": {
+    "danishTitle": "Ny model for at dekode smagperception gennem beregningsbaseret modellering af komponentinteraktioner",
+    "danishSummary": "En ny model for beregningsbaseret modellering af olfaktion og smagperception har præsenteret sig på arXiv. Modellen giver en dybere forståelse af hvordan forskellige smagkomponenter interagerer og påvirker den samlede smagperception, hvilket kan have betydning for både forskning og industrielle anvendelser.",
+    "whyItMatters": "Modellen kan potentielt revolutionere vores forståelse af smagperception og bidrage til udviklingen af mere effektive smagteknologier, der kan anvendes i fødeindustrien og andre sektorer.",
+    "enrichedAt": "2026-09-14T06:15:45.254Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.11958": {
+    "danishTitle": "Ny model for at dekode smagperception gennem beregningsbaseret modellering af komponentinteraktioner",
+    "danishSummary": "En ny model for beregningsbaseret modellering af olfaktion og smagperception har præsenteret sig på arXiv. Modellen giver en dybere forståelse af hvordan forskellige smagkomponenter interagerer og påvirker den samlede smagperception, hvilket kan have betydning for både forskning og industrielle anvendelser.",
+    "whyItMatters": "Modellen kan potentielt revolutionere vores forståelse af smagperception og bidrage til udviklingen af mere effektive smagteknologier, der kan anvendes i fødeindustrien og andre sektorer.",
+    "enrichedAt": "2026-09-14T06:15:45.254Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2609.11959v1": {
+    "danishTitle": "Space som en Interventionel Invariant: Overlappende Prædictive Geometri for Stratificerede Byer og Em-Spaced Intelligence",
+    "danishSummary": "Artiklen præsenterer en ny teoretisk ramme, der kombinerer spatialitet og intelligens i en unik geometrisk model. Den nye ramme, 'Space as an Interventional Invariant', har potentielt stor indvirkning på byplanlægning, urbanisme og intelligente byer, samt på den overordnede forståelse af spatialitet i kogenerativt læringssystemer.",
+    "whyItMatters": "Denne nye model kan revolutionere hvordan vi tænker om spatialitet i intelligente byer og kan have betydende konsekvenser for at opbygge mere effektive og hårdtageorienterede bymiljøer, der optimere både menneskelige og teknologiske interaktioner.",
+    "enrichedAt": "2026-09-14T06:16:03.243Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.11959": {
+    "danishTitle": "Space som en Interventionel Invariant: Overlappende Prædictive Geometri for Stratificerede Byer og Em-Spaced Intelligence",
+    "danishSummary": "Artiklen præsenterer en ny teoretisk ramme, der kombinerer spatialitet og intelligens i en unik geometrisk model. Den nye ramme, 'Space as an Interventional Invariant', har potentielt stor indvirkning på byplanlægning, urbanisme og intelligente byer, samt på den overordnede forståelse af spatialitet i kogenerativt læringssystemer.",
+    "whyItMatters": "Denne nye model kan revolutionere hvordan vi tænker om spatialitet i intelligente byer og kan have betydende konsekvenser for at opbygge mere effektive og hårdtageorienterede bymiljøer, der optimere både menneskelige og teknologiske interaktioner.",
+    "enrichedAt": "2026-09-14T06:16:03.243Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2609.11961v1": {
+    "danishTitle": "On-Device Language Models Tilbyder Privatskygge i Stressprediktion",
+    "danishSummary": "En ny studie præsenterer on-device language models (ODLMs), der kan bruges til at prædiktere stress på mobilenheder uden at overdrage personlige data til en cloudbaseret platform. Dette bidrager til at beskytte brugernes privatliv og forbedre effektiviteten af mobilhelseinterventioner.",
+    "whyItMatters": "ODLMs giver en ny vise at sikre brugernes privatitet i helseovervågning, hvilket er vigtigt for at opbygge tilstandskonfidens og for at gøre teknologien mere tilgængelig for en bredere samfundsmæssig gruppe.",
+    "enrichedAt": "2026-09-14T06:16:19.336Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.11961": {
+    "danishTitle": "On-Device Language Models Tilbyder Privatskygge i Stressprediktion",
+    "danishSummary": "En ny studie præsenterer on-device language models (ODLMs), der kan bruges til at prædiktere stress på mobilenheder uden at overdrage personlige data til en cloudbaseret platform. Dette bidrager til at beskytte brugernes privatliv og forbedre effektiviteten af mobilhelseinterventioner.",
+    "whyItMatters": "ODLMs giver en ny vise at sikre brugernes privatitet i helseovervågning, hvilket er vigtigt for at opbygge tilstandskonfidens og for at gøre teknologien mere tilgængelig for en bredere samfundsmæssig gruppe.",
+    "enrichedAt": "2026-09-14T06:16:19.336Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2609.11993v1": {
+    "danishTitle": "FINESSE: En Agentbaseret Simuleringsmodel og Benchmark Dataset for Finansielle Hændelsessekvenser",
+    "danishSummary": "ArXiv har præsenteret en ny model og dataset, der kalles FINESSE, der giver en bredere og mere repræsentativ vurdering af multimediale finansielle hændelser. Model og dataset er designet til at udfordre og forbedre algoritmer i finansielle analyse og prediktion.",
+    "whyItMatters": "FINESSE er vigtigt, da det tilbyder en mere omfattende og repræsentativ platform for forskere og udviklere, hvilket kan føre til bedre præstationer i finansielle AI-systemer og bedre beslutningstagning i finanssektorerne.",
+    "enrichedAt": "2026-09-14T06:16:35.559Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.11993": {
+    "danishTitle": "FINESSE: En Agentbaseret Simuleringsmodel og Benchmark Dataset for Finansielle Hændelsessekvenser",
+    "danishSummary": "ArXiv har præsenteret en ny model og dataset, der kalles FINESSE, der giver en bredere og mere repræsentativ vurdering af multimediale finansielle hændelser. Model og dataset er designet til at udfordre og forbedre algoritmer i finansielle analyse og prediktion.",
+    "whyItMatters": "FINESSE er vigtigt, da det tilbyder en mere omfattende og repræsentativ platform for forskere og udviklere, hvilket kan føre til bedre præstationer i finansielle AI-systemer og bedre beslutningstagning i finanssektorerne.",
+    "enrichedAt": "2026-09-14T06:16:35.559Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2609.11995v1": {
+    "danishTitle": "Forståelige forudsætninger fra mobil-sensering gennem LLM-ledet konceptintegrering",
+    "danishSummary": "Artiklen præsenterer en ny metode, der bruger LLM (Large Language Model) til at integrere koncepter i forudsætningsoptimering baseret på mobil-sensering. Dette gør forudsætningsoptimering mere forståelige og anvendelige i sundhedskontekster, hvor detaljerede og kontinuerlige måledata er vigtige.",
+    "whyItMatters": "Denne metode kan forbedre den brugervenlighed og tillid til AI-systemer i sundhedskontekster, hvilket er vigtigt for at sikre, at patienter og medarbejdere kan have tillid til de prædictive modeller, der bruges i deres daglige liv.",
+    "enrichedAt": "2026-09-14T06:16:53.303Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.11995": {
+    "danishTitle": "Forståelige forudsætninger fra mobil-sensering gennem LLM-ledet konceptintegrering",
+    "danishSummary": "Artiklen præsenterer en ny metode, der bruger LLM (Large Language Model) til at integrere koncepter i forudsætningsoptimering baseret på mobil-sensering. Dette gør forudsætningsoptimering mere forståelige og anvendelige i sundhedskontekster, hvor detaljerede og kontinuerlige måledata er vigtige.",
+    "whyItMatters": "Denne metode kan forbedre den brugervenlighed og tillid til AI-systemer i sundhedskontekster, hvilket er vigtigt for at sikre, at patienter og medarbejdere kan have tillid til de prædictive modeller, der bruges i deres daglige liv.",
+    "enrichedAt": "2026-09-14T06:16:53.303Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2609.11997v1": {
+    "danishTitle": "DCRA: Diffusion-Conditioned Representation Alignment for Robust Time-Series Learning",
+    "danishSummary": "Artiklen præsenterer en ny metode kaldet DCRA (Diffusion-Conditioned Representation Alignment), der gør det muligt at lære robuste repræsentationer af tidsrække-signaler under støj og distributionsskift, især i kliniske anvendelser som EEG. Metoden bidrager til at forbedre præcisionen og robustheden af AI-systemer i tidsrækkeanalyser.",
+    "whyItMatters": "DCRA er vigtigt for AI-branchen, da det kan forbedre præcisionen og robustheden af tidsrækkeanalyser i kritiske områder som kliniske diagnoseprocesser, hvilket kan have betydelige konsekvenser for patientbehandlingen og diagnostics.",
+    "enrichedAt": "2026-09-14T06:17:10.341Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.11997": {
+    "danishTitle": "DCRA: Diffusion-Conditioned Representation Alignment for Robust Time-Series Learning",
+    "danishSummary": "Artiklen præsenterer en ny metode kaldet DCRA (Diffusion-Conditioned Representation Alignment), der gør det muligt at lære robuste repræsentationer af tidsrække-signaler under støj og distributionsskift, især i kliniske anvendelser som EEG. Metoden bidrager til at forbedre præcisionen og robustheden af AI-systemer i tidsrækkeanalyser.",
+    "whyItMatters": "DCRA er vigtigt for AI-branchen, da det kan forbedre præcisionen og robustheden af tidsrækkeanalyser i kritiske områder som kliniske diagnoseprocesser, hvilket kan have betydelige konsekvenser for patientbehandlingen og diagnostics.",
+    "enrichedAt": "2026-09-14T06:17:10.341Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2609.11998v1": {
+    "danishTitle": "Konstant Størrelses Cache Bidrar til Block Diffusion i Språkmodelle",
+    "danishSummary": "En ny forskning fra arXiv introducerer en konstant størrelses cache, der optimiserer block diffusion i diffusion språkmodelle. Dette gør det muligt at parallellt dekode token, samtidig med at den undgår de naive key-value cachestrategier, der normalt bruges i autoregressive inferencer. Resultatet er en forbedret effektivitet i bidirektionsdempning.",
+    "whyItMatters": "Denne ny teknologi er vigtig for at forbedre effektiviteten i språkmodelle, hvilket kan føre til hurtigere og mere præcise inferencer, der er nødvendige for mange AI-virksomheder og brugere.",
+    "enrichedAt": "2026-09-14T06:17:27.151Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.11998": {
+    "danishTitle": "Konstant Størrelses Cache Bidrar til Block Diffusion i Språkmodelle",
+    "danishSummary": "En ny forskning fra arXiv introducerer en konstant størrelses cache, der optimiserer block diffusion i diffusion språkmodelle. Dette gør det muligt at parallellt dekode token, samtidig med at den undgår de naive key-value cachestrategier, der normalt bruges i autoregressive inferencer. Resultatet er en forbedret effektivitet i bidirektionsdempning.",
+    "whyItMatters": "Denne ny teknologi er vigtig for at forbedre effektiviteten i språkmodelle, hvilket kan føre til hurtigere og mere præcise inferencer, der er nødvendige for mange AI-virksomheder og brugere.",
+    "enrichedAt": "2026-09-14T06:17:27.151Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2609.12002v1": {
+    "danishTitle": "Kan vi tro på LLM-jurister? Et studie om fordelingsafhængige fordelinger og multi-juristerens ensemble for fordelingskalibrering",
+    "danishSummary": "Et nyttigt studie fra arXiv undersøger, hvorvidt kraftafhængige fordelinger i LLM-jurister kan påvirke deres beslutningsfærdigheder. Forskere præsenterer en metode ved hjælp af et ensemble af flere jurister, der kalibrerer fordelinger og potentielt mindsker systematiske fordelinger.",
+    "whyItMatters": "Studiet er vigtigt for AI-branchen, da det giver en dybere forståelse af potentielle fordelinger i LLM-jurister og indikerer nye metoder til at forbedre deres objektivitet og tillidslighed i modellering og evaluering.",
+    "enrichedAt": "2026-09-14T06:17:45.185Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.12002": {
+    "danishTitle": "Kan vi tro på LLM-jurister? Et studie om fordelingsafhængige fordelinger og multi-juristerens ensemble for fordelingskalibrering",
+    "danishSummary": "Et nyttigt studie fra arXiv undersøger, hvorvidt kraftafhængige fordelinger i LLM-jurister kan påvirke deres beslutningsfærdigheder. Forskere præsenterer en metode ved hjælp af et ensemble af flere jurister, der kalibrerer fordelinger og potentielt mindsker systematiske fordelinger.",
+    "whyItMatters": "Studiet er vigtigt for AI-branchen, da det giver en dybere forståelse af potentielle fordelinger i LLM-jurister og indikerer nye metoder til at forbedre deres objektivitet og tillidslighed i modellering og evaluering.",
+    "enrichedAt": "2026-09-14T06:17:45.185Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2609.12011v1": {
+    "danishTitle": "QTrans: En kvantekonvertering for sentiment-klassifikation",
+    "danishSummary": "Artiklen præsenterer QTrans, en ny model baseret på kvantekonverteringer, der optimeres til små skala, binære sentiment-klassifikationsopgaver. Modelen håndterer negationer, kontrastive skifter og korsordens afhængigheder bedre end traditionelle metoder.",
+    "whyItMatters": "QTrans' kapacitet til at håndtere komplekse sentiment-kompleksiteter kan revolutionere kundestemninganalyser og brandmanagement, hvor negationer og kontrastive elementer spiller en vigtig rolle i beslutningsprocesserne.",
+    "enrichedAt": "2026-09-14T06:18:00.073Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.12011": {
+    "danishTitle": "QTrans: En kvantekonvertering for sentiment-klassifikation",
+    "danishSummary": "Artiklen præsenterer QTrans, en ny model baseret på kvantekonverteringer, der optimeres til små skala, binære sentiment-klassifikationsopgaver. Modelen håndterer negationer, kontrastive skifter og korsordens afhængigheder bedre end traditionelle metoder.",
+    "whyItMatters": "QTrans' kapacitet til at håndtere komplekse sentiment-kompleksiteter kan revolutionere kundestemninganalyser og brandmanagement, hvor negationer og kontrastive elementer spiller en vigtig rolle i beslutningsprocesserne.",
+    "enrichedAt": "2026-09-14T06:18:00.073Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }

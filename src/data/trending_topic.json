@@ -1,48 +1,49 @@
 {
-  "headline": "AI-udvikling begrenses for at undgå ucontrollet selvforbedring",
-  "summary": "Anthropic's CEO Dario Amodei har foreslået begrensninger af AI-udvikling for at undgå ucontrollet selvforbedring. Disse foranstaltninger er diskuterede af Sam Altman fra OpenAI og Demis Hassabis fra DeepMind, der støtter Amodeis forslag. De drøfter, hvordan AI-udviklingen kan blive mere ansvarlig og sikker.",
-  "whyItMatters": "For at sikre, at AI-udviklingen ikke udbryder menneskets kontrol og sikkerhed, er det vigtigt at implementere begrensninger og ansvarlige praksis.",
-  "synthesizedAt": "2026-09-14T03:06:02.192Z",
+  "headline": "Ny metode for forhåndsverificering af LLM-agenter",
+  "summary": "ArXiv har præsenteret en ny metode for forhåndsverificering af LLM-agenter, der kan forbedre deres sikkerhed og effektivitet. Dette indikerer, at vi kan undgå udsendelse af uforholdsmæssigt eller uforståelige svar, hvilket er vigtigt for brugeren tilstandskontrol.",
+  "whyItMatters": "Det forbedrer sikkerheden og præcisionen af LLM-agenter, der er centrale i mange brugemråder, herunder juridiske, medicinske og finansielle.",
+  "synthesizedAt": "2026-09-14T06:18:51.012Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3163373",
-    "title": "Anthropic-CEO planlægger langsommere AI-udvikling for at sikre et ansvarligt udviklingsforløb",
-    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-09-12T19:34:44.000Z",
-    "badgeColor": "emerald",
-    "angle": "Strategisk beslutning"
+    "id": "arxiv-lg-oai:arXiv.org:2609.11957v1",
+    "title": "Forhåndsverificering for LLM-agenter: En ny metode til sikkerhed og effektivitet",
+    "link": "https://arxiv.org/abs/2609.11957",
+    "sourceName": "arXiv cs.LG (Machine Learning)",
+    "sourceId": "arxiv-lg",
+    "pubDate": "2026-09-14T04:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "Forhåndsverificering"
   },
   "supportingStories": [
     {
-      "id": "tech-policy-press-https://techpolicy.press/ai-governance-reaches-crisis-point-ahead-of-trumpxi-summit",
-      "title": "AI-reguleringen står på knap, da Trump og Xi mødes",
-      "link": "https://techpolicy.press/ai-governance-reaches-crisis-point-ahead-of-trumpxi-summit",
-      "sourceName": "Tech Policy Press",
-      "sourceId": "tech-policy-press",
-      "pubDate": "2026-09-13T13:30:01.000Z",
-      "badgeColor": "slate"
+      "id": "arxiv-cl-oai:arXiv.org:2609.12191v1",
+      "title": "GAUGE: En ny metode til bedre vurdering af LLM-agenter",
+      "link": "https://arxiv.org/abs/2609.12191",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-14T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "GAUGE metode"
     },
     {
-      "id": "cognitive-revolution-yt:video:wqQ5kIwe1nQ",
-      "title": "AI:AM Highlights: Astra som AGI, OpenAI's Pause og Mozilla's Mythos",
-      "link": "https://www.youtube.com/watch?v=wqQ5kIwe1nQ",
-      "sourceName": "The Cognitive Revolution",
-      "sourceId": "cognitive-revolution",
-      "pubDate": "2026-09-12T15:45:14.000Z",
-      "badgeColor": "teal",
-      "angle": "Analysen af tendenser"
+      "id": "arxiv-cl-oai:arXiv.org:2609.12260v1",
+      "title": "HypoKG: Evidens-Baseret Biomedicinsk Hypotesgenerering Udenfor Endpunktviden",
+      "link": "https://arxiv.org/abs/2609.12260",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-14T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "HypoKG"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40186",
-      "title": "Anthropic CEO Amodei foreslår begrensninger af AI-udvikling for at undgå ucontrollet selvforbedring",
-      "link": "https://the-decoder.com/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-09-12T15:03:21.000Z",
-      "badgeColor": "slate",
-      "angle": "Kritik & debat"
+      "id": "arxiv-lg-oai:arXiv.org:2609.11995v1",
+      "title": "Forståelige forudsætninger fra mobil-sensering gennem LLM-ledet konceptintegrering",
+      "link": "https://arxiv.org/abs/2609.11995",
+      "sourceName": "arXiv cs.LG (Machine Learning)",
+      "sourceId": "arxiv-lg",
+      "pubDate": "2026-09-14T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "LLM-ledet konceptintegrering"
     }
   ]
 }
