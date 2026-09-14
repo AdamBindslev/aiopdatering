@@ -1,27 +1,37 @@
 {
-  "headline": "OpenAI's Pace the Frontier initiativ udfordrer traditionelle AI-strategier",
-  "summary": "OpenAI har præsenteret 'Pace the Frontier', et initiativ, der kaster lys på hastig AI-udvikling. Dette sætter gang i en ny bølge af lokale AI-agenter og udfordrer præsenterede prismodeller fra store udbydere.",
-  "whyItMatters": "Det demokratiserer adgangen til avanceret AI og gør virksomheder mindre afhængige af de store platforme.",
-  "synthesizedAt": "2026-09-14T15:36:03.903Z",
+  "headline": "AI-branchens doomer rot: Ledere kritisere hastighed",
+  "summary": "MIT Technology Review rapporterer, at ledere i AI-branchen nu kritisere hurtig udvikling og foreslår en mere fornuftig tilgang. Dario Amodei, CEO af Anthropic, har indledt en debat, der kan have stor konsekvens for hele brancheindustrien.",
+  "whyItMatters": "Debatten kan føre til mere regulering og kontrol, hvilket påvirker udviklere og samfundets opfattelse af AI-udviklingens risici.",
+  "synthesizedAt": "2026-09-14T18:45:08.574Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-zvi-https://thezvi.substack.com/p/we-must-pace-the-frontier",
-    "title": "Dario Amodei præsenterer 'Pace the Frontier'-kallet",
-    "link": "https://thezvi.substack.com/p/we-must-pace-the-frontier",
-    "sourceName": "Don't Worry About the Vase (Zvi)",
-    "sourceId": "the-zvi",
-    "pubDate": "2026-09-14T15:21:57.000Z",
-    "badgeColor": "emerald",
-    "angle": "Officiel udmelding"
+    "id": "mit-tech-review-https://www.technologyreview.com/?p=1144048",
+    "title": "AI-branchen tager en doomer rot. Hvorfor nu?",
+    "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+    "sourceName": "MIT Technology Review",
+    "sourceId": "mit-tech-review",
+    "pubDate": "2026-09-14T17:54:22.000Z",
+    "badgeColor": "red",
+    "angle": "Brancheanalyse"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3163478",
-      "title": "OpenAI's new roadmap feature påvirker AI-branchens strategi",
-      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-14T15:00:00.000Z",
+      "id": "latent-space-https://www.latent.space/p/recursive",
+      "title": "Richard Socher's Ny Startup Tager Skridt I RSI-Industrien",
+      "link": "https://www.latent.space/p/recursive",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-09-14T16:04:16.000Z",
+      "badgeColor": "pink",
+      "angle": "Officiel udmelding"
+    },
+    {
+      "id": "the-zvi-https://thezvi.substack.com/p/we-must-pace-the-frontier",
+      "title": "Dario Amodei præsenterer 'Pace the Frontier'-kallet",
+      "link": "https://thezvi.substack.com/p/we-must-pace-the-frontier",
+      "sourceName": "Don't Worry About the Vase (Zvi)",
+      "sourceId": "the-zvi",
+      "pubDate": "2026-09-14T15:21:57.000Z",
       "badgeColor": "emerald",
       "angle": "Teknisk dybde"
     },
@@ -32,16 +42,6 @@
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
       "pubDate": "2026-09-14T12:20:22.000Z",
-      "badgeColor": "slate",
-      "angle": "Brancheanalyse"
-    },
-    {
-      "id": "tech-policy-press-https://techpolicy.press/how-europe-can-escape-a-captured-ai-ecosystem",
-      "title": "Europa kan udflyd et kontrollerede AI-system",
-      "link": "https://techpolicy.press/how-europe-can-escape-a-captured-ai-ecosystem",
-      "sourceName": "Tech Policy Press",
-      "sourceId": "tech-policy-press",
-      "pubDate": "2026-09-14T12:08:44.000Z",
       "badgeColor": "slate"
     }
   ]
