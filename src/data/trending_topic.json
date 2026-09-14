@@ -1,48 +1,48 @@
 {
-  "headline": "Kina udfordrer amerikanske AI-sikkerhedspolitikker",
-  "summary": "Kina har afvist amerikanske råd om AI-sikkerhed og kritisere praksis, hvilket udkæmper forvirring og potentielt nye regler i AI-branchen. Dette sætter gang i en ny bølge af internationale spændinger og udfordringer for global AI-arkitektur.",
-  "whyItMatters": "Det kan føre til nye internationale regler og standarder, der påvirker teknologiudviklingen og -brug i både Kina og USA.",
-  "synthesizedAt": "2026-09-14T12:29:24.226Z",
+  "headline": "OpenAI's Pace the Frontier initiativ udfordrer traditionelle AI-strategier",
+  "summary": "OpenAI har præsenteret 'Pace the Frontier', et initiativ, der kaster lys på hastig AI-udvikling. Dette sætter gang i en ny bølge af lokale AI-agenter og udfordrer præsenterede prismodeller fra store udbydere.",
+  "whyItMatters": "Det demokratiserer adgangen til avanceret AI og gør virksomheder mindre afhængige af de store platforme.",
+  "synthesizedAt": "2026-09-14T15:36:03.903Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=40223",
-    "title": "Kina rejser sig mod amerikanske AI-sikkerhedsovervejelser",
-    "link": "https://the-decoder.com/china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-09-14T12:20:22.000Z",
-    "badgeColor": "slate",
+    "id": "the-zvi-https://thezvi.substack.com/p/we-must-pace-the-frontier",
+    "title": "Dario Amodei præsenterer 'Pace the Frontier'-kallet",
+    "link": "https://thezvi.substack.com/p/we-must-pace-the-frontier",
+    "sourceName": "Don't Worry About the Vase (Zvi)",
+    "sourceId": "the-zvi",
+    "pubDate": "2026-09-14T15:21:57.000Z",
+    "badgeColor": "emerald",
     "angle": "Officiel udmelding"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40220",
-      "title": "Sam Altman foreslår modtagen af AI-udvikling, men bekræfter fortidens hastighed",
-      "link": "https://the-decoder.com/sam-altman-calls-for-pacing-ai-development-but-promises-rapid-progress-will-continue/",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3163478",
+      "title": "OpenAI's new roadmap feature påvirker AI-branchens strategi",
+      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-09-14T15:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Teknisk dybde"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=40223",
+      "title": "Kina rejser sig mod amerikanske AI-sikkerhedsovervejelser",
+      "link": "https://the-decoder.com/china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-09-14T09:39:59.000Z",
+      "pubDate": "2026-09-14T12:20:22.000Z",
       "badgeColor": "slate",
       "angle": "Brancheanalyse"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.12085v1",
-      "title": "Hvad Tæller Som Fejl? Annotering af Udtalebegivenheder i Koranens Hjortefedte Transkripter",
-      "link": "https://arxiv.org/abs/2609.12085",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-14T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Teknisk dybde"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2609.12111v1",
-      "title": "Kostpris for Komprimering: En Rate-Distortion Grænse for Fakta-Hallucination",
-      "link": "https://arxiv.org/abs/2609.12111",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-14T04:00:00.000Z",
-      "badgeColor": "zinc"
+      "id": "tech-policy-press-https://techpolicy.press/how-europe-can-escape-a-captured-ai-ecosystem",
+      "title": "Europa kan udflyd et kontrollerede AI-system",
+      "link": "https://techpolicy.press/how-europe-can-escape-a-captured-ai-ecosystem",
+      "sourceName": "Tech Policy Press",
+      "sourceId": "tech-policy-press",
+      "pubDate": "2026-09-14T12:08:44.000Z",
+      "badgeColor": "slate"
     }
   ]
 }
