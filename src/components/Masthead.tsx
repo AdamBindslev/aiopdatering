@@ -189,6 +189,5 @@ export const Masthead: React.FC<MastheadProps> = ({
         </div>
       </div>
     </header>
-    </header>
   );
 };
