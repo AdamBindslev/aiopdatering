@@ -1,20 +1,40 @@
 {
-  "headline": "Ny metode for forhåndsverificering af LLM-agenter",
-  "summary": "ArXiv har præsenteret en ny metode for forhåndsverificering af LLM-agenter, der kan forbedre deres sikkerhed og effektivitet. Dette indikerer, at vi kan undgå udsendelse af uforholdsmæssigt eller uforståelige svar, hvilket er vigtigt for brugeren tilstandskontrol.",
-  "whyItMatters": "Det forbedrer sikkerheden og præcisionen af LLM-agenter, der er centrale i mange brugemråder, herunder juridiske, medicinske og finansielle.",
-  "synthesizedAt": "2026-09-14T06:18:51.012Z",
+  "headline": "Ny AI-assistent forvirrer virksomhedsområdet",
+  "summary": "Fyxer har udviklet en ny AI-assistent, der kan følge trådene gennem e-mailer, møder og arbejdsproceser, baseret på OpenAI-modeller. Dette sætter gang i en ny bølge af lokale AI-agenter og udfordrer de store udbyderes prismodeller.",
+  "whyItMatters": "Det demokratiserer adgangen til avanceret AI og gør virksomheder mindre afhængige af de store platforme.",
+  "synthesizedAt": "2026-09-14T09:22:34.255Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-lg-oai:arXiv.org:2609.11957v1",
-    "title": "Forhåndsverificering for LLM-agenter: En ny metode til sikkerhed og effektivitet",
-    "link": "https://arxiv.org/abs/2609.11957",
-    "sourceName": "arXiv cs.LG (Machine Learning)",
-    "sourceId": "arxiv-lg",
-    "pubDate": "2026-09-14T04:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "Forhåndsverificering"
+    "id": "openai-channel-yt:video:uA5PiAXKGis",
+    "title": "Fyxer opbygger AI-assistent, der gør virksomhederne tiltrængte",
+    "link": "https://www.youtube.com/watch?v=uA5PiAXKGis",
+    "sourceName": "OpenAI (YouTube)",
+    "sourceId": "openai-channel",
+    "pubDate": "2026-09-14T09:00:55.000Z",
+    "badgeColor": "emerald",
+    "angle": "Officiel udmelding"
   },
   "supportingStories": [
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2609.12085v1",
+      "title": "Hvad Tæller Som Fejl? Annotering af Udtalebegivenheder i Koranens Hjortefedte Transkripter",
+      "link": "https://arxiv.org/abs/2609.12085",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-14T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Teknisk dybde"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2609.12122v1",
+      "title": "Konsonanter's bidrag til ordforståelse kan nu måles præcist",
+      "link": "https://arxiv.org/abs/2609.12122",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-14T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Brancheanalyse"
+    },
     {
       "id": "arxiv-cl-oai:arXiv.org:2609.12191v1",
       "title": "GAUGE: En ny metode til bedre vurdering af LLM-agenter",
@@ -22,28 +42,7 @@
       "sourceName": "arXiv cs.CL (Sprog & LLM)",
       "sourceId": "arxiv-cl",
       "pubDate": "2026-09-14T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "GAUGE metode"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2609.12260v1",
-      "title": "HypoKG: Evidens-Baseret Biomedicinsk Hypotesgenerering Udenfor Endpunktviden",
-      "link": "https://arxiv.org/abs/2609.12260",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-14T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "HypoKG"
-    },
-    {
-      "id": "arxiv-lg-oai:arXiv.org:2609.11995v1",
-      "title": "Forståelige forudsætninger fra mobil-sensering gennem LLM-ledet konceptintegrering",
-      "link": "https://arxiv.org/abs/2609.11995",
-      "sourceName": "arXiv cs.LG (Machine Learning)",
-      "sourceId": "arxiv-lg",
-      "pubDate": "2026-09-14T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "LLM-ledet konceptintegrering"
+      "badgeColor": "zinc"
     }
   ]
 }
