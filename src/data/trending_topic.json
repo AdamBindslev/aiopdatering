@@ -1,39 +1,28 @@
 {
-  "headline": "OpenAI's GPT-6 Astra Drivende Ny AI-Revolution",
-  "summary": "OpenAI har præsenteret GPT-6 Astra, en ny model, der kan håndtere komplekse opgaver og er mindre afhængig af overvågning. Dette indikerer en ny bølge af AI-udvikling, der kan udfordre eksisterende platformer og indføre nye metoder i AI-branchen.",
-  "whyItMatters": "Denne nye model kan revolutionere AI-udvikling og brug, da den gør det muligt for små virksomheder at bruge avanceret AI uden at have tilgang til de større platformers ressourcer.",
-  "synthesizedAt": "2026-09-13T23:59:55.276Z",
+  "headline": "AI-udvikling begrenses for at undgå ucontrollet selvforbedring",
+  "summary": "Anthropic's CEO Dario Amodei har foreslået begrensninger af AI-udvikling for at undgå ucontrollet selvforbedring. Disse foranstaltninger er diskuterede af Sam Altman fra OpenAI og Demis Hassabis fra DeepMind, der støtter Amodeis forslag. De drøfter, hvordan AI-udviklingen kan blive mere ansvarlig og sikker.",
+  "whyItMatters": "For at sikre, at AI-udviklingen ikke udbryder menneskets kontrol og sikkerhed, er det vigtigt at implementere begrensninger og ansvarlige praksis.",
+  "synthesizedAt": "2026-09-14T03:06:02.192Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=40123",
-    "title": "GPT-6 Astra piloter surveillance-dron og leder virksomhed på sit eget",
-    "link": "https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-09-13T10:52:16.000Z",
-    "badgeColor": "slate",
-    "angle": "Primær kilde"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3163373",
+    "title": "Anthropic-CEO planlægger langsommere AI-udvikling for at sikre et ansvarligt udviklingsforløb",
+    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-09-12T19:34:44.000Z",
+    "badgeColor": "emerald",
+    "angle": "Strategisk beslutning"
   },
   "supportingStories": [
     {
-      "id": "openai-https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "title": "Perplexity-trusts GPT-6 Astra med end-to-end systemer",
-      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "sourceName": "OpenAI News",
-      "sourceId": "openai",
-      "pubDate": "2026-09-14T00:00:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Officiel udmelding"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=40208",
-      "title": "Nye åbne vægt search-agenter er stærkeste i sin klasse",
-      "link": "https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-09-13T12:58:18.000Z",
-      "badgeColor": "slate",
-      "angle": "Teknisk dybde"
+      "id": "tech-policy-press-https://techpolicy.press/ai-governance-reaches-crisis-point-ahead-of-trumpxi-summit",
+      "title": "AI-reguleringen står på knap, da Trump og Xi mødes",
+      "link": "https://techpolicy.press/ai-governance-reaches-crisis-point-ahead-of-trumpxi-summit",
+      "sourceName": "Tech Policy Press",
+      "sourceId": "tech-policy-press",
+      "pubDate": "2026-09-13T13:30:01.000Z",
+      "badgeColor": "slate"
     },
     {
       "id": "cognitive-revolution-yt:video:wqQ5kIwe1nQ",
@@ -43,17 +32,17 @@
       "sourceId": "cognitive-revolution",
       "pubDate": "2026-09-12T15:45:14.000Z",
       "badgeColor": "teal",
-      "angle": "Brancheanalyse"
+      "angle": "Analysen af tendenser"
     },
     {
-      "id": "openai-channel-yt:video:SiJGdlmdUms",
-      "title": "OpenAI præsenterer GPT-6 Astra, en mere selvstændig modell",
-      "link": "https://www.youtube.com/shorts/SiJGdlmdUms",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-09-12T15:00:30.000Z",
-      "badgeColor": "emerald",
-      "angle": "Teknisk præsentation"
+      "id": "the-decoder-https://the-decoder.com/?p=40186",
+      "title": "Anthropic CEO Amodei foreslår begrensninger af AI-udvikling for at undgå ucontrollet selvforbedring",
+      "link": "https://the-decoder.com/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-12T15:03:21.000Z",
+      "badgeColor": "slate",
+      "angle": "Kritik & debat"
     }
   ]
 }
