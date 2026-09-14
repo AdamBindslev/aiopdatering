@@ -1,20 +1,30 @@
 {
-  "headline": "Ny AI-assistent forvirrer virksomhedsområdet",
-  "summary": "Fyxer har udviklet en ny AI-assistent, der kan følge trådene gennem e-mailer, møder og arbejdsproceser, baseret på OpenAI-modeller. Dette sætter gang i en ny bølge af lokale AI-agenter og udfordrer de store udbyderes prismodeller.",
-  "whyItMatters": "Det demokratiserer adgangen til avanceret AI og gør virksomheder mindre afhængige af de store platforme.",
-  "synthesizedAt": "2026-09-14T09:22:34.255Z",
+  "headline": "Kina udfordrer amerikanske AI-sikkerhedspolitikker",
+  "summary": "Kina har afvist amerikanske råd om AI-sikkerhed og kritisere praksis, hvilket udkæmper forvirring og potentielt nye regler i AI-branchen. Dette sætter gang i en ny bølge af internationale spændinger og udfordringer for global AI-arkitektur.",
+  "whyItMatters": "Det kan føre til nye internationale regler og standarder, der påvirker teknologiudviklingen og -brug i både Kina og USA.",
+  "synthesizedAt": "2026-09-14T12:29:24.226Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-channel-yt:video:uA5PiAXKGis",
-    "title": "Fyxer opbygger AI-assistent, der gør virksomhederne tiltrængte",
-    "link": "https://www.youtube.com/watch?v=uA5PiAXKGis",
-    "sourceName": "OpenAI (YouTube)",
-    "sourceId": "openai-channel",
-    "pubDate": "2026-09-14T09:00:55.000Z",
-    "badgeColor": "emerald",
+    "id": "the-decoder-https://the-decoder.com/?p=40223",
+    "title": "Kina rejser sig mod amerikanske AI-sikkerhedsovervejelser",
+    "link": "https://the-decoder.com/china-fires-back-at-u-s-ai-safety-warnings-calling-them-fearmongering-to-lock-in-american-advantage/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-09-14T12:20:22.000Z",
+    "badgeColor": "slate",
     "angle": "Officiel udmelding"
   },
   "supportingStories": [
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=40220",
+      "title": "Sam Altman foreslår modtagen af AI-udvikling, men bekræfter fortidens hastighed",
+      "link": "https://the-decoder.com/sam-altman-calls-for-pacing-ai-development-but-promises-rapid-progress-will-continue/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-14T09:39:59.000Z",
+      "badgeColor": "slate",
+      "angle": "Brancheanalyse"
+    },
     {
       "id": "arxiv-cl-oai:arXiv.org:2609.12085v1",
       "title": "Hvad Tæller Som Fejl? Annotering af Udtalebegivenheder i Koranens Hjortefedte Transkripter",
@@ -26,19 +36,9 @@
       "angle": "Teknisk dybde"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.12122v1",
-      "title": "Konsonanter's bidrag til ordforståelse kan nu måles præcist",
-      "link": "https://arxiv.org/abs/2609.12122",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-14T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Brancheanalyse"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2609.12191v1",
-      "title": "GAUGE: En ny metode til bedre vurdering af LLM-agenter",
-      "link": "https://arxiv.org/abs/2609.12191",
+      "id": "arxiv-cl-oai:arXiv.org:2609.12111v1",
+      "title": "Kostpris for Komprimering: En Rate-Distortion Grænse for Fakta-Hallucination",
+      "link": "https://arxiv.org/abs/2609.12111",
       "sourceName": "arXiv cs.CL (Sprog & LLM)",
       "sourceId": "arxiv-cl",
       "pubDate": "2026-09-14T04:00:00.000Z",
