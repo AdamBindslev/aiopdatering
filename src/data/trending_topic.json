@@ -1,39 +1,39 @@
 {
-  "headline": "Amazon Bedrock's Prompt Caching Redefines Cost Efficiency in AI Deployment",
-  "summary": "Amazon Bedrock's introduction of prompt caching significantly reduces input token costs by up to 90%, making AI models more accessible and cost-effective for developers. This innovation is driving a shift towards more efficient AI usage and could set a new standard for cost management in the industry.",
-  "whyItMatters": "By lowering the barrier to entry for AI deployment, Amazon Bedrock's prompt caching could accelerate the adoption of AI across a wider range of applications and companies, fostering greater innovation and competition.",
-  "synthesizedAt": "2026-09-15T16:31:03.466Z",
+  "headline": "AI Safety and Ethics Discussions Gain Momentum with Political and Industry Focus",
+  "summary": "The AI industry is grappling with significant safety and ethical concerns, as evidenced by ongoing discussions among major players and increased political scrutiny. This trend is driving new initiatives and regulations aimed at ensuring responsible AI development and deployment.",
+  "whyItMatters": "It highlights the growing importance of ethical considerations in AI, influencing both industry practices and public policy.",
+  "synthesizedAt": "2026-09-15T19:36:25.333Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "aws-ml-c9f41d7f970343e8cc614d389738c9638a75056d",
-    "title": "Amazon Bedrock Enhances Cost Efficiency with Prompt Caching",
-    "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/",
-    "sourceName": "AWS Machine Learning",
-    "sourceId": "aws-ml",
-    "pubDate": "2026-09-15T16:18:19.000Z",
-    "badgeColor": "amber",
-    "angle": "Official Release"
+    "id": "cognitive-revolution-yt:video:JG6LfQIhlGg",
+    "title": "Pacing in AI Development Gains Political Significance with Andon Labs and AI Ethics Discussions",
+    "link": "https://www.youtube.com/watch?v=JG6LfQIhlGg",
+    "sourceName": "The Cognitive Revolution",
+    "sourceId": "cognitive-revolution",
+    "pubDate": "2026-09-15T19:24:49.000Z",
+    "badgeColor": "teal",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "aws-ml-cd519793c04f6ce372abfc901f9f14b3d13da36b",
-      "title": "AWS Launches Serverless Model Customization for AI-Powered Product Tagging",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-09-15T16:11:36.000Z",
-      "badgeColor": "amber",
-      "angle": "Technical Deep Dive"
+      "id": "cognitive-revolution-yt:video:rdEn9cpMScA",
+      "title": "Anton Leicht Discusses AI's Impact on Political and Institutional Power",
+      "link": "https://www.youtube.com/watch?v=rdEn9cpMScA",
+      "sourceName": "The Cognitive Revolution",
+      "sourceId": "cognitive-revolution",
+      "pubDate": "2026-09-15T18:52:29.000Z",
+      "badgeColor": "teal",
+      "angle": "Expert Discussion"
     },
     {
-      "id": "aws-ml-bb01241ebaabc1f428ef8bc4f3eca39e4829e7f0",
-      "title": "Amazon SageMaker AI Introduces Instance Preference Lists for Enhanced Flexibility and Cost Efficiency",
-      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-09-15T16:01:47.000Z",
-      "badgeColor": "amber",
-      "angle": "Industry Analysis"
+      "id": "mit-tech-review-https://www.technologyreview.com/?p=1143936",
+      "title": "AI Safety Roundtables: Debating the Risk of Advanced AI Destroying Humanity",
+      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "sourceName": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "pubDate": "2026-09-15T17:47:51.000Z",
+      "badgeColor": "red",
+      "angle": "Roundtable Debates"
     },
     {
       "id": "google-ai-https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
@@ -43,7 +43,27 @@
       "sourceId": "google-ai",
       "pubDate": "2026-09-15T16:00:00.000Z",
       "badgeColor": "cyan",
-      "angle": "Cost Efficiency"
+      "angle": "Corporate Initiative"
+    },
+    {
+      "id": "google-ai-https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "title": "Google AI Expands Focus on Science and Human Well-being",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "sourceName": "Google News AI",
+      "sourceId": "google-ai",
+      "pubDate": "2026-09-15T16:00:00.000Z",
+      "badgeColor": "cyan",
+      "angle": "Corporate Strategy"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3164278",
+      "title": "OpenAI, Anthropic, and Google DeepMind Engage in Ongoing AI Safety Discussions",
+      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-09-15T15:47:03.000Z",
+      "badgeColor": "emerald",
+      "angle": "Safety Discussions"
     }
   ]
 }
