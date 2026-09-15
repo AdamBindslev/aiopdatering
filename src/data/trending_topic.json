@@ -1,48 +1,39 @@
 {
-  "headline": "Industry Skepticism Grows Over Big AI Companies' Proposed Development Slowdown",
-  "summary": "Major AI firms like OpenAI, Anthropic, and Google are advocating for a slowdown in frontier AI development to address safety concerns. However, industry skepticism is growing, with concerns over the potential impact on innovation and competitiveness.",
-  "whyItMatters": "This debate highlights the tension between safety and progress in AI development, influencing regulatory frameworks and corporate strategies.",
-  "synthesizedAt": "2026-09-15T10:17:07.431Z",
+  "headline": "AI Safety and Regulation Gain Momentum Amidst Growing Concerns",
+  "summary": "Policymakers and industry leaders are increasingly focusing on AI safety and regulation, with new models and initiatives aimed at addressing potential risks and ensuring responsible development. This trend is driven by both technical advancements and growing public scrutiny.",
+  "whyItMatters": "It underscores the need for robust regulatory frameworks and safe AI practices, influencing the future direction and adoption of AI technologies.",
+  "synthesizedAt": "2026-09-15T13:22:37.419Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=40241",
-    "title": "Industry Skepticism Grows Over Big AI Companies' Proposed Development Slowdown",
-    "link": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-09-15T09:04:36.000Z",
-    "badgeColor": "slate",
-    "angle": "Industry Analysis"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3163310",
+    "title": "AIUC Raises $40 Million to Control Rogue AI Agents, Heralding New Era in AI Safety",
+    "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-09-15T13:00:00.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "latent-space-https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
-      "title": "AEF-1 Standard for Third-Party Evaluators Unveiled by Xai, OpenAI, and Anthropic",
-      "link": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-09-15T04:50:36.000Z",
-      "badgeColor": "pink",
-      "angle": "Technical Deep Dive"
+      "id": "tech-policy-press-https://techpolicy.press/to-make-ai-rules-policymakers-must-resist-the-influence-of-radical-intentionalists",
+      "title": "Policymakers Urged to Avoid ‘Radical Intentionalists’ in AI Regulation",
+      "link": "https://techpolicy.press/to-make-ai-rules-policymakers-must-resist-the-influence-of-radical-intentionalists",
+      "sourceName": "Tech Policy Press",
+      "sourceId": "tech-policy-press",
+      "pubDate": "2026-09-15T12:10:20.000Z",
+      "badgeColor": "slate",
+      "angle": "Policy Impact"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.13389v1",
-      "title": "RFCLLM: Assessing Large Language Models' Capability to Reason About Network Protocol State Machines",
-      "link": "https://arxiv.org/abs/2609.13389",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-15T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Critical Debate"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2609.13556v1",
-      "title": "Study Reveals Performance Gaps in Large Language Models Across General and Specialized Domains",
-      "link": "https://arxiv.org/abs/2609.13556",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-15T04:00:00.000Z",
-      "badgeColor": "zinc"
+      "id": "the-decoder-https://the-decoder.com/?p=40241",
+      "title": "Industry Skepticism Grows Over Big AI Companies' Proposed Development Slowdown",
+      "link": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-15T09:04:36.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
     }
   ]
 }
