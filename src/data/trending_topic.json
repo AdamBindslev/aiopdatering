@@ -1,39 +1,49 @@
 {
-  "headline": "AI Safety and Regulation Gain Momentum Amidst Growing Concerns",
-  "summary": "Policymakers and industry leaders are increasingly focusing on AI safety and regulation, with new models and initiatives aimed at addressing potential risks and ensuring responsible development. This trend is driven by both technical advancements and growing public scrutiny.",
-  "whyItMatters": "It underscores the need for robust regulatory frameworks and safe AI practices, influencing the future direction and adoption of AI technologies.",
-  "synthesizedAt": "2026-09-15T13:22:37.419Z",
+  "headline": "Amazon Bedrock's Prompt Caching Redefines Cost Efficiency in AI Deployment",
+  "summary": "Amazon Bedrock's introduction of prompt caching significantly reduces input token costs by up to 90%, making AI models more accessible and cost-effective for developers. This innovation is driving a shift towards more efficient AI usage and could set a new standard for cost management in the industry.",
+  "whyItMatters": "By lowering the barrier to entry for AI deployment, Amazon Bedrock's prompt caching could accelerate the adoption of AI across a wider range of applications and companies, fostering greater innovation and competition.",
+  "synthesizedAt": "2026-09-15T16:31:03.466Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3163310",
-    "title": "AIUC Raises $40 Million to Control Rogue AI Agents, Heralding New Era in AI Safety",
-    "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-09-15T13:00:00.000Z",
-    "badgeColor": "emerald",
+    "id": "aws-ml-c9f41d7f970343e8cc614d389738c9638a75056d",
+    "title": "Amazon Bedrock Enhances Cost Efficiency with Prompt Caching",
+    "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/",
+    "sourceName": "AWS Machine Learning",
+    "sourceId": "aws-ml",
+    "pubDate": "2026-09-15T16:18:19.000Z",
+    "badgeColor": "amber",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "tech-policy-press-https://techpolicy.press/to-make-ai-rules-policymakers-must-resist-the-influence-of-radical-intentionalists",
-      "title": "Policymakers Urged to Avoid ‘Radical Intentionalists’ in AI Regulation",
-      "link": "https://techpolicy.press/to-make-ai-rules-policymakers-must-resist-the-influence-of-radical-intentionalists",
-      "sourceName": "Tech Policy Press",
-      "sourceId": "tech-policy-press",
-      "pubDate": "2026-09-15T12:10:20.000Z",
-      "badgeColor": "slate",
-      "angle": "Policy Impact"
+      "id": "aws-ml-cd519793c04f6ce372abfc901f9f14b3d13da36b",
+      "title": "AWS Launches Serverless Model Customization for AI-Powered Product Tagging",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-09-15T16:11:36.000Z",
+      "badgeColor": "amber",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40241",
-      "title": "Industry Skepticism Grows Over Big AI Companies' Proposed Development Slowdown",
-      "link": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-09-15T09:04:36.000Z",
-      "badgeColor": "slate",
+      "id": "aws-ml-bb01241ebaabc1f428ef8bc4f3eca39e4829e7f0",
+      "title": "Amazon SageMaker AI Introduces Instance Preference Lists for Enhanced Flexibility and Cost Efficiency",
+      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-09-15T16:01:47.000Z",
+      "badgeColor": "amber",
       "angle": "Industry Analysis"
+    },
+    {
+      "id": "google-ai-https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "title": "Google Unveils AI for Societal Impact Initiative",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "sourceName": "Google News AI",
+      "sourceId": "google-ai",
+      "pubDate": "2026-09-15T16:00:00.000Z",
+      "badgeColor": "cyan",
+      "angle": "Cost Efficiency"
     }
   ]
 }

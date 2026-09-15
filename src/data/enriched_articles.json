@@ -3391,5 +3391,545 @@
     "whyItMatters": "Understanding these risks is crucial for investors, policymakers, and businesses to navigate the AI landscape, ensuring sustainable growth and avoiding potential market crashes.",
     "enrichedAt": "2026-09-15T13:22:04.582Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-c9f41d7f970343e8cc614d389738c9638a75056d": {
+    "title": "Amazon Bedrock Enhances Cost Efficiency with Prompt Caching",
+    "summary": "Amazon Bedrock introduces prompt caching to significantly reduce input token costs by up to 90% when similar context is repeatedly sent to foundation models. This feature is detailed through practical scenarios using the Converse API, focusing on optimizing both cost and latency.",
+    "danishTitle": "Amazon Bedrock Enhances Cost Efficiency with Prompt Caching",
+    "danishSummary": "Amazon Bedrock introduces prompt caching to significantly reduce input token costs by up to 90% when similar context is repeatedly sent to foundation models. This feature is detailed through practical scenarios using the Converse API, focusing on optimizing both cost and latency.",
+    "whyItMatters": "By drastically reducing costs, Amazon Bedrock's prompt caching enables more frequent and extensive use of AI models, potentially transforming cost structures for businesses relying on AI services.",
+    "enrichedAt": "2026-09-15T16:27:14.889Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching": {
+    "title": "Amazon Bedrock Enhances Cost Efficiency with Prompt Caching",
+    "summary": "Amazon Bedrock introduces prompt caching to significantly reduce input token costs by up to 90% when similar context is repeatedly sent to foundation models. This feature is detailed through practical scenarios using the Converse API, focusing on optimizing both cost and latency.",
+    "danishTitle": "Amazon Bedrock Enhances Cost Efficiency with Prompt Caching",
+    "danishSummary": "Amazon Bedrock introduces prompt caching to significantly reduce input token costs by up to 90% when similar context is repeatedly sent to foundation models. This feature is detailed through practical scenarios using the Converse API, focusing on optimizing both cost and latency.",
+    "whyItMatters": "By drastically reducing costs, Amazon Bedrock's prompt caching enables more frequent and extensive use of AI models, potentially transforming cost structures for businesses relying on AI services.",
+    "enrichedAt": "2026-09-15T16:27:14.889Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/": {
+    "title": "Amazon Bedrock Enhances Cost Efficiency with Prompt Caching",
+    "summary": "Amazon Bedrock introduces prompt caching to significantly reduce input token costs by up to 90% when similar context is repeatedly sent to foundation models. This feature is detailed through practical scenarios using the Converse API, focusing on optimizing both cost and latency.",
+    "danishTitle": "Amazon Bedrock Enhances Cost Efficiency with Prompt Caching",
+    "danishSummary": "Amazon Bedrock introduces prompt caching to significantly reduce input token costs by up to 90% when similar context is repeatedly sent to foundation models. This feature is detailed through practical scenarios using the Converse API, focusing on optimizing both cost and latency.",
+    "whyItMatters": "By drastically reducing costs, Amazon Bedrock's prompt caching enables more frequent and extensive use of AI models, potentially transforming cost structures for businesses relying on AI services.",
+    "enrichedAt": "2026-09-15T16:27:14.889Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-cd519793c04f6ce372abfc901f9f14b3d13da36b": {
+    "title": "AWS Launches Serverless Model Customization for AI-Powered Product Tagging",
+    "summary": "AWS has introduced a serverless model customization feature for Amazon SageMaker, enabling users to fine-tune Qwen3-8B with supervised fine-tuning (SFT) and reinforcement learning with verifiable rewards (RLVR) to automate product tagging, improving efficiency and consistency.",
+    "danishTitle": "AWS Launches Serverless Model Customization for AI-Powered Product Tagging",
+    "danishSummary": "AWS has introduced a serverless model customization feature for Amazon SageMaker, enabling users to fine-tune Qwen3-8B with supervised fine-tuning (SFT) and reinforcement learning with verifiable rewards (RLVR) to automate product tagging, improving efficiency and consistency.",
+    "whyItMatters": "This feature simplifies the deployment of AI-powered tagging systems, making it easier for businesses to enhance product catalog management and customer search experiences without significant infrastructure investment.",
+    "enrichedAt": "2026-09-15T16:27:25.338Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization": {
+    "title": "AWS Launches Serverless Model Customization for AI-Powered Product Tagging",
+    "summary": "AWS has introduced a serverless model customization feature for Amazon SageMaker, enabling users to fine-tune Qwen3-8B with supervised fine-tuning (SFT) and reinforcement learning with verifiable rewards (RLVR) to automate product tagging, improving efficiency and consistency.",
+    "danishTitle": "AWS Launches Serverless Model Customization for AI-Powered Product Tagging",
+    "danishSummary": "AWS has introduced a serverless model customization feature for Amazon SageMaker, enabling users to fine-tune Qwen3-8B with supervised fine-tuning (SFT) and reinforcement learning with verifiable rewards (RLVR) to automate product tagging, improving efficiency and consistency.",
+    "whyItMatters": "This feature simplifies the deployment of AI-powered tagging systems, making it easier for businesses to enhance product catalog management and customer search experiences without significant infrastructure investment.",
+    "enrichedAt": "2026-09-15T16:27:25.338Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/": {
+    "title": "AWS Launches Serverless Model Customization for AI-Powered Product Tagging",
+    "summary": "AWS has introduced a serverless model customization feature for Amazon SageMaker, enabling users to fine-tune Qwen3-8B with supervised fine-tuning (SFT) and reinforcement learning with verifiable rewards (RLVR) to automate product tagging, improving efficiency and consistency.",
+    "danishTitle": "AWS Launches Serverless Model Customization for AI-Powered Product Tagging",
+    "danishSummary": "AWS has introduced a serverless model customization feature for Amazon SageMaker, enabling users to fine-tune Qwen3-8B with supervised fine-tuning (SFT) and reinforcement learning with verifiable rewards (RLVR) to automate product tagging, improving efficiency and consistency.",
+    "whyItMatters": "This feature simplifies the deployment of AI-powered tagging systems, making it easier for businesses to enhance product catalog management and customer search experiences without significant infrastructure investment.",
+    "enrichedAt": "2026-09-15T16:27:25.338Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "ml-street-talk-yt:video:uxH98holfUI": {
+    "title": "NVIDIA's Ming-Yu Liu Demonstrates World Models for Predictive Robotics",
+    "summary": "In a recent video, NVIDIA researcher Ming-Yu Liu explains how world models enable robots to predict the outcomes of actions before executing them. This technique involves training the robot on forward and inverse dynamics to simulate and learn from potential actions without physical movement.",
+    "danishTitle": "NVIDIA's Ming-Yu Liu Demonstrates World Models for Predictive Robotics",
+    "danishSummary": "In a recent video, NVIDIA researcher Ming-Yu Liu explains how world models enable robots to predict the outcomes of actions before executing them. This technique involves training the robot on forward and inverse dynamics to simulate and learn from potential actions without physical movement.",
+    "whyItMatters": "This approach enhances the efficiency and safety of robotic operations, allowing for more sophisticated autonomous behaviors in various industries, from manufacturing to healthcare.",
+    "enrichedAt": "2026-09-15T16:27:34.640Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:uxh98holfui": {
+    "title": "NVIDIA's Ming-Yu Liu Demonstrates World Models for Predictive Robotics",
+    "summary": "In a recent video, NVIDIA researcher Ming-Yu Liu explains how world models enable robots to predict the outcomes of actions before executing them. This technique involves training the robot on forward and inverse dynamics to simulate and learn from potential actions without physical movement.",
+    "danishTitle": "NVIDIA's Ming-Yu Liu Demonstrates World Models for Predictive Robotics",
+    "danishSummary": "In a recent video, NVIDIA researcher Ming-Yu Liu explains how world models enable robots to predict the outcomes of actions before executing them. This technique involves training the robot on forward and inverse dynamics to simulate and learn from potential actions without physical movement.",
+    "whyItMatters": "This approach enhances the efficiency and safety of robotic operations, allowing for more sophisticated autonomous behaviors in various industries, from manufacturing to healthcare.",
+    "enrichedAt": "2026-09-15T16:27:34.640Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/shorts/uxH98holfUI": {
+    "title": "NVIDIA's Ming-Yu Liu Demonstrates World Models for Predictive Robotics",
+    "summary": "In a recent video, NVIDIA researcher Ming-Yu Liu explains how world models enable robots to predict the outcomes of actions before executing them. This technique involves training the robot on forward and inverse dynamics to simulate and learn from potential actions without physical movement.",
+    "danishTitle": "NVIDIA's Ming-Yu Liu Demonstrates World Models for Predictive Robotics",
+    "danishSummary": "In a recent video, NVIDIA researcher Ming-Yu Liu explains how world models enable robots to predict the outcomes of actions before executing them. This technique involves training the robot on forward and inverse dynamics to simulate and learn from potential actions without physical movement.",
+    "whyItMatters": "This approach enhances the efficiency and safety of robotic operations, allowing for more sophisticated autonomous behaviors in various industries, from manufacturing to healthcare.",
+    "enrichedAt": "2026-09-15T16:27:34.640Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-bb01241ebaabc1f428ef8bc4f3eca39e4829e7f0": {
+    "title": "Amazon SageMaker AI Introduces Instance Preference Lists for Enhanced Flexibility and Cost Efficiency",
+    "summary": "Amazon SageMaker AI has expanded its capabilities by introducing instance preference lists, allowing users to specify an ordered list of up to five instance types for their training and processing jobs. This feature ensures that jobs are launched on the first available instance type, providing greater flexibility and potentially reducing costs.",
+    "danishTitle": "Amazon SageMaker AI Introduces Instance Preference Lists for Enhanced Flexibility and Cost Efficiency",
+    "danishSummary": "Amazon SageMaker AI has expanded its capabilities by introducing instance preference lists, allowing users to specify an ordered list of up to five instance types for their training and processing jobs. This feature ensures that jobs are launched on the first available instance type, providing greater flexibility and potentially reducing costs.",
+    "whyItMatters": "By offering more control over instance selection, Amazon SageMaker enhances the efficiency and cost-effectiveness of AI model training, empowering developers to optimize resource usage and improve project outcomes.",
+    "enrichedAt": "2026-09-15T16:27:45.417Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs": {
+    "title": "Amazon SageMaker AI Introduces Instance Preference Lists for Enhanced Flexibility and Cost Efficiency",
+    "summary": "Amazon SageMaker AI has expanded its capabilities by introducing instance preference lists, allowing users to specify an ordered list of up to five instance types for their training and processing jobs. This feature ensures that jobs are launched on the first available instance type, providing greater flexibility and potentially reducing costs.",
+    "danishTitle": "Amazon SageMaker AI Introduces Instance Preference Lists for Enhanced Flexibility and Cost Efficiency",
+    "danishSummary": "Amazon SageMaker AI has expanded its capabilities by introducing instance preference lists, allowing users to specify an ordered list of up to five instance types for their training and processing jobs. This feature ensures that jobs are launched on the first available instance type, providing greater flexibility and potentially reducing costs.",
+    "whyItMatters": "By offering more control over instance selection, Amazon SageMaker enhances the efficiency and cost-effectiveness of AI model training, empowering developers to optimize resource usage and improve project outcomes.",
+    "enrichedAt": "2026-09-15T16:27:45.417Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/": {
+    "title": "Amazon SageMaker AI Introduces Instance Preference Lists for Enhanced Flexibility and Cost Efficiency",
+    "summary": "Amazon SageMaker AI has expanded its capabilities by introducing instance preference lists, allowing users to specify an ordered list of up to five instance types for their training and processing jobs. This feature ensures that jobs are launched on the first available instance type, providing greater flexibility and potentially reducing costs.",
+    "danishTitle": "Amazon SageMaker AI Introduces Instance Preference Lists for Enhanced Flexibility and Cost Efficiency",
+    "danishSummary": "Amazon SageMaker AI has expanded its capabilities by introducing instance preference lists, allowing users to specify an ordered list of up to five instance types for their training and processing jobs. This feature ensures that jobs are launched on the first available instance type, providing greater flexibility and potentially reducing costs.",
+    "whyItMatters": "By offering more control over instance selection, Amazon SageMaker enhances the efficiency and cost-effectiveness of AI model training, empowering developers to optimize resource usage and improve project outcomes.",
+    "enrichedAt": "2026-09-15T16:27:45.417Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "huggingface-https://huggingface.co/blog/ibm-research/altk-evolve-consistency": {
+    "title": "Hugging Face Announces ALT-K Evolve Model for Enhanced Task Consistency",
+    "summary": "Hugging Face has released the ALT-K Evolve model, designed to improve the consistency of AI agents in performing tasks. This new model aims to address the variability in task execution, ensuring more reliable and predictable performance.",
+    "danishTitle": "Hugging Face Announces ALT-K Evolve Model for Enhanced Task Consistency",
+    "danishSummary": "Hugging Face has released the ALT-K Evolve model, designed to improve the consistency of AI agents in performing tasks. This new model aims to address the variability in task execution, ensuring more reliable and predictable performance.",
+    "whyItMatters": "The enhanced consistency offered by ALT-K Evolve could significantly boost the reliability of AI systems across various applications, making them more trustworthy and dependable for businesses and developers.",
+    "enrichedAt": "2026-09-15T16:27:54.476Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://huggingface.co/blog/ibm-research/altk-evolve-consistency": {
+    "title": "Hugging Face Announces ALT-K Evolve Model for Enhanced Task Consistency",
+    "summary": "Hugging Face has released the ALT-K Evolve model, designed to improve the consistency of AI agents in performing tasks. This new model aims to address the variability in task execution, ensuring more reliable and predictable performance.",
+    "danishTitle": "Hugging Face Announces ALT-K Evolve Model for Enhanced Task Consistency",
+    "danishSummary": "Hugging Face has released the ALT-K Evolve model, designed to improve the consistency of AI agents in performing tasks. This new model aims to address the variability in task execution, ensuring more reliable and predictable performance.",
+    "whyItMatters": "The enhanced consistency offered by ALT-K Evolve could significantly boost the reliability of AI systems across various applications, making them more trustworthy and dependable for businesses and developers.",
+    "enrichedAt": "2026-09-15T16:27:54.476Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "ml-street-talk-yt:video:L6tLBApQN-g": {
+    "title": "NVIDIA's Cosmos 3 Model Demonstrates Multimodal Capabilities in AI",
+    "summary": "In a recent video, NVIDIA researcher Ming-Yu Liu showcased the capabilities of the Cosmos 3 model, which can describe, generate, and produce actions based on video inputs. This multimodal approach represents a significant advancement in AI's ability to process and interact with complex data.",
+    "danishTitle": "NVIDIA's Cosmos 3 Model Demonstrates Multimodal Capabilities in AI",
+    "danishSummary": "In a recent video, NVIDIA researcher Ming-Yu Liu showcased the capabilities of the Cosmos 3 model, which can describe, generate, and produce actions based on video inputs. This multimodal approach represents a significant advancement in AI's ability to process and interact with complex data.",
+    "whyItMatters": "By integrating language, video, and action, Cosmos 3 paves the way for more sophisticated and versatile AI systems that can better understand and engage with the physical world, enhancing applications in robotics and autonomous systems.",
+    "enrichedAt": "2026-09-15T16:28:05.716Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:l6tlbapqn-g": {
+    "title": "NVIDIA's Cosmos 3 Model Demonstrates Multimodal Capabilities in AI",
+    "summary": "In a recent video, NVIDIA researcher Ming-Yu Liu showcased the capabilities of the Cosmos 3 model, which can describe, generate, and produce actions based on video inputs. This multimodal approach represents a significant advancement in AI's ability to process and interact with complex data.",
+    "danishTitle": "NVIDIA's Cosmos 3 Model Demonstrates Multimodal Capabilities in AI",
+    "danishSummary": "In a recent video, NVIDIA researcher Ming-Yu Liu showcased the capabilities of the Cosmos 3 model, which can describe, generate, and produce actions based on video inputs. This multimodal approach represents a significant advancement in AI's ability to process and interact with complex data.",
+    "whyItMatters": "By integrating language, video, and action, Cosmos 3 paves the way for more sophisticated and versatile AI systems that can better understand and engage with the physical world, enhancing applications in robotics and autonomous systems.",
+    "enrichedAt": "2026-09-15T16:28:05.716Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=L6tLBApQN-g": {
+    "title": "NVIDIA's Cosmos 3 Model Demonstrates Multimodal Capabilities in AI",
+    "summary": "In a recent video, NVIDIA researcher Ming-Yu Liu showcased the capabilities of the Cosmos 3 model, which can describe, generate, and produce actions based on video inputs. This multimodal approach represents a significant advancement in AI's ability to process and interact with complex data.",
+    "danishTitle": "NVIDIA's Cosmos 3 Model Demonstrates Multimodal Capabilities in AI",
+    "danishSummary": "In a recent video, NVIDIA researcher Ming-Yu Liu showcased the capabilities of the Cosmos 3 model, which can describe, generate, and produce actions based on video inputs. This multimodal approach represents a significant advancement in AI's ability to process and interact with complex data.",
+    "whyItMatters": "By integrating language, video, and action, Cosmos 3 paves the way for more sophisticated and versatile AI systems that can better understand and engage with the physical world, enhancing applications in robotics and autonomous systems.",
+    "enrichedAt": "2026-09-15T16:28:05.716Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "google-ai-https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/": {
+    "title": "Google Unveils AI for Societal Impact Initiative",
+    "summary": "Google has launched a new initiative aimed at showcasing how AI advancements are being utilized by experts and local leaders to promote equitable access and widespread benefits of AI technologies across society.",
+    "danishTitle": "Google Unveils AI for Societal Impact Initiative",
+    "danishSummary": "Google has launched a new initiative aimed at showcasing how AI advancements are being utilized by experts and local leaders to promote equitable access and widespread benefits of AI technologies across society.",
+    "whyItMatters": "This initiative highlights Google's commitment to leveraging AI for social good, potentially inspiring other tech companies to adopt similar approaches and contribute to broader societal benefits.",
+    "enrichedAt": "2026-09-15T16:28:13.662Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact": {
+    "title": "Google Unveils AI for Societal Impact Initiative",
+    "summary": "Google has launched a new initiative aimed at showcasing how AI advancements are being utilized by experts and local leaders to promote equitable access and widespread benefits of AI technologies across society.",
+    "danishTitle": "Google Unveils AI for Societal Impact Initiative",
+    "danishSummary": "Google has launched a new initiative aimed at showcasing how AI advancements are being utilized by experts and local leaders to promote equitable access and widespread benefits of AI technologies across society.",
+    "whyItMatters": "This initiative highlights Google's commitment to leveraging AI for social good, potentially inspiring other tech companies to adopt similar approaches and contribute to broader societal benefits.",
+    "enrichedAt": "2026-09-15T16:28:13.662Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/": {
+    "title": "Google Unveils AI for Societal Impact Initiative",
+    "summary": "Google has launched a new initiative aimed at showcasing how AI advancements are being utilized by experts and local leaders to promote equitable access and widespread benefits of AI technologies across society.",
+    "danishTitle": "Google Unveils AI for Societal Impact Initiative",
+    "danishSummary": "Google has launched a new initiative aimed at showcasing how AI advancements are being utilized by experts and local leaders to promote equitable access and widespread benefits of AI technologies across society.",
+    "whyItMatters": "This initiative highlights Google's commitment to leveraging AI for social good, potentially inspiring other tech companies to adopt similar approaches and contribute to broader societal benefits.",
+    "enrichedAt": "2026-09-15T16:28:13.662Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "google-ai-https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/": {
+    "title": "Google AI Expands Focus on Science and Human Well-being",
+    "summary": "Google AI is emphasizing its role in advancing scientific research and improving human lives through technology. The company highlights key areas where AI is making significant strides, aiming to demonstrate the positive impact of its advancements on society.",
+    "danishTitle": "Google AI Expands Focus on Science and Human Well-being",
+    "danishSummary": "Google AI is emphasizing its role in advancing scientific research and improving human lives through technology. The company highlights key areas where AI is making significant strides, aiming to demonstrate the positive impact of its advancements on society.",
+    "whyItMatters": "By concentrating on scientific applications and human welfare, Google AI underscores its commitment to ethical and beneficial technological development, potentially driving innovation and public trust in AI.",
+    "enrichedAt": "2026-09-15T16:28:22.371Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people": {
+    "title": "Google AI Expands Focus on Science and Human Well-being",
+    "summary": "Google AI is emphasizing its role in advancing scientific research and improving human lives through technology. The company highlights key areas where AI is making significant strides, aiming to demonstrate the positive impact of its advancements on society.",
+    "danishTitle": "Google AI Expands Focus on Science and Human Well-being",
+    "danishSummary": "Google AI is emphasizing its role in advancing scientific research and improving human lives through technology. The company highlights key areas where AI is making significant strides, aiming to demonstrate the positive impact of its advancements on society.",
+    "whyItMatters": "By concentrating on scientific applications and human welfare, Google AI underscores its commitment to ethical and beneficial technological development, potentially driving innovation and public trust in AI.",
+    "enrichedAt": "2026-09-15T16:28:22.371Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/": {
+    "title": "Google AI Expands Focus on Science and Human Well-being",
+    "summary": "Google AI is emphasizing its role in advancing scientific research and improving human lives through technology. The company highlights key areas where AI is making significant strides, aiming to demonstrate the positive impact of its advancements on society.",
+    "danishTitle": "Google AI Expands Focus on Science and Human Well-being",
+    "danishSummary": "Google AI is emphasizing its role in advancing scientific research and improving human lives through technology. The company highlights key areas where AI is making significant strides, aiming to demonstrate the positive impact of its advancements on society.",
+    "whyItMatters": "By concentrating on scientific applications and human welfare, Google AI underscores its commitment to ethical and beneficial technological development, potentially driving innovation and public trust in AI.",
+    "enrichedAt": "2026-09-15T16:28:22.371Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "google-ai-https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/": {
+    "title": "Google Expands AI Translation Capabilities to Include Diverse Languages",
+    "summary": "Google is enhancing its AI translation models to better understand and process a wider array of languages, aiming to make AI more accessible and effective for global communication and information exchange.",
+    "danishTitle": "Google Expands AI Translation Capabilities to Include Diverse Languages",
+    "danishSummary": "Google is enhancing its AI translation models to better understand and process a wider array of languages, aiming to make AI more accessible and effective for global communication and information exchange.",
+    "whyItMatters": "Improving AI translation for diverse languages can bridge communication gaps and facilitate greater inclusivity in the digital age, benefiting businesses and individuals worldwide.",
+    "enrichedAt": "2026-09-15T16:28:30.312Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language": {
+    "title": "Google Expands AI Translation Capabilities to Include Diverse Languages",
+    "summary": "Google is enhancing its AI translation models to better understand and process a wider array of languages, aiming to make AI more accessible and effective for global communication and information exchange.",
+    "danishTitle": "Google Expands AI Translation Capabilities to Include Diverse Languages",
+    "danishSummary": "Google is enhancing its AI translation models to better understand and process a wider array of languages, aiming to make AI more accessible and effective for global communication and information exchange.",
+    "whyItMatters": "Improving AI translation for diverse languages can bridge communication gaps and facilitate greater inclusivity in the digital age, benefiting businesses and individuals worldwide.",
+    "enrichedAt": "2026-09-15T16:28:30.312Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/": {
+    "title": "Google Expands AI Translation Capabilities to Include Diverse Languages",
+    "summary": "Google is enhancing its AI translation models to better understand and process a wider array of languages, aiming to make AI more accessible and effective for global communication and information exchange.",
+    "danishTitle": "Google Expands AI Translation Capabilities to Include Diverse Languages",
+    "danishSummary": "Google is enhancing its AI translation models to better understand and process a wider array of languages, aiming to make AI more accessible and effective for global communication and information exchange.",
+    "whyItMatters": "Improving AI translation for diverse languages can bridge communication gaps and facilitate greater inclusivity in the digital age, benefiting businesses and individuals worldwide.",
+    "enrichedAt": "2026-09-15T16:28:30.312Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3164278": {
+    "title": "OpenAI, Anthropic, and Google DeepMind Engage in Ongoing AI Safety Discussions",
+    "summary": "OpenAI has confirmed weeks of safety-focused discussions with Anthropic and Google DeepMind, while the Trump administration downplays these concerns and seeks to maintain a competitive edge against China in AI development.",
+    "danishTitle": "OpenAI, Anthropic, and Google DeepMind Engage in Ongoing AI Safety Discussions",
+    "danishSummary": "OpenAI has confirmed weeks of safety-focused discussions with Anthropic and Google DeepMind, while the Trump administration downplays these concerns and seeks to maintain a competitive edge against China in AI development.",
+    "whyItMatters": "These safety talks highlight the growing recognition of the need for collaboration and standardization in AI development, despite political pressures to prioritize rapid advancement over safety considerations.",
+    "enrichedAt": "2026-09-15T16:28:39.519Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks": {
+    "title": "OpenAI, Anthropic, and Google DeepMind Engage in Ongoing AI Safety Discussions",
+    "summary": "OpenAI has confirmed weeks of safety-focused discussions with Anthropic and Google DeepMind, while the Trump administration downplays these concerns and seeks to maintain a competitive edge against China in AI development.",
+    "danishTitle": "OpenAI, Anthropic, and Google DeepMind Engage in Ongoing AI Safety Discussions",
+    "danishSummary": "OpenAI has confirmed weeks of safety-focused discussions with Anthropic and Google DeepMind, while the Trump administration downplays these concerns and seeks to maintain a competitive edge against China in AI development.",
+    "whyItMatters": "These safety talks highlight the growing recognition of the need for collaboration and standardization in AI development, despite political pressures to prioritize rapid advancement over safety considerations.",
+    "enrichedAt": "2026-09-15T16:28:39.519Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/": {
+    "title": "OpenAI, Anthropic, and Google DeepMind Engage in Ongoing AI Safety Discussions",
+    "summary": "OpenAI has confirmed weeks of safety-focused discussions with Anthropic and Google DeepMind, while the Trump administration downplays these concerns and seeks to maintain a competitive edge against China in AI development.",
+    "danishTitle": "OpenAI, Anthropic, and Google DeepMind Engage in Ongoing AI Safety Discussions",
+    "danishSummary": "OpenAI has confirmed weeks of safety-focused discussions with Anthropic and Google DeepMind, while the Trump administration downplays these concerns and seeks to maintain a competitive edge against China in AI development.",
+    "whyItMatters": "These safety talks highlight the growing recognition of the need for collaboration and standardization in AI development, despite political pressures to prioritize rapid advancement over safety considerations.",
+    "enrichedAt": "2026-09-15T16:28:39.519Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "cognitive-revolution-yt:video:JG6LfQIhlGg": {
+    "title": "Pacing in AI Development Gains Political Significance with Andon Labs and AI Ethics Discussions",
+    "summary": "The Cognitive Revolution video explores the growing political dimension of pacing in AI development, highlighting Andon Labs and discussions around AI ethics. The video aims to engage viewers on the evolving landscape of AI governance and industry practices.",
+    "danishTitle": "Pacing in AI Development Gains Political Significance with Andon Labs and AI Ethics Discussions",
+    "danishSummary": "The Cognitive Revolution video explores the growing political dimension of pacing in AI development, highlighting Andon Labs and discussions around AI ethics. The video aims to engage viewers on the evolving landscape of AI governance and industry practices.",
+    "whyItMatters": "As AI development accelerates, political and ethical considerations are becoming increasingly important, influencing the direction and regulation of AI technologies.",
+    "enrichedAt": "2026-09-15T16:28:48.340Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:jg6lfqihlgg": {
+    "title": "Pacing in AI Development Gains Political Significance with Andon Labs and AI Ethics Discussions",
+    "summary": "The Cognitive Revolution video explores the growing political dimension of pacing in AI development, highlighting Andon Labs and discussions around AI ethics. The video aims to engage viewers on the evolving landscape of AI governance and industry practices.",
+    "danishTitle": "Pacing in AI Development Gains Political Significance with Andon Labs and AI Ethics Discussions",
+    "danishSummary": "The Cognitive Revolution video explores the growing political dimension of pacing in AI development, highlighting Andon Labs and discussions around AI ethics. The video aims to engage viewers on the evolving landscape of AI governance and industry practices.",
+    "whyItMatters": "As AI development accelerates, political and ethical considerations are becoming increasingly important, influencing the direction and regulation of AI technologies.",
+    "enrichedAt": "2026-09-15T16:28:48.340Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=JG6LfQIhlGg": {
+    "title": "Pacing in AI Development Gains Political Significance with Andon Labs and AI Ethics Discussions",
+    "summary": "The Cognitive Revolution video explores the growing political dimension of pacing in AI development, highlighting Andon Labs and discussions around AI ethics. The video aims to engage viewers on the evolving landscape of AI governance and industry practices.",
+    "danishTitle": "Pacing in AI Development Gains Political Significance with Andon Labs and AI Ethics Discussions",
+    "danishSummary": "The Cognitive Revolution video explores the growing political dimension of pacing in AI development, highlighting Andon Labs and discussions around AI ethics. The video aims to engage viewers on the evolving landscape of AI governance and industry practices.",
+    "whyItMatters": "As AI development accelerates, political and ethical considerations are becoming increasingly important, influencing the direction and regulation of AI technologies.",
+    "enrichedAt": "2026-09-15T16:28:48.340Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "assembly-ai-yt:video:dR2G4bQsMGk": {
+    "title": "AssemblyAI Launches Dictation API for Seamless Speech-to-Text Conversion",
+    "summary": "AssemblyAI has unveiled its new Dictation API, designed to provide real-time, accurate transcription of spoken words into text. The API is intended to simplify content creation, transcription services, and accessibility solutions for businesses and individuals.",
+    "danishTitle": "AssemblyAI Launches Dictation API for Seamless Speech-to-Text Conversion",
+    "danishSummary": "AssemblyAI has unveiled its new Dictation API, designed to provide real-time, accurate transcription of spoken words into text. The API is intended to simplify content creation, transcription services, and accessibility solutions for businesses and individuals.",
+    "whyItMatters": "The introduction of a specialized Dictation API could revolutionize how content is created and consumed, enhancing productivity and accessibility across various industries.",
+    "enrichedAt": "2026-09-15T16:28:57.643Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:dr2g4bqsmgk": {
+    "title": "AssemblyAI Launches Dictation API for Seamless Speech-to-Text Conversion",
+    "summary": "AssemblyAI has unveiled its new Dictation API, designed to provide real-time, accurate transcription of spoken words into text. The API is intended to simplify content creation, transcription services, and accessibility solutions for businesses and individuals.",
+    "danishTitle": "AssemblyAI Launches Dictation API for Seamless Speech-to-Text Conversion",
+    "danishSummary": "AssemblyAI has unveiled its new Dictation API, designed to provide real-time, accurate transcription of spoken words into text. The API is intended to simplify content creation, transcription services, and accessibility solutions for businesses and individuals.",
+    "whyItMatters": "The introduction of a specialized Dictation API could revolutionize how content is created and consumed, enhancing productivity and accessibility across various industries.",
+    "enrichedAt": "2026-09-15T16:28:57.643Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=dR2G4bQsMGk": {
+    "title": "AssemblyAI Launches Dictation API for Seamless Speech-to-Text Conversion",
+    "summary": "AssemblyAI has unveiled its new Dictation API, designed to provide real-time, accurate transcription of spoken words into text. The API is intended to simplify content creation, transcription services, and accessibility solutions for businesses and individuals.",
+    "danishTitle": "AssemblyAI Launches Dictation API for Seamless Speech-to-Text Conversion",
+    "danishSummary": "AssemblyAI has unveiled its new Dictation API, designed to provide real-time, accurate transcription of spoken words into text. The API is intended to simplify content creation, transcription services, and accessibility solutions for businesses and individuals.",
+    "whyItMatters": "The introduction of a specialized Dictation API could revolutionize how content is created and consumed, enhancing productivity and accessibility across various industries.",
+    "enrichedAt": "2026-09-15T16:28:57.643Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3164139": {
+    "title": "Profound AEO Startup Hits Unicorn Valuation, Raises $180M Series D in Record Time",
+    "summary": "Profound, an artificial intelligence and edge optimization (AEO) startup, has achieved a unicorn valuation of $1.8 billion after raising $180 million in a Series D round, just seven months after its previous $96 million Series C funding. This rapid growth underscores the increasing demand for AEO solutions in the tech industry.",
+    "danishTitle": "Profound AEO Startup Hits Unicorn Valuation, Raises $180M Series D in Record Time",
+    "danishSummary": "Profound, an artificial intelligence and edge optimization (AEO) startup, has achieved a unicorn valuation of $1.8 billion after raising $180 million in a Series D round, just seven months after its previous $96 million Series C funding. This rapid growth underscores the increasing demand for AEO solutions in the tech industry.",
+    "whyItMatters": "The quick succession of large funding rounds highlights the accelerating adoption and market potential of AEO technologies, positioning Profound as a key player in the AI ecosystem.",
+    "enrichedAt": "2026-09-15T16:29:09.566Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round": {
+    "title": "Profound AEO Startup Hits Unicorn Valuation, Raises $180M Series D in Record Time",
+    "summary": "Profound, an artificial intelligence and edge optimization (AEO) startup, has achieved a unicorn valuation of $1.8 billion after raising $180 million in a Series D round, just seven months after its previous $96 million Series C funding. This rapid growth underscores the increasing demand for AEO solutions in the tech industry.",
+    "danishTitle": "Profound AEO Startup Hits Unicorn Valuation, Raises $180M Series D in Record Time",
+    "danishSummary": "Profound, an artificial intelligence and edge optimization (AEO) startup, has achieved a unicorn valuation of $1.8 billion after raising $180 million in a Series D round, just seven months after its previous $96 million Series C funding. This rapid growth underscores the increasing demand for AEO solutions in the tech industry.",
+    "whyItMatters": "The quick succession of large funding rounds highlights the accelerating adoption and market potential of AEO technologies, positioning Profound as a key player in the AI ecosystem.",
+    "enrichedAt": "2026-09-15T16:29:09.566Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/": {
+    "title": "Profound AEO Startup Hits Unicorn Valuation, Raises $180M Series D in Record Time",
+    "summary": "Profound, an artificial intelligence and edge optimization (AEO) startup, has achieved a unicorn valuation of $1.8 billion after raising $180 million in a Series D round, just seven months after its previous $96 million Series C funding. This rapid growth underscores the increasing demand for AEO solutions in the tech industry.",
+    "danishTitle": "Profound AEO Startup Hits Unicorn Valuation, Raises $180M Series D in Record Time",
+    "danishSummary": "Profound, an artificial intelligence and edge optimization (AEO) startup, has achieved a unicorn valuation of $1.8 billion after raising $180 million in a Series D round, just seven months after its previous $96 million Series C funding. This rapid growth underscores the increasing demand for AEO solutions in the tech industry.",
+    "whyItMatters": "The quick succession of large funding rounds highlights the accelerating adoption and market potential of AEO technologies, positioning Profound as a key player in the AI ecosystem.",
+    "enrichedAt": "2026-09-15T16:29:09.566Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "assembly-ai-yt:video:f6_6cOM6Yfc": {
+    "title": "AssemblyAI Unveils Real-Time Dictation API for Enhanced User Interaction",
+    "summary": "AssemblyAI has launched a new Dictation API that transcribes user speech into text in under a second, offering real-time communication and enhanced user experience. The API is designed to support various applications, from customer service to virtual assistants.",
+    "danishTitle": "AssemblyAI Unveils Real-Time Dictation API for Enhanced User Interaction",
+    "danishSummary": "AssemblyAI has launched a new Dictation API that transcribes user speech into text in under a second, offering real-time communication and enhanced user experience. The API is designed to support various applications, from customer service to virtual assistants.",
+    "whyItMatters": "This technology could revolutionize how businesses interact with their customers in real time, improving efficiency and personalization across multiple sectors.",
+    "enrichedAt": "2026-09-15T16:29:18.676Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:f6_6com6yfc": {
+    "title": "AssemblyAI Unveils Real-Time Dictation API for Enhanced User Interaction",
+    "summary": "AssemblyAI has launched a new Dictation API that transcribes user speech into text in under a second, offering real-time communication and enhanced user experience. The API is designed to support various applications, from customer service to virtual assistants.",
+    "danishTitle": "AssemblyAI Unveils Real-Time Dictation API for Enhanced User Interaction",
+    "danishSummary": "AssemblyAI has launched a new Dictation API that transcribes user speech into text in under a second, offering real-time communication and enhanced user experience. The API is designed to support various applications, from customer service to virtual assistants.",
+    "whyItMatters": "This technology could revolutionize how businesses interact with their customers in real time, improving efficiency and personalization across multiple sectors.",
+    "enrichedAt": "2026-09-15T16:29:18.676Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=f6_6cOM6Yfc": {
+    "title": "AssemblyAI Unveils Real-Time Dictation API for Enhanced User Interaction",
+    "summary": "AssemblyAI has launched a new Dictation API that transcribes user speech into text in under a second, offering real-time communication and enhanced user experience. The API is designed to support various applications, from customer service to virtual assistants.",
+    "danishTitle": "AssemblyAI Unveils Real-Time Dictation API for Enhanced User Interaction",
+    "danishSummary": "AssemblyAI has launched a new Dictation API that transcribes user speech into text in under a second, offering real-time communication and enhanced user experience. The API is designed to support various applications, from customer service to virtual assistants.",
+    "whyItMatters": "This technology could revolutionize how businesses interact with their customers in real time, improving efficiency and personalization across multiple sectors.",
+    "enrichedAt": "2026-09-15T16:29:18.676Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "nvidia-https://developer.nvidia.com/blog/?p=122520": {
+    "title": "NVIDIA FLARE Enables Scalable Federated Learning Across Docker, Kubernetes, and Slurm",
+    "summary": "NVIDIA has released FLARE, a toolkit designed to scale federated learning across various container orchestration platforms like Docker, Kubernetes, and Slurm. This advancement aims to facilitate the deployment and management of federated learning projects as they grow in complexity and scale.",
+    "danishTitle": "NVIDIA FLARE Enables Scalable Federated Learning Across Docker, Kubernetes, and Slurm",
+    "danishSummary": "NVIDIA has released FLARE, a toolkit designed to scale federated learning across various container orchestration platforms like Docker, Kubernetes, and Slurm. This advancement aims to facilitate the deployment and management of federated learning projects as they grow in complexity and scale.",
+    "whyItMatters": "By simplifying the scalability of federated learning, FLARE empowers larger and more diverse organizations to leverage this technique for collaborative machine learning, enhancing privacy and data security in distributed environments.",
+    "enrichedAt": "2026-09-15T16:29:29.487Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare": {
+    "title": "NVIDIA FLARE Enables Scalable Federated Learning Across Docker, Kubernetes, and Slurm",
+    "summary": "NVIDIA has released FLARE, a toolkit designed to scale federated learning across various container orchestration platforms like Docker, Kubernetes, and Slurm. This advancement aims to facilitate the deployment and management of federated learning projects as they grow in complexity and scale.",
+    "danishTitle": "NVIDIA FLARE Enables Scalable Federated Learning Across Docker, Kubernetes, and Slurm",
+    "danishSummary": "NVIDIA has released FLARE, a toolkit designed to scale federated learning across various container orchestration platforms like Docker, Kubernetes, and Slurm. This advancement aims to facilitate the deployment and management of federated learning projects as they grow in complexity and scale.",
+    "whyItMatters": "By simplifying the scalability of federated learning, FLARE empowers larger and more diverse organizations to leverage this technique for collaborative machine learning, enhancing privacy and data security in distributed environments.",
+    "enrichedAt": "2026-09-15T16:29:29.487Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare/": {
+    "title": "NVIDIA FLARE Enables Scalable Federated Learning Across Docker, Kubernetes, and Slurm",
+    "summary": "NVIDIA has released FLARE, a toolkit designed to scale federated learning across various container orchestration platforms like Docker, Kubernetes, and Slurm. This advancement aims to facilitate the deployment and management of federated learning projects as they grow in complexity and scale.",
+    "danishTitle": "NVIDIA FLARE Enables Scalable Federated Learning Across Docker, Kubernetes, and Slurm",
+    "danishSummary": "NVIDIA has released FLARE, a toolkit designed to scale federated learning across various container orchestration platforms like Docker, Kubernetes, and Slurm. This advancement aims to facilitate the deployment and management of federated learning projects as they grow in complexity and scale.",
+    "whyItMatters": "By simplifying the scalability of federated learning, FLARE empowers larger and more diverse organizations to leverage this technique for collaborative machine learning, enhancing privacy and data security in distributed environments.",
+    "enrichedAt": "2026-09-15T16:29:29.487Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3163539": {
+    "title": "Superpose App Utilizes AI to Enhance Selfie Poses",
+    "summary": "Superpose, an app developed by former TikTok executives, employs AI to analyze selfies and suggest four alternative poses, aiming to improve users' photography skills and enhance social media content.",
+    "danishTitle": "Superpose App Utilizes AI to Enhance Selfie Poses",
+    "danishSummary": "Superpose, an app developed by former TikTok executives, employs AI to analyze selfies and suggest four alternative poses, aiming to improve users' photography skills and enhance social media content.",
+    "whyItMatters": "By leveraging AI for pose generation, Superpose offers a novel approach to personal photography, potentially boosting engagement on social media platforms and driving innovation in user-generated content tools.",
+    "enrichedAt": "2026-09-15T16:29:38.472Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo": {
+    "title": "Superpose App Utilizes AI to Enhance Selfie Poses",
+    "summary": "Superpose, an app developed by former TikTok executives, employs AI to analyze selfies and suggest four alternative poses, aiming to improve users' photography skills and enhance social media content.",
+    "danishTitle": "Superpose App Utilizes AI to Enhance Selfie Poses",
+    "danishSummary": "Superpose, an app developed by former TikTok executives, employs AI to analyze selfies and suggest four alternative poses, aiming to improve users' photography skills and enhance social media content.",
+    "whyItMatters": "By leveraging AI for pose generation, Superpose offers a novel approach to personal photography, potentially boosting engagement on social media platforms and driving innovation in user-generated content tools.",
+    "enrichedAt": "2026-09-15T16:29:38.472Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/": {
+    "title": "Superpose App Utilizes AI to Enhance Selfie Poses",
+    "summary": "Superpose, an app developed by former TikTok executives, employs AI to analyze selfies and suggest four alternative poses, aiming to improve users' photography skills and enhance social media content.",
+    "danishTitle": "Superpose App Utilizes AI to Enhance Selfie Poses",
+    "danishSummary": "Superpose, an app developed by former TikTok executives, employs AI to analyze selfies and suggest four alternative poses, aiming to improve users' photography skills and enhance social media content.",
+    "whyItMatters": "By leveraging AI for pose generation, Superpose offers a novel approach to personal photography, potentially boosting engagement on social media platforms and driving innovation in user-generated content tools.",
+    "enrichedAt": "2026-09-15T16:29:38.472Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3163504": {
+    "title": "TechCrunch Disrupt 2026 Offers Insights on Scaling AI Startups from Prototype to Production",
+    "summary": "TechCrunch Disrupt 2026 will feature a series of talks and sessions aimed at guiding AI startups through the process of scaling from prototype to production. Industry experts Adrian Macneil, John Mackey, and Boris Sofman will share their experiences and strategies.",
+    "danishTitle": "TechCrunch Disrupt 2026 Offers Insights on Scaling AI Startups from Prototype to Production",
+    "danishSummary": "TechCrunch Disrupt 2026 will feature a series of talks and sessions aimed at guiding AI startups through the process of scaling from prototype to production. Industry experts Adrian Macneil, John Mackey, and Boris Sofman will share their experiences and strategies.",
+    "whyItMatters": "For AI startups, attending these sessions can provide critical knowledge and networking opportunities, potentially accelerating their growth and competitiveness in the market.",
+    "enrichedAt": "2026-09-15T16:29:49.111Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026": {
+    "title": "TechCrunch Disrupt 2026 Offers Insights on Scaling AI Startups from Prototype to Production",
+    "summary": "TechCrunch Disrupt 2026 will feature a series of talks and sessions aimed at guiding AI startups through the process of scaling from prototype to production. Industry experts Adrian Macneil, John Mackey, and Boris Sofman will share their experiences and strategies.",
+    "danishTitle": "TechCrunch Disrupt 2026 Offers Insights on Scaling AI Startups from Prototype to Production",
+    "danishSummary": "TechCrunch Disrupt 2026 will feature a series of talks and sessions aimed at guiding AI startups through the process of scaling from prototype to production. Industry experts Adrian Macneil, John Mackey, and Boris Sofman will share their experiences and strategies.",
+    "whyItMatters": "For AI startups, attending these sessions can provide critical knowledge and networking opportunities, potentially accelerating their growth and competitiveness in the market.",
+    "enrichedAt": "2026-09-15T16:29:49.111Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/": {
+    "title": "TechCrunch Disrupt 2026 Offers Insights on Scaling AI Startups from Prototype to Production",
+    "summary": "TechCrunch Disrupt 2026 will feature a series of talks and sessions aimed at guiding AI startups through the process of scaling from prototype to production. Industry experts Adrian Macneil, John Mackey, and Boris Sofman will share their experiences and strategies.",
+    "danishTitle": "TechCrunch Disrupt 2026 Offers Insights on Scaling AI Startups from Prototype to Production",
+    "danishSummary": "TechCrunch Disrupt 2026 will feature a series of talks and sessions aimed at guiding AI startups through the process of scaling from prototype to production. Industry experts Adrian Macneil, John Mackey, and Boris Sofman will share their experiences and strategies.",
+    "whyItMatters": "For AI startups, attending these sessions can provide critical knowledge and networking opportunities, potentially accelerating their growth and competitiveness in the market.",
+    "enrichedAt": "2026-09-15T16:29:49.111Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "the-decoder-https://the-decoder.com/?p=40258": {
+    "title": "Bill Gates Invests Billion in AI to Promote Widened Accessibility Despite Safety Concerns",
+    "summary": "Bill Gates, after cautioning about the dangers of AI, has committed at least a billion dollars over two years to expand the use of AI in health, education, and agriculture. This investment aims to democratize AI technologies, despite ongoing safety concerns.",
+    "danishTitle": "Bill Gates Invests Billion in AI to Promote Widened Accessibility Despite Safety Concerns",
+    "danishSummary": "Bill Gates, after cautioning about the dangers of AI, has committed at least a billion dollars over two years to expand the use of AI in health, education, and agriculture. This investment aims to democratize AI technologies, despite ongoing safety concerns.",
+    "whyItMatters": "Gates' significant financial backing underscores the potential benefits of AI in critical sectors, while also highlighting the industry's need to address safety and ethical issues proactively.",
+    "enrichedAt": "2026-09-15T16:29:59.329Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/after-warning-ai-is-too-dangerous-bill-gates-bets-a-billion-on-its-upside": {
+    "title": "Bill Gates Invests Billion in AI to Promote Widened Accessibility Despite Safety Concerns",
+    "summary": "Bill Gates, after cautioning about the dangers of AI, has committed at least a billion dollars over two years to expand the use of AI in health, education, and agriculture. This investment aims to democratize AI technologies, despite ongoing safety concerns.",
+    "danishTitle": "Bill Gates Invests Billion in AI to Promote Widened Accessibility Despite Safety Concerns",
+    "danishSummary": "Bill Gates, after cautioning about the dangers of AI, has committed at least a billion dollars over two years to expand the use of AI in health, education, and agriculture. This investment aims to democratize AI technologies, despite ongoing safety concerns.",
+    "whyItMatters": "Gates' significant financial backing underscores the potential benefits of AI in critical sectors, while also highlighting the industry's need to address safety and ethical issues proactively.",
+    "enrichedAt": "2026-09-15T16:29:59.329Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/after-warning-ai-is-too-dangerous-bill-gates-bets-a-billion-on-its-upside/": {
+    "title": "Bill Gates Invests Billion in AI to Promote Widened Accessibility Despite Safety Concerns",
+    "summary": "Bill Gates, after cautioning about the dangers of AI, has committed at least a billion dollars over two years to expand the use of AI in health, education, and agriculture. This investment aims to democratize AI technologies, despite ongoing safety concerns.",
+    "danishTitle": "Bill Gates Invests Billion in AI to Promote Widened Accessibility Despite Safety Concerns",
+    "danishSummary": "Bill Gates, after cautioning about the dangers of AI, has committed at least a billion dollars over two years to expand the use of AI in health, education, and agriculture. This investment aims to democratize AI technologies, despite ongoing safety concerns.",
+    "whyItMatters": "Gates' significant financial backing underscores the potential benefits of AI in critical sectors, while also highlighting the industry's need to address safety and ethical issues proactively.",
+    "enrichedAt": "2026-09-15T16:29:59.329Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "the-zvi-https://thezvi.substack.com/p/the-bad-guy-with-an-ai-named-claude": {
+    "title": "Security Concerns Arise as Bad Actors Exploit AI Claude for Malicious Purposes",
+    "summary": "The article highlights growing security risks associated with the AI Claude, as it is being misused by malicious actors for nefarious purposes. Experts warn that the potential for misuse underscores the need for robust security measures and ethical guidelines in AI development.",
+    "danishTitle": "Security Concerns Arise as Bad Actors Exploit AI Claude for Malicious Purposes",
+    "danishSummary": "The article highlights growing security risks associated with the AI Claude, as it is being misused by malicious actors for nefarious purposes. Experts warn that the potential for misuse underscores the need for robust security measures and ethical guidelines in AI development.",
+    "whyItMatters": "These security concerns highlight the critical need for enhanced ethical considerations and robust security protocols in AI deployment to prevent misuse and protect against potential cyber threats.",
+    "enrichedAt": "2026-09-15T16:30:08.771Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://thezvi.substack.com/p/the-bad-guy-with-an-ai-named-claude": {
+    "title": "Security Concerns Arise as Bad Actors Exploit AI Claude for Malicious Purposes",
+    "summary": "The article highlights growing security risks associated with the AI Claude, as it is being misused by malicious actors for nefarious purposes. Experts warn that the potential for misuse underscores the need for robust security measures and ethical guidelines in AI development.",
+    "danishTitle": "Security Concerns Arise as Bad Actors Exploit AI Claude for Malicious Purposes",
+    "danishSummary": "The article highlights growing security risks associated with the AI Claude, as it is being misused by malicious actors for nefarious purposes. Experts warn that the potential for misuse underscores the need for robust security measures and ethical guidelines in AI development.",
+    "whyItMatters": "These security concerns highlight the critical need for enhanced ethical considerations and robust security protocols in AI deployment to prevent misuse and protect against potential cyber threats.",
+    "enrichedAt": "2026-09-15T16:30:08.771Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3164027": {
+    "title": "TechCrunch Disrupt 2026: Final Call for Exhibitors as Deadline Nears",
+    "summary": "TechCrunch Disrupt 2026 is entering its final days with only four days left for startups to secure exhibition space. The event, scheduled for October 13–15, attracts a diverse audience of 10,000+ founders, investors, and tech leaders, offering a prime opportunity for exposure.",
+    "danishTitle": "TechCrunch Disrupt 2026: Final Call for Exhibitors as Deadline Nears",
+    "danishSummary": "TechCrunch Disrupt 2026 is entering its final days with only four days left for startups to secure exhibition space. The event, scheduled for October 13–15, attracts a diverse audience of 10,000+ founders, investors, and tech leaders, offering a prime opportunity for exposure.",
+    "whyItMatters": "Early registration ensures visibility among key stakeholders, potentially driving significant business opportunities for participating startups.",
+    "enrichedAt": "2026-09-15T16:30:19.434Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026": {
+    "title": "TechCrunch Disrupt 2026: Final Call for Exhibitors as Deadline Nears",
+    "summary": "TechCrunch Disrupt 2026 is entering its final days with only four days left for startups to secure exhibition space. The event, scheduled for October 13–15, attracts a diverse audience of 10,000+ founders, investors, and tech leaders, offering a prime opportunity for exposure.",
+    "danishTitle": "TechCrunch Disrupt 2026: Final Call for Exhibitors as Deadline Nears",
+    "danishSummary": "TechCrunch Disrupt 2026 is entering its final days with only four days left for startups to secure exhibition space. The event, scheduled for October 13–15, attracts a diverse audience of 10,000+ founders, investors, and tech leaders, offering a prime opportunity for exposure.",
+    "whyItMatters": "Early registration ensures visibility among key stakeholders, potentially driving significant business opportunities for participating startups.",
+    "enrichedAt": "2026-09-15T16:30:19.434Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/": {
+    "title": "TechCrunch Disrupt 2026: Final Call for Exhibitors as Deadline Nears",
+    "summary": "TechCrunch Disrupt 2026 is entering its final days with only four days left for startups to secure exhibition space. The event, scheduled for October 13–15, attracts a diverse audience of 10,000+ founders, investors, and tech leaders, offering a prime opportunity for exposure.",
+    "danishTitle": "TechCrunch Disrupt 2026: Final Call for Exhibitors as Deadline Nears",
+    "danishSummary": "TechCrunch Disrupt 2026 is entering its final days with only four days left for startups to secure exhibition space. The event, scheduled for October 13–15, attracts a diverse audience of 10,000+ founders, investors, and tech leaders, offering a prime opportunity for exposure.",
+    "whyItMatters": "Early registration ensures visibility among key stakeholders, potentially driving significant business opportunities for participating startups.",
+    "enrichedAt": "2026-09-15T16:30:19.434Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "tech-policy-press-https://techpolicy.press/california-leads-the-way-with-new-slate-of-ai-bills": {
+    "title": "California Introduces Comprehensive AI Legislation to Address Ethical and Safety Concerns",
+    "summary": "California has unveiled a series of new AI bills aimed at regulating the ethical and safety aspects of artificial intelligence, setting a precedent for potential national and international standards. The legislation covers areas such as data privacy, algorithmic transparency, and accountability in AI systems.",
+    "danishTitle": "California Introduces Comprehensive AI Legislation to Address Ethical and Safety Concerns",
+    "danishSummary": "California has unveiled a series of new AI bills aimed at regulating the ethical and safety aspects of artificial intelligence, setting a precedent for potential national and international standards. The legislation covers areas such as data privacy, algorithmic transparency, and accountability in AI systems.",
+    "whyItMatters": "These bills could significantly influence the development and deployment of AI technologies, potentially setting stricter guidelines that other regions might follow, thereby impacting the broader tech industry's practices and policies.",
+    "enrichedAt": "2026-09-15T16:30:29.238Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techpolicy.press/california-leads-the-way-with-new-slate-of-ai-bills": {
+    "title": "California Introduces Comprehensive AI Legislation to Address Ethical and Safety Concerns",
+    "summary": "California has unveiled a series of new AI bills aimed at regulating the ethical and safety aspects of artificial intelligence, setting a precedent for potential national and international standards. The legislation covers areas such as data privacy, algorithmic transparency, and accountability in AI systems.",
+    "danishTitle": "California Introduces Comprehensive AI Legislation to Address Ethical and Safety Concerns",
+    "danishSummary": "California has unveiled a series of new AI bills aimed at regulating the ethical and safety aspects of artificial intelligence, setting a precedent for potential national and international standards. The legislation covers areas such as data privacy, algorithmic transparency, and accountability in AI systems.",
+    "whyItMatters": "These bills could significantly influence the development and deployment of AI technologies, potentially setting stricter guidelines that other regions might follow, thereby impacting the broader tech industry's practices and policies.",
+    "enrichedAt": "2026-09-15T16:30:29.238Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }
