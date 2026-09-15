@@ -1,69 +1,49 @@
 {
-  "headline": "AI Safety and Ethics Discussions Gain Momentum with Political and Industry Focus",
-  "summary": "The AI industry is grappling with significant safety and ethical concerns, as evidenced by ongoing discussions among major players and increased political scrutiny. This trend is driving new initiatives and regulations aimed at ensuring responsible AI development and deployment.",
-  "whyItMatters": "It highlights the growing importance of ethical considerations in AI, influencing both industry practices and public policy.",
-  "synthesizedAt": "2026-09-15T19:36:25.333Z",
+  "headline": "AI Coding Agents Transform Software Development Efficiency",
+  "summary": "AI coding agents are increasingly integral to modern software development, enhancing velocity and productivity. This trend is highlighted by multiple sources, including Meta's new WhatsApp Business MCP server and Stanford researchers' discussions on the evolution of AI agents.",
+  "whyItMatters": "It underscores the growing importance of AI in software development, potentially leading to more efficient and innovative coding practices.",
+  "synthesizedAt": "2026-09-15T22:42:47.992Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "cognitive-revolution-yt:video:JG6LfQIhlGg",
-    "title": "Pacing in AI Development Gains Political Significance with Andon Labs and AI Ethics Discussions",
-    "link": "https://www.youtube.com/watch?v=JG6LfQIhlGg",
-    "sourceName": "The Cognitive Revolution",
-    "sourceId": "cognitive-revolution",
-    "pubDate": "2026-09-15T19:24:49.000Z",
-    "badgeColor": "teal",
-    "angle": "Industry Analysis"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3164453",
+    "title": "Meta Enables AI Agents to Automate WhatsApp Business Setup Tasks",
+    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-09-15T20:12:53.000Z",
+    "badgeColor": "emerald",
+    "angle": "Primary Source"
   },
   "supportingStories": [
     {
-      "id": "cognitive-revolution-yt:video:rdEn9cpMScA",
-      "title": "Anton Leicht Discusses AI's Impact on Political and Institutional Power",
-      "link": "https://www.youtube.com/watch?v=rdEn9cpMScA",
-      "sourceName": "The Cognitive Revolution",
-      "sourceId": "cognitive-revolution",
-      "pubDate": "2026-09-15T18:52:29.000Z",
-      "badgeColor": "teal",
-      "angle": "Expert Discussion"
-    },
-    {
-      "id": "mit-tech-review-https://www.technologyreview.com/?p=1143936",
-      "title": "AI Safety Roundtables: Debating the Risk of Advanced AI Destroying Humanity",
-      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "sourceName": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "pubDate": "2026-09-15T17:47:51.000Z",
+      "id": "stanford-cs25-yt:video:VjGeZRvcMOo",
+      "title": "Agentic AI vs LLMs: Expert Assistant Capabilities Expand AI Functionality",
+      "link": "https://www.youtube.com/shorts/VjGeZRvcMOo",
+      "sourceName": "Stanford CS25 — Transformers United",
+      "sourceId": "stanford-cs25",
+      "pubDate": "2026-09-15T22:34:31.000Z",
       "badgeColor": "red",
-      "angle": "Roundtable Debates"
+      "angle": "Industry Analysis"
     },
     {
-      "id": "google-ai-https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "title": "Google Unveils AI for Societal Impact Initiative",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "sourceName": "Google News AI",
-      "sourceId": "google-ai",
-      "pubDate": "2026-09-15T16:00:00.000Z",
-      "badgeColor": "cyan",
-      "angle": "Corporate Initiative"
+      "id": "stanford-cs25-yt:video:AZ0pNUF1kAc",
+      "title": "AI Coding Agents Revolutionize Software Development Efficiency",
+      "link": "https://www.youtube.com/shorts/AZ0pNUF1kAc",
+      "sourceName": "Stanford CS25 — Transformers United",
+      "sourceId": "stanford-cs25",
+      "pubDate": "2026-09-15T22:34:28.000Z",
+      "badgeColor": "red",
+      "angle": "Official Release"
     },
     {
-      "id": "google-ai-https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-      "title": "Google AI Expands Focus on Science and Human Well-being",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-      "sourceName": "Google News AI",
-      "sourceId": "google-ai",
-      "pubDate": "2026-09-15T16:00:00.000Z",
-      "badgeColor": "cyan",
-      "angle": "Corporate Strategy"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3164278",
-      "title": "OpenAI, Anthropic, and Google DeepMind Engage in Ongoing AI Safety Discussions",
-      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-15T15:47:03.000Z",
-      "badgeColor": "emerald",
-      "angle": "Safety Discussions"
+      "id": "stanford-cs25-yt:video:3lQXYNUyv5o",
+      "title": "Stanford Researchers Highlight the Evolution of AI Agents as Valuable Colleagues",
+      "link": "https://www.youtube.com/shorts/3lQXYNUyv5o",
+      "sourceName": "Stanford CS25 — Transformers United",
+      "sourceId": "stanford-cs25",
+      "pubDate": "2026-09-15T22:34:24.000Z",
+      "badgeColor": "red",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
