@@ -1,37 +1,47 @@
 {
-  "headline": "Gemini 3.8 Live Challenges OpenAI's GPT-Live in Speech-to-Speech Models",
-  "summary": "Google has launched Gemini 3.8 Live and 3.8 Live Extended Thinking, models that outperform OpenAI's GPT-Live in speech-to-speech tasks. This competition is driving innovation and potentially lowering costs in the AI market.",
-  "whyItMatters": "It intensifies the race for market dominance in speech-to-speech models, impacting pricing and capabilities in the AI industry.",
-  "synthesizedAt": "2026-09-16T01:45:15.560Z",
+  "headline": "State of Thought Framework Pioneers Endogenous Reasoning in LLMs",
+  "summary": "A new framework called State of Thought is advancing the capabilities of Large Language Models (LLMs) by enabling endogenous reasoning, a significant step towards more autonomous and contextually aware AI agents.",
+  "whyItMatters": "This development could enhance the self-awareness and decision-making abilities of LLMs, making them more versatile and reliable in complex, dynamic environments.",
+  "synthesizedAt": "2026-09-16T04:56:25.371Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=40265",
-    "title": "Google Unveils Gemini 3.8 Live: Competing with OpenAI at Lower Costs",
-    "link": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-09-15T18:23:20.000Z",
-    "badgeColor": "slate",
+    "id": "arxiv-cl-oai:arXiv.org:2609.16055v1",
+    "title": "State of Thought Framework Pioneers Endogenous Reasoning in LLMs",
+    "link": "https://arxiv.org/abs/2609.16055",
+    "sourceName": "arXiv cs.CL (Sprog & LLM)",
+    "sourceId": "arxiv-cl",
+    "pubDate": "2026-09-16T04:00:00.000Z",
+    "badgeColor": "zinc",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "simon-willison-https://simonwillison.net/2026/Sep/15/gemini-live/",
-      "title": "Google Unveils Gemini 3.8 Live and 3.8 Live Extended Thinking Models",
-      "link": "https://simonwillison.net/2026/Sep/15/gemini-live/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-09-15T22:47:07.000Z",
-      "badgeColor": "green"
+      "id": "arxiv-ai-oai:arXiv.org:2609.16129v1",
+      "title": "New Pruning Technique Using Fisher Information Distances Offers Enhanced Neural Network Efficiency",
+      "link": "https://arxiv.org/abs/2609.16129",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-09-16T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "deepmind-https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "title": "Google DeepMind Unveils Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "sourceName": "Google DeepMind",
-      "sourceId": "deepmind",
-      "pubDate": "2026-09-15T17:05:57.000Z",
-      "badgeColor": "cyan",
+      "id": "arxiv-ai-oai:arXiv.org:2609.16145v1",
+      "title": "CRN v2 Introduced: Lightweight Error Correction for Frozen Language Models Preserving Base Capabilities",
+      "link": "https://arxiv.org/abs/2609.16145",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-09-16T04:00:00.000Z",
+      "badgeColor": "zinc"
+    },
+    {
+      "id": "arxiv-ai-oai:arXiv.org:2609.16206v1",
+      "title": "Calibrate, Then Route: A Study on Learned Request Routing for Disaggregated LLM Serving",
+      "link": "https://arxiv.org/abs/2609.16206",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-09-16T04:00:00.000Z",
+      "badgeColor": "zinc",
       "angle": "Industry Analysis"
     }
   ]
