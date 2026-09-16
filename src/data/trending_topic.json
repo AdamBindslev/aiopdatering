@@ -1,8 +1,8 @@
 {
   "headline": "State of Thought Framework Pioneers Endogenous Reasoning in LLMs",
-  "summary": "A new framework called State of Thought is advancing the capabilities of Large Language Models (LLMs) by enabling endogenous reasoning, a significant step towards more autonomous and contextually aware AI agents.",
-  "whyItMatters": "This development could enhance the self-awareness and decision-making abilities of LLMs, making them more versatile and reliable in complex, dynamic environments.",
-  "synthesizedAt": "2026-09-16T04:56:25.371Z",
+  "summary": "A new framework called State of Thought has been introduced, enabling endogenous reasoning within Large Language Models (LLMs) during inference. This breakthrough is commanding industry attention as it could significantly enhance the autonomy and utility of LLMs in complex tasks.",
+  "whyItMatters": "Endogenous reasoning within LLMs could lead to more autonomous and contextually aware AI agents, improving their performance in complex, dynamic environments.",
+  "synthesizedAt": "2026-09-16T07:59:34.825Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "arxiv-cl-oai:arXiv.org:2609.16055v1",
@@ -16,33 +16,33 @@
   },
   "supportingStories": [
     {
+      "id": "arxiv-cl-oai:arXiv.org:2609.15990v1",
+      "title": "Research Reveals Insights into Few-Shot Degradation in Language Models",
+      "link": "https://arxiv.org/abs/2609.15990",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-16T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2609.15992v1",
+      "title": "New Research Proposes Optimal Model Activation Policies to Reduce Costs in Large Language Models",
+      "link": "https://arxiv.org/abs/2609.15992",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-16T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Industry Analysis"
+    },
+    {
       "id": "arxiv-ai-oai:arXiv.org:2609.16129v1",
       "title": "New Pruning Technique Using Fisher Information Distances Offers Enhanced Neural Network Efficiency",
       "link": "https://arxiv.org/abs/2609.16129",
       "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
       "sourceId": "arxiv-ai",
       "pubDate": "2026-09-16T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2609.16145v1",
-      "title": "CRN v2 Introduced: Lightweight Error Correction for Frozen Language Models Preserving Base Capabilities",
-      "link": "https://arxiv.org/abs/2609.16145",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-09-16T04:00:00.000Z",
       "badgeColor": "zinc"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2609.16206v1",
-      "title": "Calibrate, Then Route: A Study on Learned Request Routing for Disaggregated LLM Serving",
-      "link": "https://arxiv.org/abs/2609.16206",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-09-16T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Industry Analysis"
     }
   ]
 }
