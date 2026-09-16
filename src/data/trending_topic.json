@@ -1,49 +1,49 @@
 {
-  "headline": "Open-Source AI Models Pave Way for Widespread Local Deployment",
-  "summary": "Mistral AI and Mozilla’s partnership to integrate open-source AI models into web browsers is signaling a shift towards more accessible and locally deployable AI technologies, potentially reducing reliance on proprietary systems.",
-  "whyItMatters": "This trend democratizes AI access, enabling broader adoption and innovation while challenging established commercial platforms.",
-  "synthesizedAt": "2026-09-16T11:05:43.706Z",
+  "headline": "Open-Source AI Models Gain Momentum, Challenging Proprietary Systems",
+  "summary": "A surge in open-source AI models is demonstrating competitive reasoning capabilities, prompting a shift towards more accessible and cost-effective AI solutions. This trend is reshaping the industry by reducing reliance on proprietary platforms and fostering innovation.",
+  "whyItMatters": "It democratizes access to advanced AI technologies, potentially lowering barriers to entry for developers and startups, and challenging the dominance of established commercial platforms.",
+  "synthesizedAt": "2026-09-16T14:12:28.120Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "mistral-https://mistral.ai/news/mistral-x-mozilla/",
-    "title": "Mistral AI and Mozilla Partner to Introduce Open, Private, Multilingual AI in Web Browsers",
-    "link": "https://mistral.ai/news/mistral-x-mozilla/",
-    "sourceName": "Mistral AI",
-    "sourceId": "mistral",
-    "pubDate": "2026-09-16T12:00:00.000Z",
-    "badgeColor": "orange",
-    "angle": "Industry Analysis"
+    "id": "latent-space-https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+    "title": "Jev: A 'System One Model' Offers Dramatic Speed and Cost Improvements Over Small LLMs",
+    "link": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+    "sourceName": "Latent Space (Swyx & Alessio)",
+    "sourceId": "latent-space",
+    "pubDate": "2026-09-16T11:09:53.000Z",
+    "badgeColor": "pink",
+    "angle": "Hands-on Benchmark"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.15990v1",
-      "title": "Research Reveals Insights into Few-Shot Degradation in Language Models",
-      "link": "https://arxiv.org/abs/2609.15990",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-16T04:00:00.000Z",
-      "badgeColor": "zinc",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3164491",
+      "title": "TechCrunch Disrupt 2026: Final Chance for Startups to Secure Exhibits and Present to Key Industry Leaders",
+      "link": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-09-16T14:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "openai-https://openai.com/index/reimagining-advertising-with-ai",
+      "title": "OpenAI Unveils AI-Powered Advertising Tools and Sponsored Agents",
+      "link": "https://openai.com/index/reimagining-advertising-with-ai",
+      "sourceName": "OpenAI News",
+      "sourceId": "openai",
+      "pubDate": "2026-09-16T13:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Official Launch"
+    },
+    {
+      "id": "mistral-https://mistral.ai/news/mistral-x-mozilla/",
+      "title": "Mistral AI and Mozilla Partner to Introduce Open, Private, Multilingual AI in Web Browsers",
+      "link": "https://mistral.ai/news/mistral-x-mozilla/",
+      "sourceName": "Mistral AI",
+      "sourceId": "mistral",
+      "pubDate": "2026-09-16T12:00:00.000Z",
+      "badgeColor": "orange",
       "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2609.15992v1",
-      "title": "New Research Proposes Optimal Model Activation Policies to Reduce Costs in Large Language Models",
-      "link": "https://arxiv.org/abs/2609.15992",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-16T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Cost Reduction"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2609.15994v1",
-      "title": "Latent Undertow: How Ordinary Typos Impact LLM Malicious Content Detection",
-      "link": "https://arxiv.org/abs/2609.15994",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-16T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Security Implications"
     }
   ]
 }
