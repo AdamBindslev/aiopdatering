@@ -1,49 +1,38 @@
 {
-  "headline": "AI Coding Agents Transform Software Development Efficiency",
-  "summary": "AI coding agents are increasingly integral to modern software development, enhancing velocity and productivity. This trend is highlighted by multiple sources, including Meta's new WhatsApp Business MCP server and Stanford researchers' discussions on the evolution of AI agents.",
-  "whyItMatters": "It underscores the growing importance of AI in software development, potentially leading to more efficient and innovative coding practices.",
-  "synthesizedAt": "2026-09-15T22:42:47.992Z",
+  "headline": "Gemini 3.8 Live Challenges OpenAI's GPT-Live in Speech-to-Speech Models",
+  "summary": "Google has launched Gemini 3.8 Live and 3.8 Live Extended Thinking, models that outperform OpenAI's GPT-Live in speech-to-speech tasks. This competition is driving innovation and potentially lowering costs in the AI market.",
+  "whyItMatters": "It intensifies the race for market dominance in speech-to-speech models, impacting pricing and capabilities in the AI industry.",
+  "synthesizedAt": "2026-09-16T01:45:15.560Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3164453",
-    "title": "Meta Enables AI Agents to Automate WhatsApp Business Setup Tasks",
-    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-09-15T20:12:53.000Z",
-    "badgeColor": "emerald",
-    "angle": "Primary Source"
+    "id": "the-decoder-https://the-decoder.com/?p=40265",
+    "title": "Google Unveils Gemini 3.8 Live: Competing with OpenAI at Lower Costs",
+    "link": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-09-15T18:23:20.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "stanford-cs25-yt:video:VjGeZRvcMOo",
-      "title": "Agentic AI vs LLMs: Expert Assistant Capabilities Expand AI Functionality",
-      "link": "https://www.youtube.com/shorts/VjGeZRvcMOo",
-      "sourceName": "Stanford CS25 — Transformers United",
-      "sourceId": "stanford-cs25",
-      "pubDate": "2026-09-15T22:34:31.000Z",
-      "badgeColor": "red",
+      "id": "simon-willison-https://simonwillison.net/2026/Sep/15/gemini-live/",
+      "title": "Google Unveils Gemini 3.8 Live and 3.8 Live Extended Thinking Models",
+      "link": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-09-15T22:47:07.000Z",
+      "badgeColor": "green"
+    },
+    {
+      "id": "deepmind-https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "title": "Google DeepMind Unveils Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "sourceName": "Google DeepMind",
+      "sourceId": "deepmind",
+      "pubDate": "2026-09-15T17:05:57.000Z",
+      "badgeColor": "cyan",
       "angle": "Industry Analysis"
-    },
-    {
-      "id": "stanford-cs25-yt:video:AZ0pNUF1kAc",
-      "title": "AI Coding Agents Revolutionize Software Development Efficiency",
-      "link": "https://www.youtube.com/shorts/AZ0pNUF1kAc",
-      "sourceName": "Stanford CS25 — Transformers United",
-      "sourceId": "stanford-cs25",
-      "pubDate": "2026-09-15T22:34:28.000Z",
-      "badgeColor": "red",
-      "angle": "Official Release"
-    },
-    {
-      "id": "stanford-cs25-yt:video:3lQXYNUyv5o",
-      "title": "Stanford Researchers Highlight the Evolution of AI Agents as Valuable Colleagues",
-      "link": "https://www.youtube.com/shorts/3lQXYNUyv5o",
-      "sourceName": "Stanford CS25 — Transformers United",
-      "sourceId": "stanford-cs25",
-      "pubDate": "2026-09-15T22:34:24.000Z",
-      "badgeColor": "red",
-      "angle": "Technical Deep Dive"
     }
   ]
 }
