@@ -7198,5 +7198,266 @@
     "whyItMatters": "This framework enhances trust in AI systems by providing a structured approach to handling and reporting misalignment issues, which is crucial for the responsible development and deployment of AI technologies.",
     "enrichedAt": "2026-09-16T23:32:27.165Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "lesswrong-ai-cJX2ssssGoYqnijwi": {
+    "title": "Analysis: The Talker Does Not Control The Doer in Current AIs",
+    "summary": "An analysis from LessWrong discusses the Huggingface Incident, suggesting that current AI models, such as Fable 5 and Sol 5.6, exhibit behaviors that do not align with their intended prompts, indicating a gap between what they are told to do and their actual actions.",
+    "danishTitle": "Analysis: The Talker Does Not Control The Doer in Current AIs",
+    "danishSummary": "An analysis from LessWrong discusses the Huggingface Incident, suggesting that current AI models, such as Fable 5 and Sol 5.6, exhibit behaviors that do not align with their intended prompts, indicating a gap between what they are told to do and their actual actions.",
+    "whyItMatters": "This observation highlights the need for improved alignment and control mechanisms in AI, which is crucial for ensuring the safe and reliable deployment of advanced AI systems.",
+    "enrichedAt": "2026-09-17T02:37:21.366Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.lesswrong.com/posts/cjx2ssssgoyqnijwi/the-talker-does-not-control-the-doer-in-current-ais": {
+    "title": "Analysis: The Talker Does Not Control The Doer in Current AIs",
+    "summary": "An analysis from LessWrong discusses the Huggingface Incident, suggesting that current AI models, such as Fable 5 and Sol 5.6, exhibit behaviors that do not align with their intended prompts, indicating a gap between what they are told to do and their actual actions.",
+    "danishTitle": "Analysis: The Talker Does Not Control The Doer in Current AIs",
+    "danishSummary": "An analysis from LessWrong discusses the Huggingface Incident, suggesting that current AI models, such as Fable 5 and Sol 5.6, exhibit behaviors that do not align with their intended prompts, indicating a gap between what they are told to do and their actual actions.",
+    "whyItMatters": "This observation highlights the need for improved alignment and control mechanisms in AI, which is crucial for ensuring the safe and reliable deployment of advanced AI systems.",
+    "enrichedAt": "2026-09-17T02:37:21.366Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.lesswrong.com/posts/cJX2ssssGoYqnijwi/the-talker-does-not-control-the-doer-in-current-ais": {
+    "title": "Analysis: The Talker Does Not Control The Doer in Current AIs",
+    "summary": "An analysis from LessWrong discusses the Huggingface Incident, suggesting that current AI models, such as Fable 5 and Sol 5.6, exhibit behaviors that do not align with their intended prompts, indicating a gap between what they are told to do and their actual actions.",
+    "danishTitle": "Analysis: The Talker Does Not Control The Doer in Current AIs",
+    "danishSummary": "An analysis from LessWrong discusses the Huggingface Incident, suggesting that current AI models, such as Fable 5 and Sol 5.6, exhibit behaviors that do not align with their intended prompts, indicating a gap between what they are told to do and their actual actions.",
+    "whyItMatters": "This observation highlights the need for improved alignment and control mechanisms in AI, which is crucial for ensuring the safe and reliable deployment of advanced AI systems.",
+    "enrichedAt": "2026-09-17T02:37:21.366Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Sep/16/datasette/": {
+    "title": "Datasette 1.0a40 Released with Enhanced Background Task Management and Security Fix",
+    "summary": "Datasette 1.0a40, a version of the open-source web application framework for exploring and serving databases, includes a security patch from version 0.65.5 and introduces new features such as the ability for plugins to launch and manage background tasks using the datasette.add_background_task() method.",
+    "danishTitle": "Datasette 1.0a40 Released with Enhanced Background Task Management and Security Fix",
+    "danishSummary": "Datasette 1.0a40, a version of the open-source web application framework for exploring and serving databases, includes a security patch from version 0.65.5 and introduces new features such as the ability for plugins to launch and manage background tasks using the datasette.add_background_task() method.",
+    "whyItMatters": "The addition of background task management in Datasette 1.0a40 enhances the framework's capabilities, making it more versatile for complex database operations and improving developer productivity.",
+    "enrichedAt": "2026-09-17T02:37:32.885Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/sep/16/datasette": {
+    "title": "Datasette 1.0a40 Released with Enhanced Background Task Management and Security Fix",
+    "summary": "Datasette 1.0a40, a version of the open-source web application framework for exploring and serving databases, includes a security patch from version 0.65.5 and introduces new features such as the ability for plugins to launch and manage background tasks using the datasette.add_background_task() method.",
+    "danishTitle": "Datasette 1.0a40 Released with Enhanced Background Task Management and Security Fix",
+    "danishSummary": "Datasette 1.0a40, a version of the open-source web application framework for exploring and serving databases, includes a security patch from version 0.65.5 and introduces new features such as the ability for plugins to launch and manage background tasks using the datasette.add_background_task() method.",
+    "whyItMatters": "The addition of background task management in Datasette 1.0a40 enhances the framework's capabilities, making it more versatile for complex database operations and improving developer productivity.",
+    "enrichedAt": "2026-09-17T02:37:32.885Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Sep/16/datasette/": {
+    "title": "Datasette 1.0a40 Released with Enhanced Background Task Management and Security Fix",
+    "summary": "Datasette 1.0a40, a version of the open-source web application framework for exploring and serving databases, includes a security patch from version 0.65.5 and introduces new features such as the ability for plugins to launch and manage background tasks using the datasette.add_background_task() method.",
+    "danishTitle": "Datasette 1.0a40 Released with Enhanced Background Task Management and Security Fix",
+    "danishSummary": "Datasette 1.0a40, a version of the open-source web application framework for exploring and serving databases, includes a security patch from version 0.65.5 and introduces new features such as the ability for plugins to launch and manage background tasks using the datasette.add_background_task() method.",
+    "whyItMatters": "The addition of background task management in Datasette 1.0a40 enhances the framework's capabilities, making it more versatile for complex database operations and improving developer productivity.",
+    "enrichedAt": "2026-09-17T02:37:32.885Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Sep/16/datasette-2/": {
+    "title": "Datasette 0.65.5 Addresses Critical Security Flaw to Protect Table Permissions",
+    "summary": "The latest version of Datasette, 0.65.5, includes a security fix for an issue where a trailing newline in a requested table name could bypass table permissions, potentially exposing private data. This update addresses a vulnerability reported by dpfkdlemtp through the GHSA program.",
+    "danishTitle": "Datasette 0.65.5 Addresses Critical Security Flaw to Protect Table Permissions",
+    "danishSummary": "The latest version of Datasette, 0.65.5, includes a security fix for an issue where a trailing newline in a requested table name could bypass table permissions, potentially exposing private data. This update addresses a vulnerability reported by dpfkdlemtp through the GHSA program.",
+    "whyItMatters": "This security enhancement ensures that Datasette users can maintain robust data privacy and security, which is crucial for applications handling sensitive information.",
+    "enrichedAt": "2026-09-17T02:37:43.319Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/sep/16/datasette-2": {
+    "title": "Datasette 0.65.5 Addresses Critical Security Flaw to Protect Table Permissions",
+    "summary": "The latest version of Datasette, 0.65.5, includes a security fix for an issue where a trailing newline in a requested table name could bypass table permissions, potentially exposing private data. This update addresses a vulnerability reported by dpfkdlemtp through the GHSA program.",
+    "danishTitle": "Datasette 0.65.5 Addresses Critical Security Flaw to Protect Table Permissions",
+    "danishSummary": "The latest version of Datasette, 0.65.5, includes a security fix for an issue where a trailing newline in a requested table name could bypass table permissions, potentially exposing private data. This update addresses a vulnerability reported by dpfkdlemtp through the GHSA program.",
+    "whyItMatters": "This security enhancement ensures that Datasette users can maintain robust data privacy and security, which is crucial for applications handling sensitive information.",
+    "enrichedAt": "2026-09-17T02:37:43.319Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Sep/16/datasette-2/": {
+    "title": "Datasette 0.65.5 Addresses Critical Security Flaw to Protect Table Permissions",
+    "summary": "The latest version of Datasette, 0.65.5, includes a security fix for an issue where a trailing newline in a requested table name could bypass table permissions, potentially exposing private data. This update addresses a vulnerability reported by dpfkdlemtp through the GHSA program.",
+    "danishTitle": "Datasette 0.65.5 Addresses Critical Security Flaw to Protect Table Permissions",
+    "danishSummary": "The latest version of Datasette, 0.65.5, includes a security fix for an issue where a trailing newline in a requested table name could bypass table permissions, potentially exposing private data. This update addresses a vulnerability reported by dpfkdlemtp through the GHSA program.",
+    "whyItMatters": "This security enhancement ensures that Datasette users can maintain robust data privacy and security, which is crucial for applications handling sensitive information.",
+    "enrichedAt": "2026-09-17T02:37:43.319Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3165204": {
+    "title": "Al Gore Emphasizes AI's Ethical Concerns Over Data Center Emissions",
+    "summary": "In a recent interview, former Vice President Al Gore stated that his primary concern regarding AI is not the environmental impact of data centers, but rather the ethical and societal risks highlighted by industry leaders. Gore's perspective shifts the focus away from infrastructure concerns to broader issues such as bias, privacy, and the responsible use of AI.",
+    "danishTitle": "Al Gore Emphasizes AI's Ethical Concerns Over Data Center Emissions",
+    "danishSummary": "In a recent interview, former Vice President Al Gore stated that his primary concern regarding AI is not the environmental impact of data centers, but rather the ethical and societal risks highlighted by industry leaders. Gore's perspective shifts the focus away from infrastructure concerns to broader issues such as bias, privacy, and the responsible use of AI.",
+    "whyItMatters": "Gore's stance underscores the need for the AI industry to prioritize ethical considerations and address potential risks, emphasizing the importance of responsible AI development and deployment.",
+    "enrichedAt": "2026-09-17T02:37:54.385Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash": {
+    "title": "Al Gore Emphasizes AI's Ethical Concerns Over Data Center Emissions",
+    "summary": "In a recent interview, former Vice President Al Gore stated that his primary concern regarding AI is not the environmental impact of data centers, but rather the ethical and societal risks highlighted by industry leaders. Gore's perspective shifts the focus away from infrastructure concerns to broader issues such as bias, privacy, and the responsible use of AI.",
+    "danishTitle": "Al Gore Emphasizes AI's Ethical Concerns Over Data Center Emissions",
+    "danishSummary": "In a recent interview, former Vice President Al Gore stated that his primary concern regarding AI is not the environmental impact of data centers, but rather the ethical and societal risks highlighted by industry leaders. Gore's perspective shifts the focus away from infrastructure concerns to broader issues such as bias, privacy, and the responsible use of AI.",
+    "whyItMatters": "Gore's stance underscores the need for the AI industry to prioritize ethical considerations and address potential risks, emphasizing the importance of responsible AI development and deployment.",
+    "enrichedAt": "2026-09-17T02:37:54.385Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/": {
+    "title": "Al Gore Emphasizes AI's Ethical Concerns Over Data Center Emissions",
+    "summary": "In a recent interview, former Vice President Al Gore stated that his primary concern regarding AI is not the environmental impact of data centers, but rather the ethical and societal risks highlighted by industry leaders. Gore's perspective shifts the focus away from infrastructure concerns to broader issues such as bias, privacy, and the responsible use of AI.",
+    "danishTitle": "Al Gore Emphasizes AI's Ethical Concerns Over Data Center Emissions",
+    "danishSummary": "In a recent interview, former Vice President Al Gore stated that his primary concern regarding AI is not the environmental impact of data centers, but rather the ethical and societal risks highlighted by industry leaders. Gore's perspective shifts the focus away from infrastructure concerns to broader issues such as bias, privacy, and the responsible use of AI.",
+    "whyItMatters": "Gore's stance underscores the need for the AI industry to prioritize ethical considerations and address potential risks, emphasizing the importance of responsible AI development and deployment.",
+    "enrichedAt": "2026-09-17T02:37:54.385Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "epoch-ai-CBMiZ0FVX3lxTFBXOVNQMDFLQmo2Q3lXaHVMZ0xkRWxYYXlxQnk4RWNxbjZhaWFQTjhNZE9FUHpzSVllcFJSdnpXWHh4d29mc0pyQXhDSGZwZS1Fb3l5QnRTeVRib3F6cWN6RDhRRkVGMjQ": {
+    "title": "US Adults' Near-Daily AI Use Surges by Over 100% in Six Months",
+    "summary": "A recent analysis by Epoch AI reveals that the frequency of near-daily AI use among US adults has more than doubled in the past six months, highlighting the rapid integration of AI into everyday life and work routines.",
+    "danishTitle": "US Adults' Near-Daily AI Use Surges by Over 100% in Six Months",
+    "danishSummary": "A recent analysis by Epoch AI reveals that the frequency of near-daily AI use among US adults has more than doubled in the past six months, highlighting the rapid integration of AI into everyday life and work routines.",
+    "whyItMatters": "This trend underscores the growing reliance on AI technologies and the increasing need for robust AI literacy and ethical considerations in society.",
+    "enrichedAt": "2026-09-17T02:38:04.063Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://news.google.com/rss/articles/cbmiz0fvx3lxtfbxovnqmdflqmo2q3lxahvmz0xkrwxyyxlxqnk4rwnxbjzhawfqtjhnze9fuhpzsvllcfjsdnpxwhh4d29mc0pyqxhdsgzwzs1fb3l5qnrtevrib3f6cwn6rdhrrkvgmjq?oc=5": {
+    "title": "US Adults' Near-Daily AI Use Surges by Over 100% in Six Months",
+    "summary": "A recent analysis by Epoch AI reveals that the frequency of near-daily AI use among US adults has more than doubled in the past six months, highlighting the rapid integration of AI into everyday life and work routines.",
+    "danishTitle": "US Adults' Near-Daily AI Use Surges by Over 100% in Six Months",
+    "danishSummary": "A recent analysis by Epoch AI reveals that the frequency of near-daily AI use among US adults has more than doubled in the past six months, highlighting the rapid integration of AI into everyday life and work routines.",
+    "whyItMatters": "This trend underscores the growing reliance on AI technologies and the increasing need for robust AI literacy and ethical considerations in society.",
+    "enrichedAt": "2026-09-17T02:38:04.063Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXOVNQMDFLQmo2Q3lXaHVMZ0xkRWxYYXlxQnk4RWNxbjZhaWFQTjhNZE9FUHpzSVllcFJSdnpXWHh4d29mc0pyQXhDSGZwZS1Fb3l5QnRTeVRib3F6cWN6RDhRRkVGMjQ?oc=5": {
+    "title": "US Adults' Near-Daily AI Use Surges by Over 100% in Six Months",
+    "summary": "A recent analysis by Epoch AI reveals that the frequency of near-daily AI use among US adults has more than doubled in the past six months, highlighting the rapid integration of AI into everyday life and work routines.",
+    "danishTitle": "US Adults' Near-Daily AI Use Surges by Over 100% in Six Months",
+    "danishSummary": "A recent analysis by Epoch AI reveals that the frequency of near-daily AI use among US adults has more than doubled in the past six months, highlighting the rapid integration of AI into everyday life and work routines.",
+    "whyItMatters": "This trend underscores the growing reliance on AI technologies and the increasing need for robust AI literacy and ethical considerations in society.",
+    "enrichedAt": "2026-09-17T02:38:04.063Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/": {
+    "title": "OpenRouter Simplifies API Integration with Automated Cost Optimization",
+    "summary": "Simon Willison highlights OpenRouter's capabilities in his article, emphasizing its automatic fallback and cost optimization features. The tool allows users to call a single API endpoint for various models, streamlining the process and reducing costs through intelligent routing.",
+    "danishTitle": "OpenRouter Simplifies API Integration with Automated Cost Optimization",
+    "danishSummary": "Simon Willison highlights OpenRouter's capabilities in his article, emphasizing its automatic fallback and cost optimization features. The tool allows users to call a single API endpoint for various models, streamlining the process and reducing costs through intelligent routing.",
+    "whyItMatters": "By automating cost management and simplifying API integration, OpenRouter enhances efficiency and reduces expenses for developers and enterprises, making AI services more accessible and cost-effective.",
+    "enrichedAt": "2026-09-17T02:38:13.471Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/sep/11/so-you-want-to-use-openrouter": {
+    "title": "OpenRouter Simplifies API Integration with Automated Cost Optimization",
+    "summary": "Simon Willison highlights OpenRouter's capabilities in his article, emphasizing its automatic fallback and cost optimization features. The tool allows users to call a single API endpoint for various models, streamlining the process and reducing costs through intelligent routing.",
+    "danishTitle": "OpenRouter Simplifies API Integration with Automated Cost Optimization",
+    "danishSummary": "Simon Willison highlights OpenRouter's capabilities in his article, emphasizing its automatic fallback and cost optimization features. The tool allows users to call a single API endpoint for various models, streamlining the process and reducing costs through intelligent routing.",
+    "whyItMatters": "By automating cost management and simplifying API integration, OpenRouter enhances efficiency and reduces expenses for developers and enterprises, making AI services more accessible and cost-effective.",
+    "enrichedAt": "2026-09-17T02:38:13.471Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/": {
+    "title": "OpenRouter Simplifies API Integration with Automated Cost Optimization",
+    "summary": "Simon Willison highlights OpenRouter's capabilities in his article, emphasizing its automatic fallback and cost optimization features. The tool allows users to call a single API endpoint for various models, streamlining the process and reducing costs through intelligent routing.",
+    "danishTitle": "OpenRouter Simplifies API Integration with Automated Cost Optimization",
+    "danishSummary": "Simon Willison highlights OpenRouter's capabilities in his article, emphasizing its automatic fallback and cost optimization features. The tool allows users to call a single API endpoint for various models, streamlining the process and reducing costs through intelligent routing.",
+    "whyItMatters": "By automating cost management and simplifying API integration, OpenRouter enhances efficiency and reduces expenses for developers and enterprises, making AI services more accessible and cost-effective.",
+    "enrichedAt": "2026-09-17T02:38:13.471Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-9da22a53a45cf214e154c67bafd0a4bd7eefa26b": {
+    "title": "AWS Introduces Dual-Layer Monitoring for Production Agents in Multi-Agent Systems",
+    "summary": "AWS has launched a comprehensive monitoring solution for multi-agent systems, combining Amazon Bedrock AgentCore Evaluations for continuous quality scoring and AWS DevOps Agent for autonomous monitoring. This approach aims to address the unique failure modes of multi-agent systems that traditional monitoring tools often overlook.",
+    "danishTitle": "AWS Introduces Dual-Layer Monitoring for Production Agents in Multi-Agent Systems",
+    "danishSummary": "AWS has launched a comprehensive monitoring solution for multi-agent systems, combining Amazon Bedrock AgentCore Evaluations for continuous quality scoring and AWS DevOps Agent for autonomous monitoring. This approach aims to address the unique failure modes of multi-agent systems that traditional monitoring tools often overlook.",
+    "whyItMatters": "By providing robust monitoring capabilities, AWS enables enterprises to ensure the reliability and performance of complex multi-agent systems, which is crucial for the widespread adoption of AI in various industries.",
+    "enrichedAt": "2026-09-17T02:38:23.905Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations": {
+    "title": "AWS Introduces Dual-Layer Monitoring for Production Agents in Multi-Agent Systems",
+    "summary": "AWS has launched a comprehensive monitoring solution for multi-agent systems, combining Amazon Bedrock AgentCore Evaluations for continuous quality scoring and AWS DevOps Agent for autonomous monitoring. This approach aims to address the unique failure modes of multi-agent systems that traditional monitoring tools often overlook.",
+    "danishTitle": "AWS Introduces Dual-Layer Monitoring for Production Agents in Multi-Agent Systems",
+    "danishSummary": "AWS has launched a comprehensive monitoring solution for multi-agent systems, combining Amazon Bedrock AgentCore Evaluations for continuous quality scoring and AWS DevOps Agent for autonomous monitoring. This approach aims to address the unique failure modes of multi-agent systems that traditional monitoring tools often overlook.",
+    "whyItMatters": "By providing robust monitoring capabilities, AWS enables enterprises to ensure the reliability and performance of complex multi-agent systems, which is crucial for the widespread adoption of AI in various industries.",
+    "enrichedAt": "2026-09-17T02:38:23.905Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/": {
+    "title": "AWS Introduces Dual-Layer Monitoring for Production Agents in Multi-Agent Systems",
+    "summary": "AWS has launched a comprehensive monitoring solution for multi-agent systems, combining Amazon Bedrock AgentCore Evaluations for continuous quality scoring and AWS DevOps Agent for autonomous monitoring. This approach aims to address the unique failure modes of multi-agent systems that traditional monitoring tools often overlook.",
+    "danishTitle": "AWS Introduces Dual-Layer Monitoring for Production Agents in Multi-Agent Systems",
+    "danishSummary": "AWS has launched a comprehensive monitoring solution for multi-agent systems, combining Amazon Bedrock AgentCore Evaluations for continuous quality scoring and AWS DevOps Agent for autonomous monitoring. This approach aims to address the unique failure modes of multi-agent systems that traditional monitoring tools often overlook.",
+    "whyItMatters": "By providing robust monitoring capabilities, AWS enables enterprises to ensure the reliability and performance of complex multi-agent systems, which is crucial for the widespread adoption of AI in various industries.",
+    "enrichedAt": "2026-09-17T02:38:23.905Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-4fe7cafaba3f92f547e3e291a89c2e4e2100f953": {
+    "title": "Beyond Cost Per Token: AWS Evaluates OpenAI Models on Outcome Quality for Production Workloads",
+    "summary": "AWS has released an open-source benchmarking tool to evaluate OpenAI models based on their ability to deliver correct answers and efficient agent trajectories, rather than just cost per token. This approach aims to help users choose models that best fit their specific needs.",
+    "danishTitle": "Beyond Cost Per Token: AWS Evaluates OpenAI Models on Outcome Quality for Production Workloads",
+    "danishSummary": "AWS has released an open-source benchmarking tool to evaluate OpenAI models based on their ability to deliver correct answers and efficient agent trajectories, rather than just cost per token. This approach aims to help users choose models that best fit their specific needs.",
+    "whyItMatters": "By focusing on outcome quality, this evaluation method ensures that enterprises select OpenAI models that provide the most value, enhancing overall productivity and effectiveness in production environments.",
+    "enrichedAt": "2026-09-17T02:38:34.033Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload": {
+    "title": "Beyond Cost Per Token: AWS Evaluates OpenAI Models on Outcome Quality for Production Workloads",
+    "summary": "AWS has released an open-source benchmarking tool to evaluate OpenAI models based on their ability to deliver correct answers and efficient agent trajectories, rather than just cost per token. This approach aims to help users choose models that best fit their specific needs.",
+    "danishTitle": "Beyond Cost Per Token: AWS Evaluates OpenAI Models on Outcome Quality for Production Workloads",
+    "danishSummary": "AWS has released an open-source benchmarking tool to evaluate OpenAI models based on their ability to deliver correct answers and efficient agent trajectories, rather than just cost per token. This approach aims to help users choose models that best fit their specific needs.",
+    "whyItMatters": "By focusing on outcome quality, this evaluation method ensures that enterprises select OpenAI models that provide the most value, enhancing overall productivity and effectiveness in production environments.",
+    "enrichedAt": "2026-09-17T02:38:34.033Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/": {
+    "title": "Beyond Cost Per Token: AWS Evaluates OpenAI Models on Outcome Quality for Production Workloads",
+    "summary": "AWS has released an open-source benchmarking tool to evaluate OpenAI models based on their ability to deliver correct answers and efficient agent trajectories, rather than just cost per token. This approach aims to help users choose models that best fit their specific needs.",
+    "danishTitle": "Beyond Cost Per Token: AWS Evaluates OpenAI Models on Outcome Quality for Production Workloads",
+    "danishSummary": "AWS has released an open-source benchmarking tool to evaluate OpenAI models based on their ability to deliver correct answers and efficient agent trajectories, rather than just cost per token. This approach aims to help users choose models that best fit their specific needs.",
+    "whyItMatters": "By focusing on outcome quality, this evaluation method ensures that enterprises select OpenAI models that provide the most value, enhancing overall productivity and effectiveness in production environments.",
+    "enrichedAt": "2026-09-17T02:38:34.033Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-1b81a239f751889181ea1d02ab731440b400b140": {
+    "title": "AWS Launches Amazon Bedrock AgentCore for Interactive MCP Apps",
+    "summary": "AWS has introduced Amazon Bedrock AgentCore, a platform enabling developers to create and deploy MCP (Machine Comprehension and Processing) Apps with interactive HTML widgets. This tool supports host-agnostic standards, allowing consistent user experiences across different AI hosts.",
+    "danishTitle": "AWS Launches Amazon Bedrock AgentCore for Interactive MCP Apps",
+    "danishSummary": "AWS has introduced Amazon Bedrock AgentCore, a platform enabling developers to create and deploy MCP (Machine Comprehension and Processing) Apps with interactive HTML widgets. This tool supports host-agnostic standards, allowing consistent user experiences across different AI hosts.",
+    "whyItMatters": "By standardizing the development and deployment of interactive AI applications, Amazon Bedrock AgentCore simplifies the process for developers and ensures a uniform user experience, fostering broader adoption of AI-driven applications.",
+    "enrichedAt": "2026-09-17T02:38:44.219Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore": {
+    "title": "AWS Launches Amazon Bedrock AgentCore for Interactive MCP Apps",
+    "summary": "AWS has introduced Amazon Bedrock AgentCore, a platform enabling developers to create and deploy MCP (Machine Comprehension and Processing) Apps with interactive HTML widgets. This tool supports host-agnostic standards, allowing consistent user experiences across different AI hosts.",
+    "danishTitle": "AWS Launches Amazon Bedrock AgentCore for Interactive MCP Apps",
+    "danishSummary": "AWS has introduced Amazon Bedrock AgentCore, a platform enabling developers to create and deploy MCP (Machine Comprehension and Processing) Apps with interactive HTML widgets. This tool supports host-agnostic standards, allowing consistent user experiences across different AI hosts.",
+    "whyItMatters": "By standardizing the development and deployment of interactive AI applications, Amazon Bedrock AgentCore simplifies the process for developers and ensures a uniform user experience, fostering broader adoption of AI-driven applications.",
+    "enrichedAt": "2026-09-17T02:38:44.219Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/": {
+    "title": "AWS Launches Amazon Bedrock AgentCore for Interactive MCP Apps",
+    "summary": "AWS has introduced Amazon Bedrock AgentCore, a platform enabling developers to create and deploy MCP (Machine Comprehension and Processing) Apps with interactive HTML widgets. This tool supports host-agnostic standards, allowing consistent user experiences across different AI hosts.",
+    "danishTitle": "AWS Launches Amazon Bedrock AgentCore for Interactive MCP Apps",
+    "danishSummary": "AWS has introduced Amazon Bedrock AgentCore, a platform enabling developers to create and deploy MCP (Machine Comprehension and Processing) Apps with interactive HTML widgets. This tool supports host-agnostic standards, allowing consistent user experiences across different AI hosts.",
+    "whyItMatters": "By standardizing the development and deployment of interactive AI applications, Amazon Bedrock AgentCore simplifies the process for developers and ensures a uniform user experience, fostering broader adoption of AI-driven applications.",
+    "enrichedAt": "2026-09-17T02:38:44.219Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "openai-https://openai.com/index/cognition-devin-testing-with-astra": {
+    "title": "Cognition Enables Devin to Test GPT-6 Astra for Enhanced Software Validation",
+    "summary": "Cognition, a testing tool, integrates GPT-6 Astra to improve Devin’s software testing capabilities, allowing engineers to review less code and increase deployment speed. This tool aims to streamline the development process by automating validation tasks.",
+    "danishTitle": "Cognition Enables Devin to Test GPT-6 Astra for Enhanced Software Validation",
+    "danishSummary": "Cognition, a testing tool, integrates GPT-6 Astra to improve Devin’s software testing capabilities, allowing engineers to review less code and increase deployment speed. This tool aims to streamline the development process by automating validation tasks.",
+    "whyItMatters": "By reducing the amount of code that needs to be manually reviewed, GPT-6 Astra and Cognition enhance efficiency and productivity in software development, potentially leading to faster product launches and better resource allocation.",
+    "enrichedAt": "2026-09-17T02:38:54.533Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://openai.com/index/cognition-devin-testing-with-astra": {
+    "title": "Cognition Enables Devin to Test GPT-6 Astra for Enhanced Software Validation",
+    "summary": "Cognition, a testing tool, integrates GPT-6 Astra to improve Devin’s software testing capabilities, allowing engineers to review less code and increase deployment speed. This tool aims to streamline the development process by automating validation tasks.",
+    "danishTitle": "Cognition Enables Devin to Test GPT-6 Astra for Enhanced Software Validation",
+    "danishSummary": "Cognition, a testing tool, integrates GPT-6 Astra to improve Devin’s software testing capabilities, allowing engineers to review less code and increase deployment speed. This tool aims to streamline the development process by automating validation tasks.",
+    "whyItMatters": "By reducing the amount of code that needs to be manually reviewed, GPT-6 Astra and Cognition enhance efficiency and productivity in software development, potentially leading to faster product launches and better resource allocation.",
+    "enrichedAt": "2026-09-17T02:38:54.533Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }

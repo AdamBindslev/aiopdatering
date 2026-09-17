@@ -1,149 +1,39 @@
 {
-  "headline": "OpenAI's ChatGPT Tutorial Series Expands User Engagement and Safety",
-  "summary": "OpenAI has released a series of tutorials for ChatGPT, covering various use cases and best practices, which is driving user engagement and raising awareness about AI safety. These tutorials are gaining significant traction and are shaping the public's understanding of AI tools.",
-  "whyItMatters": "It enhances user trust and competence in AI tools, which is crucial for broader adoption and responsible use of AI technologies.",
-  "synthesizedAt": "2026-09-16T23:33:09.691Z",
+  "headline": "Open-Source AI Agents Gain Momentum, Challenging Proprietary Models",
+  "summary": "A surge in open-source AI agent projects, such as AWS's 38 open-source agent skills and Epoch AI's global data center expansion, is driving innovation and reducing reliance on proprietary systems. This trend is fostering broader access and competition in the AI industry.",
+  "whyItMatters": "It democratizes advanced AI capabilities, potentially lowering barriers to entry and increasing transparency in AI development.",
+  "synthesizedAt": "2026-09-17T02:39:26.779Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-channel-yt:video:iZE2r-Vx5b8",
-    "title": "OpenAI Unveils ChatGPT Admin Console to Monitor AI Adoption and Costs",
-    "link": "https://www.youtube.com/watch?v=iZE2r-Vx5b8",
-    "sourceName": "OpenAI (YouTube)",
-    "sourceId": "openai-channel",
-    "pubDate": "2026-09-16T19:03:38.000Z",
-    "badgeColor": "emerald",
+    "id": "aws-ml-fd565c39336c51430810e927ad66178c9158fbf3",
+    "title": "AWS Releases 38 Open-Source Agent Skills to Enhance HCLS AI Reasoning",
+    "link": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/",
+    "sourceName": "AWS Machine Learning",
+    "sourceId": "aws-ml",
+    "pubDate": "2026-09-16T19:00:00.000Z",
+    "badgeColor": "amber",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "openai-channel-yt:video:4UTn7oWvSJc",
-      "title": "OpenAI Introduces ChatGPT Tutorial for Beginners",
-      "link": "https://www.youtube.com/watch?v=4UTn7oWvSJc",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-09-16T22:29:47.000Z",
+      "id": "nvidia-https://developer.nvidia.com/blog/?p=122626",
+      "title": "NVIDIA Unveils AI Agents for 3D Scene Preparation in Simulation Workflows",
+      "link": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
+      "sourceName": "NVIDIA Technical Blog",
+      "sourceId": "nvidia",
+      "pubDate": "2026-09-16T23:20:33.000Z",
       "badgeColor": "emerald",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "openai-channel-yt:video:P-8sCH6syag",
-      "title": "OpenAI Releases Tutorial on Enhancing ChatGPT Interactions for More Effective Responses",
-      "link": "https://www.youtube.com/watch?v=P-8sCH6syag",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-09-16T22:29:43.000Z",
-      "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "openai-channel-yt:video:gKyEzP_jhZc",
-      "title": "OpenAI Academy Demonstrates ChatGPT for Everyday Task Management",
-      "link": "https://www.youtube.com/watch?v=gKyEzP_jhZc",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-09-16T22:29:39.000Z",
-      "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "openai-channel-yt:video:WY_PHjGilVs",
-      "title": "OpenAI Academy Teaches How to Use ChatGPT for Detecting Scam Messages",
-      "link": "https://www.youtube.com/watch?v=WY_PHjGilVs",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-09-16T22:29:36.000Z",
-      "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "openai-channel-yt:video:dfAZbuAQxi8",
-      "title": "OpenAI Releases Tutorial on ChatGPT Privacy Best Practices",
-      "link": "https://www.youtube.com/watch?v=dfAZbuAQxi8",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-09-16T22:29:31.000Z",
-      "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "openai-channel-yt:video:4gYJxduFN3c",
-      "title": "OpenAI Academy Demonstrates Creative Use of ChatGPT for Artistic Tasks",
-      "link": "https://www.youtube.com/watch?v=4gYJxduFN3c",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-09-16T22:29:27.000Z",
-      "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3165076",
-      "title": "Anthropic and OpenAI Plan to Integrate Independent Safety Evaluators Amid Concerns Over Independence",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-16T21:07:24.000Z",
-      "badgeColor": "emerald",
+      "id": "epoch-ai-CBMiZ0FVX3lxTE1TMTlheHRJZlgwUHpJcmxCY1lreUdxSXZHRExwNE4xM19UOHlmNGF0Yk00N09kWEtRWlNZTHhIdHh2LWJwcWdRX0xScDJlQ1F3VnhHVGpIcXpybWd2Z0FNcGQ5SGV1TzA",
+      "title": "Epoch AI Expands Global AI Data Center Research Efforts",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TMTlheHRJZlgwUHpJcmxCY1lreUdxSXZHRExwNE4xM19UOHlmNGF0Yk00N09kWEtRWlNZTHhIdHh2LWJwcWdRX0xScDJlQ1F3VnhHVGpIcXpybWd2Z0FNcGQ5SGV1TzA?oc=5",
+      "sourceName": "Epoch AI",
+      "sourceId": "epoch-ai",
+      "pubDate": "2026-09-16T17:28:46.000Z",
+      "badgeColor": "violet",
       "angle": "Industry Analysis"
-    },
-    {
-      "id": "ai-explained-yt:video:J3ljHm57yU0",
-      "title": "AI Researchers Call for Slowing Down Frontier AI Development Amid Safety Concerns",
-      "link": "https://www.youtube.com/watch?v=J3ljHm57yU0",
-      "sourceName": "AI Explained",
-      "sourceId": "ai-explained",
-      "pubDate": "2026-09-16T20:51:40.000Z",
-      "badgeColor": "red",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "simon-willison-https://simonwillison.net/2026/Sep/16/one-claude/",
-      "title": "Claude Cowork and Chat Merge into Single Entity",
-      "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-09-16T18:09:49.000Z",
-      "badgeColor": "green",
-      "angle": "Official Release"
-    },
-    {
-      "id": "openai-https://openai.com/index/model-misalignment-reporting-framework",
-      "title": "OpenAI Unveils Framework for Tracking and Reporting Model Misalignment",
-      "link": "https://openai.com/index/model-misalignment-reporting-framework",
-      "sourceName": "OpenAI News",
-      "sourceId": "openai",
-      "pubDate": "2026-09-16T17:00:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Official Release"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3164815",
-      "title": "Google Expands AI Agent Control Over Google Home Devices",
-      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-16T17:00:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Official Release"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=40286",
-      "title": "Anthropic Unifies Claude Chat and Cowork into Integrated AI Suite",
-      "link": "https://the-decoder.com/anthropic-merges-claude-chat-cowork-and-more-into-a-single-product/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-09-16T16:31:41.000Z",
-      "badgeColor": "slate",
-      "angle": "Official Release"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3164745",
-      "title": "Anthropic Unites Claude Chat and Cowork in Single Interface for Pro and Max Users",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-16T16:30:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Official Release"
     }
   ]
 }
