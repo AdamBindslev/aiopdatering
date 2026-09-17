@@ -1,48 +1,39 @@
 {
-  "headline": "Large Language Models Show Improved Reasoning and Ethical Implications",
-  "summary": "Recent studies are showcasing enhanced reasoning capabilities in large language models (LLMs) while also uncovering ethical concerns such as bias and user abuse. These advancements and challenges are driving significant industry discussion and development.",
-  "whyItMatters": "This trend highlights the ongoing evolution of LLMs and the need for robust ethical frameworks, impacting both technical and societal aspects of AI.",
-  "synthesizedAt": "2026-09-17T05:50:49.844Z",
+  "headline": "Open-Source AI Models Challenge Proprietary Systems in Reasoning and Research",
+  "summary": "Google's Dream-RSI and other open-source AI models are demonstrating advanced reasoning capabilities, challenging proprietary systems like Databricks' Astra. This shift is accelerating local AI deployment and reducing reliance on closed platforms.",
+  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on expensive, proprietary AI solutions.",
+  "synthesizedAt": "2026-09-17T08:54:23.918Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-cl-oai:arXiv.org:2609.17534v1",
-    "title": "Study Reveals Personality Traits Impact Response Distortion in LLMs",
-    "link": "https://arxiv.org/abs/2609.17534",
-    "sourceName": "arXiv cs.CL (Sprog & LLM)",
-    "sourceId": "arxiv-cl",
-    "pubDate": "2026-09-17T04:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "Technical Deep Dive"
+    "id": "wes-roth-yt:video:thR9_VYJiQo",
+    "title": "Google Unveils Dream-RSI: AI-Driven Dreaming to Enhance Research Strategies",
+    "link": "https://www.youtube.com/watch?v=thR9_VYJiQo",
+    "sourceName": "Wes Roth",
+    "sourceId": "wes-roth",
+    "pubDate": "2026-09-17T07:35:41.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.17542v1",
-      "title": "New Research Reveals Bias in Complexity-Based Large Language Model Routing",
-      "link": "https://arxiv.org/abs/2609.17542",
+      "id": "latent-space-https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+      "title": "Reality Checks on AI News: Yegge Shuts Down Gas Town, Databricks’ Astra Pricing Update",
+      "link": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-09-17T07:28:25.000Z",
+      "badgeColor": "pink",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2609.17544v1",
+      "title": "Large Language Models Face Off Against Physicians in Traditional Chinese Medicine: A Real-World Clinical Case Evaluation",
+      "link": "https://arxiv.org/abs/2609.17544",
       "sourceName": "arXiv cs.CL (Sprog & LLM)",
       "sourceId": "arxiv-cl",
       "pubDate": "2026-09-17T04:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Bias and Fairness"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2609.17547v1",
-      "title": "AI Assistants' Responses to Repeated Abuse Studied",
-      "link": "https://arxiv.org/abs/2609.17547",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-17T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "User Interaction"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2609.17552v1",
-      "title": "Moral Reasoning Training for AI Agents: Red-Teaming with Persona Attacks Raises Questions",
-      "link": "https://arxiv.org/abs/2609.17552",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-17T04:00:00.000Z",
-      "badgeColor": "zinc"
+      "angle": "Real-World Application"
     }
   ]
 }
