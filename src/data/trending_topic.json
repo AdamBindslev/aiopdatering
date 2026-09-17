@@ -1,39 +1,48 @@
 {
-  "headline": "Open-Source AI Agents Gain Momentum, Challenging Proprietary Models",
-  "summary": "A surge in open-source AI agent projects, such as AWS's 38 open-source agent skills and Epoch AI's global data center expansion, is driving innovation and reducing reliance on proprietary systems. This trend is fostering broader access and competition in the AI industry.",
-  "whyItMatters": "It democratizes advanced AI capabilities, potentially lowering barriers to entry and increasing transparency in AI development.",
-  "synthesizedAt": "2026-09-17T02:39:26.779Z",
+  "headline": "Large Language Models Show Improved Reasoning and Ethical Implications",
+  "summary": "Recent studies are showcasing enhanced reasoning capabilities in large language models (LLMs) while also uncovering ethical concerns such as bias and user abuse. These advancements and challenges are driving significant industry discussion and development.",
+  "whyItMatters": "This trend highlights the ongoing evolution of LLMs and the need for robust ethical frameworks, impacting both technical and societal aspects of AI.",
+  "synthesizedAt": "2026-09-17T05:50:49.844Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "aws-ml-fd565c39336c51430810e927ad66178c9158fbf3",
-    "title": "AWS Releases 38 Open-Source Agent Skills to Enhance HCLS AI Reasoning",
-    "link": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/",
-    "sourceName": "AWS Machine Learning",
-    "sourceId": "aws-ml",
-    "pubDate": "2026-09-16T19:00:00.000Z",
-    "badgeColor": "amber",
-    "angle": "Official Release"
+    "id": "arxiv-cl-oai:arXiv.org:2609.17534v1",
+    "title": "Study Reveals Personality Traits Impact Response Distortion in LLMs",
+    "link": "https://arxiv.org/abs/2609.17534",
+    "sourceName": "arXiv cs.CL (Sprog & LLM)",
+    "sourceId": "arxiv-cl",
+    "pubDate": "2026-09-17T04:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "nvidia-https://developer.nvidia.com/blog/?p=122626",
-      "title": "NVIDIA Unveils AI Agents for 3D Scene Preparation in Simulation Workflows",
-      "link": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
-      "sourceName": "NVIDIA Technical Blog",
-      "sourceId": "nvidia",
-      "pubDate": "2026-09-16T23:20:33.000Z",
-      "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
+      "id": "arxiv-cl-oai:arXiv.org:2609.17542v1",
+      "title": "New Research Reveals Bias in Complexity-Based Large Language Model Routing",
+      "link": "https://arxiv.org/abs/2609.17542",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-17T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Bias and Fairness"
     },
     {
-      "id": "epoch-ai-CBMiZ0FVX3lxTE1TMTlheHRJZlgwUHpJcmxCY1lreUdxSXZHRExwNE4xM19UOHlmNGF0Yk00N09kWEtRWlNZTHhIdHh2LWJwcWdRX0xScDJlQ1F3VnhHVGpIcXpybWd2Z0FNcGQ5SGV1TzA",
-      "title": "Epoch AI Expands Global AI Data Center Research Efforts",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TMTlheHRJZlgwUHpJcmxCY1lreUdxSXZHRExwNE4xM19UOHlmNGF0Yk00N09kWEtRWlNZTHhIdHh2LWJwcWdRX0xScDJlQ1F3VnhHVGpIcXpybWd2Z0FNcGQ5SGV1TzA?oc=5",
-      "sourceName": "Epoch AI",
-      "sourceId": "epoch-ai",
-      "pubDate": "2026-09-16T17:28:46.000Z",
-      "badgeColor": "violet",
-      "angle": "Industry Analysis"
+      "id": "arxiv-cl-oai:arXiv.org:2609.17547v1",
+      "title": "AI Assistants' Responses to Repeated Abuse Studied",
+      "link": "https://arxiv.org/abs/2609.17547",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-17T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "User Interaction"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2609.17552v1",
+      "title": "Moral Reasoning Training for AI Agents: Red-Teaming with Persona Attacks Raises Questions",
+      "link": "https://arxiv.org/abs/2609.17552",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-17T04:00:00.000Z",
+      "badgeColor": "zinc"
     }
   ]
 }
