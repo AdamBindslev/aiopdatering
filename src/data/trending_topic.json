@@ -1,39 +1,29 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Systems in Reasoning and Research",
-  "summary": "Google's Dream-RSI and other open-source AI models are demonstrating advanced reasoning capabilities, challenging proprietary systems like Databricks' Astra. This shift is accelerating local AI deployment and reducing reliance on closed platforms.",
-  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on expensive, proprietary AI solutions.",
-  "synthesizedAt": "2026-09-17T08:54:23.918Z",
+  "headline": "AI Token Usage Soars, Sparking Debate on Cost Efficiency and Market Dynamics",
+  "summary": "OpenRouter's token consumption chart illustrates a 25,000 percent increase in AI usage, highlighting the rapid growth and potential bubble in the market. This surge is prompting developers to reconsider token efficiency and cost management strategies.",
+  "whyItMatters": "Understanding token efficiency is crucial for developers to optimize resource usage and for stakeholders to gauge the sustainability and scalability of AI services.",
+  "synthesizedAt": "2026-09-17T12:00:04.877Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "wes-roth-yt:video:thR9_VYJiQo",
-    "title": "Google Unveils Dream-RSI: AI-Driven Dreaming to Enhance Research Strategies",
-    "link": "https://www.youtube.com/watch?v=thR9_VYJiQo",
-    "sourceName": "Wes Roth",
-    "sourceId": "wes-roth",
-    "pubDate": "2026-09-17T07:35:41.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Release"
+    "id": "the-decoder-https://the-decoder.com/?p=40304",
+    "title": "OpenRouter's Token Chart Illustrates AI Usage Surge and Potential Bubble",
+    "link": "https://the-decoder.com/openrouters-staggering-token-chart-is-the-ai-bubble-debate-in-a-single-image/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-09-17T10:24:32.000Z",
+    "badgeColor": "slate",
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "latent-space-https://www.latent.space/p/ainews-reality-checks-on-ai-news",
-      "title": "Reality Checks on AI News: Yegge Shuts Down Gas Town, Databricks’ Astra Pricing Update",
-      "link": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-09-17T07:28:25.000Z",
-      "badgeColor": "pink",
+      "id": "the-decoder-https://the-decoder.com/?p=40313",
+      "title": "OpenAI Codex Developer Warns Against Inefficient Use of Tokens in AI Agent Swarms",
+      "link": "https://the-decoder.com/ai-agent-swarms-are-a-massive-waste-of-tokens-with-zero-quality-gain-says-openai-codex-developer/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-17T11:03:32.000Z",
+      "badgeColor": "slate",
       "angle": "Industry Analysis"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2609.17544v1",
-      "title": "Large Language Models Face Off Against Physicians in Traditional Chinese Medicine: A Real-World Clinical Case Evaluation",
-      "link": "https://arxiv.org/abs/2609.17544",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-17T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Real-World Application"
     }
   ]
 }
