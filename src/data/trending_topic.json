@@ -1,39 +1,39 @@
 {
-  "headline": "Mathematicians Warn of AI Existential Risks",
-  "summary": "An open letter from 42 eminent mathematicians, including Fields Medal winners, has raised urgent concerns about the potential existential risks posed by advanced AI systems, drawing significant attention and debate in the AI community.",
-  "whyItMatters": "This warning highlights the growing awareness of AI's potential risks and could influence policy discussions and ethical frameworks in the industry.",
-  "synthesizedAt": "2026-09-18T12:54:34.794Z",
+  "headline": "Amazon Launches Bedrock AgentCore Runtime for Multi-Model AI Agents",
+  "summary": "Amazon has introduced the Bedrock AgentCore runtime, enhancing the deployment and performance of multi-model AI agents. This move is driving industry innovation and competition, particularly in the realm of open-source vs. proprietary AI solutions.",
+  "whyItMatters": "It sets a new standard for AI agent deployment, potentially reducing costs and increasing flexibility for developers and enterprises.",
+  "synthesizedAt": "2026-09-18T16:04:06.186Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=40348",
-    "title": "42 Prominent Mathematicians Issue Urgent Warning on AI Existential Risks",
-    "link": "https://the-decoder.com/42-leading-mathematicians-warn-that-ai-existential-risk-is-real-and-urgent/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-09-18T11:41:16.000Z",
-    "badgeColor": "slate",
+    "id": "aws-ml-aa8456e8d8a89d6dee5077d18ffb4cde8af31d89",
+    "title": "Amazon Launches Bedrock AgentCore Runtime for Multi-Model AI Agents",
+    "link": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/",
+    "sourceName": "AWS Machine Learning",
+    "sourceId": "aws-ml",
+    "pubDate": "2026-09-18T15:38:53.000Z",
+    "badgeColor": "amber",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "mit-tech-review-https://www.technologyreview.com/?p=1144435",
-      "title": "MIT Technology Review Debunks AI Doomsday Scenarios in Live Q&A",
-      "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "sourceName": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "pubDate": "2026-09-18T11:29:22.000Z",
-      "badgeColor": "red",
-      "angle": "Industry Analysis"
+      "id": "aws-ml-4445c20377fed08a36ecf07e723f634a75d5d673",
+      "title": "Amazon Launches AgentCore Runtime: Enhancing Memory Efficiency and Performance for AI Agents",
+      "link": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-09-18T15:31:34.000Z",
+      "badgeColor": "amber",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40342",
-      "title": "US and Chinese Experts Advocate for Global AI Rules to Prohibit Nuclear Weapon Autonomy",
-      "link": "https://the-decoder.com/us-and-china-experts-push-for-shared-rules-banning-ai-control-over-nuclear-weapons/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-09-18T09:37:03.000Z",
-      "badgeColor": "slate",
-      "angle": "Critical Debate"
+      "id": "aws-ml-65191e6d2a65531f451a23942300a367fbb852d5",
+      "title": "Amazon SageMaker Integrates with Hugging Face Models via Coding Agents",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-09-18T15:25:23.000Z",
+      "badgeColor": "amber",
+      "angle": "Industry Analysis"
     }
   ]
 }
