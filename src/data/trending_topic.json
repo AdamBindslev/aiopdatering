@@ -1,39 +1,48 @@
 {
-  "headline": "AI Models Democratization and Transparency Drive Industry Transformation",
-  "summary": "PrismML's miniaturized LLM and Epoch AI's transparency efforts highlight the ongoing push to make AI more accessible and accountable. These developments are reshaping the AI landscape, influencing deployment strategies and ethical considerations.",
-  "whyItMatters": "These trends underscore the industry's commitment to democratizing AI and enhancing transparency, which are crucial for broader adoption and trust in AI technologies.",
-  "synthesizedAt": "2026-09-18T03:33:48.865Z",
+  "headline": "Compositional Reasoning Advances Boost Language Model Performance",
+  "summary": "A recent study published on arXiv explores enhancing compositional reasoning in language models through post-training reinforcement learning, marking a significant step forward in improving their overall performance and utility.",
+  "whyItMatters": "This advancement could lead to more robust and versatile language models, enhancing their ability to handle complex tasks and increasing their practical applications in various industries.",
+  "synthesizedAt": "2026-09-18T06:45:10.818Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3165541",
-    "title": "PrismML Introduces Miniaturized LLM to Democratize AI Usage",
-    "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-09-17T22:34:09.000Z",
-    "badgeColor": "emerald",
-    "angle": "Miniaturized LLM"
+    "id": "arxiv-ai-oai:arXiv.org:2609.19465v1",
+    "title": "New Research Advances Compositional Reasoning in Language Models Through Post-Training Reinforcement Learning",
+    "link": "https://arxiv.org/abs/2609.19465",
+    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+    "sourceId": "arxiv-ai",
+    "pubDate": "2026-09-18T04:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "epoch-ai-CBMic0FVX3lxTFBTc1drWTlZa0poVzBiZEJ2eVJUaXRfekpyWVZaTXIxdDBNRUltOGR4N2FGNldiMERPMEpYNUFUNVd4T0hLTUozRmwtc28ya193QjI4eUM4VndFRnlhSmNJajcwbU01OERVbVd0M0F6V0dSZ1k",
-      "title": "Epoch AI Releases Benchmark Reviews Documentation to Enhance Transparency and Methodology",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTc1drWTlZa0poVzBiZEJ2eVJUaXRfekpyWVZaTXIxdDBNRUltOGR4N2FGNldiMERPMEpYNUFUNVd4T0hLTUozRmwtc28ya193QjI4eUM4VndFRnlhSmNJajcwbU01OERVbVd0M0F6V0dSZ1k?oc=5",
-      "sourceName": "Epoch AI",
-      "sourceId": "epoch-ai",
-      "pubDate": "2026-09-17T23:31:17.000Z",
-      "badgeColor": "violet",
-      "angle": "Transparency and Methodology"
+      "id": "arxiv-cl-oai:arXiv.org:2609.19156v1",
+      "title": "Reflective Recovery: A Novel Self-Supervised Method for Enhancing Reasoning in Large Language Models",
+      "link": "https://arxiv.org/abs/2609.19156",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-18T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "simon-willison-https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
-      "title": "Security Alert: Ongoing Campaign Targets Prominent Rustaceans and Popular Crates",
-      "link": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-09-17T23:59:19.000Z",
-      "badgeColor": "green",
-      "angle": "Security Alert"
+      "id": "arxiv-ai-oai:arXiv.org:2609.19203v1",
+      "title": "AI Researcher Proposes Virtualizing Foundation Models with Self-evolving OS Layer",
+      "link": "https://arxiv.org/abs/2609.19203",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-09-18T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Official Release"
+    },
+    {
+      "id": "arxiv-ai-oai:arXiv.org:2609.19472v1",
+      "title": "New Research Aims to Enhance Safety of Large Language Models by Detecting Harm via Latent States",
+      "link": "https://arxiv.org/abs/2609.19472",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-09-18T04:00:00.000Z",
+      "badgeColor": "zinc"
     }
   ]
 }
