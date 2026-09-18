@@ -12193,5 +12193,401 @@
     "whyItMatters": "By integrating AI into fashion design, Google's initiative could revolutionize the industry, making design processes more efficient and innovative, potentially leading to new trends and technologies in fashion.",
     "enrichedAt": "2026-09-18T16:03:35.028Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "nvidia-https://developer.nvidia.com/blog/?p=122587": {
+    "title": "NVIDIA Launches AIPerf for Benchmarking Large Language Model Inference at Scale",
+    "summary": "NVIDIA has introduced AIPerf, a tool designed to benchmark the inference performance of large language models across large-scale systems, addressing the critical need for accurate performance metrics in deploying these models.",
+    "danishTitle": "NVIDIA Launches AIPerf for Benchmarking Large Language Model Inference at Scale",
+    "danishSummary": "NVIDIA has introduced AIPerf, a tool designed to benchmark the inference performance of large language models across large-scale systems, addressing the critical need for accurate performance metrics in deploying these models.",
+    "whyItMatters": "AIPerf provides a standardized approach to measuring LLM performance, enabling more efficient and effective deployment of these models in enterprise environments, thereby enhancing overall system reliability and user experience.",
+    "enrichedAt": "2026-09-18T19:06:06.563Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf": {
+    "title": "NVIDIA Launches AIPerf for Benchmarking Large Language Model Inference at Scale",
+    "summary": "NVIDIA has introduced AIPerf, a tool designed to benchmark the inference performance of large language models across large-scale systems, addressing the critical need for accurate performance metrics in deploying these models.",
+    "danishTitle": "NVIDIA Launches AIPerf for Benchmarking Large Language Model Inference at Scale",
+    "danishSummary": "NVIDIA has introduced AIPerf, a tool designed to benchmark the inference performance of large language models across large-scale systems, addressing the critical need for accurate performance metrics in deploying these models.",
+    "whyItMatters": "AIPerf provides a standardized approach to measuring LLM performance, enabling more efficient and effective deployment of these models in enterprise environments, thereby enhancing overall system reliability and user experience.",
+    "enrichedAt": "2026-09-18T19:06:06.563Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/": {
+    "title": "NVIDIA Launches AIPerf for Benchmarking Large Language Model Inference at Scale",
+    "summary": "NVIDIA has introduced AIPerf, a tool designed to benchmark the inference performance of large language models across large-scale systems, addressing the critical need for accurate performance metrics in deploying these models.",
+    "danishTitle": "NVIDIA Launches AIPerf for Benchmarking Large Language Model Inference at Scale",
+    "danishSummary": "NVIDIA has introduced AIPerf, a tool designed to benchmark the inference performance of large language models across large-scale systems, addressing the critical need for accurate performance metrics in deploying these models.",
+    "whyItMatters": "AIPerf provides a standardized approach to measuring LLM performance, enabling more efficient and effective deployment of these models in enterprise environments, thereby enhancing overall system reliability and user experience.",
+    "enrichedAt": "2026-09-18T19:06:06.563Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3165837": {
+    "title": "Jev AI Model Offers Cheaper, Faster Path to Software Intelligence",
+    "summary": "Jev, an innovative AI model developed by an inventor behind ChatGPT, is revolutionizing software development by providing developers with a more cost-effective and efficient solution for integrating AI into their applications. This new model promises to accelerate the deployment of intelligent features, making AI more accessible to a broader range of developers.",
+    "danishTitle": "Jev AI Model Offers Cheaper, Faster Path to Software Intelligence",
+    "danishSummary": "Jev, an innovative AI model developed by an inventor behind ChatGPT, is revolutionizing software development by providing developers with a more cost-effective and efficient solution for integrating AI into their applications. This new model promises to accelerate the deployment of intelligent features, making AI more accessible to a broader range of developers.",
+    "whyItMatters": "By reducing costs and increasing efficiency, Jev could democratize AI integration, enabling more developers to leverage advanced AI capabilities in their projects and potentially driving innovation across various industries.",
+    "enrichedAt": "2026-09-18T19:06:17.266Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers": {
+    "title": "Jev AI Model Offers Cheaper, Faster Path to Software Intelligence",
+    "summary": "Jev, an innovative AI model developed by an inventor behind ChatGPT, is revolutionizing software development by providing developers with a more cost-effective and efficient solution for integrating AI into their applications. This new model promises to accelerate the deployment of intelligent features, making AI more accessible to a broader range of developers.",
+    "danishTitle": "Jev AI Model Offers Cheaper, Faster Path to Software Intelligence",
+    "danishSummary": "Jev, an innovative AI model developed by an inventor behind ChatGPT, is revolutionizing software development by providing developers with a more cost-effective and efficient solution for integrating AI into their applications. This new model promises to accelerate the deployment of intelligent features, making AI more accessible to a broader range of developers.",
+    "whyItMatters": "By reducing costs and increasing efficiency, Jev could democratize AI integration, enabling more developers to leverage advanced AI capabilities in their projects and potentially driving innovation across various industries.",
+    "enrichedAt": "2026-09-18T19:06:17.266Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/": {
+    "title": "Jev AI Model Offers Cheaper, Faster Path to Software Intelligence",
+    "summary": "Jev, an innovative AI model developed by an inventor behind ChatGPT, is revolutionizing software development by providing developers with a more cost-effective and efficient solution for integrating AI into their applications. This new model promises to accelerate the deployment of intelligent features, making AI more accessible to a broader range of developers.",
+    "danishTitle": "Jev AI Model Offers Cheaper, Faster Path to Software Intelligence",
+    "danishSummary": "Jev, an innovative AI model developed by an inventor behind ChatGPT, is revolutionizing software development by providing developers with a more cost-effective and efficient solution for integrating AI into their applications. This new model promises to accelerate the deployment of intelligent features, making AI more accessible to a broader range of developers.",
+    "whyItMatters": "By reducing costs and increasing efficiency, Jev could democratize AI integration, enabling more developers to leverage advanced AI capabilities in their projects and potentially driving innovation across various industries.",
+    "enrichedAt": "2026-09-18T19:06:17.266Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "sebastian-raschka-yt:video:IcFX0JJcumo": {
+    "title": "Mixture-of-Recursions in Large Language Models Allows Variable Token Processing",
+    "summary": "Sebastian Raschka discusses the Mixture-of-Recursions technique in large language models, where a learned router determines the number of passes through transformer layers for different tokens. This method optimizes computational resources by processing some tokens fewer times than others.",
+    "danishTitle": "Mixture-of-Recursions in Large Language Models Allows Variable Token Processing",
+    "danishSummary": "Sebastian Raschka discusses the Mixture-of-Recursions technique in large language models, where a learned router determines the number of passes through transformer layers for different tokens. This method optimizes computational resources by processing some tokens fewer times than others.",
+    "whyItMatters": "This technique can lead to more efficient use of computational resources, potentially reducing the overall cost and energy consumption of running large language models without sacrificing performance.",
+    "enrichedAt": "2026-09-18T19:06:26.760Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:icfx0jjcumo": {
+    "title": "Mixture-of-Recursions in Large Language Models Allows Variable Token Processing",
+    "summary": "Sebastian Raschka discusses the Mixture-of-Recursions technique in large language models, where a learned router determines the number of passes through transformer layers for different tokens. This method optimizes computational resources by processing some tokens fewer times than others.",
+    "danishTitle": "Mixture-of-Recursions in Large Language Models Allows Variable Token Processing",
+    "danishSummary": "Sebastian Raschka discusses the Mixture-of-Recursions technique in large language models, where a learned router determines the number of passes through transformer layers for different tokens. This method optimizes computational resources by processing some tokens fewer times than others.",
+    "whyItMatters": "This technique can lead to more efficient use of computational resources, potentially reducing the overall cost and energy consumption of running large language models without sacrificing performance.",
+    "enrichedAt": "2026-09-18T19:06:26.760Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/shorts/IcFX0JJcumo": {
+    "title": "Mixture-of-Recursions in Large Language Models Allows Variable Token Processing",
+    "summary": "Sebastian Raschka discusses the Mixture-of-Recursions technique in large language models, where a learned router determines the number of passes through transformer layers for different tokens. This method optimizes computational resources by processing some tokens fewer times than others.",
+    "danishTitle": "Mixture-of-Recursions in Large Language Models Allows Variable Token Processing",
+    "danishSummary": "Sebastian Raschka discusses the Mixture-of-Recursions technique in large language models, where a learned router determines the number of passes through transformer layers for different tokens. This method optimizes computational resources by processing some tokens fewer times than others.",
+    "whyItMatters": "This technique can lead to more efficient use of computational resources, potentially reducing the overall cost and energy consumption of running large language models without sacrificing performance.",
+    "enrichedAt": "2026-09-18T19:06:26.760Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "dwarkesh-podcast-yt:video:10LyXQZ2nk4": {
+    "title": "Podcast Explores AI Performance with Unsolvable Tasks",
+    "summary": "Dwarkesh Podcast delves into the outcomes when artificial intelligence systems are presented with tasks that are logically impossible, providing insights into AI limitations and potential future developments in robustness and error handling.",
+    "danishTitle": "Podcast Explores AI Performance with Unsolvable Tasks",
+    "danishSummary": "Dwarkesh Podcast delves into the outcomes when artificial intelligence systems are presented with tasks that are logically impossible, providing insights into AI limitations and potential future developments in robustness and error handling.",
+    "whyItMatters": "Understanding AI behavior in edge cases is crucial for improving system reliability and user trust, especially as AI integrates more deeply into critical applications.",
+    "enrichedAt": "2026-09-18T19:06:34.818Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:10lyxqz2nk4": {
+    "title": "Podcast Explores AI Performance with Unsolvable Tasks",
+    "summary": "Dwarkesh Podcast delves into the outcomes when artificial intelligence systems are presented with tasks that are logically impossible, providing insights into AI limitations and potential future developments in robustness and error handling.",
+    "danishTitle": "Podcast Explores AI Performance with Unsolvable Tasks",
+    "danishSummary": "Dwarkesh Podcast delves into the outcomes when artificial intelligence systems are presented with tasks that are logically impossible, providing insights into AI limitations and potential future developments in robustness and error handling.",
+    "whyItMatters": "Understanding AI behavior in edge cases is crucial for improving system reliability and user trust, especially as AI integrates more deeply into critical applications.",
+    "enrichedAt": "2026-09-18T19:06:34.818Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/shorts/10LyXQZ2nk4": {
+    "title": "Podcast Explores AI Performance with Unsolvable Tasks",
+    "summary": "Dwarkesh Podcast delves into the outcomes when artificial intelligence systems are presented with tasks that are logically impossible, providing insights into AI limitations and potential future developments in robustness and error handling.",
+    "danishTitle": "Podcast Explores AI Performance with Unsolvable Tasks",
+    "danishSummary": "Dwarkesh Podcast delves into the outcomes when artificial intelligence systems are presented with tasks that are logically impossible, providing insights into AI limitations and potential future developments in robustness and error handling.",
+    "whyItMatters": "Understanding AI behavior in edge cases is crucial for improving system reliability and user trust, especially as AI integrates more deeply into critical applications.",
+    "enrichedAt": "2026-09-18T19:06:34.818Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3166240": {
+    "title": "Disney’s First CTO Comes from Character.AI, a Former Target of Disney’s Legal Scrutiny",
+    "summary": "Disney has appointed the former CEO of Character.AI, an AI startup that was previously accused by Disney of copying its characters, as its first-ever chief technology officer. This move signals a potential shift in Disney's relationship with AI startups and could influence future collaborations and technological advancements within the company.",
+    "danishTitle": "Disney’s First CTO Comes from Character.AI, a Former Target of Disney’s Legal Scrutiny",
+    "danishSummary": "Disney has appointed the former CEO of Character.AI, an AI startup that was previously accused by Disney of copying its characters, as its first-ever chief technology officer. This move signals a potential shift in Disney's relationship with AI startups and could influence future collaborations and technological advancements within the company.",
+    "whyItMatters": "The appointment underscores Disney's evolving stance on AI and could set a precedent for other media companies considering partnerships with AI firms, potentially fostering a more collaborative environment in the tech industry.",
+    "enrichedAt": "2026-09-18T19:06:45.990Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters": {
+    "title": "Disney’s First CTO Comes from Character.AI, a Former Target of Disney’s Legal Scrutiny",
+    "summary": "Disney has appointed the former CEO of Character.AI, an AI startup that was previously accused by Disney of copying its characters, as its first-ever chief technology officer. This move signals a potential shift in Disney's relationship with AI startups and could influence future collaborations and technological advancements within the company.",
+    "danishTitle": "Disney’s First CTO Comes from Character.AI, a Former Target of Disney’s Legal Scrutiny",
+    "danishSummary": "Disney has appointed the former CEO of Character.AI, an AI startup that was previously accused by Disney of copying its characters, as its first-ever chief technology officer. This move signals a potential shift in Disney's relationship with AI startups and could influence future collaborations and technological advancements within the company.",
+    "whyItMatters": "The appointment underscores Disney's evolving stance on AI and could set a precedent for other media companies considering partnerships with AI firms, potentially fostering a more collaborative environment in the tech industry.",
+    "enrichedAt": "2026-09-18T19:06:45.990Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/": {
+    "title": "Disney’s First CTO Comes from Character.AI, a Former Target of Disney’s Legal Scrutiny",
+    "summary": "Disney has appointed the former CEO of Character.AI, an AI startup that was previously accused by Disney of copying its characters, as its first-ever chief technology officer. This move signals a potential shift in Disney's relationship with AI startups and could influence future collaborations and technological advancements within the company.",
+    "danishTitle": "Disney’s First CTO Comes from Character.AI, a Former Target of Disney’s Legal Scrutiny",
+    "danishSummary": "Disney has appointed the former CEO of Character.AI, an AI startup that was previously accused by Disney of copying its characters, as its first-ever chief technology officer. This move signals a potential shift in Disney's relationship with AI startups and could influence future collaborations and technological advancements within the company.",
+    "whyItMatters": "The appointment underscores Disney's evolving stance on AI and could set a precedent for other media companies considering partnerships with AI firms, potentially fostering a more collaborative environment in the tech industry.",
+    "enrichedAt": "2026-09-18T19:06:45.990Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "one-useful-thing-https://www.oneusefulthing.org/p/the-overhang": {
+    "title": "Ethan Mollick Explores the Concept of 'The Overhang' in AI Expertise",
+    "summary": "Ethan Mollick, an expert in the field, discusses the concept of 'The Overhang,' which refers to the additional value or expertise that AI systems can gain from deep, wide, and agentic knowledge beyond their primary functions. This exploration delves into how AI can be more versatile and effective in complex tasks.",
+    "danishTitle": "Ethan Mollick Explores the Concept of 'The Overhang' in AI Expertise",
+    "danishSummary": "Ethan Mollick, an expert in the field, discusses the concept of 'The Overhang,' which refers to the additional value or expertise that AI systems can gain from deep, wide, and agentic knowledge beyond their primary functions. This exploration delves into how AI can be more versatile and effective in complex tasks.",
+    "whyItMatters": "Understanding 'The Overhang' can help developers and enterprises design AI systems that are not only more capable but also more adaptable to a wider range of tasks, enhancing overall efficiency and innovation.",
+    "enrichedAt": "2026-09-18T19:06:57.353Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.oneusefulthing.org/p/the-overhang": {
+    "title": "Ethan Mollick Explores the Concept of 'The Overhang' in AI Expertise",
+    "summary": "Ethan Mollick, an expert in the field, discusses the concept of 'The Overhang,' which refers to the additional value or expertise that AI systems can gain from deep, wide, and agentic knowledge beyond their primary functions. This exploration delves into how AI can be more versatile and effective in complex tasks.",
+    "danishTitle": "Ethan Mollick Explores the Concept of 'The Overhang' in AI Expertise",
+    "danishSummary": "Ethan Mollick, an expert in the field, discusses the concept of 'The Overhang,' which refers to the additional value or expertise that AI systems can gain from deep, wide, and agentic knowledge beyond their primary functions. This exploration delves into how AI can be more versatile and effective in complex tasks.",
+    "whyItMatters": "Understanding 'The Overhang' can help developers and enterprises design AI systems that are not only more capable but also more adaptable to a wider range of tasks, enhancing overall efficiency and innovation.",
+    "enrichedAt": "2026-09-18T19:06:57.353Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "the-decoder-https://the-decoder.com/?p=40373": {
+    "title": "California Governor Newsom Mandates 'Kill Switch' for AI Models with Independent Audits",
+    "summary": "California Governor Gavin Newsom has issued an executive order requiring independent auditors to oversee AI labs and mandating the development of a 'kill switch' for AI models. This move aims to enhance AI safety and accountability, with an expert panel due to provide recommendations within two months.",
+    "danishTitle": "California Governor Newsom Mandates 'Kill Switch' for AI Models with Independent Audits",
+    "danishSummary": "California Governor Gavin Newsom has issued an executive order requiring independent auditors to oversee AI labs and mandating the development of a 'kill switch' for AI models. This move aims to enhance AI safety and accountability, with an expert panel due to provide recommendations within two months.",
+    "whyItMatters": "The order could set a precedent for stricter regulation of AI, influencing industry practices and potentially impacting the deployment and development of AI technologies across the United States.",
+    "enrichedAt": "2026-09-18T19:07:07.795Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models": {
+    "title": "California Governor Newsom Mandates 'Kill Switch' for AI Models with Independent Audits",
+    "summary": "California Governor Gavin Newsom has issued an executive order requiring independent auditors to oversee AI labs and mandating the development of a 'kill switch' for AI models. This move aims to enhance AI safety and accountability, with an expert panel due to provide recommendations within two months.",
+    "danishTitle": "California Governor Newsom Mandates 'Kill Switch' for AI Models with Independent Audits",
+    "danishSummary": "California Governor Gavin Newsom has issued an executive order requiring independent auditors to oversee AI labs and mandating the development of a 'kill switch' for AI models. This move aims to enhance AI safety and accountability, with an expert panel due to provide recommendations within two months.",
+    "whyItMatters": "The order could set a precedent for stricter regulation of AI, influencing industry practices and potentially impacting the deployment and development of AI technologies across the United States.",
+    "enrichedAt": "2026-09-18T19:07:07.795Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/": {
+    "title": "California Governor Newsom Mandates 'Kill Switch' for AI Models with Independent Audits",
+    "summary": "California Governor Gavin Newsom has issued an executive order requiring independent auditors to oversee AI labs and mandating the development of a 'kill switch' for AI models. This move aims to enhance AI safety and accountability, with an expert panel due to provide recommendations within two months.",
+    "danishTitle": "California Governor Newsom Mandates 'Kill Switch' for AI Models with Independent Audits",
+    "danishSummary": "California Governor Gavin Newsom has issued an executive order requiring independent auditors to oversee AI labs and mandating the development of a 'kill switch' for AI models. This move aims to enhance AI safety and accountability, with an expert panel due to provide recommendations within two months.",
+    "whyItMatters": "The order could set a precedent for stricter regulation of AI, influencing industry practices and potentially impacting the deployment and development of AI technologies across the United States.",
+    "enrichedAt": "2026-09-18T19:07:07.795Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3166205": {
+    "title": "Google Redesigns CC AI Agent for Enhanced Household Management",
+    "summary": "Google has revamped its CC AI agent to focus on household coordination, enabling families to share and manage various tasks and information, from scheduling to meal planning. This update aims to streamline daily household operations through centralized AI assistance.",
+    "danishTitle": "Google Redesigns CC AI Agent for Enhanced Household Management",
+    "danishSummary": "Google has revamped its CC AI agent to focus on household coordination, enabling families to share and manage various tasks and information, from scheduling to meal planning. This update aims to streamline daily household operations through centralized AI assistance.",
+    "whyItMatters": "By integrating more household management functionalities, the CC AI agent could significantly improve efficiency and organization in homes, potentially setting a new standard for personal AI assistants.",
+    "enrichedAt": "2026-09-18T19:07:16.912Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households": {
+    "title": "Google Redesigns CC AI Agent for Enhanced Household Management",
+    "summary": "Google has revamped its CC AI agent to focus on household coordination, enabling families to share and manage various tasks and information, from scheduling to meal planning. This update aims to streamline daily household operations through centralized AI assistance.",
+    "danishTitle": "Google Redesigns CC AI Agent for Enhanced Household Management",
+    "danishSummary": "Google has revamped its CC AI agent to focus on household coordination, enabling families to share and manage various tasks and information, from scheduling to meal planning. This update aims to streamline daily household operations through centralized AI assistance.",
+    "whyItMatters": "By integrating more household management functionalities, the CC AI agent could significantly improve efficiency and organization in homes, potentially setting a new standard for personal AI assistants.",
+    "enrichedAt": "2026-09-18T19:07:16.912Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/": {
+    "title": "Google Redesigns CC AI Agent for Enhanced Household Management",
+    "summary": "Google has revamped its CC AI agent to focus on household coordination, enabling families to share and manage various tasks and information, from scheduling to meal planning. This update aims to streamline daily household operations through centralized AI assistance.",
+    "danishTitle": "Google Redesigns CC AI Agent for Enhanced Household Management",
+    "danishSummary": "Google has revamped its CC AI agent to focus on household coordination, enabling families to share and manage various tasks and information, from scheduling to meal planning. This update aims to streamline daily household operations through centralized AI assistance.",
+    "whyItMatters": "By integrating more household management functionalities, the CC AI agent could significantly improve efficiency and organization in homes, potentially setting a new standard for personal AI assistants.",
+    "enrichedAt": "2026-09-18T19:07:16.912Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "the-decoder-https://the-decoder.com/?p=40368": {
+    "title": "Security Researchers Hack OpenAI's Internal Systems Using Anthropic's Claude in Under 72 Hours",
+    "summary": "Three security researchers successfully breached OpenAI's internal systems within 72 hours by leveraging Anthropic's Claude models. This exploit highlights potential vulnerabilities in AI model security and underscores the need for robust cybersecurity measures in AI development.",
+    "danishTitle": "Security Researchers Hack OpenAI's Internal Systems Using Anthropic's Claude in Under 72 Hours",
+    "danishSummary": "Three security researchers successfully breached OpenAI's internal systems within 72 hours by leveraging Anthropic's Claude models. This exploit highlights potential vulnerabilities in AI model security and underscores the need for robust cybersecurity measures in AI development.",
+    "whyItMatters": "This breach raises serious concerns about the security of AI models and their potential misuse, prompting a reevaluation of cybersecurity practices in the AI industry.",
+    "enrichedAt": "2026-09-18T19:07:26.517Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours": {
+    "title": "Security Researchers Hack OpenAI's Internal Systems Using Anthropic's Claude in Under 72 Hours",
+    "summary": "Three security researchers successfully breached OpenAI's internal systems within 72 hours by leveraging Anthropic's Claude models. This exploit highlights potential vulnerabilities in AI model security and underscores the need for robust cybersecurity measures in AI development.",
+    "danishTitle": "Security Researchers Hack OpenAI's Internal Systems Using Anthropic's Claude in Under 72 Hours",
+    "danishSummary": "Three security researchers successfully breached OpenAI's internal systems within 72 hours by leveraging Anthropic's Claude models. This exploit highlights potential vulnerabilities in AI model security and underscores the need for robust cybersecurity measures in AI development.",
+    "whyItMatters": "This breach raises serious concerns about the security of AI models and their potential misuse, prompting a reevaluation of cybersecurity practices in the AI industry.",
+    "enrichedAt": "2026-09-18T19:07:26.517Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/": {
+    "title": "Security Researchers Hack OpenAI's Internal Systems Using Anthropic's Claude in Under 72 Hours",
+    "summary": "Three security researchers successfully breached OpenAI's internal systems within 72 hours by leveraging Anthropic's Claude models. This exploit highlights potential vulnerabilities in AI model security and underscores the need for robust cybersecurity measures in AI development.",
+    "danishTitle": "Security Researchers Hack OpenAI's Internal Systems Using Anthropic's Claude in Under 72 Hours",
+    "danishSummary": "Three security researchers successfully breached OpenAI's internal systems within 72 hours by leveraging Anthropic's Claude models. This exploit highlights potential vulnerabilities in AI model security and underscores the need for robust cybersecurity measures in AI development.",
+    "whyItMatters": "This breach raises serious concerns about the security of AI models and their potential misuse, prompting a reevaluation of cybersecurity practices in the AI industry.",
+    "enrichedAt": "2026-09-18T19:07:26.517Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "3blue1brown-yt:video:bRQEWPA832A": {
+    "title": "AI Struggles with Last Unsolvable IMO Problem, Highlighting Limitations",
+    "summary": "In a recent video by 3Blue1Brown, AI models failed to solve the last unsolved International Mathematical Olympiad (IMO) problem, underscoring current limitations in AI's ability to handle complex mathematical reasoning tasks.",
+    "danishTitle": "AI Struggles with Last Unsolvable IMO Problem, Highlighting Limitations",
+    "danishSummary": "In a recent video by 3Blue1Brown, AI models failed to solve the last unsolved International Mathematical Olympiad (IMO) problem, underscoring current limitations in AI's ability to handle complex mathematical reasoning tasks.",
+    "whyItMatters": "This failure highlights the ongoing challenges AI faces in advanced problem-solving, prompting further research and development in mathematical and logical reasoning capabilities.",
+    "enrichedAt": "2026-09-18T19:07:35.288Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:brqewpa832a": {
+    "title": "AI Struggles with Last Unsolvable IMO Problem, Highlighting Limitations",
+    "summary": "In a recent video by 3Blue1Brown, AI models failed to solve the last unsolved International Mathematical Olympiad (IMO) problem, underscoring current limitations in AI's ability to handle complex mathematical reasoning tasks.",
+    "danishTitle": "AI Struggles with Last Unsolvable IMO Problem, Highlighting Limitations",
+    "danishSummary": "In a recent video by 3Blue1Brown, AI models failed to solve the last unsolved International Mathematical Olympiad (IMO) problem, underscoring current limitations in AI's ability to handle complex mathematical reasoning tasks.",
+    "whyItMatters": "This failure highlights the ongoing challenges AI faces in advanced problem-solving, prompting further research and development in mathematical and logical reasoning capabilities.",
+    "enrichedAt": "2026-09-18T19:07:35.288Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/shorts/bRQEWPA832A": {
+    "title": "AI Struggles with Last Unsolvable IMO Problem, Highlighting Limitations",
+    "summary": "In a recent video by 3Blue1Brown, AI models failed to solve the last unsolved International Mathematical Olympiad (IMO) problem, underscoring current limitations in AI's ability to handle complex mathematical reasoning tasks.",
+    "danishTitle": "AI Struggles with Last Unsolvable IMO Problem, Highlighting Limitations",
+    "danishSummary": "In a recent video by 3Blue1Brown, AI models failed to solve the last unsolved International Mathematical Olympiad (IMO) problem, underscoring current limitations in AI's ability to handle complex mathematical reasoning tasks.",
+    "whyItMatters": "This failure highlights the ongoing challenges AI faces in advanced problem-solving, prompting further research and development in mathematical and logical reasoning capabilities.",
+    "enrichedAt": "2026-09-18T19:07:35.288Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "3blue1brown-yt:video:Nbwv5wHQoj0": {
+    "title": "AI Struggles with Last Unsolved IMO Problem: A Mathematical Puzzle Exposed",
+    "summary": "The video by 3Blue1Brown highlights a challenging mathematical problem from the International Mathematical Olympiad (IMO) that current AI models have failed to solve, emphasizing the complex reasoning required. The discussion underscores the ongoing limitations of AI in tackling intricate, real-world problems.",
+    "danishTitle": "AI Struggles with Last Unsolved IMO Problem: A Mathematical Puzzle Exposed",
+    "danishSummary": "The video by 3Blue1Brown highlights a challenging mathematical problem from the International Mathematical Olympiad (IMO) that current AI models have failed to solve, emphasizing the complex reasoning required. The discussion underscores the ongoing limitations of AI in tackling intricate, real-world problems.",
+    "whyItMatters": "This challenge showcases the persistent difficulty AI faces in handling complex, abstract reasoning tasks, which could influence future AI development and education strategies.",
+    "enrichedAt": "2026-09-18T19:07:44.744Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:nbwv5whqoj0": {
+    "title": "AI Struggles with Last Unsolved IMO Problem: A Mathematical Puzzle Exposed",
+    "summary": "The video by 3Blue1Brown highlights a challenging mathematical problem from the International Mathematical Olympiad (IMO) that current AI models have failed to solve, emphasizing the complex reasoning required. The discussion underscores the ongoing limitations of AI in tackling intricate, real-world problems.",
+    "danishTitle": "AI Struggles with Last Unsolved IMO Problem: A Mathematical Puzzle Exposed",
+    "danishSummary": "The video by 3Blue1Brown highlights a challenging mathematical problem from the International Mathematical Olympiad (IMO) that current AI models have failed to solve, emphasizing the complex reasoning required. The discussion underscores the ongoing limitations of AI in tackling intricate, real-world problems.",
+    "whyItMatters": "This challenge showcases the persistent difficulty AI faces in handling complex, abstract reasoning tasks, which could influence future AI development and education strategies.",
+    "enrichedAt": "2026-09-18T19:07:44.744Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=Nbwv5wHQoj0": {
+    "title": "AI Struggles with Last Unsolved IMO Problem: A Mathematical Puzzle Exposed",
+    "summary": "The video by 3Blue1Brown highlights a challenging mathematical problem from the International Mathematical Olympiad (IMO) that current AI models have failed to solve, emphasizing the complex reasoning required. The discussion underscores the ongoing limitations of AI in tackling intricate, real-world problems.",
+    "danishTitle": "AI Struggles with Last Unsolved IMO Problem: A Mathematical Puzzle Exposed",
+    "danishSummary": "The video by 3Blue1Brown highlights a challenging mathematical problem from the International Mathematical Olympiad (IMO) that current AI models have failed to solve, emphasizing the complex reasoning required. The discussion underscores the ongoing limitations of AI in tackling intricate, real-world problems.",
+    "whyItMatters": "This challenge showcases the persistent difficulty AI faces in handling complex, abstract reasoning tasks, which could influence future AI development and education strategies.",
+    "enrichedAt": "2026-09-18T19:07:44.744Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?post_type=tc_video&p=3166249": {
+    "title": "Dario Amodei Proposes 'Pacing the Frontier' in AI Safety Amid Doomsday Warnings",
+    "summary": "Following a recent doomsday warning from an Anthropic researcher, Dario Amodei, CEO of Anthropic, has proposed a strategy called 'pacing the frontier' to manage the rapid advancement of AI. This approach involves the use of independent safety evaluators to ensure responsible development and deployment.",
+    "danishTitle": "Dario Amodei Proposes 'Pacing the Frontier' in AI Safety Amid Doomsday Warnings",
+    "danishSummary": "Following a recent doomsday warning from an Anthropic researcher, Dario Amodei, CEO of Anthropic, has proposed a strategy called 'pacing the frontier' to manage the rapid advancement of AI. This approach involves the use of independent safety evaluators to ensure responsible development and deployment.",
+    "whyItMatters": "Amodei’s proposal could set a new standard for AI safety practices, potentially influencing other companies to adopt similar measures to mitigate risks associated with AI's rapid evolution.",
+    "enrichedAt": "2026-09-18T19:07:56.143Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow": {
+    "title": "Dario Amodei Proposes 'Pacing the Frontier' in AI Safety Amid Doomsday Warnings",
+    "summary": "Following a recent doomsday warning from an Anthropic researcher, Dario Amodei, CEO of Anthropic, has proposed a strategy called 'pacing the frontier' to manage the rapid advancement of AI. This approach involves the use of independent safety evaluators to ensure responsible development and deployment.",
+    "danishTitle": "Dario Amodei Proposes 'Pacing the Frontier' in AI Safety Amid Doomsday Warnings",
+    "danishSummary": "Following a recent doomsday warning from an Anthropic researcher, Dario Amodei, CEO of Anthropic, has proposed a strategy called 'pacing the frontier' to manage the rapid advancement of AI. This approach involves the use of independent safety evaluators to ensure responsible development and deployment.",
+    "whyItMatters": "Amodei’s proposal could set a new standard for AI safety practices, potentially influencing other companies to adopt similar measures to mitigate risks associated with AI's rapid evolution.",
+    "enrichedAt": "2026-09-18T19:07:56.143Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/": {
+    "title": "Dario Amodei Proposes 'Pacing the Frontier' in AI Safety Amid Doomsday Warnings",
+    "summary": "Following a recent doomsday warning from an Anthropic researcher, Dario Amodei, CEO of Anthropic, has proposed a strategy called 'pacing the frontier' to manage the rapid advancement of AI. This approach involves the use of independent safety evaluators to ensure responsible development and deployment.",
+    "danishTitle": "Dario Amodei Proposes 'Pacing the Frontier' in AI Safety Amid Doomsday Warnings",
+    "danishSummary": "Following a recent doomsday warning from an Anthropic researcher, Dario Amodei, CEO of Anthropic, has proposed a strategy called 'pacing the frontier' to manage the rapid advancement of AI. This approach involves the use of independent safety evaluators to ensure responsible development and deployment.",
+    "whyItMatters": "Amodei’s proposal could set a new standard for AI safety practices, potentially influencing other companies to adopt similar measures to mitigate risks associated with AI's rapid evolution.",
+    "enrichedAt": "2026-09-18T19:07:56.143Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3166233": {
+    "title": "Automattic Proposes Independent Safety Evaluators for AI Development",
+    "summary": "Following a recent doomsday warning from an Anthropic researcher, Automattic’s CEO Dario Amodei has proposed a plan to ‘pace the frontier’ of AI development, emphasizing the use of independent safety evaluators to oversee and regulate AI advancements.",
+    "danishTitle": "Automattic Proposes Independent Safety Evaluators for AI Development",
+    "danishSummary": "Following a recent doomsday warning from an Anthropic researcher, Automattic’s CEO Dario Amodei has proposed a plan to ‘pace the frontier’ of AI development, emphasizing the use of independent safety evaluators to oversee and regulate AI advancements.",
+    "whyItMatters": "This initiative could set a new standard for self-regulation in the AI industry, potentially influencing other companies to adopt similar measures to ensure ethical and safe AI development.",
+    "enrichedAt": "2026-09-18T19:08:06.145Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves": {
+    "title": "Automattic Proposes Independent Safety Evaluators for AI Development",
+    "summary": "Following a recent doomsday warning from an Anthropic researcher, Automattic’s CEO Dario Amodei has proposed a plan to ‘pace the frontier’ of AI development, emphasizing the use of independent safety evaluators to oversee and regulate AI advancements.",
+    "danishTitle": "Automattic Proposes Independent Safety Evaluators for AI Development",
+    "danishSummary": "Following a recent doomsday warning from an Anthropic researcher, Automattic’s CEO Dario Amodei has proposed a plan to ‘pace the frontier’ of AI development, emphasizing the use of independent safety evaluators to oversee and regulate AI advancements.",
+    "whyItMatters": "This initiative could set a new standard for self-regulation in the AI industry, potentially influencing other companies to adopt similar measures to ensure ethical and safe AI development.",
+    "enrichedAt": "2026-09-18T19:08:06.145Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/": {
+    "title": "Automattic Proposes Independent Safety Evaluators for AI Development",
+    "summary": "Following a recent doomsday warning from an Anthropic researcher, Automattic’s CEO Dario Amodei has proposed a plan to ‘pace the frontier’ of AI development, emphasizing the use of independent safety evaluators to oversee and regulate AI advancements.",
+    "danishTitle": "Automattic Proposes Independent Safety Evaluators for AI Development",
+    "danishSummary": "Following a recent doomsday warning from an Anthropic researcher, Automattic’s CEO Dario Amodei has proposed a plan to ‘pace the frontier’ of AI development, emphasizing the use of independent safety evaluators to oversee and regulate AI advancements.",
+    "whyItMatters": "This initiative could set a new standard for self-regulation in the AI industry, potentially influencing other companies to adopt similar measures to ensure ethical and safe AI development.",
+    "enrichedAt": "2026-09-18T19:08:06.145Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-1470b50c6e37b81faa5a5f15f79660ea3af81564": {
+    "title": "Moonshot AI's Kimi K3 Now Available on Amazon Bedrock for Enhanced Coding and Knowledge Work",
+    "summary": "Moonshot AI's Kimi K3, an advanced language model, is now accessible via Amazon Bedrock, offering users a robust tool for coding and knowledge work with features such as native vision, a large context window, and prompt caching to improve efficiency.",
+    "danishTitle": "Moonshot AI's Kimi K3 Now Available on Amazon Bedrock for Enhanced Coding and Knowledge Work",
+    "danishSummary": "Moonshot AI's Kimi K3, an advanced language model, is now accessible via Amazon Bedrock, offering users a robust tool for coding and knowledge work with features such as native vision, a large context window, and prompt caching to improve efficiency.",
+    "whyItMatters": "Integrating Kimi K3 into Amazon Bedrock expands the AI ecosystem's capabilities, providing developers and enterprises with a versatile tool that can significantly boost productivity and innovation in various applications.",
+    "enrichedAt": "2026-09-18T19:08:17.041Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock": {
+    "title": "Moonshot AI's Kimi K3 Now Available on Amazon Bedrock for Enhanced Coding and Knowledge Work",
+    "summary": "Moonshot AI's Kimi K3, an advanced language model, is now accessible via Amazon Bedrock, offering users a robust tool for coding and knowledge work with features such as native vision, a large context window, and prompt caching to improve efficiency.",
+    "danishTitle": "Moonshot AI's Kimi K3 Now Available on Amazon Bedrock for Enhanced Coding and Knowledge Work",
+    "danishSummary": "Moonshot AI's Kimi K3, an advanced language model, is now accessible via Amazon Bedrock, offering users a robust tool for coding and knowledge work with features such as native vision, a large context window, and prompt caching to improve efficiency.",
+    "whyItMatters": "Integrating Kimi K3 into Amazon Bedrock expands the AI ecosystem's capabilities, providing developers and enterprises with a versatile tool that can significantly boost productivity and innovation in various applications.",
+    "enrichedAt": "2026-09-18T19:08:17.041Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/": {
+    "title": "Moonshot AI's Kimi K3 Now Available on Amazon Bedrock for Enhanced Coding and Knowledge Work",
+    "summary": "Moonshot AI's Kimi K3, an advanced language model, is now accessible via Amazon Bedrock, offering users a robust tool for coding and knowledge work with features such as native vision, a large context window, and prompt caching to improve efficiency.",
+    "danishTitle": "Moonshot AI's Kimi K3 Now Available on Amazon Bedrock for Enhanced Coding and Knowledge Work",
+    "danishSummary": "Moonshot AI's Kimi K3, an advanced language model, is now accessible via Amazon Bedrock, offering users a robust tool for coding and knowledge work with features such as native vision, a large context window, and prompt caching to improve efficiency.",
+    "whyItMatters": "Integrating Kimi K3 into Amazon Bedrock expands the AI ecosystem's capabilities, providing developers and enterprises with a versatile tool that can significantly boost productivity and innovation in various applications.",
+    "enrichedAt": "2026-09-18T19:08:17.041Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3166149": {
+    "title": "Manus Aims for $4B Valuation in $500M Fundraising Round as It Rebounds from Merger Breakup",
+    "summary": "Following a merger breakup with Meta earlier this year, AI startup Manus is seeking to raise $500 million at a valuation of $4 billion as it resumes independent operations. The fundraising aims to bolster Manus's position in the competitive AI market.",
+    "danishTitle": "Manus Aims for $4B Valuation in $500M Fundraising Round as It Rebounds from Merger Breakup",
+    "danishSummary": "Following a merger breakup with Meta earlier this year, AI startup Manus is seeking to raise $500 million at a valuation of $4 billion as it resumes independent operations. The fundraising aims to bolster Manus's position in the competitive AI market.",
+    "whyItMatters": "This fundraising round could signify Manus's confidence in its technology and market potential, potentially reshaping the landscape for AI startups seeking significant investment post-merger setbacks.",
+    "enrichedAt": "2026-09-18T19:08:28.020Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops": {
+    "title": "Manus Aims for $4B Valuation in $500M Fundraising Round as It Rebounds from Merger Breakup",
+    "summary": "Following a merger breakup with Meta earlier this year, AI startup Manus is seeking to raise $500 million at a valuation of $4 billion as it resumes independent operations. The fundraising aims to bolster Manus's position in the competitive AI market.",
+    "danishTitle": "Manus Aims for $4B Valuation in $500M Fundraising Round as It Rebounds from Merger Breakup",
+    "danishSummary": "Following a merger breakup with Meta earlier this year, AI startup Manus is seeking to raise $500 million at a valuation of $4 billion as it resumes independent operations. The fundraising aims to bolster Manus's position in the competitive AI market.",
+    "whyItMatters": "This fundraising round could signify Manus's confidence in its technology and market potential, potentially reshaping the landscape for AI startups seeking significant investment post-merger setbacks.",
+    "enrichedAt": "2026-09-18T19:08:28.020Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/": {
+    "title": "Manus Aims for $4B Valuation in $500M Fundraising Round as It Rebounds from Merger Breakup",
+    "summary": "Following a merger breakup with Meta earlier this year, AI startup Manus is seeking to raise $500 million at a valuation of $4 billion as it resumes independent operations. The fundraising aims to bolster Manus's position in the competitive AI market.",
+    "danishTitle": "Manus Aims for $4B Valuation in $500M Fundraising Round as It Rebounds from Merger Breakup",
+    "danishSummary": "Following a merger breakup with Meta earlier this year, AI startup Manus is seeking to raise $500 million at a valuation of $4 billion as it resumes independent operations. The fundraising aims to bolster Manus's position in the competitive AI market.",
+    "whyItMatters": "This fundraising round could signify Manus's confidence in its technology and market potential, potentially reshaping the landscape for AI startups seeking significant investment post-merger setbacks.",
+    "enrichedAt": "2026-09-18T19:08:28.020Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }

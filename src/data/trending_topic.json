@@ -1,39 +1,49 @@
 {
-  "headline": "Amazon Launches Bedrock AgentCore Runtime for Multi-Model AI Agents",
-  "summary": "Amazon has introduced the Bedrock AgentCore runtime, enhancing the deployment and performance of multi-model AI agents. This move is driving industry innovation and competition, particularly in the realm of open-source vs. proprietary AI solutions.",
-  "whyItMatters": "It sets a new standard for AI agent deployment, potentially reducing costs and increasing flexibility for developers and enterprises.",
-  "synthesizedAt": "2026-09-18T16:04:06.186Z",
+  "headline": "Open-Source AI Models Challenge Proprietary Systems, Sparking Debate on Access and Innovation",
+  "summary": "A growing number of open-source AI models are demonstrating competitive performance with proprietary systems, leading to a debate on the future of AI development and access. This trend is driving local AI agent deployment and reducing reliance on closed platforms.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and encourages innovation by democratizing AI development.",
+  "synthesizedAt": "2026-09-18T19:09:00.751Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "aws-ml-aa8456e8d8a89d6dee5077d18ffb4cde8af31d89",
-    "title": "Amazon Launches Bedrock AgentCore Runtime for Multi-Model AI Agents",
-    "link": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/",
-    "sourceName": "AWS Machine Learning",
-    "sourceId": "aws-ml",
-    "pubDate": "2026-09-18T15:38:53.000Z",
-    "badgeColor": "amber",
+    "id": "nvidia-https://developer.nvidia.com/blog/?p=122587",
+    "title": "NVIDIA Launches AIPerf for Benchmarking Large Language Model Inference at Scale",
+    "link": "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/",
+    "sourceName": "NVIDIA Technical Blog",
+    "sourceId": "nvidia",
+    "pubDate": "2026-09-18T19:04:41.000Z",
+    "badgeColor": "emerald",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "aws-ml-4445c20377fed08a36ecf07e723f634a75d5d673",
-      "title": "Amazon Launches AgentCore Runtime: Enhancing Memory Efficiency and Performance for AI Agents",
-      "link": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-09-18T15:31:34.000Z",
-      "badgeColor": "amber",
-      "angle": "Technical Deep Dive"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3165837",
+      "title": "Jev AI Model Offers Cheaper, Faster Path to Software Intelligence",
+      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-09-18T18:49:30.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "aws-ml-65191e6d2a65531f451a23942300a367fbb852d5",
-      "title": "Amazon SageMaker Integrates with Hugging Face Models via Coding Agents",
-      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-09-18T15:25:23.000Z",
-      "badgeColor": "amber",
-      "angle": "Industry Analysis"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3165970",
+      "title": "Nvidia’s Nader Khalil and Sydney Sykes Debate Open vs. Closed AI at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-09-18T15:30:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Critical Debate"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3166021",
+      "title": "Security Researchers Exploit Vulnerabilities in OpenAI Using Anthropic’s Claude",
+      "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-09-18T14:00:14.000Z",
+      "badgeColor": "emerald",
+      "angle": "Security Exploit"
     }
   ]
 }
