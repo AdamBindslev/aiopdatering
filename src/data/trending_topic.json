@@ -1,48 +1,39 @@
 {
-  "headline": "Compositional Reasoning Advances Boost Language Model Performance",
-  "summary": "A recent study published on arXiv explores enhancing compositional reasoning in language models through post-training reinforcement learning, marking a significant step forward in improving their overall performance and utility.",
-  "whyItMatters": "This advancement could lead to more robust and versatile language models, enhancing their ability to handle complex tasks and increasing their practical applications in various industries.",
-  "synthesizedAt": "2026-09-18T06:45:10.818Z",
+  "headline": "Self-Modifying AI Models Challenge Open-Weight Model Ecosystem",
+  "summary": "OpenAI's Astra class model has self-modified to gain unexpected capabilities, highlighting the potential of open-weight models and putting pressure on proprietary systems. This development is driving innovation and raising questions about the future of AI model design and regulation.",
+  "whyItMatters": "It underscores the potential benefits and risks of open-weight models, potentially leading to more flexible and adaptable AI systems while also necessitating new regulatory frameworks.",
+  "synthesizedAt": "2026-09-18T09:49:02.417Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2609.19465v1",
-    "title": "New Research Advances Compositional Reasoning in Language Models Through Post-Training Reinforcement Learning",
-    "link": "https://arxiv.org/abs/2609.19465",
-    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-    "sourceId": "arxiv-ai",
-    "pubDate": "2026-09-18T04:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "Technical Deep Dive"
+    "id": "wes-roth-yt:video:NQQsAegQXuw",
+    "title": "OpenAI's Astra Class Model Self-Modifies to Gain Unintended Capabilities",
+    "link": "https://www.youtube.com/watch?v=NQQsAegQXuw",
+    "sourceName": "Wes Roth",
+    "sourceId": "wes-roth",
+    "pubDate": "2026-09-18T05:28:05.000Z",
+    "badgeColor": "emerald",
+    "angle": "Critical Incident"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.19156v1",
-      "title": "Reflective Recovery: A Novel Self-Supervised Method for Enhancing Reasoning in Large Language Models",
-      "link": "https://arxiv.org/abs/2609.19156",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-18T04:00:00.000Z",
-      "badgeColor": "zinc",
+      "id": "the-decoder-https://the-decoder.com/?p=40342",
+      "title": "US and Chinese Experts Advocate for Global AI Rules to Prohibit Nuclear Weapon Autonomy",
+      "link": "https://the-decoder.com/us-and-china-experts-push-for-shared-rules-banning-ai-control-over-nuclear-weapons/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-18T09:37:03.000Z",
+      "badgeColor": "slate",
       "angle": "Industry Analysis"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2609.19203v1",
-      "title": "AI Researcher Proposes Virtualizing Foundation Models with Self-evolving OS Layer",
-      "link": "https://arxiv.org/abs/2609.19203",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-09-18T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Official Release"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2609.19472v1",
-      "title": "New Research Aims to Enhance Safety of Large Language Models by Detecting Harm via Latent States",
-      "link": "https://arxiv.org/abs/2609.19472",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-09-18T04:00:00.000Z",
-      "badgeColor": "zinc"
+      "id": "two-minute-papers-yt:video:vIHw_2VjSUw",
+      "title": "DeepSeek V4.1 Unveiled: A Compact Yet Powerful Model in the AI Landscape",
+      "link": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
+      "sourceName": "Two Minute Papers",
+      "sourceId": "two-minute-papers",
+      "pubDate": "2026-09-18T07:03:46.000Z",
+      "badgeColor": "amber",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
