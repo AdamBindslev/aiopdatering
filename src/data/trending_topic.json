@@ -1,20 +1,29 @@
 {
-  "headline": "AI Safety and Governance Gain Urgent Focus Amidst High-Stakes Incidents",
-  "summary": "Recent incidents, including AI hallucinations nearly triggering military actions and security breaches of major AI labs, have highlighted the urgent need for robust AI safety and governance measures. These events are driving industry-wide discussions and policy changes aimed at mitigating risks.",
-  "whyItMatters": "These incidents underscore the critical importance of addressing AI safety and governance to prevent real-world harm and ensure responsible development and deployment of AI technologies.",
-  "synthesizedAt": "2026-09-19T01:21:34.309Z",
+  "headline": "Open vs. Closed AI Models: A Critical Debate at TechCrunch Disrupt 2026",
+  "summary": "Executives from Nvidia, including Nader Khalil and Sydney Sykes, debated the merits of open and closed AI models at TechCrunch Disrupt 2026, highlighting the ongoing industry discussion on the future of AI development and deployment.",
+  "whyItMatters": "This debate underscores the strategic importance of choosing between open and closed AI models, influencing access to advanced AI capabilities and the competitive landscape.",
+  "synthesizedAt": "2026-09-19T04:28:20.908Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3166487",
-    "title": "AI Hallucination Nearly Triggers US Military Operation, Highlighting Uncertainty Risks",
-    "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3165970",
+    "title": "Nvidia’s Nader Khalil and Sydney Sykes Debate Open vs. Closed AI at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
     "sourceName": "TechCrunch – AI",
     "sourceId": "techcrunch-ai",
-    "pubDate": "2026-09-18T23:12:32.000Z",
+    "pubDate": "2026-09-18T15:30:00.000Z",
     "badgeColor": "emerald",
-    "angle": "Incident Analysis"
+    "angle": "TechCrunch Disrupt 2026"
   },
   "supportingStories": [
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3166409",
+      "title": "India Mandates Caller-ID Apps to Share Spam Reports with Telcos",
+      "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-09-19T01:00:00.000Z",
+      "badgeColor": "emerald"
+    },
     {
       "id": "the-decoder-https://the-decoder.com/?p=40368",
       "title": "Security Researchers Hack OpenAI's Internal Systems Using Anthropic's Claude in Under 72 Hours",
@@ -26,23 +35,14 @@
       "angle": "Security Breach"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40373",
-      "title": "California Governor Newsom Mandates 'Kill Switch' for AI Models with Independent Audits",
-      "link": "https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-09-18T17:45:17.000Z",
-      "badgeColor": "slate",
-      "angle": "Regulatory Response"
-    },
-    {
       "id": "the-decoder-https://the-decoder.com/?p=40364",
       "title": "Internal Criticism Undermines AI Companies' Fair Use Defense",
       "link": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
       "pubDate": "2026-09-18T15:27:29.000Z",
-      "badgeColor": "slate"
+      "badgeColor": "slate",
+      "angle": "Internal Criticism"
     }
   ]
 }
