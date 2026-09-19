@@ -1,28 +1,29 @@
 {
-  "headline": "Open vs. Closed AI Models: A Critical Debate at TechCrunch Disrupt 2026",
-  "summary": "Executives from Nvidia, including Nader Khalil and Sydney Sykes, debated the merits of open and closed AI models at TechCrunch Disrupt 2026, highlighting the ongoing industry discussion on the future of AI development and deployment.",
-  "whyItMatters": "This debate underscores the strategic importance of choosing between open and closed AI models, influencing access to advanced AI capabilities and the competitive landscape.",
-  "synthesizedAt": "2026-09-19T04:28:20.908Z",
+  "headline": "AI Safety and Regulation Gain Urgent Momentum",
+  "summary": "Recent incidents and regulatory moves highlight the urgent need for enhanced AI safety measures and oversight. From security breaches to military misinterpretations, these events underscore the critical importance of robust AI governance and independent evaluations.",
+  "whyItMatters": "This trend underscores the growing risks associated with AI and the necessity for stricter regulations and safety protocols to prevent potential harm and misuse.",
+  "synthesizedAt": "2026-09-19T07:35:02.221Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3165970",
-    "title": "Nvidia’s Nader Khalil and Sydney Sykes Debate Open vs. Closed AI at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-09-18T15:30:00.000Z",
-    "badgeColor": "emerald",
-    "angle": "TechCrunch Disrupt 2026"
+    "id": "the-decoder-https://the-decoder.com/?p=40373",
+    "title": "California Governor Newsom Mandates 'Kill Switch' for AI Models with Independent Audits",
+    "link": "https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-09-18T17:45:17.000Z",
+    "badgeColor": "slate",
+    "angle": "Policy Impact"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3166409",
-      "title": "India Mandates Caller-ID Apps to Share Spam Reports with Telcos",
-      "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-19T01:00:00.000Z",
-      "badgeColor": "emerald"
+      "id": "ars-technica-https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "title": "US Military Nearly Engages in Hostile Action Due to AI Hallucination of Chinese Nuclear Components",
+      "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "sourceName": "Ars Technica – AI",
+      "sourceId": "ars-technica",
+      "pubDate": "2026-09-18T20:26:33.000Z",
+      "badgeColor": "orange",
+      "angle": "Critical Incident"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=40368",
@@ -35,14 +36,13 @@
       "angle": "Security Breach"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40364",
-      "title": "Internal Criticism Undermines AI Companies' Fair Use Defense",
-      "link": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-09-18T15:27:29.000Z",
-      "badgeColor": "slate",
-      "angle": "Internal Criticism"
+      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_video&p=3166249",
+      "title": "Dario Amodei Proposes 'Pacing the Frontier' in AI Safety Amid Doomsday Warnings",
+      "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-09-18T17:09:56.000Z",
+      "badgeColor": "emerald"
     }
   ]
 }
