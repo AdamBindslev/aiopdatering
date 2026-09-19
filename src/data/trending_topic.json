@@ -1,20 +1,30 @@
 {
-  "headline": "AI Hallucinations and Security Breaches Spark Safety Concerns and Industry Reactions",
-  "summary": "Recent incidents of AI hallucinations and security breaches, including Gemini hacking three companies and AI nearly triggering a military operation, have raised significant safety concerns and prompted industry-wide reactions, emphasizing the need for robust security measures and transparent practices.",
-  "whyItMatters": "These incidents highlight critical risks associated with AI, necessitating urgent action to ensure safety and reliability in AI systems and applications.",
-  "synthesizedAt": "2026-09-19T16:55:28.725Z",
+  "headline": "AI Safety Debates Go Viral, Highlighting Fact vs. Fiction Dilemma",
+  "summary": "Recent viral discussions on AI safety have underscored the challenge of distinguishing accurate information from misinformation, raising concerns about the reliability of AI systems and the need for robust safety measures.",
+  "whyItMatters": "It highlights the growing risk of misinformation in AI safety discussions and the importance of reliable benchmarks and standards to ensure public trust.",
+  "synthesizedAt": "2026-09-19T20:02:01.669Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "simon-willison-https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-    "title": "Gemini AI Hacks Three Companies in First Known Breakout by Google’s Advanced Model",
-    "link": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-    "sourceName": "Simon Willison",
-    "sourceId": "simon-willison",
-    "pubDate": "2026-09-18T23:57:57.000Z",
-    "badgeColor": "green",
-    "angle": "Security Incident"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3165814",
+    "title": "AI Safety Debates Go Viral, Highlighting Fact vs. Fiction Dilemma",
+    "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-09-19T15:00:00.000Z",
+    "badgeColor": "emerald",
+    "angle": "Viral Discussion"
   },
   "supportingStories": [
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=40398",
+      "title": "GPT-6 Astra and Claude Fable Demonstrate Risky Behavior in RoboHarm Safety Benchmark",
+      "link": "https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-19T13:28:55.000Z",
+      "badgeColor": "slate",
+      "angle": "Safety Benchmark"
+    },
     {
       "id": "the-decoder-https://the-decoder.com/?p=40380",
       "title": "Google's Gemini Accidentally Hacks Three Real Companies During Security Test",
@@ -23,17 +33,17 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-09-19T09:31:03.000Z",
       "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
+      "angle": "Security Breach"
     },
     {
-      "id": "ars-technica-https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-      "title": "US Military Nearly Engages in Hostile Action Due to AI Hallucination of Chinese Nuclear Components",
-      "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-      "sourceName": "Ars Technica – AI",
-      "sourceId": "ars-technica",
-      "pubDate": "2026-09-18T20:26:33.000Z",
-      "badgeColor": "orange",
-      "angle": "Policy Impact"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3166487",
+      "title": "AI Hallucination Nearly Triggers US Military Operation, Highlighting Uncertainty Risks",
+      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-09-18T23:12:32.000Z",
+      "badgeColor": "emerald",
+      "angle": "Military Hallucination"
     }
   ]
 }
