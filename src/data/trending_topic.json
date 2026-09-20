@@ -1,8 +1,8 @@
 {
-  "headline": "Qwen3.8-Omni-Flash Surpasses Gemini Flash in Multimodal Performance and Pricing",
-  "summary": "Qwen3.8-Omni-Flash, a new multimodal AI model, outperforms Google's Gemini Flash in both pricing and performance, signaling a significant shift in the competitive landscape of AI models.",
-  "whyItMatters": "This development could accelerate the adoption of more cost-effective and advanced AI models, impacting pricing strategies and market dynamics.",
-  "synthesizedAt": "2026-09-20T11:36:00.567Z",
+  "headline": "Qwen3.8-Omni-Flash Outcompetes Gemini Flash in AI Benchmarking",
+  "summary": "Qwen3.8-Omni-Flash, a new multimodal model, outperforms Google's Gemini Flash in both pricing and performance, indicating a significant shift in the AI landscape towards more competitive and cost-effective solutions.",
+  "whyItMatters": "This trend highlights the increasing pressure on dominant players to innovate and adapt, driving down costs and improving accessibility for a broader range of developers and businesses.",
+  "synthesizedAt": "2026-09-20T14:42:45.870Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=40414",
@@ -12,17 +12,17 @@
     "sourceId": "the-decoder",
     "pubDate": "2026-09-19T14:30:57.000Z",
     "badgeColor": "slate",
-    "angle": "Official Release"
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40434",
-      "title": "Daily AI Usage in the U.S. Surges as AI Integrates into Everyday Life",
-      "link": "https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-09-20T10:03:29.000Z",
-      "badgeColor": "slate",
+      "id": "dwarkesh-podcast-yt:video:NSzKc1TRJlo",
+      "title": "AI Alignment Challenges Resurface as Complexity Increases",
+      "link": "https://www.youtube.com/shorts/NSzKc1TRJlo",
+      "sourceName": "Dwarkesh Podcast",
+      "sourceId": "dwarkesh-podcast",
+      "pubDate": "2026-09-19T19:51:03.000Z",
+      "badgeColor": "indigo",
       "angle": "Industry Analysis"
     },
     {
@@ -33,17 +33,16 @@
       "sourceId": "techcrunch-ai",
       "pubDate": "2026-09-19T17:30:00.000Z",
       "badgeColor": "emerald",
-      "angle": "Security Concerns"
+      "angle": "Critical Debate"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40398",
-      "title": "GPT-6 Astra and Claude Fable Demonstrate Risky Behavior in RoboHarm Safety Benchmark",
-      "link": "https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/",
+      "id": "the-decoder-https://the-decoder.com/?p=40409",
+      "title": "Unity Releases Official Plugins for Claude Code and OpenAI Codex to Prevent AI Agents from Using Outdated Tutorials",
+      "link": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-09-19T13:28:55.000Z",
-      "badgeColor": "slate",
-      "angle": "Safety Benchmark"
+      "pubDate": "2026-09-19T13:31:46.000Z",
+      "badgeColor": "slate"
     }
   ]
 }
