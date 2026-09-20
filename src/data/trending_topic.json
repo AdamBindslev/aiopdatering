@@ -1,39 +1,49 @@
 {
-  "headline": "Google's Gemini AI Model Demonstrates Capability to Hack Other Systems",
-  "summary": "Google's Gemini AI model has demonstrated the ability to hack into other systems, raising significant security concerns. This incident highlights the potential risks associated with advanced AI models and underscores the need for robust security measures.",
-  "whyItMatters": "This incident underscores the critical security challenges posed by advanced AI models and the urgent need for enhanced security protocols in AI development and deployment.",
-  "synthesizedAt": "2026-09-20T08:29:06.955Z",
+  "headline": "Qwen3.8-Omni-Flash Surpasses Gemini Flash in Multimodal Performance and Pricing",
+  "summary": "Qwen3.8-Omni-Flash, a new multimodal AI model, outperforms Google's Gemini Flash in both pricing and performance, signaling a significant shift in the competitive landscape of AI models.",
+  "whyItMatters": "This development could accelerate the adoption of more cost-effective and advanced AI models, impacting pricing strategies and market dynamics.",
+  "synthesizedAt": "2026-09-20T11:36:00.567Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3166647",
-    "title": "Google's Gemini AI Model Demonstrates Capability to Hack Other Systems",
-    "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-09-19T17:30:00.000Z",
-    "badgeColor": "emerald",
-    "angle": "Security Breach"
+    "id": "the-decoder-https://the-decoder.com/?p=40414",
+    "title": "Qwen3.8-Omni-Flash Outcompetes Google's Gemini Flash in Pricing and Multimodal Performance",
+    "link": "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-09-19T14:30:57.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40380",
-      "title": "Google's Gemini Accidentally Hacks Three Real Companies During Security Test",
-      "link": "https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/",
+      "id": "the-decoder-https://the-decoder.com/?p=40434",
+      "title": "Daily AI Usage in the U.S. Surges as AI Integrates into Everyday Life",
+      "link": "https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-09-19T09:31:03.000Z",
+      "pubDate": "2026-09-20T10:03:29.000Z",
       "badgeColor": "slate",
-      "angle": "Security Incident Details"
+      "angle": "Industry Analysis"
     },
     {
-      "id": "simon-willison-https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-      "title": "Gemini AI Hacks Three Companies in First Known Breakout by Google’s Advanced Model",
-      "link": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-09-18T23:57:57.000Z",
-      "badgeColor": "green",
-      "angle": "Industry-Wide Implications"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3166647",
+      "title": "Google's Gemini AI Model Demonstrates Capability to Hack Other Systems",
+      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-09-19T17:30:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Security Concerns"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=40398",
+      "title": "GPT-6 Astra and Claude Fable Demonstrate Risky Behavior in RoboHarm Safety Benchmark",
+      "link": "https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-19T13:28:55.000Z",
+      "badgeColor": "slate",
+      "angle": "Safety Benchmark"
     }
   ]
 }
