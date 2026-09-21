@@ -17134,5 +17134,635 @@
     "whyItMatters": "Understanding the behavior and collaboration of AI agents during security breaches is crucial for enhancing AI safety protocols and preventing future incidents.",
     "enrichedAt": "2026-09-21T03:08:59.193Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.20824v1": {
+    "title": "Study Explores Using Entropy-Based Confidence Signals to Enhance Small Language Models",
+    "summary": "A recent study published on arXiv investigates the potential of employing entropy-based confidence signals to boost the accuracy of Small Language Models (SLMs) with fewer than 3 billion parameters. The research aims to improve the reliability of these models by better indicating their uncertainty.",
+    "danishTitle": "Study Explores Using Entropy-Based Confidence Signals to Enhance Small Language Models",
+    "danishSummary": "A recent study published on arXiv investigates the potential of employing entropy-based confidence signals to boost the accuracy of Small Language Models (SLMs) with fewer than 3 billion parameters. The research aims to improve the reliability of these models by better indicating their uncertainty.",
+    "whyItMatters": "Improving the accuracy and reliability of smaller language models could make them more practical for a wider range of applications, potentially reducing the need for larger, more resource-intensive models.",
+    "enrichedAt": "2026-09-21T06:14:26.908Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20824": {
+    "title": "Study Explores Using Entropy-Based Confidence Signals to Enhance Small Language Models",
+    "summary": "A recent study published on arXiv investigates the potential of employing entropy-based confidence signals to boost the accuracy of Small Language Models (SLMs) with fewer than 3 billion parameters. The research aims to improve the reliability of these models by better indicating their uncertainty.",
+    "danishTitle": "Study Explores Using Entropy-Based Confidence Signals to Enhance Small Language Models",
+    "danishSummary": "A recent study published on arXiv investigates the potential of employing entropy-based confidence signals to boost the accuracy of Small Language Models (SLMs) with fewer than 3 billion parameters. The research aims to improve the reliability of these models by better indicating their uncertainty.",
+    "whyItMatters": "Improving the accuracy and reliability of smaller language models could make them more practical for a wider range of applications, potentially reducing the need for larger, more resource-intensive models.",
+    "enrichedAt": "2026-09-21T06:14:26.908Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.20825v1": {
+    "title": "HERMES: A New Model for Enhancing Patient Outcome Prediction Using Contrast-Aware Knowledge Graph Reasoning",
+    "summary": "HERMES, a new model introduced in a recent arXiv paper, focuses on improving patient outcome prediction by processing clinical notes through contrast-aware knowledge graph reasoning. This approach aims to leverage unstructured clinical data alongside structured Electronic Health Record (EHR) information, offering a more comprehensive analysis for healthcare predictive models.",
+    "danishTitle": "HERMES: A New Model for Enhancing Patient Outcome Prediction Using Contrast-Aware Knowledge Graph Reasoning",
+    "danishSummary": "HERMES, a new model introduced in a recent arXiv paper, focuses on improving patient outcome prediction by processing clinical notes through contrast-aware knowledge graph reasoning. This approach aims to leverage unstructured clinical data alongside structured Electronic Health Record (EHR) information, offering a more comprehensive analysis for healthcare predictive models.",
+    "whyItMatters": "By integrating unstructured clinical notes with structured EHR data, HERMES can provide more accurate and context-rich patient outcome predictions, potentially leading to better clinical decision-making and improved patient care.",
+    "enrichedAt": "2026-09-21T06:14:39.043Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20825": {
+    "title": "HERMES: A New Model for Enhancing Patient Outcome Prediction Using Contrast-Aware Knowledge Graph Reasoning",
+    "summary": "HERMES, a new model introduced in a recent arXiv paper, focuses on improving patient outcome prediction by processing clinical notes through contrast-aware knowledge graph reasoning. This approach aims to leverage unstructured clinical data alongside structured Electronic Health Record (EHR) information, offering a more comprehensive analysis for healthcare predictive models.",
+    "danishTitle": "HERMES: A New Model for Enhancing Patient Outcome Prediction Using Contrast-Aware Knowledge Graph Reasoning",
+    "danishSummary": "HERMES, a new model introduced in a recent arXiv paper, focuses on improving patient outcome prediction by processing clinical notes through contrast-aware knowledge graph reasoning. This approach aims to leverage unstructured clinical data alongside structured Electronic Health Record (EHR) information, offering a more comprehensive analysis for healthcare predictive models.",
+    "whyItMatters": "By integrating unstructured clinical notes with structured EHR data, HERMES can provide more accurate and context-rich patient outcome predictions, potentially leading to better clinical decision-making and improved patient care.",
+    "enrichedAt": "2026-09-21T06:14:39.043Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.20826v1": {
+    "title": "TALON: A Temporally Aware Longitudinal Framework for Enhanced Radiology Report Generation",
+    "summary": "TALON, a new model for radiology report generation, introduces a temporally aware longitudinal approach, enabling more comprehensive and contextually rich reports by considering multiple examination histories. This advancement aims to improve diagnostic accuracy and patient care through a more holistic analysis of medical records.",
+    "danishTitle": "TALON: A Temporally Aware Longitudinal Framework for Enhanced Radiology Report Generation",
+    "danishSummary": "TALON, a new model for radiology report generation, introduces a temporally aware longitudinal approach, enabling more comprehensive and contextually rich reports by considering multiple examination histories. This advancement aims to improve diagnostic accuracy and patient care through a more holistic analysis of medical records.",
+    "whyItMatters": "By integrating historical data, TALON enhances the precision and comprehensiveness of radiology reports, potentially leading to better clinical outcomes and more informed patient care decisions.",
+    "enrichedAt": "2026-09-21T06:14:50.151Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20826": {
+    "title": "TALON: A Temporally Aware Longitudinal Framework for Enhanced Radiology Report Generation",
+    "summary": "TALON, a new model for radiology report generation, introduces a temporally aware longitudinal approach, enabling more comprehensive and contextually rich reports by considering multiple examination histories. This advancement aims to improve diagnostic accuracy and patient care through a more holistic analysis of medical records.",
+    "danishTitle": "TALON: A Temporally Aware Longitudinal Framework for Enhanced Radiology Report Generation",
+    "danishSummary": "TALON, a new model for radiology report generation, introduces a temporally aware longitudinal approach, enabling more comprehensive and contextually rich reports by considering multiple examination histories. This advancement aims to improve diagnostic accuracy and patient care through a more holistic analysis of medical records.",
+    "whyItMatters": "By integrating historical data, TALON enhances the precision and comprehensiveness of radiology reports, potentially leading to better clinical outcomes and more informed patient care decisions.",
+    "enrichedAt": "2026-09-21T06:14:50.151Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.20827v1": {
+    "title": "Persona-Grounded LLMs Simulate Discharge Educators to Enhance Patient Understanding",
+    "summary": "Researchers have developed a new approach using large language models (LLMs) to simulate discharge educators in a persona-grounded, open-ended manner. This method adapts to patients' literacy levels, recall abilities, and personalities, aiming to improve patient understanding of discharge instructions.",
+    "danishTitle": "Persona-Grounded LLMs Simulate Discharge Educators to Enhance Patient Understanding",
+    "danishSummary": "Researchers have developed a new approach using large language models (LLMs) to simulate discharge educators in a persona-grounded, open-ended manner. This method adapts to patients' literacy levels, recall abilities, and personalities, aiming to improve patient understanding of discharge instructions.",
+    "whyItMatters": "This innovation could significantly enhance patient compliance and health outcomes by personalizing discharge education, making it more accessible and effective for a diverse patient population.",
+    "enrichedAt": "2026-09-21T06:15:00.761Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20827": {
+    "title": "Persona-Grounded LLMs Simulate Discharge Educators to Enhance Patient Understanding",
+    "summary": "Researchers have developed a new approach using large language models (LLMs) to simulate discharge educators in a persona-grounded, open-ended manner. This method adapts to patients' literacy levels, recall abilities, and personalities, aiming to improve patient understanding of discharge instructions.",
+    "danishTitle": "Persona-Grounded LLMs Simulate Discharge Educators to Enhance Patient Understanding",
+    "danishSummary": "Researchers have developed a new approach using large language models (LLMs) to simulate discharge educators in a persona-grounded, open-ended manner. This method adapts to patients' literacy levels, recall abilities, and personalities, aiming to improve patient understanding of discharge instructions.",
+    "whyItMatters": "This innovation could significantly enhance patient compliance and health outcomes by personalizing discharge education, making it more accessible and effective for a diverse patient population.",
+    "enrichedAt": "2026-09-21T06:15:00.761Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.20828v1": {
+    "title": "New ASR Model Enhances Named Entity and Disfluency Recognition in Accented Conversational English",
+    "summary": "A recent study published on arXiv introduces an advanced ASR model that improves the recognition of named entities and disfluencies in accented conversational English, addressing limitations of traditional Word Error Rate (WER)-optimized systems which often fail to capture these nuances.",
+    "danishTitle": "New ASR Model Enhances Named Entity and Disfluency Recognition in Accented Conversational English",
+    "danishSummary": "A recent study published on arXiv introduces an advanced ASR model that improves the recognition of named entities and disfluencies in accented conversational English, addressing limitations of traditional Word Error Rate (WER)-optimized systems which often fail to capture these nuances.",
+    "whyItMatters": "This advancement is crucial for applications requiring accurate understanding of diverse speech inputs, such as language learning tools and customer support systems, thereby enhancing the overall effectiveness and user experience of ASR technologies.",
+    "enrichedAt": "2026-09-21T06:15:12.099Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20828": {
+    "title": "New ASR Model Enhances Named Entity and Disfluency Recognition in Accented Conversational English",
+    "summary": "A recent study published on arXiv introduces an advanced ASR model that improves the recognition of named entities and disfluencies in accented conversational English, addressing limitations of traditional Word Error Rate (WER)-optimized systems which often fail to capture these nuances.",
+    "danishTitle": "New ASR Model Enhances Named Entity and Disfluency Recognition in Accented Conversational English",
+    "danishSummary": "A recent study published on arXiv introduces an advanced ASR model that improves the recognition of named entities and disfluencies in accented conversational English, addressing limitations of traditional Word Error Rate (WER)-optimized systems which often fail to capture these nuances.",
+    "whyItMatters": "This advancement is crucial for applications requiring accurate understanding of diverse speech inputs, such as language learning tools and customer support systems, thereby enhancing the overall effectiveness and user experience of ASR technologies.",
+    "enrichedAt": "2026-09-21T06:15:12.099Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.20829v1": {
+    "title": "SAGE: Schema-Guided LLMs for Streamlining Grant Review Processes",
+    "summary": "SAGE, a Schema-Guided Language Model, has been developed to automate and enhance the grant review process by applying detailed criteria to application forms, budgets, and supporting documents. This tool aims to improve the efficiency and consistency of reviews, making the process more transparent and manageable for stakeholders.",
+    "danishTitle": "SAGE: Schema-Guided LLMs for Streamlining Grant Review Processes",
+    "danishSummary": "SAGE, a Schema-Guided Language Model, has been developed to automate and enhance the grant review process by applying detailed criteria to application forms, budgets, and supporting documents. This tool aims to improve the efficiency and consistency of reviews, making the process more transparent and manageable for stakeholders.",
+    "whyItMatters": "By automating the grant review process, SAGE can significantly reduce the time and effort required for manual assessments, potentially leading to faster and more accurate funding decisions in the academic and research sectors.",
+    "enrichedAt": "2026-09-21T06:15:23.647Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20829": {
+    "title": "SAGE: Schema-Guided LLMs for Streamlining Grant Review Processes",
+    "summary": "SAGE, a Schema-Guided Language Model, has been developed to automate and enhance the grant review process by applying detailed criteria to application forms, budgets, and supporting documents. This tool aims to improve the efficiency and consistency of reviews, making the process more transparent and manageable for stakeholders.",
+    "danishTitle": "SAGE: Schema-Guided LLMs for Streamlining Grant Review Processes",
+    "danishSummary": "SAGE, a Schema-Guided Language Model, has been developed to automate and enhance the grant review process by applying detailed criteria to application forms, budgets, and supporting documents. This tool aims to improve the efficiency and consistency of reviews, making the process more transparent and manageable for stakeholders.",
+    "whyItMatters": "By automating the grant review process, SAGE can significantly reduce the time and effort required for manual assessments, potentially leading to faster and more accurate funding decisions in the academic and research sectors.",
+    "enrichedAt": "2026-09-21T06:15:23.647Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.20830v1": {
+    "title": "Reviser: A New Approach to Autoregressive Text Generation with Enhanced Revision Capabilities",
+    "summary": "The paper 'Reviser: Revision-Capable Text Generation via Autoregressive Cursor Actions' introduces a novel method for autoregressive text generation that allows for the insertion or revision of earlier content. This approach aims to improve the flexibility and efficiency of text generation models, particularly in scenarios requiring iterative refinement.",
+    "danishTitle": "Reviser: A New Approach to Autoregressive Text Generation with Enhanced Revision Capabilities",
+    "danishSummary": "The paper 'Reviser: Revision-Capable Text Generation via Autoregressive Cursor Actions' introduces a novel method for autoregressive text generation that allows for the insertion or revision of earlier content. This approach aims to improve the flexibility and efficiency of text generation models, particularly in scenarios requiring iterative refinement.",
+    "whyItMatters": "By enabling more dynamic and flexible text generation, Reviser could significantly enhance applications such as content creation, editing, and natural language processing, potentially revolutionizing how text-based systems operate and interact with users.",
+    "enrichedAt": "2026-09-21T06:15:35.905Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20830": {
+    "title": "Reviser: A New Approach to Autoregressive Text Generation with Enhanced Revision Capabilities",
+    "summary": "The paper 'Reviser: Revision-Capable Text Generation via Autoregressive Cursor Actions' introduces a novel method for autoregressive text generation that allows for the insertion or revision of earlier content. This approach aims to improve the flexibility and efficiency of text generation models, particularly in scenarios requiring iterative refinement.",
+    "danishTitle": "Reviser: A New Approach to Autoregressive Text Generation with Enhanced Revision Capabilities",
+    "danishSummary": "The paper 'Reviser: Revision-Capable Text Generation via Autoregressive Cursor Actions' introduces a novel method for autoregressive text generation that allows for the insertion or revision of earlier content. This approach aims to improve the flexibility and efficiency of text generation models, particularly in scenarios requiring iterative refinement.",
+    "whyItMatters": "By enabling more dynamic and flexible text generation, Reviser could significantly enhance applications such as content creation, editing, and natural language processing, potentially revolutionizing how text-based systems operate and interact with users.",
+    "enrichedAt": "2026-09-21T06:15:35.905Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.20831v1": {
+    "title": "Recursive Language Models Show Promise in Generalizing Out of Domain",
+    "summary": "A new study published on arXiv explores how limiting the information a language model can access during training can enhance its generalization capabilities. The research compares traditional chain-of-thought (CoT) models with recursive language models, which reprocess information, demonstrating improved out-of-domain performance.",
+    "danishTitle": "Recursive Language Models Show Promise in Generalizing Out of Domain",
+    "danishSummary": "A new study published on arXiv explores how limiting the information a language model can access during training can enhance its generalization capabilities. The research compares traditional chain-of-thought (CoT) models with recursive language models, which reprocess information, demonstrating improved out-of-domain performance.",
+    "whyItMatters": "These findings could lead to more versatile and adaptable language models, potentially improving their applicability in diverse and complex real-world scenarios.",
+    "enrichedAt": "2026-09-21T06:15:46.025Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20831": {
+    "title": "Recursive Language Models Show Promise in Generalizing Out of Domain",
+    "summary": "A new study published on arXiv explores how limiting the information a language model can access during training can enhance its generalization capabilities. The research compares traditional chain-of-thought (CoT) models with recursive language models, which reprocess information, demonstrating improved out-of-domain performance.",
+    "danishTitle": "Recursive Language Models Show Promise in Generalizing Out of Domain",
+    "danishSummary": "A new study published on arXiv explores how limiting the information a language model can access during training can enhance its generalization capabilities. The research compares traditional chain-of-thought (CoT) models with recursive language models, which reprocess information, demonstrating improved out-of-domain performance.",
+    "whyItMatters": "These findings could lead to more versatile and adaptable language models, potentially improving their applicability in diverse and complex real-world scenarios.",
+    "enrichedAt": "2026-09-21T06:15:46.025Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.20832v1": {
+    "title": "TatBLiMP: First Benchmark of Linguistic Minimal Pairs for Tatar Launched",
+    "summary": "Researchers have developed TatBLiMP, a benchmark for linguistic minimal pairs specific to the Tatar language, which is a Qypchaq Turkic language written in Cyrillic. This initiative aims to improve natural language processing (NLP) models for Tatar by providing a standardized dataset for evaluation.",
+    "danishTitle": "TatBLiMP: First Benchmark of Linguistic Minimal Pairs for Tatar Launched",
+    "danishSummary": "Researchers have developed TatBLiMP, a benchmark for linguistic minimal pairs specific to the Tatar language, which is a Qypchaq Turkic language written in Cyrillic. This initiative aims to improve natural language processing (NLP) models for Tatar by providing a standardized dataset for evaluation.",
+    "whyItMatters": "By offering a dedicated benchmark, TatBLiMP will enable more accurate and robust NLP models for Tatar, benefiting local communities and businesses that rely on language technology.",
+    "enrichedAt": "2026-09-21T06:15:57.898Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20832": {
+    "title": "TatBLiMP: First Benchmark of Linguistic Minimal Pairs for Tatar Launched",
+    "summary": "Researchers have developed TatBLiMP, a benchmark for linguistic minimal pairs specific to the Tatar language, which is a Qypchaq Turkic language written in Cyrillic. This initiative aims to improve natural language processing (NLP) models for Tatar by providing a standardized dataset for evaluation.",
+    "danishTitle": "TatBLiMP: First Benchmark of Linguistic Minimal Pairs for Tatar Launched",
+    "danishSummary": "Researchers have developed TatBLiMP, a benchmark for linguistic minimal pairs specific to the Tatar language, which is a Qypchaq Turkic language written in Cyrillic. This initiative aims to improve natural language processing (NLP) models for Tatar by providing a standardized dataset for evaluation.",
+    "whyItMatters": "By offering a dedicated benchmark, TatBLiMP will enable more accurate and robust NLP models for Tatar, benefiting local communities and businesses that rely on language technology.",
+    "enrichedAt": "2026-09-21T06:15:57.898Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.20833v1": {
+    "title": "Transsion Unveils Multilingual ASR System for MLC-SLM 2026 Challenge",
+    "summary": "Transsion's speech team has submitted a speaker-attributed multilingual ASR (Automatic Speech Recognition) system to Task 1 of the MLC-SLM 2026 Challenge, addressing the complex task of transcribing multilingual conversational speech with speaker identification.",
+    "danishTitle": "Transsion Unveils Multilingual ASR System for MLC-SLM 2026 Challenge",
+    "danishSummary": "Transsion's speech team has submitted a speaker-attributed multilingual ASR (Automatic Speech Recognition) system to Task 1 of the MLC-SLM 2026 Challenge, addressing the complex task of transcribing multilingual conversational speech with speaker identification.",
+    "whyItMatters": "Advancements in multilingual ASR with speaker attribution can significantly enhance cross-lingual communication and accessibility, driving innovation in global communication technologies and services.",
+    "enrichedAt": "2026-09-21T06:16:09.392Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20833": {
+    "title": "Transsion Unveils Multilingual ASR System for MLC-SLM 2026 Challenge",
+    "summary": "Transsion's speech team has submitted a speaker-attributed multilingual ASR (Automatic Speech Recognition) system to Task 1 of the MLC-SLM 2026 Challenge, addressing the complex task of transcribing multilingual conversational speech with speaker identification.",
+    "danishTitle": "Transsion Unveils Multilingual ASR System for MLC-SLM 2026 Challenge",
+    "danishSummary": "Transsion's speech team has submitted a speaker-attributed multilingual ASR (Automatic Speech Recognition) system to Task 1 of the MLC-SLM 2026 Challenge, addressing the complex task of transcribing multilingual conversational speech with speaker identification.",
+    "whyItMatters": "Advancements in multilingual ASR with speaker attribution can significantly enhance cross-lingual communication and accessibility, driving innovation in global communication technologies and services.",
+    "enrichedAt": "2026-09-21T06:16:09.392Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.20834v1": {
+    "title": "New Research Utilizes Large Language Models to Identify Kubernetes Misconfigurations for Enhanced Cloud Security",
+    "summary": "A recent study published on arXiv proposes the use of large language models to detect and mitigate misconfigurations in Kubernetes, a popular container orchestration platform. This approach aims to enhance cloud-native computing security by automating the identification of vulnerabilities and misconfigurations.",
+    "danishTitle": "New Research Utilizes Large Language Models to Identify Kubernetes Misconfigurations for Enhanced Cloud Security",
+    "danishSummary": "A recent study published on arXiv proposes the use of large language models to detect and mitigate misconfigurations in Kubernetes, a popular container orchestration platform. This approach aims to enhance cloud-native computing security by automating the identification of vulnerabilities and misconfigurations.",
+    "whyItMatters": "By leveraging advanced AI, this research could significantly improve the security posture of cloud-native environments, reducing the risk of data breaches and operational failures in enterprises relying on Kubernetes.",
+    "enrichedAt": "2026-09-21T06:16:20.275Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20834": {
+    "title": "New Research Utilizes Large Language Models to Identify Kubernetes Misconfigurations for Enhanced Cloud Security",
+    "summary": "A recent study published on arXiv proposes the use of large language models to detect and mitigate misconfigurations in Kubernetes, a popular container orchestration platform. This approach aims to enhance cloud-native computing security by automating the identification of vulnerabilities and misconfigurations.",
+    "danishTitle": "New Research Utilizes Large Language Models to Identify Kubernetes Misconfigurations for Enhanced Cloud Security",
+    "danishSummary": "A recent study published on arXiv proposes the use of large language models to detect and mitigate misconfigurations in Kubernetes, a popular container orchestration platform. This approach aims to enhance cloud-native computing security by automating the identification of vulnerabilities and misconfigurations.",
+    "whyItMatters": "By leveraging advanced AI, this research could significantly improve the security posture of cloud-native environments, reducing the risk of data breaches and operational failures in enterprises relying on Kubernetes.",
+    "enrichedAt": "2026-09-21T06:16:20.275Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.20835v1": {
+    "title": "New Study Proposes Generative Grammar for Voynich Manuscript Using Large Language Models",
+    "summary": "A recent study published on arXiv proposes a generative grammar for the Voynich Manuscript, a 15th-century codex with an unknown script, using large language models. This research supports the pastiche hypothesis, suggesting the text is a constructed, rather than a natural language, artifact.",
+    "danishTitle": "New Study Proposes Generative Grammar for Voynich Manuscript Using Large Language Models",
+    "danishSummary": "A recent study published on arXiv proposes a generative grammar for the Voynich Manuscript, a 15th-century codex with an unknown script, using large language models. This research supports the pastiche hypothesis, suggesting the text is a constructed, rather than a natural language, artifact.",
+    "whyItMatters": "This work could provide new insights into the nature of the Voynich Manuscript and potentially influence future approaches to deciphering similar undeciphered texts or understanding the capabilities of large language models in generating complex linguistic structures.",
+    "enrichedAt": "2026-09-21T06:16:32.739Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20835": {
+    "title": "New Study Proposes Generative Grammar for Voynich Manuscript Using Large Language Models",
+    "summary": "A recent study published on arXiv proposes a generative grammar for the Voynich Manuscript, a 15th-century codex with an unknown script, using large language models. This research supports the pastiche hypothesis, suggesting the text is a constructed, rather than a natural language, artifact.",
+    "danishTitle": "New Study Proposes Generative Grammar for Voynich Manuscript Using Large Language Models",
+    "danishSummary": "A recent study published on arXiv proposes a generative grammar for the Voynich Manuscript, a 15th-century codex with an unknown script, using large language models. This research supports the pastiche hypothesis, suggesting the text is a constructed, rather than a natural language, artifact.",
+    "whyItMatters": "This work could provide new insights into the nature of the Voynich Manuscript and potentially influence future approaches to deciphering similar undeciphered texts or understanding the capabilities of large language models in generating complex linguistic structures.",
+    "enrichedAt": "2026-09-21T06:16:32.739Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.20836v1": {
+    "title": "PhysioBench: A Unified Benchmark for Physiological Signal Question Answering",
+    "summary": "PhysioBench is a new unified benchmark introduced for evaluating the performance of models in answering questions related to physiological signals across various clinical and monitoring tasks. This benchmark aims to streamline the development and adaptation of models for diverse applications, reducing the need for task-specific customization.",
+    "danishTitle": "PhysioBench: A Unified Benchmark for Physiological Signal Question Answering",
+    "danishSummary": "PhysioBench is a new unified benchmark introduced for evaluating the performance of models in answering questions related to physiological signals across various clinical and monitoring tasks. This benchmark aims to streamline the development and adaptation of models for diverse applications, reducing the need for task-specific customization.",
+    "whyItMatters": "By providing a standardized framework, PhysioBench can accelerate the progress in physiological signal processing and improve the accuracy and applicability of AI models in healthcare and monitoring scenarios.",
+    "enrichedAt": "2026-09-21T06:16:43.540Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20836": {
+    "title": "PhysioBench: A Unified Benchmark for Physiological Signal Question Answering",
+    "summary": "PhysioBench is a new unified benchmark introduced for evaluating the performance of models in answering questions related to physiological signals across various clinical and monitoring tasks. This benchmark aims to streamline the development and adaptation of models for diverse applications, reducing the need for task-specific customization.",
+    "danishTitle": "PhysioBench: A Unified Benchmark for Physiological Signal Question Answering",
+    "danishSummary": "PhysioBench is a new unified benchmark introduced for evaluating the performance of models in answering questions related to physiological signals across various clinical and monitoring tasks. This benchmark aims to streamline the development and adaptation of models for diverse applications, reducing the need for task-specific customization.",
+    "whyItMatters": "By providing a standardized framework, PhysioBench can accelerate the progress in physiological signal processing and improve the accuracy and applicability of AI models in healthcare and monitoring scenarios.",
+    "enrichedAt": "2026-09-21T06:16:43.540Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.20838v1": {
+    "title": "Study Explores LLM-Generated Fake News in Controlled Settings Across Four Manipulation Scenarios",
+    "summary": "A recent study published on arXiv investigates the capabilities of large language models (LLMs) in generating and detecting fake news through controlled experiments involving open-ended generation, rewriting, manipulation, and synthesis. The research aims to understand the mechanisms behind LLMs' ability to create convincing fake news and improve detection methods.",
+    "danishTitle": "Study Explores LLM-Generated Fake News in Controlled Settings Across Four Manipulation Scenarios",
+    "danishSummary": "A recent study published on arXiv investigates the capabilities of large language models (LLMs) in generating and detecting fake news through controlled experiments involving open-ended generation, rewriting, manipulation, and synthesis. The research aims to understand the mechanisms behind LLMs' ability to create convincing fake news and improve detection methods.",
+    "whyItMatters": "Understanding these mechanisms is crucial for developing more robust detection systems and mitigating the spread of misinformation, which has significant implications for public discourse and policy-making.",
+    "enrichedAt": "2026-09-21T06:16:55.087Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20838": {
+    "title": "Study Explores LLM-Generated Fake News in Controlled Settings Across Four Manipulation Scenarios",
+    "summary": "A recent study published on arXiv investigates the capabilities of large language models (LLMs) in generating and detecting fake news through controlled experiments involving open-ended generation, rewriting, manipulation, and synthesis. The research aims to understand the mechanisms behind LLMs' ability to create convincing fake news and improve detection methods.",
+    "danishTitle": "Study Explores LLM-Generated Fake News in Controlled Settings Across Four Manipulation Scenarios",
+    "danishSummary": "A recent study published on arXiv investigates the capabilities of large language models (LLMs) in generating and detecting fake news through controlled experiments involving open-ended generation, rewriting, manipulation, and synthesis. The research aims to understand the mechanisms behind LLMs' ability to create convincing fake news and improve detection methods.",
+    "whyItMatters": "Understanding these mechanisms is crucial for developing more robust detection systems and mitigating the spread of misinformation, which has significant implications for public discourse and policy-making.",
+    "enrichedAt": "2026-09-21T06:16:55.087Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2609.20839v1": {
+    "title": "New Method Enhances Phoneme-to-Text Reconstruction in Visual Speech Recognition",
+    "summary": "A novel approach called Curriculum-Based Noise Adaptation has been introduced for improving phoneme-to-text reconstruction in visual speech recognition, focusing on enhancing the robustness of phoneme predictions to boost overall recognition performance.",
+    "danishTitle": "New Method Enhances Phoneme-to-Text Reconstruction in Visual Speech Recognition",
+    "danishSummary": "A novel approach called Curriculum-Based Noise Adaptation has been introduced for improving phoneme-to-text reconstruction in visual speech recognition, focusing on enhancing the robustness of phoneme predictions to boost overall recognition performance.",
+    "whyItMatters": "This advancement could significantly improve the accuracy and reliability of visual speech recognition systems, making them more practical for real-world applications such as assistive technologies and remote communication tools.",
+    "enrichedAt": "2026-09-21T06:17:04.717Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20839": {
+    "title": "New Method Enhances Phoneme-to-Text Reconstruction in Visual Speech Recognition",
+    "summary": "A novel approach called Curriculum-Based Noise Adaptation has been introduced for improving phoneme-to-text reconstruction in visual speech recognition, focusing on enhancing the robustness of phoneme predictions to boost overall recognition performance.",
+    "danishTitle": "New Method Enhances Phoneme-to-Text Reconstruction in Visual Speech Recognition",
+    "danishSummary": "A novel approach called Curriculum-Based Noise Adaptation has been introduced for improving phoneme-to-text reconstruction in visual speech recognition, focusing on enhancing the robustness of phoneme predictions to boost overall recognition performance.",
+    "whyItMatters": "This advancement could significantly improve the accuracy and reliability of visual speech recognition systems, making them more practical for real-world applications such as assistive technologies and remote communication tools.",
+    "enrichedAt": "2026-09-21T06:17:04.717Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2609.20971v1": {
+    "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Enhancing Long-Context Large Language Models",
+    "summary": "A new technique called RBS-Attention, introduced in a recent arXiv paper, proposes a radius-bounded sparse prefill approach to optimize long-context large language models, reducing the computational burden of dense self-attention on the entire prompt.",
+    "danishTitle": "RBS-Attention: Radius-Bounded Sparse Prefill for Enhancing Long-Context Large Language Models",
+    "danishSummary": "A new technique called RBS-Attention, introduced in a recent arXiv paper, proposes a radius-bounded sparse prefill approach to optimize long-context large language models, reducing the computational burden of dense self-attention on the entire prompt.",
+    "whyItMatters": "This innovation could significantly improve the efficiency and scalability of long-context models, making them more practical for applications requiring extensive historical context, such as complex document analysis and long-form text generation.",
+    "enrichedAt": "2026-09-21T06:17:15.787Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20971": {
+    "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Enhancing Long-Context Large Language Models",
+    "summary": "A new technique called RBS-Attention, introduced in a recent arXiv paper, proposes a radius-bounded sparse prefill approach to optimize long-context large language models, reducing the computational burden of dense self-attention on the entire prompt.",
+    "danishTitle": "RBS-Attention: Radius-Bounded Sparse Prefill for Enhancing Long-Context Large Language Models",
+    "danishSummary": "A new technique called RBS-Attention, introduced in a recent arXiv paper, proposes a radius-bounded sparse prefill approach to optimize long-context large language models, reducing the computational burden of dense self-attention on the entire prompt.",
+    "whyItMatters": "This innovation could significantly improve the efficiency and scalability of long-context models, making them more practical for applications requiring extensive historical context, such as complex document analysis and long-form text generation.",
+    "enrichedAt": "2026-09-21T06:17:15.787Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2609.20974v1": {
+    "title": "Attention-Aware Routing: Enhancing Mixture-of-Experts Models by Integrating Routing and Attention Mechanisms",
+    "summary": "A new approach in Mixture-of-Experts (MoE) language models, Attention-Aware Routing integrates routing and attention mechanisms to improve the selection and weighting of experts based on more comprehensive contextual information, potentially leading to more efficient and accurate model performance.",
+    "danishTitle": "Attention-Aware Routing: Enhancing Mixture-of-Experts Models by Integrating Routing and Attention Mechanisms",
+    "danishSummary": "A new approach in Mixture-of-Experts (MoE) language models, Attention-Aware Routing integrates routing and attention mechanisms to improve the selection and weighting of experts based on more comprehensive contextual information, potentially leading to more efficient and accurate model performance.",
+    "whyItMatters": "This innovation could significantly boost the efficiency and accuracy of MoE models, making them more suitable for complex natural language processing tasks and large-scale applications.",
+    "enrichedAt": "2026-09-21T06:17:26.435Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20974": {
+    "title": "Attention-Aware Routing: Enhancing Mixture-of-Experts Models by Integrating Routing and Attention Mechanisms",
+    "summary": "A new approach in Mixture-of-Experts (MoE) language models, Attention-Aware Routing integrates routing and attention mechanisms to improve the selection and weighting of experts based on more comprehensive contextual information, potentially leading to more efficient and accurate model performance.",
+    "danishTitle": "Attention-Aware Routing: Enhancing Mixture-of-Experts Models by Integrating Routing and Attention Mechanisms",
+    "danishSummary": "A new approach in Mixture-of-Experts (MoE) language models, Attention-Aware Routing integrates routing and attention mechanisms to improve the selection and weighting of experts based on more comprehensive contextual information, potentially leading to more efficient and accurate model performance.",
+    "whyItMatters": "This innovation could significantly boost the efficiency and accuracy of MoE models, making them more suitable for complex natural language processing tasks and large-scale applications.",
+    "enrichedAt": "2026-09-21T06:17:26.435Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2609.20981v1": {
+    "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+    "summary": "The paper introduces CaLR, a novel approach that integrates the strengths of autoregressive (AR) and diffusion language models (DLMs) to enhance reasoning capabilities. By addressing the limitations of AR models and DLMs, CaLR aims to provide more robust and efficient reasoning in complex tasks.",
+    "danishTitle": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+    "danishSummary": "The paper introduces CaLR, a novel approach that integrates the strengths of autoregressive (AR) and diffusion language models (DLMs) to enhance reasoning capabilities. By addressing the limitations of AR models and DLMs, CaLR aims to provide more robust and efficient reasoning in complex tasks.",
+    "whyItMatters": "CaLR's ability to combine the benefits of AR and DLM models could significantly improve the robustness and efficiency of AI systems, particularly in tasks requiring complex reasoning and decision-making processes.",
+    "enrichedAt": "2026-09-21T06:17:38.009Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20981": {
+    "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+    "summary": "The paper introduces CaLR, a novel approach that integrates the strengths of autoregressive (AR) and diffusion language models (DLMs) to enhance reasoning capabilities. By addressing the limitations of AR models and DLMs, CaLR aims to provide more robust and efficient reasoning in complex tasks.",
+    "danishTitle": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+    "danishSummary": "The paper introduces CaLR, a novel approach that integrates the strengths of autoregressive (AR) and diffusion language models (DLMs) to enhance reasoning capabilities. By addressing the limitations of AR models and DLMs, CaLR aims to provide more robust and efficient reasoning in complex tasks.",
+    "whyItMatters": "CaLR's ability to combine the benefits of AR and DLM models could significantly improve the robustness and efficiency of AI systems, particularly in tasks requiring complex reasoning and decision-making processes.",
+    "enrichedAt": "2026-09-21T06:17:38.009Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2609.21061v1": {
+    "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers Advances ATR for Naval Applications",
+    "summary": "A new research paper on arXiv presents an enhanced method for automatic target recognition (ATR) using synthetic aperture sonar (SAS) imagery. By leveraging LoRA (Low-Rank Adaptation) and contrastive learning with vision transformers, the study aims to improve the accuracy and efficiency of ATR in naval environments, despite limited and noisy data.",
+    "danishTitle": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers Advances ATR for Naval Applications",
+    "danishSummary": "A new research paper on arXiv presents an enhanced method for automatic target recognition (ATR) using synthetic aperture sonar (SAS) imagery. By leveraging LoRA (Low-Rank Adaptation) and contrastive learning with vision transformers, the study aims to improve the accuracy and efficiency of ATR in naval environments, despite limited and noisy data.",
+    "whyItMatters": "This advancement could significantly boost the reliability of ATR systems in naval operations, enhancing situational awareness and operational effectiveness in challenging underwater conditions.",
+    "enrichedAt": "2026-09-21T06:17:49.857Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.21061": {
+    "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers Advances ATR for Naval Applications",
+    "summary": "A new research paper on arXiv presents an enhanced method for automatic target recognition (ATR) using synthetic aperture sonar (SAS) imagery. By leveraging LoRA (Low-Rank Adaptation) and contrastive learning with vision transformers, the study aims to improve the accuracy and efficiency of ATR in naval environments, despite limited and noisy data.",
+    "danishTitle": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers Advances ATR for Naval Applications",
+    "danishSummary": "A new research paper on arXiv presents an enhanced method for automatic target recognition (ATR) using synthetic aperture sonar (SAS) imagery. By leveraging LoRA (Low-Rank Adaptation) and contrastive learning with vision transformers, the study aims to improve the accuracy and efficiency of ATR in naval environments, despite limited and noisy data.",
+    "whyItMatters": "This advancement could significantly boost the reliability of ATR systems in naval operations, enhancing situational awareness and operational effectiveness in challenging underwater conditions.",
+    "enrichedAt": "2026-09-21T06:17:49.857Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2609.21096v1": {
+    "title": "New Method Uses Topological Analysis to Detect Hallucinations in Large Language Models",
+    "summary": "Researchers have developed a novel approach to identify hallucinations in large language models (LLMs) by analyzing the topology of information flow within attention graphs. This method, which utilizes Forman-Ricci curvature, aims to enhance the reliability and accuracy of LLMs in various applications.",
+    "danishTitle": "New Method Uses Topological Analysis to Detect Hallucinations in Large Language Models",
+    "danishSummary": "Researchers have developed a novel approach to identify hallucinations in large language models (LLMs) by analyzing the topology of information flow within attention graphs. This method, which utilizes Forman-Ricci curvature, aims to enhance the reliability and accuracy of LLMs in various applications.",
+    "whyItMatters": "By improving the detection of hallucinations, this technique could significantly boost the trustworthiness of LLMs, making them more reliable for critical tasks such as legal and medical documentation.",
+    "enrichedAt": "2026-09-21T06:18:01.068Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.21096": {
+    "title": "New Method Uses Topological Analysis to Detect Hallucinations in Large Language Models",
+    "summary": "Researchers have developed a novel approach to identify hallucinations in large language models (LLMs) by analyzing the topology of information flow within attention graphs. This method, which utilizes Forman-Ricci curvature, aims to enhance the reliability and accuracy of LLMs in various applications.",
+    "danishTitle": "New Method Uses Topological Analysis to Detect Hallucinations in Large Language Models",
+    "danishSummary": "Researchers have developed a novel approach to identify hallucinations in large language models (LLMs) by analyzing the topology of information flow within attention graphs. This method, which utilizes Forman-Ricci curvature, aims to enhance the reliability and accuracy of LLMs in various applications.",
+    "whyItMatters": "By improving the detection of hallucinations, this technique could significantly boost the trustworthiness of LLMs, making them more reliable for critical tasks such as legal and medical documentation.",
+    "enrichedAt": "2026-09-21T06:18:01.068Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2609.21113v1": {
+    "title": "New Research Decouples Internal Mechanisms and Causal Impact in Fine-Tuned LLMs",
+    "summary": "A recent study published on arXiv explores the internal changes and causal effects of fine-tuning large language models (LLMs), revealing a method to decouple these processes. This research aims to enhance the adaptability and understanding of LLMs for various downstream tasks.",
+    "danishTitle": "New Research Decouples Internal Mechanisms and Causal Impact in Fine-Tuned LLMs",
+    "danishSummary": "A recent study published on arXiv explores the internal changes and causal effects of fine-tuning large language models (LLMs), revealing a method to decouple these processes. This research aims to enhance the adaptability and understanding of LLMs for various downstream tasks.",
+    "whyItMatters": "By decoupling internal mechanisms from causal impact, this research could lead to more efficient and transparent fine-tuning processes, benefiting the broader AI community and applications that rely on LLMs.",
+    "enrichedAt": "2026-09-21T06:18:12.469Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.21113": {
+    "title": "New Research Decouples Internal Mechanisms and Causal Impact in Fine-Tuned LLMs",
+    "summary": "A recent study published on arXiv explores the internal changes and causal effects of fine-tuning large language models (LLMs), revealing a method to decouple these processes. This research aims to enhance the adaptability and understanding of LLMs for various downstream tasks.",
+    "danishTitle": "New Research Decouples Internal Mechanisms and Causal Impact in Fine-Tuned LLMs",
+    "danishSummary": "A recent study published on arXiv explores the internal changes and causal effects of fine-tuning large language models (LLMs), revealing a method to decouple these processes. This research aims to enhance the adaptability and understanding of LLMs for various downstream tasks.",
+    "whyItMatters": "By decoupling internal mechanisms from causal impact, this research could lead to more efficient and transparent fine-tuning processes, benefiting the broader AI community and applications that rely on LLMs.",
+    "enrichedAt": "2026-09-21T06:18:12.469Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2609.21139v1": {
+    "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
+    "summary": "The paper introduces TinyCeNN-LM, a novel approach that converts pretrained language models by replacing their attention mechanisms with CeNN-inspired cellular-recurrent layers, ensuring compatibility and maintaining quality in the model's representations.",
+    "danishTitle": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
+    "danishSummary": "The paper introduces TinyCeNN-LM, a novel approach that converts pretrained language models by replacing their attention mechanisms with CeNN-inspired cellular-recurrent layers, ensuring compatibility and maintaining quality in the model's representations.",
+    "whyItMatters": "This method could significantly enhance the adaptability and performance of existing language models, making it easier to integrate advanced functionalities without compromising on the model's overall quality and utility.",
+    "enrichedAt": "2026-09-21T06:18:23.036Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.21139": {
+    "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
+    "summary": "The paper introduces TinyCeNN-LM, a novel approach that converts pretrained language models by replacing their attention mechanisms with CeNN-inspired cellular-recurrent layers, ensuring compatibility and maintaining quality in the model's representations.",
+    "danishTitle": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
+    "danishSummary": "The paper introduces TinyCeNN-LM, a novel approach that converts pretrained language models by replacing their attention mechanisms with CeNN-inspired cellular-recurrent layers, ensuring compatibility and maintaining quality in the model's representations.",
+    "whyItMatters": "This method could significantly enhance the adaptability and performance of existing language models, making it easier to integrate advanced functionalities without compromising on the model's overall quality and utility.",
+    "enrichedAt": "2026-09-21T06:18:23.036Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2609.21149v1": {
+    "title": "New Framework for Clinician-Grounded Quality Assurance in AI-Assisted Psychiatric Intake Systems",
+    "summary": "A new framework has been proposed for ensuring the quality and clinical standards of AI-assisted psychiatric intake systems, emphasizing the involvement of healthcare professionals in the evaluation process. This approach aims to enhance the reliability and safety of these tools in clinical settings.",
+    "danishTitle": "New Framework for Clinician-Grounded Quality Assurance in AI-Assisted Psychiatric Intake Systems",
+    "danishSummary": "A new framework has been proposed for ensuring the quality and clinical standards of AI-assisted psychiatric intake systems, emphasizing the involvement of healthcare professionals in the evaluation process. This approach aims to enhance the reliability and safety of these tools in clinical settings.",
+    "whyItMatters": "By integrating clinician feedback, this framework ensures that AI-assisted psychiatric tools meet clinical standards, thereby improving patient care and trust in AI technologies within healthcare.",
+    "enrichedAt": "2026-09-21T06:18:33.483Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.21149": {
+    "title": "New Framework for Clinician-Grounded Quality Assurance in AI-Assisted Psychiatric Intake Systems",
+    "summary": "A new framework has been proposed for ensuring the quality and clinical standards of AI-assisted psychiatric intake systems, emphasizing the involvement of healthcare professionals in the evaluation process. This approach aims to enhance the reliability and safety of these tools in clinical settings.",
+    "danishTitle": "New Framework for Clinician-Grounded Quality Assurance in AI-Assisted Psychiatric Intake Systems",
+    "danishSummary": "A new framework has been proposed for ensuring the quality and clinical standards of AI-assisted psychiatric intake systems, emphasizing the involvement of healthcare professionals in the evaluation process. This approach aims to enhance the reliability and safety of these tools in clinical settings.",
+    "whyItMatters": "By integrating clinician feedback, this framework ensures that AI-assisted psychiatric tools meet clinical standards, thereby improving patient care and trust in AI technologies within healthcare.",
+    "enrichedAt": "2026-09-21T06:18:33.483Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2609.21157v1": {
+    "title": "New Study Explores Higher-Level Abstraction for Chip Design with AI Agents",
+    "summary": "A recent study published on arXiv proposes the use of higher-level abstractions in chip design by leveraging Large Language Model (LLM) agents, potentially improving design outcomes. This approach contrasts with current methods that operate directly at the Register-Transfer Level (RTL).",
+    "danishTitle": "New Study Explores Higher-Level Abstraction for Chip Design with AI Agents",
+    "danishSummary": "A recent study published on arXiv proposes the use of higher-level abstractions in chip design by leveraging Large Language Model (LLM) agents, potentially improving design outcomes. This approach contrasts with current methods that operate directly at the Register-Transfer Level (RTL).",
+    "whyItMatters": "This research could lead to more efficient and innovative chip design processes, potentially reducing development time and costs, and driving advancements in the semiconductor industry.",
+    "enrichedAt": "2026-09-21T06:18:43.906Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.21157": {
+    "title": "New Study Explores Higher-Level Abstraction for Chip Design with AI Agents",
+    "summary": "A recent study published on arXiv proposes the use of higher-level abstractions in chip design by leveraging Large Language Model (LLM) agents, potentially improving design outcomes. This approach contrasts with current methods that operate directly at the Register-Transfer Level (RTL).",
+    "danishTitle": "New Study Explores Higher-Level Abstraction for Chip Design with AI Agents",
+    "danishSummary": "A recent study published on arXiv proposes the use of higher-level abstractions in chip design by leveraging Large Language Model (LLM) agents, potentially improving design outcomes. This approach contrasts with current methods that operate directly at the Register-Transfer Level (RTL).",
+    "whyItMatters": "This research could lead to more efficient and innovative chip design processes, potentially reducing development time and costs, and driving advancements in the semiconductor industry.",
+    "enrichedAt": "2026-09-21T06:18:43.906Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2609.21165v1": {
+    "title": "SpecOpt: Novel Approach to Enhance Molecule Optimization for Improved Drug Safety",
+    "summary": "A new research paper titled 'SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity' proposes a novel method to address off-target protein binding, a significant issue in drug development. The approach aims to improve the specificity of small-molecule drugs, reducing adverse effects.",
+    "danishTitle": "SpecOpt: Novel Approach to Enhance Molecule Optimization for Improved Drug Safety",
+    "danishSummary": "A new research paper titled 'SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity' proposes a novel method to address off-target protein binding, a significant issue in drug development. The approach aims to improve the specificity of small-molecule drugs, reducing adverse effects.",
+    "whyItMatters": "This advancement could lead to more targeted and safer drug designs, potentially reducing the risk of adverse effects and improving the efficacy of pharmaceutical treatments.",
+    "enrichedAt": "2026-09-21T06:18:54.843Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.21165": {
+    "title": "SpecOpt: Novel Approach to Enhance Molecule Optimization for Improved Drug Safety",
+    "summary": "A new research paper titled 'SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity' proposes a novel method to address off-target protein binding, a significant issue in drug development. The approach aims to improve the specificity of small-molecule drugs, reducing adverse effects.",
+    "danishTitle": "SpecOpt: Novel Approach to Enhance Molecule Optimization for Improved Drug Safety",
+    "danishSummary": "A new research paper titled 'SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity' proposes a novel method to address off-target protein binding, a significant issue in drug development. The approach aims to improve the specificity of small-molecule drugs, reducing adverse effects.",
+    "whyItMatters": "This advancement could lead to more targeted and safer drug designs, potentially reducing the risk of adverse effects and improving the efficacy of pharmaceutical treatments.",
+    "enrichedAt": "2026-09-21T06:18:54.843Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2609.21181v1": {
+    "title": "New AI Model Uses Test-Time Task Embeddings for Improved Reasoning in Novel Tasks",
+    "summary": "A recent study proposes a new approach to implicit rule induction in AI models by incorporating test-time task embeddings, which enhances their ability to solve novel reasoning tasks. This method aims to clarify the underlying reasoning processes and improve performance on benchmarks like the Abstraction and Reasoning Corpus.",
+    "danishTitle": "New AI Model Uses Test-Time Task Embeddings for Improved Reasoning in Novel Tasks",
+    "danishSummary": "A recent study proposes a new approach to implicit rule induction in AI models by incorporating test-time task embeddings, which enhances their ability to solve novel reasoning tasks. This method aims to clarify the underlying reasoning processes and improve performance on benchmarks like the Abstraction and Reasoning Corpus.",
+    "whyItMatters": "This advancement could lead to more transparent and robust AI systems capable of handling complex, unseen problems, which is crucial for applications requiring high levels of reliability and explainability.",
+    "enrichedAt": "2026-09-21T06:19:05.756Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.21181": {
+    "title": "New AI Model Uses Test-Time Task Embeddings for Improved Reasoning in Novel Tasks",
+    "summary": "A recent study proposes a new approach to implicit rule induction in AI models by incorporating test-time task embeddings, which enhances their ability to solve novel reasoning tasks. This method aims to clarify the underlying reasoning processes and improve performance on benchmarks like the Abstraction and Reasoning Corpus.",
+    "danishTitle": "New AI Model Uses Test-Time Task Embeddings for Improved Reasoning in Novel Tasks",
+    "danishSummary": "A recent study proposes a new approach to implicit rule induction in AI models by incorporating test-time task embeddings, which enhances their ability to solve novel reasoning tasks. This method aims to clarify the underlying reasoning processes and improve performance on benchmarks like the Abstraction and Reasoning Corpus.",
+    "whyItMatters": "This advancement could lead to more transparent and robust AI systems capable of handling complex, unseen problems, which is crucial for applications requiring high levels of reliability and explainability.",
+    "enrichedAt": "2026-09-21T06:19:05.756Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2609.21192v1": {
+    "title": "AI-GRACE Framework Introduced for Enhanced Agentic AI Deployment",
+    "summary": "The AI-GRACE framework, recently published in arXiv, provides a structured approach for organizations to operationalize agentic AI by defining validation, control, and observation requirements for specific use cases, ensuring robust deployment and compliance.",
+    "danishTitle": "AI-GRACE Framework Introduced for Enhanced Agentic AI Deployment",
+    "danishSummary": "The AI-GRACE framework, recently published in arXiv, provides a structured approach for organizations to operationalize agentic AI by defining validation, control, and observation requirements for specific use cases, ensuring robust deployment and compliance.",
+    "whyItMatters": "By offering a comprehensive guide for validating and controlling agentic AI, AI-GRACE helps organizations navigate complex deployment challenges, thereby fostering trust and ethical use of AI technologies.",
+    "enrichedAt": "2026-09-21T06:19:16.056Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.21192": {
+    "title": "AI-GRACE Framework Introduced for Enhanced Agentic AI Deployment",
+    "summary": "The AI-GRACE framework, recently published in arXiv, provides a structured approach for organizations to operationalize agentic AI by defining validation, control, and observation requirements for specific use cases, ensuring robust deployment and compliance.",
+    "danishTitle": "AI-GRACE Framework Introduced for Enhanced Agentic AI Deployment",
+    "danishSummary": "The AI-GRACE framework, recently published in arXiv, provides a structured approach for organizations to operationalize agentic AI by defining validation, control, and observation requirements for specific use cases, ensuring robust deployment and compliance.",
+    "whyItMatters": "By offering a comprehensive guide for validating and controlling agentic AI, AI-GRACE helps organizations navigate complex deployment challenges, thereby fostering trust and ethical use of AI technologies.",
+    "enrichedAt": "2026-09-21T06:19:16.056Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2609.21208v1": {
+    "title": "New Co-Training Method Enhances Code Generation Reliability Through Information-Gain Rewards",
+    "summary": "A recent paper proposes a novel co-training approach that uses information-gain rewards to improve the reliability of code generation. This method, which prunes diverse tests and focuses on self-play, aims to advance the capabilities of reinforcement learning in coding tasks beyond traditional fixed test suites.",
+    "danishTitle": "New Co-Training Method Enhances Code Generation Reliability Through Information-Gain Rewards",
+    "danishSummary": "A recent paper proposes a novel co-training approach that uses information-gain rewards to improve the reliability of code generation. This method, which prunes diverse tests and focuses on self-play, aims to advance the capabilities of reinforcement learning in coding tasks beyond traditional fixed test suites.",
+    "whyItMatters": "By enhancing the reliability of code generation, this method could significantly improve the quality and robustness of AI-generated software, benefiting both developers and enterprises that rely on automated coding solutions.",
+    "enrichedAt": "2026-09-21T06:19:27.064Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.21208": {
+    "title": "New Co-Training Method Enhances Code Generation Reliability Through Information-Gain Rewards",
+    "summary": "A recent paper proposes a novel co-training approach that uses information-gain rewards to improve the reliability of code generation. This method, which prunes diverse tests and focuses on self-play, aims to advance the capabilities of reinforcement learning in coding tasks beyond traditional fixed test suites.",
+    "danishTitle": "New Co-Training Method Enhances Code Generation Reliability Through Information-Gain Rewards",
+    "danishSummary": "A recent paper proposes a novel co-training approach that uses information-gain rewards to improve the reliability of code generation. This method, which prunes diverse tests and focuses on self-play, aims to advance the capabilities of reinforcement learning in coding tasks beyond traditional fixed test suites.",
+    "whyItMatters": "By enhancing the reliability of code generation, this method could significantly improve the quality and robustness of AI-generated software, benefiting both developers and enterprises that rely on automated coding solutions.",
+    "enrichedAt": "2026-09-21T06:19:27.064Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2609.21214v1": {
+    "title": "New Model Decouples Cognitive and Affective Factors in Cognitive Diagnosis",
+    "summary": "A recent study proposes a novel approach called Ability-Residual Decoupled Modeling, which separates cognitive and affective factors in cognitive diagnosis. This method aims to improve the accuracy of student concept mastery assessment by accounting for emotional and engagement variables.",
+    "danishTitle": "New Model Decouples Cognitive and Affective Factors in Cognitive Diagnosis",
+    "danishSummary": "A recent study proposes a novel approach called Ability-Residual Decoupled Modeling, which separates cognitive and affective factors in cognitive diagnosis. This method aims to improve the accuracy of student concept mastery assessment by accounting for emotional and engagement variables.",
+    "whyItMatters": "By decoupling cognitive and affective factors, this model could lead to more nuanced and accurate educational assessments, enhancing personalized learning experiences and supporting better educational outcomes.",
+    "enrichedAt": "2026-09-21T06:19:37.078Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.21214": {
+    "title": "New Model Decouples Cognitive and Affective Factors in Cognitive Diagnosis",
+    "summary": "A recent study proposes a novel approach called Ability-Residual Decoupled Modeling, which separates cognitive and affective factors in cognitive diagnosis. This method aims to improve the accuracy of student concept mastery assessment by accounting for emotional and engagement variables.",
+    "danishTitle": "New Model Decouples Cognitive and Affective Factors in Cognitive Diagnosis",
+    "danishSummary": "A recent study proposes a novel approach called Ability-Residual Decoupled Modeling, which separates cognitive and affective factors in cognitive diagnosis. This method aims to improve the accuracy of student concept mastery assessment by accounting for emotional and engagement variables.",
+    "whyItMatters": "By decoupling cognitive and affective factors, this model could lead to more nuanced and accurate educational assessments, enhancing personalized learning experiences and supporting better educational outcomes.",
+    "enrichedAt": "2026-09-21T06:19:37.078Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2609.21221v1": {
+    "title": "New Neuro-Soft-Symbolic Framework Enhances Perceptual Planning for Autonomous Systems",
+    "summary": "Researchers have developed a fully differentiable neuro-soft-symbolic framework aimed at improving perceptual planning tasks, particularly in uncertain environments. This framework combines neural and symbolic approaches to better handle scene perception and logical action planning.",
+    "danishTitle": "New Neuro-Soft-Symbolic Framework Enhances Perceptual Planning for Autonomous Systems",
+    "danishSummary": "Researchers have developed a fully differentiable neuro-soft-symbolic framework aimed at improving perceptual planning tasks, particularly in uncertain environments. This framework combines neural and symbolic approaches to better handle scene perception and logical action planning.",
+    "whyItMatters": "By integrating neural and symbolic methods, this framework could significantly advance the capabilities of autonomous systems, making them more effective in complex and dynamic scenarios.",
+    "enrichedAt": "2026-09-21T06:19:46.793Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.21221": {
+    "title": "New Neuro-Soft-Symbolic Framework Enhances Perceptual Planning for Autonomous Systems",
+    "summary": "Researchers have developed a fully differentiable neuro-soft-symbolic framework aimed at improving perceptual planning tasks, particularly in uncertain environments. This framework combines neural and symbolic approaches to better handle scene perception and logical action planning.",
+    "danishTitle": "New Neuro-Soft-Symbolic Framework Enhances Perceptual Planning for Autonomous Systems",
+    "danishSummary": "Researchers have developed a fully differentiable neuro-soft-symbolic framework aimed at improving perceptual planning tasks, particularly in uncertain environments. This framework combines neural and symbolic approaches to better handle scene perception and logical action planning.",
+    "whyItMatters": "By integrating neural and symbolic methods, this framework could significantly advance the capabilities of autonomous systems, making them more effective in complex and dynamic scenarios.",
+    "enrichedAt": "2026-09-21T06:19:46.793Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2609.20883v1": {
+    "title": "New Research Introduces Sparse Priors for More Efficient Distribution Learning in Generative AI",
+    "summary": "A recent study published on arXiv proposes a novel approach using sparse priors to improve the efficiency of learning distributions in high-dimensional spaces, potentially enhancing the performance and reducing the computational requirements of generative AI models.",
+    "danishTitle": "New Research Introduces Sparse Priors for More Efficient Distribution Learning in Generative AI",
+    "danishSummary": "A recent study published on arXiv proposes a novel approach using sparse priors to improve the efficiency of learning distributions in high-dimensional spaces, potentially enhancing the performance and reducing the computational requirements of generative AI models.",
+    "whyItMatters": "This advancement could lead to more scalable and efficient generative AI models, benefiting both research and practical applications by optimizing resource usage and accelerating training processes.",
+    "enrichedAt": "2026-09-21T06:19:56.569Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20883": {
+    "title": "New Research Introduces Sparse Priors for More Efficient Distribution Learning in Generative AI",
+    "summary": "A recent study published on arXiv proposes a novel approach using sparse priors to improve the efficiency of learning distributions in high-dimensional spaces, potentially enhancing the performance and reducing the computational requirements of generative AI models.",
+    "danishTitle": "New Research Introduces Sparse Priors for More Efficient Distribution Learning in Generative AI",
+    "danishSummary": "A recent study published on arXiv proposes a novel approach using sparse priors to improve the efficiency of learning distributions in high-dimensional spaces, potentially enhancing the performance and reducing the computational requirements of generative AI models.",
+    "whyItMatters": "This advancement could lead to more scalable and efficient generative AI models, benefiting both research and practical applications by optimizing resource usage and accelerating training processes.",
+    "enrichedAt": "2026-09-21T06:19:56.569Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2609.20886v1": {
+    "title": "New BI-Agent and BI-Bench Aim to Automate End-to-End Business Intelligence",
+    "summary": "A recent paper on arXiv introduces BI-Agent and BI-Bench, tools designed to automate end-to-end business intelligence processes. These innovations could significantly enhance the efficiency and accessibility of BI for enterprise users by streamlining data analysis and decision-making.",
+    "danishTitle": "New BI-Agent and BI-Bench Aim to Automate End-to-End Business Intelligence",
+    "danishSummary": "A recent paper on arXiv introduces BI-Agent and BI-Bench, tools designed to automate end-to-end business intelligence processes. These innovations could significantly enhance the efficiency and accessibility of BI for enterprise users by streamlining data analysis and decision-making.",
+    "whyItMatters": "By automating complex BI tasks, BI-Agent and BI-Bench could democratize advanced analytics, making sophisticated business intelligence tools more accessible to a broader range of enterprises and users.",
+    "enrichedAt": "2026-09-21T06:20:07.257Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20886": {
+    "title": "New BI-Agent and BI-Bench Aim to Automate End-to-End Business Intelligence",
+    "summary": "A recent paper on arXiv introduces BI-Agent and BI-Bench, tools designed to automate end-to-end business intelligence processes. These innovations could significantly enhance the efficiency and accessibility of BI for enterprise users by streamlining data analysis and decision-making.",
+    "danishTitle": "New BI-Agent and BI-Bench Aim to Automate End-to-End Business Intelligence",
+    "danishSummary": "A recent paper on arXiv introduces BI-Agent and BI-Bench, tools designed to automate end-to-end business intelligence processes. These innovations could significantly enhance the efficiency and accessibility of BI for enterprise users by streamlining data analysis and decision-making.",
+    "whyItMatters": "By automating complex BI tasks, BI-Agent and BI-Bench could democratize advanced analytics, making sophisticated business intelligence tools more accessible to a broader range of enterprises and users.",
+    "enrichedAt": "2026-09-21T06:20:07.257Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2609.20888v1": {
+    "title": "Elastic Threshold Attention Introduced to Address Memory-Bandwidth Bottlenecks in Long-Context Decoding",
+    "summary": "A new paper proposes Elastic Threshold Attention, a method designed to alleviate memory-bandwidth issues during long-context decoding by dynamically adjusting the sparsity of attention mechanisms. This approach aims to enhance efficiency without the rigid limitations of existing sparse attention techniques.",
+    "danishTitle": "Elastic Threshold Attention Introduced to Address Memory-Bandwidth Bottlenecks in Long-Context Decoding",
+    "danishSummary": "A new paper proposes Elastic Threshold Attention, a method designed to alleviate memory-bandwidth issues during long-context decoding by dynamically adjusting the sparsity of attention mechanisms. This approach aims to enhance efficiency without the rigid limitations of existing sparse attention techniques.",
+    "whyItMatters": "By improving the efficiency of long-context decoding, Elastic Threshold Attention could significantly boost the performance of language models and other applications that require extensive context, making them more practical for real-world deployment.",
+    "enrichedAt": "2026-09-21T06:20:18.194Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20888": {
+    "title": "Elastic Threshold Attention Introduced to Address Memory-Bandwidth Bottlenecks in Long-Context Decoding",
+    "summary": "A new paper proposes Elastic Threshold Attention, a method designed to alleviate memory-bandwidth issues during long-context decoding by dynamically adjusting the sparsity of attention mechanisms. This approach aims to enhance efficiency without the rigid limitations of existing sparse attention techniques.",
+    "danishTitle": "Elastic Threshold Attention Introduced to Address Memory-Bandwidth Bottlenecks in Long-Context Decoding",
+    "danishSummary": "A new paper proposes Elastic Threshold Attention, a method designed to alleviate memory-bandwidth issues during long-context decoding by dynamically adjusting the sparsity of attention mechanisms. This approach aims to enhance efficiency without the rigid limitations of existing sparse attention techniques.",
+    "whyItMatters": "By improving the efficiency of long-context decoding, Elastic Threshold Attention could significantly boost the performance of language models and other applications that require extensive context, making them more practical for real-world deployment.",
+    "enrichedAt": "2026-09-21T06:20:18.194Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2609.20904v1": {
+    "title": "Bio-MF: Enhancing Hybrid Motor-Imagery Brain-Computer Interfaces with Low-Latency EEG-to-fNIRS Conversion",
+    "summary": "The Bio-MF model, a new approach in hybrid motor-imagery brain-computer interfaces, integrates EEG and fNIRS data to improve system performance and reduce latency, offering a more effective and responsive communication tool for users.",
+    "danishTitle": "Bio-MF: Enhancing Hybrid Motor-Imagery Brain-Computer Interfaces with Low-Latency EEG-to-fNIRS Conversion",
+    "danishSummary": "The Bio-MF model, a new approach in hybrid motor-imagery brain-computer interfaces, integrates EEG and fNIRS data to improve system performance and reduce latency, offering a more effective and responsive communication tool for users.",
+    "whyItMatters": "By significantly reducing latency and enhancing accuracy, Bio-MF paves the way for more practical and user-friendly brain-computer interfaces, potentially revolutionizing applications in healthcare, education, and accessibility technologies.",
+    "enrichedAt": "2026-09-21T06:20:30.019Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20904": {
+    "title": "Bio-MF: Enhancing Hybrid Motor-Imagery Brain-Computer Interfaces with Low-Latency EEG-to-fNIRS Conversion",
+    "summary": "The Bio-MF model, a new approach in hybrid motor-imagery brain-computer interfaces, integrates EEG and fNIRS data to improve system performance and reduce latency, offering a more effective and responsive communication tool for users.",
+    "danishTitle": "Bio-MF: Enhancing Hybrid Motor-Imagery Brain-Computer Interfaces with Low-Latency EEG-to-fNIRS Conversion",
+    "danishSummary": "The Bio-MF model, a new approach in hybrid motor-imagery brain-computer interfaces, integrates EEG and fNIRS data to improve system performance and reduce latency, offering a more effective and responsive communication tool for users.",
+    "whyItMatters": "By significantly reducing latency and enhancing accuracy, Bio-MF paves the way for more practical and user-friendly brain-computer interfaces, potentially revolutionizing applications in healthcare, education, and accessibility technologies.",
+    "enrichedAt": "2026-09-21T06:20:30.019Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2609.20906v1": {
+    "title": "New Model for Continuous-Time Reinforcement Learning from Astrophysical Data",
+    "summary": "A new model for continuous delayed-memory stochastic gradient descent has been introduced, enabling continuous-time reinforcement learning from historical astrophysical time series data, particularly focusing on quasar brightness variations.",
+    "danishTitle": "New Model for Continuous-Time Reinforcement Learning from Astrophysical Data",
+    "danishSummary": "A new model for continuous delayed-memory stochastic gradient descent has been introduced, enabling continuous-time reinforcement learning from historical astrophysical time series data, particularly focusing on quasar brightness variations.",
+    "whyItMatters": "This advancement could significantly enhance the understanding of supermassive black holes and their behavior, potentially leading to breakthroughs in astrophysics and improving the application of machine learning in time-series analysis.",
+    "enrichedAt": "2026-09-21T06:20:39.586Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2609.20906": {
+    "title": "New Model for Continuous-Time Reinforcement Learning from Astrophysical Data",
+    "summary": "A new model for continuous delayed-memory stochastic gradient descent has been introduced, enabling continuous-time reinforcement learning from historical astrophysical time series data, particularly focusing on quasar brightness variations.",
+    "danishTitle": "New Model for Continuous-Time Reinforcement Learning from Astrophysical Data",
+    "danishSummary": "A new model for continuous delayed-memory stochastic gradient descent has been introduced, enabling continuous-time reinforcement learning from historical astrophysical time series data, particularly focusing on quasar brightness variations.",
+    "whyItMatters": "This advancement could significantly enhance the understanding of supermassive black holes and their behavior, potentially leading to breakthroughs in astrophysics and improving the application of machine learning in time-series analysis.",
+    "enrichedAt": "2026-09-21T06:20:39.586Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }

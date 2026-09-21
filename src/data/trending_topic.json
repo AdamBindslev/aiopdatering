@@ -1,29 +1,48 @@
 {
-  "headline": "Open-Weight Models Outperform Proprietary Systems, Sparking Industry Shift",
-  "summary": "Qwen3.8-Omni-Flash and Alibaba's Qwen-Image-2.1 are outperforming closed systems in benchmarks, driving a shift towards open-weight models. This trend is reducing dependency on proprietary platforms and lowering costs for developers.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and could significantly impact the AI industry's business models and competitive landscape.",
-  "synthesizedAt": "2026-09-21T03:09:31.452Z",
+  "headline": "RBS-Attention: Revolutionizing Long-Context Large Language Models",
+  "summary": "A new technique called RBS-Attention is significantly enhancing the performance of large language models by optimizing long-context processing, a critical issue for maintaining accuracy in extended text generation tasks.",
+  "whyItMatters": "This innovation could lead to more robust and reliable long-context models, which are essential for applications like comprehensive document analysis and long-form content creation.",
+  "synthesizedAt": "2026-09-21T06:21:15.341Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=40414",
-    "title": "Qwen3.8-Omni-Flash Outcompetes Google's Gemini Flash in Pricing and Multimodal Performance",
-    "link": "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-09-19T14:30:57.000Z",
-    "badgeColor": "slate",
+    "id": "arxiv-ai-oai:arXiv.org:2609.20971v1",
+    "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Enhancing Long-Context Large Language Models",
+    "link": "https://arxiv.org/abs/2609.20971",
+    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+    "sourceId": "arxiv-ai",
+    "pubDate": "2026-09-21T04:00:00.000Z",
+    "badgeColor": "zinc",
     "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40459",
-      "title": "Alibaba Unveils Qwen-Image-2.1: An Open-Weight Model for Efficient Image Generation",
-      "link": "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-09-20T16:10:52.000Z",
-      "badgeColor": "slate",
+      "id": "arxiv-ai-oai:arXiv.org:2609.20974v1",
+      "title": "Attention-Aware Routing: Enhancing Mixture-of-Experts Models by Integrating Routing and Attention Mechanisms",
+      "link": "https://arxiv.org/abs/2609.20974",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-09-21T04:00:00.000Z",
+      "badgeColor": "zinc",
       "angle": "Industry Analysis"
+    },
+    {
+      "id": "arxiv-ai-oai:arXiv.org:2609.20981v1",
+      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+      "link": "https://arxiv.org/abs/2609.20981",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-09-21T04:00:00.000Z",
+      "badgeColor": "zinc"
+    },
+    {
+      "id": "arxiv-ai-oai:arXiv.org:2609.21139v1",
+      "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
+      "link": "https://arxiv.org/abs/2609.21139",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-09-21T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Official Release"
     }
   ]
 }
