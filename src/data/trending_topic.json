@@ -1,48 +1,48 @@
 {
-  "headline": "RBS-Attention: Revolutionizing Long-Context Large Language Models",
-  "summary": "A new technique called RBS-Attention is significantly enhancing the performance of large language models by optimizing long-context processing, a critical issue for maintaining accuracy in extended text generation tasks.",
-  "whyItMatters": "This innovation could lead to more robust and reliable long-context models, which are essential for applications like comprehensive document analysis and long-form content creation.",
-  "synthesizedAt": "2026-09-21T06:21:15.341Z",
+  "headline": "Rapid AI Assistant Development Poses Data Protection Challenges",
+  "summary": "Datatilsynet warns that the swift advancement of AI assistants like Copilot and Claude is complicating data protection efforts, highlighting the urgent need for industry-wide data protection strategies and compliance measures.",
+  "whyItMatters": "This trend underscores the growing complexity of data protection in the AI era, potentially leading to stricter regulations and increased scrutiny of AI assistant deployment.",
+  "synthesizedAt": "2026-09-21T09:24:02.426Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2609.20971v1",
-    "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Enhancing Long-Context Large Language Models",
-    "link": "https://arxiv.org/abs/2609.20971",
-    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-    "sourceId": "arxiv-ai",
-    "pubDate": "2026-09-21T04:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "Technical Deep Dive"
+    "id": "version2-https://ing.dk/artikel/vild-udvikling-med-ai-assistenter-er-en-hovedpine-databehandlere-et-helt-saerligt-kapitel",
+    "title": "Rapid AI Assistant Development Poses Data Protection Challenges, Warns Datatilsynet",
+    "link": "https://ing.dk/artikel/vild-udvikling-med-ai-assistenter-er-en-hovedpine-databehandlere-et-helt-saerligt-kapitel",
+    "sourceName": "Version2 (Ingeniøren)",
+    "sourceId": "version2",
+    "pubDate": "2026-09-21T09:00:00.000Z",
+    "badgeColor": "red",
+    "angle": "Regulatory Concerns"
   },
   "supportingStories": [
     {
-      "id": "arxiv-ai-oai:arXiv.org:2609.20974v1",
-      "title": "Attention-Aware Routing: Enhancing Mixture-of-Experts Models by Integrating Routing and Attention Mechanisms",
-      "link": "https://arxiv.org/abs/2609.20974",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
+      "id": "arxiv-cl-oai:arXiv.org:2609.20825v1",
+      "title": "HERMES: A New Model for Enhancing Patient Outcome Prediction Using Contrast-Aware Knowledge Graph Reasoning",
+      "link": "https://arxiv.org/abs/2609.20825",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-21T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2609.20828v1",
+      "title": "New ASR Model Enhances Named Entity and Disfluency Recognition in Accented Conversational English",
+      "link": "https://arxiv.org/abs/2609.20828",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
       "pubDate": "2026-09-21T04:00:00.000Z",
       "badgeColor": "zinc",
       "angle": "Industry Analysis"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2609.20981v1",
-      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
-      "link": "https://arxiv.org/abs/2609.20981",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
+      "id": "arxiv-cl-oai:arXiv.org:2609.20830v1",
+      "title": "Reviser: A New Approach to Autoregressive Text Generation with Enhanced Revision Capabilities",
+      "link": "https://arxiv.org/abs/2609.20830",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
       "pubDate": "2026-09-21T04:00:00.000Z",
       "badgeColor": "zinc"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2609.21139v1",
-      "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
-      "link": "https://arxiv.org/abs/2609.21139",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-09-21T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Official Release"
     }
   ]
 }
