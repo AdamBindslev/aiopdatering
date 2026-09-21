@@ -1,48 +1,49 @@
 {
-  "headline": "Rapid AI Assistant Development Poses Data Protection Challenges",
-  "summary": "Datatilsynet warns that the swift advancement of AI assistants like Copilot and Claude is complicating data protection efforts, highlighting the urgent need for industry-wide data protection strategies and compliance measures.",
-  "whyItMatters": "This trend underscores the growing complexity of data protection in the AI era, potentially leading to stricter regulations and increased scrutiny of AI assistant deployment.",
-  "synthesizedAt": "2026-09-21T09:24:02.426Z",
+  "headline": "US Border Surveillance Towers Spark Controversy Amid Human Cost",
+  "summary": "MIT Technology Review has published a series of investigations highlighting the human toll and failures of US border surveillance technology, revealing that despite significant investment, the technology has not prevented tragic deaths and has sparked controversy.",
+  "whyItMatters": "These reports underscore the ethical and practical challenges of deploying AI and surveillance technologies in sensitive contexts, prompting broader discussions on their deployment and effectiveness.",
+  "synthesizedAt": "2026-09-21T12:30:28.390Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "version2-https://ing.dk/artikel/vild-udvikling-med-ai-assistenter-er-en-hovedpine-databehandlere-et-helt-saerligt-kapitel",
-    "title": "Rapid AI Assistant Development Poses Data Protection Challenges, Warns Datatilsynet",
-    "link": "https://ing.dk/artikel/vild-udvikling-med-ai-assistenter-er-en-hovedpine-databehandlere-et-helt-saerligt-kapitel",
-    "sourceName": "Version2 (Ingeniøren)",
-    "sourceId": "version2",
-    "pubDate": "2026-09-21T09:00:00.000Z",
+    "id": "mit-tech-review-https://www.technologyreview.com/?p=1144161",
+    "title": "MIT Technology Review Reveals Comprehensive Map of Deaths Near US Border Surveillance Towers",
+    "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+    "sourceName": "MIT Technology Review",
+    "sourceId": "mit-tech-review",
+    "pubDate": "2026-09-21T12:00:00.000Z",
     "badgeColor": "red",
-    "angle": "Regulatory Concerns"
+    "angle": "Investigation"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.20825v1",
-      "title": "HERMES: A New Model for Enhancing Patient Outcome Prediction Using Contrast-Aware Knowledge Graph Reasoning",
-      "link": "https://arxiv.org/abs/2609.20825",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-21T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
+      "id": "mit-tech-review-https://www.technologyreview.com/?p=1144164",
+      "title": "MIT Technology Review Reveals Human Cost of US Border’s ‘Virtual Wall’ Surveillance Towers",
+      "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "sourceName": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "pubDate": "2026-09-21T12:00:00.000Z",
+      "badgeColor": "red",
+      "angle": "Human Impact"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.20828v1",
-      "title": "New ASR Model Enhances Named Entity and Disfluency Recognition in Accented Conversational English",
-      "link": "https://arxiv.org/abs/2609.20828",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-21T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Industry Analysis"
+      "id": "mit-tech-review-https://www.technologyreview.com/?p=1144166",
+      "title": "US Border Surveillance Fails to Prevent Tragic Deaths Despite Significant Investment",
+      "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "sourceName": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "pubDate": "2026-09-21T12:00:00.000Z",
+      "badgeColor": "red",
+      "angle": "Investigation"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.20830v1",
-      "title": "Reviser: A New Approach to Autoregressive Text Generation with Enhanced Revision Capabilities",
-      "link": "https://arxiv.org/abs/2609.20830",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-21T04:00:00.000Z",
-      "badgeColor": "zinc"
+      "id": "mit-tech-review-https://www.technologyreview.com/?p=1144170",
+      "title": "Surveillance Camera at Border Crossing Site Sparks Controversy",
+      "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "sourceName": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "pubDate": "2026-09-21T12:00:00.000Z",
+      "badgeColor": "red",
+      "angle": "Case Study"
     }
   ]
 }
