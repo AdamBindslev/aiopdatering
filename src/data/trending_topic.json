@@ -1,29 +1,29 @@
 {
-  "headline": "Open-Weight Models Outperform Proprietary Systems, Driving Industry Shift",
-  "summary": "Qwen3.8-Omni-Flash outperforms Google's Gemini Flash in both pricing and multimodal benchmarks, while Alibaba's Qwen-Image-2.1 enables efficient image generation. These advancements are challenging proprietary models and accelerating local AI deployment.",
-  "whyItMatters": "This trend broadens access to advanced AI capabilities and reduces costs, fostering innovation and democratizing AI technology.",
-  "synthesizedAt": "2026-09-20T20:56:02.972Z",
+  "headline": "Open-Weight Models Outcompete Proprietary Systems, Sparking Industry Shift",
+  "summary": "Qwen3.8-Omni-Flash and Alibaba's Qwen-Image-2.1 are outperforming proprietary models like Google's Gemini in both pricing and performance, driving a shift towards open-weight models and increasing competition in the AI market.",
+  "whyItMatters": "This trend could democratize advanced AI capabilities, reduce costs, and challenge the dominance of closed platforms, impacting developers and users globally.",
+  "synthesizedAt": "2026-09-21T00:02:55.386Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=40459",
-    "title": "Alibaba Unveils Qwen-Image-2.1: An Open-Weight Model for Efficient Image Generation",
-    "link": "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/",
+    "id": "the-decoder-https://the-decoder.com/?p=40414",
+    "title": "Qwen3.8-Omni-Flash Outcompetes Google's Gemini Flash in Pricing and Multimodal Performance",
+    "link": "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-09-20T16:10:52.000Z",
+    "pubDate": "2026-09-19T14:30:57.000Z",
     "badgeColor": "slate",
-    "angle": "Official Release"
+    "angle": "Performance Benchmark"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40414",
-      "title": "Qwen3.8-Omni-Flash Outcompetes Google's Gemini Flash in Pricing and Multimodal Performance",
-      "link": "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/",
+      "id": "the-decoder-https://the-decoder.com/?p=40459",
+      "title": "Alibaba Unveils Qwen-Image-2.1: An Open-Weight Model for Efficient Image Generation",
+      "link": "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-09-19T14:30:57.000Z",
+      "pubDate": "2026-09-20T16:10:52.000Z",
       "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
+      "angle": "Industry Analysis"
     }
   ]
 }
