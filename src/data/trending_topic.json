@@ -1,49 +1,48 @@
 {
-  "headline": "US Border Surveillance Towers Spark Controversy Amid Human Cost",
-  "summary": "MIT Technology Review has published a series of investigations highlighting the human toll and failures of US border surveillance technology, revealing that despite significant investment, the technology has not prevented tragic deaths and has sparked controversy.",
-  "whyItMatters": "These reports underscore the ethical and practical challenges of deploying AI and surveillance technologies in sensitive contexts, prompting broader discussions on their deployment and effectiveness.",
-  "synthesizedAt": "2026-09-21T12:30:28.390Z",
+  "headline": "US-China AI Dialogue Signals Global Cooperation in AI Governance",
+  "summary": "The United States and China have agreed to establish an official AI dialogue and implement a notification mechanism for AI incidents, signaling a potential shift towards global cooperation in AI governance and regulation.",
+  "whyItMatters": "This agreement could lead to more standardized international AI policies and reduce tensions in the global AI race, fostering a more collaborative environment.",
+  "synthesizedAt": "2026-09-21T15:38:28.384Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "mit-tech-review-https://www.technologyreview.com/?p=1144161",
-    "title": "MIT Technology Review Reveals Comprehensive Map of Deaths Near US Border Surveillance Towers",
-    "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-    "sourceName": "MIT Technology Review",
-    "sourceId": "mit-tech-review",
-    "pubDate": "2026-09-21T12:00:00.000Z",
-    "badgeColor": "red",
-    "angle": "Investigation"
+    "id": "the-decoder-https://the-decoder.com/?p=40465",
+    "title": "US and China Agree on AI Dialogue and Security Mechanism Ahead of Summit",
+    "link": "https://the-decoder.com/us-and-china-agree-on-ai-dialogue-with-security-mechanism-ahead-of-trump-xi-summit/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-09-21T13:43:33.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Agreement"
   },
   "supportingStories": [
     {
-      "id": "mit-tech-review-https://www.technologyreview.com/?p=1144164",
-      "title": "MIT Technology Review Reveals Human Cost of US Border’s ‘Virtual Wall’ Surveillance Towers",
-      "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-      "sourceName": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "pubDate": "2026-09-21T12:00:00.000Z",
-      "badgeColor": "red",
-      "angle": "Human Impact"
+      "id": "the-decoder-https://the-decoder.com/?p=40474",
+      "title": "SoftBank Secures $11 Billion in Risky Bonds to Fund OpenAI Stake Purchase",
+      "link": "https://the-decoder.com/softbank-to-borrow-over-11-billion-in-risky-bonds-for-openai-stake/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-21T14:35:11.000Z",
+      "badgeColor": "slate",
+      "angle": "Investment in Open AI"
     },
     {
-      "id": "mit-tech-review-https://www.technologyreview.com/?p=1144166",
-      "title": "US Border Surveillance Fails to Prevent Tragic Deaths Despite Significant Investment",
-      "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-      "sourceName": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "pubDate": "2026-09-21T12:00:00.000Z",
-      "badgeColor": "red",
-      "angle": "Investigation"
+      "id": "tech-policy-press-https://techpolicy.press/europe-says-its-ai-rules-are-enough-ai-agents-are-testing-that-claim",
+      "title": "EU AI Regulations Face Reality Check as Agents Challenge Their Sufficiency",
+      "link": "https://techpolicy.press/europe-says-its-ai-rules-are-enough-ai-agents-are-testing-that-claim",
+      "sourceName": "Tech Policy Press",
+      "sourceId": "tech-policy-press",
+      "pubDate": "2026-09-21T12:06:54.000Z",
+      "badgeColor": "slate",
+      "angle": "Regulatory Challenges"
     },
     {
-      "id": "mit-tech-review-https://www.technologyreview.com/?p=1144170",
-      "title": "Surveillance Camera at Border Crossing Site Sparks Controversy",
-      "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-      "sourceName": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "pubDate": "2026-09-21T12:00:00.000Z",
-      "badgeColor": "red",
-      "angle": "Case Study"
+      "id": "arxiv-cl-oai:arXiv.org:2609.20830v1",
+      "title": "Reviser: A New Approach to Autoregressive Text Generation with Enhanced Revision Capabilities",
+      "link": "https://arxiv.org/abs/2609.20830",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-21T04:00:00.000Z",
+      "badgeColor": "zinc"
     }
   ]
 }
