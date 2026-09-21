@@ -1,48 +1,39 @@
 {
-  "headline": "US-China AI Dialogue Signals Global Cooperation in AI Governance",
-  "summary": "The United States and China have agreed to establish an official AI dialogue and implement a notification mechanism for AI incidents, signaling a potential shift towards global cooperation in AI governance and regulation.",
-  "whyItMatters": "This agreement could lead to more standardized international AI policies and reduce tensions in the global AI race, fostering a more collaborative environment.",
-  "synthesizedAt": "2026-09-21T15:38:28.384Z",
+  "headline": "Amazon Bans Meta's AI Agent Muse from Online Shopping Platform",
+  "summary": "Amazon has restricted access to Meta's AI agent, Muse, from its online shopping platform. This move highlights growing tensions between large tech companies and underscores the regulatory challenges surrounding AI agents in commerce.",
+  "whyItMatters": "It signals a potential escalation in AI competition and raises concerns about the integration and regulation of AI agents in e-commerce.",
+  "synthesizedAt": "2026-09-21T18:45:01.094Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=40465",
-    "title": "US and China Agree on AI Dialogue and Security Mechanism Ahead of Summit",
-    "link": "https://the-decoder.com/us-and-china-agree-on-ai-dialogue-with-security-mechanism-ahead-of-trump-xi-summit/",
+    "id": "the-decoder-https://the-decoder.com/?p=40464",
+    "title": "Amazon Bans Meta's AI Agent Muse from Online Shopping Platform",
+    "link": "https://the-decoder.com/amazon-blocks-metas-ai-agent-muse-from-online-shopping/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-09-21T13:43:33.000Z",
+    "pubDate": "2026-09-21T13:37:51.000Z",
     "badgeColor": "slate",
-    "angle": "Official Agreement"
+    "angle": "Official Ban"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40474",
-      "title": "SoftBank Secures $11 Billion in Risky Bonds to Fund OpenAI Stake Purchase",
-      "link": "https://the-decoder.com/softbank-to-borrow-over-11-billion-in-risky-bonds-for-openai-stake/",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3167032",
+      "title": "Meta's AI Agent Banned from Amazon.com",
+      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-09-21T17:55:18.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Impact"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=40466",
+      "title": "Bristol Researchers Propose Medical Framework to Safeguard AI Systems",
+      "link": "https://the-decoder.com/bristol-researchers-say-medicine-already-knows-how-to-handle-black-boxes-and-ai-could-learn-from-it/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-09-21T14:35:11.000Z",
+      "pubDate": "2026-09-21T14:06:28.000Z",
       "badgeColor": "slate",
-      "angle": "Investment in Open AI"
-    },
-    {
-      "id": "tech-policy-press-https://techpolicy.press/europe-says-its-ai-rules-are-enough-ai-agents-are-testing-that-claim",
-      "title": "EU AI Regulations Face Reality Check as Agents Challenge Their Sufficiency",
-      "link": "https://techpolicy.press/europe-says-its-ai-rules-are-enough-ai-agents-are-testing-that-claim",
-      "sourceName": "Tech Policy Press",
-      "sourceId": "tech-policy-press",
-      "pubDate": "2026-09-21T12:06:54.000Z",
-      "badgeColor": "slate",
-      "angle": "Regulatory Challenges"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2609.20830v1",
-      "title": "Reviser: A New Approach to Autoregressive Text Generation with Enhanced Revision Capabilities",
-      "link": "https://arxiv.org/abs/2609.20830",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-21T04:00:00.000Z",
-      "badgeColor": "zinc"
+      "angle": "Safety and Transparency"
     }
   ]
 }
