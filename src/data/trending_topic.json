@@ -1,29 +1,28 @@
 {
-  "headline": "Open-Weights Models Pave Way for AI Democratization",
-  "summary": "Recent advancements in open-weights models, exemplified by Xiaomi's MiMo-V2.6-Pro and Jev's System One Models, are significantly reducing the barriers to entry for AI development. These models are demonstrating competitive performance against proprietary systems, driving broader adoption and innovation.",
-  "whyItMatters": "This trend democratizes access to advanced AI capabilities, empowering smaller developers and organizations to compete with larger, more established players.",
-  "synthesizedAt": "2026-09-22T13:24:53.031Z",
+  "headline": "Open-Weights Models Pave the Way for Widespread AI Innovation",
+  "summary": "Xiaomi's MiMo-V2.6-Pro and Jev's System One Models are leading a new wave of open-weights AI models, reducing costs and increasing accessibility. This trend is driving broader adoption and innovation across industries.",
+  "whyItMatters": "It democratizes advanced AI capabilities, fostering greater competition and accelerating technological advancements.",
+  "synthesizedAt": "2026-09-22T16:32:05.442Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=40499",
-    "title": "Xiaomi's MiMo-V2.6-Pro Leads Open AI Models with Cost-Effective Innovation",
-    "link": "https://the-decoder.com/xiaomis-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-09-22T11:42:11.000Z",
-    "badgeColor": "slate",
-    "angle": "Hands-on Benchmark"
+    "id": "latent-space-https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+    "title": "Xiaomi Introduces MiMo-V2.6-Pro 1T-A42B, a Cutting-Edge Open Weights Model Trained at $3M",
+    "link": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+    "sourceName": "Latent Space (Swyx & Alessio)",
+    "sourceId": "latent-space",
+    "pubDate": "2026-09-22T06:30:56.000Z",
+    "badgeColor": "pink",
+    "angle": "Official Launch"
   },
   "supportingStories": [
     {
-      "id": "latent-space-https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
-      "title": "Xiaomi Introduces MiMo-V2.6-Pro 1T-A42B, a Cutting-Edge Open Weights Model Trained at $3M",
-      "link": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-09-22T06:30:56.000Z",
-      "badgeColor": "pink",
-      "angle": "Industry Analysis"
+      "id": "the-decoder-https://the-decoder.com/?p=40505",
+      "title": "Biological Computing Co. Unveils Neuron-Based Software Layer for Faster, Cheaper AI Video Generation",
+      "link": "https://the-decoder.com/a-tiny-software-layer-from-lab-grown-neurons-promises-faster-cheaper-ai-video/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-22T13:58:20.000Z",
+      "badgeColor": "slate"
     },
     {
       "id": "two-minute-papers-yt:video:qBBRRsH0rQc",
