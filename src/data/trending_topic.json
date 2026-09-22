@@ -1,17 +1,17 @@
 {
-  "headline": "New Benchmark PsyAgentBench Evaluates Bias in LLM Agents",
-  "summary": "PsyAgentBench, a new benchmark developed by researchers, assesses how large language models (LLMs) exhibit psychological biases, highlighting the need for more ethical and unbiased AI. This development is commanding attention as it pushes the industry to address potential biases in LLMs.",
-  "whyItMatters": "Addressing bias in LLMs is crucial for ensuring ethical AI development and deployment, impacting trust and the broader societal acceptance of AI technologies.",
-  "synthesizedAt": "2026-09-22T04:07:59.482Z",
+  "headline": "Open-Weights Models Emerge as a Game-Changer in AI Industry",
+  "summary": "Xiaomi's unveiling of the MiMo-V2.6-Pro 1T-A42B, an open-weights model, highlights a growing trend where companies are releasing high-performance AI models, potentially lowering barriers to entry and driving innovation. This shift is prompting a reevaluation of the proprietary model landscape.",
+  "whyItMatters": "This trend could democratize access to advanced AI capabilities, reduce costs for developers, and challenge the dominance of closed proprietary platforms.",
+  "synthesizedAt": "2026-09-22T07:11:05.277Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-cl-oai:arXiv.org:2609.22090v1",
-    "title": "PsyAgentBench: A New Benchmark for Evaluating Bias in LLM Agents",
-    "link": "https://arxiv.org/abs/2609.22090",
-    "sourceName": "arXiv cs.CL (Sprog & LLM)",
-    "sourceId": "arxiv-cl",
-    "pubDate": "2026-09-22T04:00:00.000Z",
-    "badgeColor": "zinc",
+    "id": "latent-space-https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+    "title": "Xiaomi Introduces MiMo-V2.6-Pro 1T-A42B, a Cutting-Edge Open Weights Model Trained at $3M",
+    "link": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+    "sourceName": "Latent Space (Swyx & Alessio)",
+    "sourceId": "latent-space",
+    "pubDate": "2026-09-22T06:30:56.000Z",
+    "badgeColor": "pink",
     "angle": "Official Release"
   },
   "supportingStories": [
@@ -23,22 +23,22 @@
       "sourceId": "arxiv-cl",
       "pubDate": "2026-09-22T04:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Critical Debate"
+      "angle": "Industry Analysis"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.22111v1",
-      "title": "Verifying Autonomous Research Agents: Ensuring Transparency and Authenticity of AI-Generated Papers",
-      "link": "https://arxiv.org/abs/2609.22111",
+      "id": "arxiv-cl-oai:arXiv.org:2609.22110v1",
+      "title": "Study Evaluates Fine-Tuned and Base Language Models for Maternal and Vaccination Healthcare in African Settings",
+      "link": "https://arxiv.org/abs/2609.22110",
       "sourceName": "arXiv cs.CL (Sprog & LLM)",
       "sourceId": "arxiv-cl",
       "pubDate": "2026-09-22T04:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Policy Impact"
+      "angle": "Market Impact"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2609.21096v1",
-      "title": "New Method Uses Topological Analysis to Detect Hallucinations in Large Language Models",
-      "link": "https://arxiv.org/abs/2609.21096",
+      "id": "arxiv-ai-oai:arXiv.org:2609.20971v1",
+      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Enhancing Long-Context Large Language Models",
+      "link": "https://arxiv.org/abs/2609.20971",
       "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
       "sourceId": "arxiv-ai",
       "pubDate": "2026-09-22T04:00:00.000Z",
