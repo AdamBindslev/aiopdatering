@@ -1,20 +1,40 @@
 {
-  "headline": "OpenAI's GPT-6 Sol and Luna Models Drive Cost-Effective AI Innovation",
-  "summary": "OpenAI has launched GPT-6 Sol and Luna, models designed for cost-effective intelligence, which are gaining attention for their advanced capabilities and lower operational costs. This trend is reshaping the AI landscape by making high-quality AI more accessible to a broader range of developers and businesses.",
-  "whyItMatters": "This shift is crucial for democratizing AI access and reducing the financial barriers for developers, potentially accelerating innovation and adoption across various industries.",
-  "synthesizedAt": "2026-09-22T19:39:15.345Z",
+  "headline": "OpenAI's GPT-6 Sol and Luna Models Drive Cost-Effectiveness in AI Deployment",
+  "summary": "OpenAI has launched GPT-6 Sol and Luna, offering models at half the token price of their predecessors while maintaining or slightly improving performance. This shift is driving cost-effectiveness in AI deployment and broadening access to advanced capabilities.",
+  "whyItMatters": "It reduces the financial barrier for developers to access high-quality AI models, potentially accelerating adoption and innovation.",
+  "synthesizedAt": "2026-09-22T22:44:46.076Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-https://openai.com/index/introducing-gpt-6-sol-and-luna",
-    "title": "OpenAI Unveils GPT-6 Sol and Luna: Models Tailored for Cost-Effective Intelligence",
-    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "id": "openai-https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "title": "GPT-6 Enhances Prompt Caching with Improved Hit Rates and Diagnostic Tools",
+    "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
     "sourceName": "OpenAI News",
     "sourceId": "openai",
-    "pubDate": "2026-09-22T18:00:00.000Z",
+    "pubDate": "2026-09-22T21:00:00.000Z",
     "badgeColor": "emerald",
     "angle": "Official Release"
   },
   "supportingStories": [
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=40530",
+      "title": "OpenAI's GPT-6 Sol and Luna Halve Token Prices but Show Little Improvement in Performance",
+      "link": "https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-22T20:06:51.000Z",
+      "badgeColor": "slate",
+      "angle": "Critical Debate"
+    },
+    {
+      "id": "openai-https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "title": "OpenAI Unveils GPT-6 Sol and Luna: Models Tailored for Cost-Effective Intelligence",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "sourceName": "OpenAI News",
+      "sourceId": "openai",
+      "pubDate": "2026-09-22T18:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
+    },
     {
       "id": "techcrunch-ai-https://techcrunch.com/?p=3167633",
       "title": "OpenAI Unveils GPT-6 Sol and Luna, Promising Lower Costs and Reduced Errors",
@@ -22,26 +42,6 @@
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
       "pubDate": "2026-09-22T18:00:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=40517",
-      "title": "Anthropic Launches Claude Opus 5.5, Reducing Costs and Addressing Writing Quality",
-      "link": "https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-09-22T17:11:07.000Z",
-      "badgeColor": "slate",
-      "angle": "Competitive Analysis"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3167580",
-      "title": "Anthropic Unveils Opus 5.5: Lower Prices, Fable-Level Performance",
-      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-22T16:30:07.000Z",
       "badgeColor": "emerald"
     }
   ]
