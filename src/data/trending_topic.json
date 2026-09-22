@@ -1,39 +1,48 @@
 {
-  "headline": "OpenAI's GPT-6 Astra Dominates AI Agent Benchmarks, Sparking Industry Debate",
-  "summary": "OpenAI's GPT-6 Astra has outperformed competitors in a series of benchmarks, leading to intense debate about its capabilities and implications for the broader AI industry. This trend is commanding attention due to its potential to set new standards and benchmarks for AI agents.",
-  "whyItMatters": "It highlights the rapid advancement of AI capabilities and could influence future development and deployment strategies across various sectors.",
-  "synthesizedAt": "2026-09-21T21:51:02.890Z",
+  "headline": "Open-Source AI Models Gain Momentum, Challenge Proprietary Solutions",
+  "summary": "A surge in open-source AI models, such as Jev from TypeSafe AI, is demonstrating competitive capabilities with proprietary systems. This trend is fostering broader access and innovation while putting pressure on closed API models.",
+  "whyItMatters": "It democratizes advanced AI capabilities, reducing costs and increasing competition in the AI development landscape.",
+  "synthesizedAt": "2026-09-22T00:57:33.848Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-channel-yt:video:p7TjXroM4ak",
-    "title": "Ramp × GPT-6 Astra Demonstrates Advanced Feature Development and Verification",
-    "link": "https://www.youtube.com/watch?v=p7TjXroM4ak",
-    "sourceName": "OpenAI (YouTube)",
-    "sourceId": "openai-channel",
-    "pubDate": "2026-09-21T19:22:03.000Z",
-    "badgeColor": "emerald",
-    "angle": "Hands-on Benchmark"
+    "id": "simon-willison-https://simonwillison.net/2026/Sep/21/jev/",
+    "title": "TypeSafe AI Launches System One Models: Decision Models for Enhanced Decision-Making",
+    "link": "https://simonwillison.net/2026/Sep/21/jev/",
+    "sourceName": "Simon Willison",
+    "sourceId": "simon-willison",
+    "pubDate": "2026-09-21T23:09:20.000Z",
+    "badgeColor": "green",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "openai-channel-yt:video:rRm3Vnb7UPY",
-      "title": "Figma's Design Challenge Pushes GPT-6 Astra to New Heights in System Design",
-      "link": "https://www.youtube.com/watch?v=rRm3Vnb7UPY",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-09-21T19:25:46.000Z",
-      "badgeColor": "emerald",
-      "angle": "Official Release"
-    },
-    {
-      "id": "openai-channel-yt:video:QFxDF30qf_4",
-      "title": "Box Reveals GPT-6 Astra’s Precision in Financial Analysis",
-      "link": "https://www.youtube.com/watch?v=QFxDF30qf_4",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-09-21T16:13:36.000Z",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3167174",
+      "title": "OpenAI Establishes Math Advisory Group as AI Solves Over 100 Open Problems",
+      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-09-21T20:15:58.000Z",
       "badgeColor": "emerald",
       "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "openai-channel-yt:video:p7TjXroM4ak",
+      "title": "Ramp × GPT-6 Astra Demonstrates Advanced Feature Development and Verification",
+      "link": "https://www.youtube.com/watch?v=p7TjXroM4ak",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-09-21T19:22:03.000Z",
+      "badgeColor": "emerald",
+      "angle": "Hands-on Benchmark"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=40481",
+      "title": "xAI Launches Grok 4.7 at Competitive Pricing, but Performance Lags Behind Industry Leaders",
+      "link": "https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-21T16:56:36.000Z",
+      "badgeColor": "slate"
     }
   ]
 }
