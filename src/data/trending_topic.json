@@ -1,48 +1,49 @@
 {
-  "headline": "Open-Source AI Models Gain Momentum, Challenge Proprietary Solutions",
-  "summary": "A surge in open-source AI models, such as Jev from TypeSafe AI, is demonstrating competitive capabilities with proprietary systems. This trend is fostering broader access and innovation while putting pressure on closed API models.",
-  "whyItMatters": "It democratizes advanced AI capabilities, reducing costs and increasing competition in the AI development landscape.",
-  "synthesizedAt": "2026-09-22T00:57:33.848Z",
+  "headline": "New Benchmark PsyAgentBench Evaluates Bias in LLM Agents",
+  "summary": "PsyAgentBench, a new benchmark developed by researchers, assesses how large language models (LLMs) exhibit psychological biases, highlighting the need for more ethical and unbiased AI. This development is commanding attention as it pushes the industry to address potential biases in LLMs.",
+  "whyItMatters": "Addressing bias in LLMs is crucial for ensuring ethical AI development and deployment, impacting trust and the broader societal acceptance of AI technologies.",
+  "synthesizedAt": "2026-09-22T04:07:59.482Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "simon-willison-https://simonwillison.net/2026/Sep/21/jev/",
-    "title": "TypeSafe AI Launches System One Models: Decision Models for Enhanced Decision-Making",
-    "link": "https://simonwillison.net/2026/Sep/21/jev/",
-    "sourceName": "Simon Willison",
-    "sourceId": "simon-willison",
-    "pubDate": "2026-09-21T23:09:20.000Z",
-    "badgeColor": "green",
+    "id": "arxiv-cl-oai:arXiv.org:2609.22090v1",
+    "title": "PsyAgentBench: A New Benchmark for Evaluating Bias in LLM Agents",
+    "link": "https://arxiv.org/abs/2609.22090",
+    "sourceName": "arXiv cs.CL (Sprog & LLM)",
+    "sourceId": "arxiv-cl",
+    "pubDate": "2026-09-22T04:00:00.000Z",
+    "badgeColor": "zinc",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3167174",
-      "title": "OpenAI Establishes Math Advisory Group as AI Solves Over 100 Open Problems",
-      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-21T20:15:58.000Z",
-      "badgeColor": "emerald",
+      "id": "arxiv-cl-oai:arXiv.org:2609.22101v1",
+      "title": "New Study Identifies Context Poisoning as a Key Issue in Long-Context Language Models",
+      "link": "https://arxiv.org/abs/2609.22101",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-22T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Critical Debate"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2609.22111v1",
+      "title": "Verifying Autonomous Research Agents: Ensuring Transparency and Authenticity of AI-Generated Papers",
+      "link": "https://arxiv.org/abs/2609.22111",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-22T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Policy Impact"
+    },
+    {
+      "id": "arxiv-ai-oai:arXiv.org:2609.21096v1",
+      "title": "New Method Uses Topological Analysis to Detect Hallucinations in Large Language Models",
+      "link": "https://arxiv.org/abs/2609.21096",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-09-22T04:00:00.000Z",
+      "badgeColor": "zinc",
       "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "openai-channel-yt:video:p7TjXroM4ak",
-      "title": "Ramp × GPT-6 Astra Demonstrates Advanced Feature Development and Verification",
-      "link": "https://www.youtube.com/watch?v=p7TjXroM4ak",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-09-21T19:22:03.000Z",
-      "badgeColor": "emerald",
-      "angle": "Hands-on Benchmark"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=40481",
-      "title": "xAI Launches Grok 4.7 at Competitive Pricing, but Performance Lags Behind Industry Leaders",
-      "link": "https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-09-21T16:56:36.000Z",
-      "badgeColor": "slate"
     }
   ]
 }
