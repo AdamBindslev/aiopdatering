@@ -1,39 +1,39 @@
 {
-  "headline": "Open-Weights Models Emerge as a Game-Changer in AI Industry",
-  "summary": "Xiaomi's unveiling of the MiMo-V2.6-Pro 1T-A42B, an open-weights model, highlights a growing trend where companies are releasing high-performance AI models, potentially lowering barriers to entry and driving innovation. This shift is prompting a reevaluation of the proprietary model landscape.",
-  "whyItMatters": "This trend could democratize access to advanced AI capabilities, reduce costs for developers, and challenge the dominance of closed proprietary platforms.",
-  "synthesizedAt": "2026-09-22T07:11:05.277Z",
+  "headline": "System One Models Accelerate AI Inference, Sparking Industry Shift",
+  "summary": "Jev's introduction of System One Models significantly boosts AI inference speed by up to 200 times, propelling a new wave of faster, more efficient AI applications. This breakthrough is reshaping the landscape of AI deployment and could lead to broader adoption of open-weight models.",
+  "whyItMatters": "This advancement could democratize access to high-performance AI, reducing the reliance on proprietary systems and potentially lowering costs for developers and businesses.",
+  "synthesizedAt": "2026-09-22T10:17:49.264Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "latent-space-https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
-    "title": "Xiaomi Introduces MiMo-V2.6-Pro 1T-A42B, a Cutting-Edge Open Weights Model Trained at $3M",
-    "link": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
-    "sourceName": "Latent Space (Swyx & Alessio)",
-    "sourceId": "latent-space",
-    "pubDate": "2026-09-22T06:30:56.000Z",
-    "badgeColor": "pink",
+    "id": "two-minute-papers-yt:video:qBBRRsH0rQc",
+    "title": "Jev Introduces System One Models to Dramatically Speed Up AI Inference",
+    "link": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
+    "sourceName": "Two Minute Papers",
+    "sourceId": "two-minute-papers",
+    "pubDate": "2026-09-22T09:32:13.000Z",
+    "badgeColor": "amber",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.22101v1",
-      "title": "New Study Identifies Context Poisoning as a Key Issue in Long-Context Language Models",
-      "link": "https://arxiv.org/abs/2609.22101",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-22T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Industry Analysis"
+      "id": "latent-space-https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+      "title": "Xiaomi Introduces MiMo-V2.6-Pro 1T-A42B, a Cutting-Edge Open Weights Model Trained at $3M",
+      "link": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-09-22T06:30:56.000Z",
+      "badgeColor": "pink",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.22110v1",
-      "title": "Study Evaluates Fine-Tuned and Base Language Models for Maternal and Vaccination Healthcare in African Settings",
-      "link": "https://arxiv.org/abs/2609.22110",
+      "id": "arxiv-cl-oai:arXiv.org:2609.22098v1",
+      "title": "TreeSpark: Enhancing Language-Model Inference with Calibrated, Load-Adaptive Draft Trees",
+      "link": "https://arxiv.org/abs/2609.22098",
       "sourceName": "arXiv cs.CL (Sprog & LLM)",
       "sourceId": "arxiv-cl",
       "pubDate": "2026-09-22T04:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Market Impact"
+      "angle": "Performance Benchmark"
     },
     {
       "id": "arxiv-ai-oai:arXiv.org:2609.20971v1",
@@ -42,8 +42,7 @@
       "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
       "sourceId": "arxiv-ai",
       "pubDate": "2026-09-22T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
+      "badgeColor": "zinc"
     }
   ]
 }
