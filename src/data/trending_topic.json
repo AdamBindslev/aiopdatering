@@ -1,39 +1,29 @@
 {
-  "headline": "Open-Weight Models Emerge as a Game-Changer in AI Research",
-  "summary": "A surge in open-weight AI models is pushing the boundaries of reasoning and natural language processing, challenging proprietary systems and democratizing advanced AI capabilities. This trend is driving innovation and reducing costs for developers and enterprises.",
-  "whyItMatters": "It broadens access to advanced AI technologies, fosters competition, and accelerates the development of on-device AI solutions.",
-  "synthesizedAt": "2026-09-23T14:19:37.296Z",
+  "headline": "Open-Weight Models Challenge Proprietary AI Ecosystems",
+  "summary": "A surge of open-weight AI models is demonstrating competitive capabilities with proprietary systems, driving local AI agent deployment and reducing dependence on closed platforms. This shift is gaining significant traction and industry attention.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and could disrupt the business models of major tech companies.",
+  "synthesizedAt": "2026-09-23T17:26:41.973Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "deeplearning-ai-yt:video:uRGHx-1CqBQ",
-    "title": "DeepLearning.AI Launches Course on Creating On-Device AI Assistants",
-    "link": "https://www.youtube.com/watch?v=uRGHx-1CqBQ",
-    "sourceName": "DeepLearning.AI / Andrew Ng",
-    "sourceId": "deeplearning-ai",
-    "pubDate": "2026-09-23T13:30:05.000Z",
-    "badgeColor": "cyan",
-    "angle": "Technical Deep Dive"
+    "id": "openai-https://openai.com/index/ringg",
+    "title": "Ringg's AI Agents Utilize GPT-5.6 to Reduce Customer Call Resolution Costs by 65%",
+    "link": "https://openai.com/index/ringg",
+    "sourceName": "OpenAI News",
+    "sourceId": "openai",
+    "pubDate": "2026-09-24T12:00:00.000Z",
+    "badgeColor": "emerald",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "sebastian-raschka-yt:video:tfBT22RWYww",
-      "title": "Exploring the Role of Agent Harness in Leveraging Reasoning Models",
-      "link": "https://www.youtube.com/shorts/tfBT22RWYww",
-      "sourceName": "Sebastian Raschka",
-      "sourceId": "sebastian-raschka",
-      "pubDate": "2026-09-23T12:00:20.000Z",
-      "badgeColor": "indigo",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "latent-space-https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
-      "title": "Claude Opus 5.5 Becomes Default Model for AINews, Driving Down Prices by 40-50%",
-      "link": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-09-23T06:41:41.000Z",
-      "badgeColor": "pink",
-      "angle": "Official Release"
+      "id": "the-decoder-https://the-decoder.com/?p=40540",
+      "title": "Alibaba Unveils Qwen Audio 3.1, Reducing AI Audio Prices by Up to 95%",
+      "link": "https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-23T12:31:20.000Z",
+      "badgeColor": "slate",
+      "angle": "Hands-on Benchmark"
     }
   ]
 }
