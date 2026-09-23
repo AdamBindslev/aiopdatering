@@ -1,20 +1,40 @@
 {
-  "headline": "Open-Source Language Models Erode Proprietary AI Monopolies",
-  "summary": "A series of studies and developments highlight the growing capabilities of open-source language models, challenging the dominance of proprietary AI platforms. This shift is driving local AI agent deployment and reducing reliance on expensive closed APIs.",
-  "whyItMatters": "It democratizes access to advanced AI capabilities and could disrupt the business models of major tech companies.",
-  "synthesizedAt": "2026-09-23T05:02:50.228Z",
+  "headline": "Claude Opus 5.5 Dominates Market, Driving Down Prices and Accelerating Local AI Adoption",
+  "summary": "Claude Opus 5.5, the new default model for AINews, has significantly reduced prices by 40-50%, making advanced AI services more accessible. This shift is accelerating local AI agent deployment and putting downward pressure on proprietary API pricing models.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and reduces costs, fostering wider adoption and innovation in local AI ecosystems.",
+  "synthesizedAt": "2026-09-23T08:06:12.163Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-cl-oai:arXiv.org:2609.25006v1",
-    "title": "Study Challenges High Accuracy Claims in Fake News Detection Models",
-    "link": "https://arxiv.org/abs/2609.25006",
-    "sourceName": "arXiv cs.CL (Sprog & LLM)",
-    "sourceId": "arxiv-cl",
-    "pubDate": "2026-09-23T04:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "Study Analysis"
+    "id": "latent-space-https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+    "title": "Claude Opus 5.5 Becomes Default Model for AINews, Driving Down Prices by 40-50%",
+    "link": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+    "sourceName": "Latent Space (Swyx & Alessio)",
+    "sourceId": "latent-space",
+    "pubDate": "2026-09-23T06:41:41.000Z",
+    "badgeColor": "pink",
+    "angle": "Price Reduction"
   },
   "supportingStories": [
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3167972",
+      "title": "Greek Prime Minister Warns of AI Preparedness Gaps During Trade Mission",
+      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-09-23T04:59:08.000Z",
+      "badgeColor": "emerald",
+      "angle": "Government Preparedness"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2609.25006v1",
+      "title": "Study Challenges High Accuracy Claims in Fake News Detection Models",
+      "link": "https://arxiv.org/abs/2609.25006",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-23T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
+    },
     {
       "id": "arxiv-cl-oai:arXiv.org:2609.25008v1",
       "title": "Independent Developer Trains Language Model End-to-End in Rust for $164",
@@ -23,27 +43,7 @@
       "sourceId": "arxiv-cl",
       "pubDate": "2026-09-23T04:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2609.25009v1",
-      "title": "Language Models Show Improved Consistency in Handling Numerical Equivalents",
-      "link": "https://arxiv.org/abs/2609.25009",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-23T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2609.25049v1",
-      "title": "New Study Proposes Dynamic Semantic Routing to Address LLM Over-Refusal",
-      "link": "https://arxiv.org/abs/2609.25049",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-23T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Hands-on Benchmark"
+      "angle": "Developer Success Story"
     }
   ]
 }
