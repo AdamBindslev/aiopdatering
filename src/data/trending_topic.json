@@ -1,29 +1,48 @@
 {
-  "headline": "Open-Weight Models Challenge Proprietary AI Ecosystems",
-  "summary": "A surge of open-weight AI models is demonstrating competitive capabilities with proprietary systems, driving local AI agent deployment and reducing dependence on closed platforms. This shift is gaining significant traction and industry attention.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and could disrupt the business models of major tech companies.",
-  "synthesizedAt": "2026-09-23T17:26:41.973Z",
+  "headline": "Open-Source AI Models Challenge Proprietary Systems in Performance and Accessibility",
+  "summary": "A surge of open-source AI models, including those from Nemotron Labs and Nebius Physical AI, are demonstrating competitive performance with proprietary systems. This trend is driving broader access to advanced AI capabilities and potentially reducing reliance on closed platforms.",
+  "whyItMatters": "It broadens the ecosystem of AI tools and reduces barriers to entry for developers, fostering innovation and competition.",
+  "synthesizedAt": "2026-09-23T20:34:29.745Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-https://openai.com/index/ringg",
-    "title": "Ringg's AI Agents Utilize GPT-5.6 to Reduce Customer Call Resolution Costs by 65%",
-    "link": "https://openai.com/index/ringg",
-    "sourceName": "OpenAI News",
-    "sourceId": "openai",
-    "pubDate": "2026-09-24T12:00:00.000Z",
-    "badgeColor": "emerald",
-    "angle": "Industry Analysis"
+    "id": "nvidia-developer-yt:video:I-Bjwi0qLfo",
+    "title": "Nemotron Labs' Motif Team Scores Top 5 in AA II Challenge Using NVIDIA Technology",
+    "link": "https://www.youtube.com/watch?v=I-Bjwi0qLfo",
+    "sourceName": "NVIDIA Developer",
+    "sourceId": "nvidia-developer",
+    "pubDate": "2026-09-23T19:38:52.000Z",
+    "badgeColor": "green",
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40540",
-      "title": "Alibaba Unveils Qwen Audio 3.1, Reducing AI Audio Prices by Up to 95%",
-      "link": "https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-09-23T12:31:20.000Z",
-      "badgeColor": "slate",
-      "angle": "Hands-on Benchmark"
+      "id": "nvidia-developer-yt:video:i9FZyG9-Gx0",
+      "title": "NVIDIA Cosmos 3 Super Optimizes Latency and Throughput for World Models in Video Generation",
+      "link": "https://www.youtube.com/watch?v=i9FZyG9-Gx0",
+      "sourceName": "NVIDIA Developer",
+      "sourceId": "nvidia-developer",
+      "pubDate": "2026-09-23T20:12:50.000Z",
+      "badgeColor": "green",
+      "angle": "Official Release"
+    },
+    {
+      "id": "nvidia-https://developer.nvidia.com/blog/?p=122823",
+      "title": "NVIDIA Warns of Hidden Risks in GPU Cluster Deployment for AI Workloads",
+      "link": "https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land/",
+      "sourceName": "NVIDIA Technical Blog",
+      "sourceId": "nvidia",
+      "pubDate": "2026-09-23T19:45:19.000Z",
+      "badgeColor": "emerald"
+    },
+    {
+      "id": "huggingface-https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "title": "NVIDIA Introduces Warp and MjWarp for Accelerating Robotics Simulation and Learning",
+      "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "sourceName": "Hugging Face Blog",
+      "sourceId": "huggingface",
+      "pubDate": "2026-09-23T18:41:40.000Z",
+      "badgeColor": "yellow",
+      "angle": "Industry Analysis"
     }
   ]
 }
