@@ -1,8 +1,8 @@
 {
-  "headline": "Claude Opus 5.5 Dominates Market, Driving Down Prices and Accelerating Local AI Adoption",
-  "summary": "Claude Opus 5.5, the new default model for AINews, has significantly reduced prices by 40-50%, making advanced AI services more accessible. This shift is accelerating local AI agent deployment and putting downward pressure on proprietary API pricing models.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and reduces costs, fostering wider adoption and innovation in local AI ecosystems.",
-  "synthesizedAt": "2026-09-23T08:06:12.163Z",
+  "headline": "Claude Opus 5.5 Dominates Market, Driving Down Prices and Accelerating Adoption",
+  "summary": "Claude Opus 5.5, a new model from Latent Space, has become the default for AINews, leading to a 40-50% price reduction. This shift is driving broader adoption and highlighting the competitive landscape in AI language models.",
+  "whyItMatters": "This trend underscores the rapid evolution of AI language models and the impact on pricing and market dynamics, influencing developers and consumers alike.",
+  "synthesizedAt": "2026-09-23T11:12:05.681Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "latent-space-https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
@@ -12,18 +12,18 @@
     "sourceId": "latent-space",
     "pubDate": "2026-09-23T06:41:41.000Z",
     "badgeColor": "pink",
-    "angle": "Price Reduction"
+    "angle": "Market Impact"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3167972",
-      "title": "Greek Prime Minister Warns of AI Preparedness Gaps During Trade Mission",
-      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-23T04:59:08.000Z",
-      "badgeColor": "emerald",
-      "angle": "Government Preparedness"
+      "id": "the-decoder-https://the-decoder.com/?p=40537",
+      "title": "OpenAI Appoints Patreon Co-Founder Sam Yam to Head New Creator Product Division",
+      "link": "https://the-decoder.com/openai-hires-patreon-co-founder-sam-yam-to-lead-a-new-creator-product-division/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-23T10:04:07.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
     },
     {
       "id": "arxiv-cl-oai:arXiv.org:2609.25006v1",
@@ -43,7 +43,16 @@
       "sourceId": "arxiv-cl",
       "pubDate": "2026-09-23T04:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Developer Success Story"
+      "angle": "Developer Perspective"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2609.25009v1",
+      "title": "Language Models Show Improved Consistency in Handling Numerical Equivalents",
+      "link": "https://arxiv.org/abs/2609.25009",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-23T04:00:00.000Z",
+      "badgeColor": "zinc"
     }
   ]
 }
