@@ -1,49 +1,48 @@
 {
-  "headline": "Meta Unveils Expanded AI Agent Muse for Enhanced Wearable Integration",
-  "summary": "Meta has showcased significant advancements in its AI agent Muse, focusing on wearable integration and interactive experiences. This push into wearables is expanding the reach and accessibility of AI agents, potentially setting a new standard for local AI deployment.",
-  "whyItMatters": "It highlights the growing importance of AI in wearable devices and could influence the direction of future AI development in consumer electronics.",
-  "synthesizedAt": "2026-09-24T02:45:38.793Z",
+  "headline": "New Multi-Model Inference System COMED Challenges Existing Paradigms",
+  "summary": "A new multi-model inference system called COMED has been proposed, addressing the limitations of existing routing and combination methods by providing a more flexible and efficient approach. This shift is accelerating local AI agent deployment and putting downward pressure on closed-API pricing models.",
+  "whyItMatters": "It broadens access to advanced inference capabilities and reduces developer dependence on proprietary platforms, fostering innovation and competition.",
+  "synthesizedAt": "2026-09-24T05:57:06.981Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3168527",
-    "title": "Meta Unveils Expanded AI Agent Muse for Enhanced Wearable Integration",
-    "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-09-24T01:13:32.000Z",
-    "badgeColor": "emerald",
+    "id": "arxiv-cl-oai:arXiv.org:2609.26913v1",
+    "title": "COMED Introduced: A New Approach for Multi-LLM Inference Between Routing and Collaboration",
+    "link": "https://arxiv.org/abs/2609.26913",
+    "sourceName": "arXiv cs.CL (Sprog & LLM)",
+    "sourceId": "arxiv-cl",
+    "pubDate": "2026-09-24T04:00:00.000Z",
+    "badgeColor": "zinc",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3168692",
-      "title": "Meta Develops Wearable Device for AI Agent Muse, Inspired by Tamagotchi",
-      "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-24T00:46:17.000Z",
-      "badgeColor": "emerald",
-      "angle": "Inspiration"
+      "id": "arxiv-cl-oai:arXiv.org:2609.27156v1",
+      "title": "New Research Introduces Redundancy-Aware Learning for More Efficient Reasoning Models",
+      "link": "https://arxiv.org/abs/2609.27156",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-24T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3168626",
-      "title": "Meta Unveils Camera-Free AI Glasses with Enhanced Battery Life",
-      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-23T23:39:44.000Z",
-      "badgeColor": "emerald",
-      "angle": "Technical Details"
+      "id": "arxiv-cl-oai:arXiv.org:2609.27165v1",
+      "title": "New LLM Fusion Method Focuses on Long-Text Analysis for Enhanced Value Measurement",
+      "link": "https://arxiv.org/abs/2609.27165",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-24T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "aws-ml-a9e8fc8015478951f1ebf38e854088e6f49fee5e",
-      "title": "HEMA Deploys Amazon Bedrock AgentCore for Instant AI Assistance",
-      "link": "https://aws.amazon.com/blogs/machine-learning/from-portal-hopping-to-instant-answers-hemas-journey-with-mcp-and-amazon-bedrock/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-09-23T18:41:09.000Z",
-      "badgeColor": "amber",
-      "angle": "Industry Impact"
+      "id": "arxiv-cl-oai:arXiv.org:2609.27176v1",
+      "title": "New Study Challenges Interpretation of Benchmark Scores in AI Evaluation",
+      "link": "https://arxiv.org/abs/2609.27176",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-24T04:00:00.000Z",
+      "badgeColor": "zinc"
     }
   ]
 }
