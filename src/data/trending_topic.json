@@ -1,48 +1,39 @@
 {
-  "headline": "Pistis Model Family Unveiled: 27B- and 9B-Parameter Multimodal LLMs",
-  "summary": "The Pistis model family, consisting of 27B- and 9B-parameter multimodal large language models, has been introduced, marking a significant advancement in the scale and capability of multimodal LLMs. This development is driving innovation in various sectors, including finance, DNA sequencing, and more.",
-  "whyItMatters": "The introduction of these models is expanding the scope of applications for multimodal LLMs and setting new benchmarks for performance and scale in the AI industry.",
-  "synthesizedAt": "2026-09-25T09:55:31.152Z",
+  "headline": "Open-Source AI Models Challenge Proprietary Systems, Driving Down Costs",
+  "summary": "A surge in open-source AI models is demonstrating competitive reasoning capabilities with proprietary systems, leading to reduced costs and increased accessibility. This trend is reshaping the AI landscape, putting pressure on commercial platforms and accelerating local AI agent deployment.",
+  "whyItMatters": "It democratizes advanced AI capabilities, reducing barriers to entry for developers and organizations, and potentially disrupting the business models of established AI providers.",
+  "synthesizedAt": "2026-09-25T13:00:47.267Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "version2-https://ing.dk/artikel/danmark-sakker-bagud-i-globalt-robot-kaploeb-isaer-en-slags-virksomheder-skal-loeftes",
-    "title": "Denmark Falling Behind in Global Robotics Race: Key Industries Need Improvement",
-    "link": "https://ing.dk/artikel/danmark-sakker-bagud-i-globalt-robot-kaploeb-isaer-en-slags-virksomheder-skal-loeftes",
-    "sourceName": "Version2 (Ingeniøren)",
-    "sourceId": "version2",
-    "pubDate": "2026-09-25T09:42:03.000Z",
-    "badgeColor": "red",
+    "id": "the-decoder-https://the-decoder.com/?p=40652",
+    "title": "Meta's Muse Agent Provides Free Cloud Computing Environment with Ubuntu Linux",
+    "link": "https://the-decoder.com/metas-muse-agent-gives-every-user-a-full-cloud-computer-running-ubuntu-linux/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-09-25T12:22:27.000Z",
+    "badgeColor": "slate",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "latent-space-https://www.latent.space/p/ainews-the-future-of-latent-space",
-      "title": "Latent Space Experts Reveal Insights into Upcoming AI Innovations",
-      "link": "https://www.latent.space/p/ainews-the-future-of-latent-space",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-09-25T05:37:00.000Z",
-      "badgeColor": "pink",
+      "id": "the-decoder-https://the-decoder.com/?p=40654",
+      "title": "AI Costs Skyrocket as NSA, Hospitals, and Insurers Struggle with Budgetary Pressures",
+      "link": "https://the-decoder.com/intelligence-doesnt-come-cheap-as-ai-drives-up-costs-for-the-nsa-hospitals-and-insurers/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-25T12:03:24.000Z",
+      "badgeColor": "slate",
       "angle": "Industry Analysis"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.28703v1",
-      "title": "New Explainable AI Framework Enhances Hate Speech Detection on Social Media",
-      "link": "https://arxiv.org/abs/2609.28703",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-25T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2609.28747v1",
-      "title": "Technical Manual Released for Confidence-Corpus Consistency Toolkit",
-      "link": "https://arxiv.org/abs/2609.28747",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-25T04:00:00.000Z",
-      "badgeColor": "zinc"
+      "id": "the-decoder-https://the-decoder.com/?p=40649",
+      "title": "Anthropic Secures Massive Cloud Deal with Akamai, Boosting Compute Spending to Over $500 Billion",
+      "link": "https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-25T10:43:15.000Z",
+      "badgeColor": "slate",
+      "angle": "Market Impact"
     }
   ]
 }
