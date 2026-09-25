@@ -1,49 +1,49 @@
 {
-  "headline": "Open-Weight Models Spark AI Industry Shift",
-  "summary": "A series of recent developments highlight the growing importance of open-weight AI models, which are demonstrating capabilities that rival proprietary systems. This trend is driving local AI agent deployment and potentially reducing the dominance of closed platforms.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and could lead to more competitive pricing models in the AI industry.",
-  "synthesizedAt": "2026-09-25T03:40:00.139Z",
+  "headline": "Pistis Model Family Unveiled: Multimodal LLMs Set to Transform AI Applications",
+  "summary": "The Pistis model family, comprising 27B- and 9B-parameter multimodal large language models, has been introduced, marking a significant advancement in AI capabilities across various domains. These models are built on the Qwen3.6 and Qwen3.5 architectures, promising enhanced reasoning and multimodal understanding.",
+  "whyItMatters": "The introduction of these models will expand the scope of AI applications, particularly in complex, multimodal tasks, and could drive innovation across industries such as healthcare, finance, and education.",
+  "synthesizedAt": "2026-09-25T06:51:25.272Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=40618",
-    "title": "Black Forest Labs Unveils FLUX 3 Action, an Open-World AI Model for Robotics",
-    "link": "https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-09-24T17:01:03.000Z",
-    "badgeColor": "slate",
+    "id": "arxiv-ai-oai:arXiv.org:2609.28554v1",
+    "title": "Pistis Model Family Unveiled: 27B- and 9B-Parameter Multimodal LLMs Based on Qwen3.6 and Qwen3.5",
+    "link": "https://arxiv.org/abs/2609.28554",
+    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+    "sourceId": "arxiv-ai",
+    "pubDate": "2026-09-25T04:00:00.000Z",
+    "badgeColor": "zinc",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "lesswrong-ai-6cb7qd3RSkgnviCpf",
-      "title": "Exploring the Power and Scaling of Large AI Agent Swarms",
-      "link": "https://www.lesswrong.com/posts/6cb7qd3RSkgnviCpf/swarm-scaling",
-      "sourceName": "LessWrong (Curated AI)",
-      "sourceId": "lesswrong-ai",
-      "pubDate": "2026-09-25T02:32:30.000Z",
-      "badgeColor": "emerald",
+      "id": "arxiv-cl-oai:arXiv.org:2609.29102v1",
+      "title": "ELF-REG: Scaling Continuous Diffusion Language Models for Reasoning Tasks",
+      "link": "https://arxiv.org/abs/2609.29102",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-25T04:00:00.000Z",
+      "badgeColor": "zinc",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40609",
-      "title": "Anthropic Claims Claude Discovered Novel Enzyme System, Sparking Debate Among CRISPR Researchers",
-      "link": "https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-09-24T16:04:26.000Z",
-      "badgeColor": "slate",
-      "angle": "Critical Debate"
+      "id": "arxiv-ai-oai:arXiv.org:2609.28506v1",
+      "title": "TW3Cast: A Promising Time-Series Forecasting Model for GIFT-Eval",
+      "link": "https://arxiv.org/abs/2609.28506",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-09-25T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "tech-policy-press-https://techpolicy.press/us-leadership-on-openweight-models-is-key-to-global-ai-safety-",
-      "title": "US Advocacy for Open-Weight Models Crucial for Global AI Safety",
-      "link": "https://techpolicy.press/us-leadership-on-openweight-models-is-key-to-global-ai-safety-",
-      "sourceName": "Tech Policy Press",
-      "sourceId": "tech-policy-press",
-      "pubDate": "2026-09-24T15:35:58.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Analysis"
+      "id": "arxiv-ai-oai:arXiv.org:2609.28557v1",
+      "title": "BaseCamp: An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
+      "link": "https://arxiv.org/abs/2609.28557",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-09-25T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Application Case Study"
     }
   ]
 }
