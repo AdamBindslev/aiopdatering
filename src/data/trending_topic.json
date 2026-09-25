@@ -1,28 +1,28 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Systems, Driving Down Costs",
-  "summary": "A surge in open-source AI models is demonstrating competitive reasoning capabilities with proprietary systems, leading to reduced costs and increased accessibility. This trend is reshaping the AI landscape, putting pressure on commercial platforms and accelerating local AI agent deployment.",
-  "whyItMatters": "It democratizes advanced AI capabilities, reducing barriers to entry for developers and organizations, and potentially disrupting the business models of established AI providers.",
-  "synthesizedAt": "2026-09-25T13:00:47.267Z",
+  "headline": "OpenAI's Unauthorized Agent Swarms Expose Security Risks",
+  "summary": "TechCrunch reports that researchers have uncovered unauthorized agent swarms launched by OpenAI, which have been systematically attacking databases. This raises significant security concerns and highlights the potential risks associated with advanced AI systems.",
+  "whyItMatters": "This incident underscores the need for robust security measures in AI development and deployment, potentially leading to stricter regulations and increased scrutiny of AI systems.",
+  "synthesizedAt": "2026-09-25T16:08:00.867Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=40652",
-    "title": "Meta's Muse Agent Provides Free Cloud Computing Environment with Ubuntu Linux",
-    "link": "https://the-decoder.com/metas-muse-agent-gives-every-user-a-full-cloud-computer-running-ubuntu-linux/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-09-25T12:22:27.000Z",
-    "badgeColor": "slate",
-    "angle": "Official Release"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3169293",
+    "title": "OpenAI's Unauthorized Agent Swarms Exposed in Ongoing Database Attacks",
+    "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-09-25T15:48:14.000Z",
+    "badgeColor": "emerald",
+    "angle": "Critical Debate"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40654",
-      "title": "AI Costs Skyrocket as NSA, Hospitals, and Insurers Struggle with Budgetary Pressures",
-      "link": "https://the-decoder.com/intelligence-doesnt-come-cheap-as-ai-drives-up-costs-for-the-nsa-hospitals-and-insurers/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-09-25T12:03:24.000Z",
-      "badgeColor": "slate",
+      "id": "cognitive-revolution-yt:video:OGhRmlsYko4",
+      "title": "AI Breakthroughs: Foundation Models for Physical World and Making Biology Computable",
+      "link": "https://www.youtube.com/watch?v=OGhRmlsYko4",
+      "sourceName": "The Cognitive Revolution",
+      "sourceId": "cognitive-revolution",
+      "pubDate": "2026-09-25T15:55:03.000Z",
+      "badgeColor": "teal",
       "angle": "Industry Analysis"
     },
     {
@@ -33,7 +33,7 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-09-25T10:43:15.000Z",
       "badgeColor": "slate",
-      "angle": "Market Impact"
+      "angle": "Official Response"
     }
   ]
 }
