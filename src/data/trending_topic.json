@@ -1,24 +1,34 @@
 {
-  "headline": "Pistis Model Family Unveiled: Multimodal LLMs Set to Transform AI Applications",
-  "summary": "The Pistis model family, comprising 27B- and 9B-parameter multimodal large language models, has been introduced, marking a significant advancement in AI capabilities across various domains. These models are built on the Qwen3.6 and Qwen3.5 architectures, promising enhanced reasoning and multimodal understanding.",
-  "whyItMatters": "The introduction of these models will expand the scope of AI applications, particularly in complex, multimodal tasks, and could drive innovation across industries such as healthcare, finance, and education.",
-  "synthesizedAt": "2026-09-25T06:51:25.272Z",
+  "headline": "Pistis Model Family Unveiled: 27B- and 9B-Parameter Multimodal LLMs",
+  "summary": "The Pistis model family, consisting of 27B- and 9B-parameter multimodal large language models, has been introduced, marking a significant advancement in the scale and capability of multimodal LLMs. This development is driving innovation in various sectors, including finance, DNA sequencing, and more.",
+  "whyItMatters": "The introduction of these models is expanding the scope of applications for multimodal LLMs and setting new benchmarks for performance and scale in the AI industry.",
+  "synthesizedAt": "2026-09-25T09:55:31.152Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2609.28554v1",
-    "title": "Pistis Model Family Unveiled: 27B- and 9B-Parameter Multimodal LLMs Based on Qwen3.6 and Qwen3.5",
-    "link": "https://arxiv.org/abs/2609.28554",
-    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-    "sourceId": "arxiv-ai",
-    "pubDate": "2026-09-25T04:00:00.000Z",
-    "badgeColor": "zinc",
+    "id": "version2-https://ing.dk/artikel/danmark-sakker-bagud-i-globalt-robot-kaploeb-isaer-en-slags-virksomheder-skal-loeftes",
+    "title": "Denmark Falling Behind in Global Robotics Race: Key Industries Need Improvement",
+    "link": "https://ing.dk/artikel/danmark-sakker-bagud-i-globalt-robot-kaploeb-isaer-en-slags-virksomheder-skal-loeftes",
+    "sourceName": "Version2 (Ingeniøren)",
+    "sourceId": "version2",
+    "pubDate": "2026-09-25T09:42:03.000Z",
+    "badgeColor": "red",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.29102v1",
-      "title": "ELF-REG: Scaling Continuous Diffusion Language Models for Reasoning Tasks",
-      "link": "https://arxiv.org/abs/2609.29102",
+      "id": "latent-space-https://www.latent.space/p/ainews-the-future-of-latent-space",
+      "title": "Latent Space Experts Reveal Insights into Upcoming AI Innovations",
+      "link": "https://www.latent.space/p/ainews-the-future-of-latent-space",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-09-25T05:37:00.000Z",
+      "badgeColor": "pink",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2609.28703v1",
+      "title": "New Explainable AI Framework Enhances Hate Speech Detection on Social Media",
+      "link": "https://arxiv.org/abs/2609.28703",
       "sourceName": "arXiv cs.CL (Sprog & LLM)",
       "sourceId": "arxiv-cl",
       "pubDate": "2026-09-25T04:00:00.000Z",
@@ -26,24 +36,13 @@
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2609.28506v1",
-      "title": "TW3Cast: A Promising Time-Series Forecasting Model for GIFT-Eval",
-      "link": "https://arxiv.org/abs/2609.28506",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
+      "id": "arxiv-cl-oai:arXiv.org:2609.28747v1",
+      "title": "Technical Manual Released for Confidence-Corpus Consistency Toolkit",
+      "link": "https://arxiv.org/abs/2609.28747",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
       "pubDate": "2026-09-25T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2609.28557v1",
-      "title": "BaseCamp: An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
-      "link": "https://arxiv.org/abs/2609.28557",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-09-25T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Application Case Study"
+      "badgeColor": "zinc"
     }
   ]
 }
