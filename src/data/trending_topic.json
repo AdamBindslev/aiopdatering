@@ -1,29 +1,39 @@
 {
-  "headline": "Open-Weight Models Pave Way for Widespread AI Deployment",
-  "summary": "A surge in open-weight AI models is driving advancements in reasoning capabilities and local deployment, putting pressure on proprietary platforms. This trend is accelerating the democratization of AI and reducing costs for developers.",
-  "whyItMatters": "It broadens access to advanced AI models and reduces the barriers for local AI deployment, fostering innovation and competition.",
-  "synthesizedAt": "2026-09-25T00:33:22.792Z",
+  "headline": "Open-Weight Models Spark AI Industry Shift",
+  "summary": "A series of recent developments highlight the growing importance of open-weight AI models, which are demonstrating capabilities that rival proprietary systems. This trend is driving local AI agent deployment and potentially reducing the dominance of closed platforms.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and could lead to more competitive pricing models in the AI industry.",
+  "synthesizedAt": "2026-09-25T03:40:00.139Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=40629",
-    "title": "Sakana AI Appoints Jürgen Schmidhuber as Chief Scientific Advisor to Drive Recursive Self-Improvement",
-    "link": "https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/",
+    "id": "the-decoder-https://the-decoder.com/?p=40618",
+    "title": "Black Forest Labs Unveils FLUX 3 Action, an Open-World AI Model for Robotics",
+    "link": "https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-09-24T18:06:13.000Z",
+    "pubDate": "2026-09-24T17:01:03.000Z",
     "badgeColor": "slate",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40618",
-      "title": "Black Forest Labs Unveils FLUX 3 Action, an Open-World AI Model for Robotics",
-      "link": "https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model/",
+      "id": "lesswrong-ai-6cb7qd3RSkgnviCpf",
+      "title": "Exploring the Power and Scaling of Large AI Agent Swarms",
+      "link": "https://www.lesswrong.com/posts/6cb7qd3RSkgnviCpf/swarm-scaling",
+      "sourceName": "LessWrong (Curated AI)",
+      "sourceId": "lesswrong-ai",
+      "pubDate": "2026-09-25T02:32:30.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=40609",
+      "title": "Anthropic Claims Claude Discovered Novel Enzyme System, Sparking Debate Among CRISPR Researchers",
+      "link": "https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-09-24T17:01:03.000Z",
+      "pubDate": "2026-09-24T16:04:26.000Z",
       "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
+      "angle": "Critical Debate"
     },
     {
       "id": "tech-policy-press-https://techpolicy.press/us-leadership-on-openweight-models-is-key-to-global-ai-safety-",
