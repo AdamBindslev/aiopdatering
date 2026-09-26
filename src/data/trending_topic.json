@@ -1,8 +1,8 @@
 {
-  "headline": "Meta's Muse Model Dominates AI Landscape, Sparking Industry Shift",
-  "summary": "Meta's recently released Muse model has garnered significant attention, overshadowing recent releases from competitors like OpenAI and Anthropic. This shift highlights the growing importance of advanced AI models in driving industry innovation and setting new benchmarks.",
-  "whyItMatters": "Meta's leadership in AI model development could influence the direction of the industry, impacting both competitors and users of AI technologies.",
-  "synthesizedAt": "2026-09-26T10:48:00.814Z",
+  "headline": "Meta's Muse Model Dominates AI Landscape, Outshining Competitors",
+  "summary": "Meta's newly released Muse model has garnered significant attention, overshadowing recent releases from OpenAI and Anthropic. This breakthrough is reshaping the AI industry, driving innovation and setting new benchmarks for performance and capabilities.",
+  "whyItMatters": "Muse's superior performance could redefine industry standards and accelerate advancements in AI technology, impacting developers and users globally.",
+  "synthesizedAt": "2026-09-26T13:54:36.599Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3169914",
@@ -16,6 +16,16 @@
   },
   "supportingStories": [
     {
+      "id": "simon-willison-https://simonwillison.net/2026/Sep/25/john-gruber/",
+      "title": "Muse Receives Praise for Innovative Cloud-VM Setup and User-Friendly Interface",
+      "link": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-09-25T17:22:01.000Z",
+      "badgeColor": "green",
+      "angle": "Technical Deep Dive"
+    },
+    {
       "id": "techcrunch-ai-https://techcrunch.com/?p=3170007",
       "title": "Meta Launches Early Access Program for New Muse Features",
       "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
@@ -24,16 +34,6 @@
       "pubDate": "2026-09-25T20:34:53.000Z",
       "badgeColor": "emerald",
       "angle": "Early Access Program"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3169621",
-      "title": "Meta Increases Promotion of Muse AI App Amid Rapid User Growth",
-      "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-25T16:16:52.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Impact"
     }
   ]
 }
