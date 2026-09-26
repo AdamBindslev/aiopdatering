@@ -1,8 +1,8 @@
 {
-  "headline": "Meta's Muse Model Dominates AI Landscape, Outshining Competitors",
-  "summary": "Meta's newly released Muse model has garnered significant attention, overshadowing recent releases from OpenAI and Anthropic. This breakthrough is reshaping the AI industry, driving innovation and setting new benchmarks for performance and capabilities.",
-  "whyItMatters": "Muse's superior performance could redefine industry standards and accelerate advancements in AI technology, impacting developers and users globally.",
-  "synthesizedAt": "2026-09-26T13:54:36.599Z",
+  "headline": "Meta's Muse Model Dominates AI Landscape, Sparking Industry Shift",
+  "summary": "Meta's release of the Muse AI model has garnered significant attention, overshadowing recent releases from competitors like OpenAI and Anthropic. This shift is driving discussions around model performance and the strategic implications for AI development and deployment.",
+  "whyItMatters": "It highlights Meta's growing influence in the AI space and the competitive pressure it exerts on other major players, potentially reshaping the landscape of AI innovation and adoption.",
+  "synthesizedAt": "2026-09-26T17:01:26.522Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3169914",
@@ -16,24 +16,33 @@
   },
   "supportingStories": [
     {
-      "id": "simon-willison-https://simonwillison.net/2026/Sep/25/john-gruber/",
-      "title": "Muse Receives Praise for Innovative Cloud-VM Setup and User-Friendly Interface",
-      "link": "https://simonwillison.net/2026/Sep/25/john-gruber/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-09-25T17:22:01.000Z",
-      "badgeColor": "green",
-      "angle": "Technical Deep Dive"
+      "id": "the-decoder-https://the-decoder.com/?p=40665",
+      "title": "OpenAI's GPT-6 Astra Achieves 80% Accuracy in Identifying IKEA Assembly Errors",
+      "link": "https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-26T09:44:54.000Z",
+      "badgeColor": "slate",
+      "angle": "Technical Performance"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3170007",
-      "title": "Meta Launches Early Access Program for New Muse Features",
-      "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-25T20:34:53.000Z",
+      "id": "openai-https://openai.com/index/proaction",
+      "title": "Proaction Enhances Operations with Codex and GPT-Live-1, Boosting Sales and Efficiency",
+      "link": "https://openai.com/index/proaction",
+      "sourceName": "OpenAI News",
+      "sourceId": "openai",
+      "pubDate": "2026-09-25T19:00:00.000Z",
       "badgeColor": "emerald",
-      "angle": "Early Access Program"
+      "angle": "Industry Impact"
+    },
+    {
+      "id": "ars-technica-https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "title": "Microsoft Abandons Copilot+ PC Branding for Surface Laptops",
+      "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "sourceName": "Ars Technica – AI",
+      "sourceId": "ars-technica",
+      "pubDate": "2026-09-25T17:57:37.000Z",
+      "badgeColor": "orange"
     }
   ]
 }
