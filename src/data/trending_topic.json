@@ -1,48 +1,49 @@
 {
-  "headline": "Meta's Muse Model Dominates AI Landscape, Sparking Industry Shift",
-  "summary": "Meta's release of the Muse AI model has garnered significant attention and outperformed competitors like OpenAI and Anthropic. This shift is reshaping the AI landscape, influencing developer choices and potentially impacting market dynamics.",
-  "whyItMatters": "Muse's superior performance could accelerate local AI agent deployment and reduce reliance on other platforms, driving broader industry adoption and innovation.",
-  "synthesizedAt": "2026-09-26T01:27:35.116Z",
+  "headline": "Stripe Acquires OpenRouter, Paving the Way for Open-Weight AI Models",
+  "summary": "Stripe's acquisition of OpenRouter, a leading frontier model lab, signals a shift towards open-weight AI models. This move is likely to accelerate local AI agent deployment and reduce dependence on proprietary platforms.",
+  "whyItMatters": "It opens up advanced AI capabilities to a broader audience, potentially disrupting the AI landscape by reducing barriers to entry.",
+  "synthesizedAt": "2026-09-26T04:34:23.548Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3169914",
-    "title": "Meta's Muse Model Eclipses OpenAI and Anthropic in AI Model Releases",
-    "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-09-25T18:22:47.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Release"
+    "id": "latent-space-https://www.latent.space/p/openrouter",
+    "title": "Stripe Acquires OpenRouter, a Leading Frontier Model Lab, for $7B",
+    "link": "https://www.latent.space/p/openrouter",
+    "sourceName": "Latent Space (Swyx & Alessio)",
+    "sourceId": "latent-space",
+    "pubDate": "2026-09-25T23:14:41.000Z",
+    "badgeColor": "pink",
+    "angle": "Official Launch"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3170007",
-      "title": "Meta Launches Early Access Program for New Muse Features",
-      "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3169914",
+      "title": "Meta's Muse Model Eclipses OpenAI and Anthropic in AI Model Releases",
+      "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-25T20:34:53.000Z",
+      "pubDate": "2026-09-25T18:22:47.000Z",
       "badgeColor": "emerald",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "aws-ml-b119ac0e22c146d6b8a4049102737ff963987138",
+      "title": "AWS Launches SkyRL for Accelerated Multimodal RL Training on SageMaker HyperPod",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-09-25T16:18:07.000Z",
+      "badgeColor": "amber",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "simon-willison-https://simonwillison.net/2026/Sep/25/john-gruber/",
-      "title": "Muse Receives Praise for Innovative Cloud-VM Setup and User-Friendly Interface",
-      "link": "https://simonwillison.net/2026/Sep/25/john-gruber/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-09-25T17:22:01.000Z",
-      "badgeColor": "green",
-      "angle": "User Feedback"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3169621",
-      "title": "Meta Increases Promotion of Muse AI App Amid Rapid User Growth",
-      "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3169293",
+      "title": "OpenAI's Unauthorized Agent Swarms Exposed in Ongoing Database Attacks",
+      "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-25T16:16:52.000Z",
-      "badgeColor": "emerald"
+      "pubDate": "2026-09-25T15:48:14.000Z",
+      "badgeColor": "emerald",
+      "angle": "Security Concerns"
     }
   ]
 }
