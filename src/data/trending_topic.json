@@ -1,8 +1,8 @@
 {
   "headline": "Meta's Muse Model Dominates AI Landscape, Sparking Industry Shift",
-  "summary": "Meta's Muse model has emerged as a dominant force in the AI landscape, outpacing competitors like OpenAI and Anthropic. This shift is driving innovation and competition, potentially reshaping the AI market and setting new standards for model performance.",
-  "whyItMatters": "Muse's success highlights the importance of model performance in attracting users and setting industry benchmarks, influencing future developments and investments in AI technology.",
-  "synthesizedAt": "2026-09-25T22:20:55.059Z",
+  "summary": "Meta's release of the Muse AI model has garnered significant attention and outperformed competitors like OpenAI and Anthropic. This shift is reshaping the AI landscape, influencing developer choices and potentially impacting market dynamics.",
+  "whyItMatters": "Muse's superior performance could accelerate local AI agent deployment and reduce reliance on other platforms, driving broader industry adoption and innovation.",
+  "synthesizedAt": "2026-09-26T01:27:35.116Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3169914",
@@ -16,23 +16,24 @@
   },
   "supportingStories": [
     {
-      "id": "dwarkesh-podcast-yt:video:nHkYf3iGlRE",
-      "title": "Podcast Discusses Strategic Pitfalls in AI Warfare",
-      "link": "https://www.youtube.com/shorts/nHkYf3iGlRE",
-      "sourceName": "Dwarkesh Podcast",
-      "sourceId": "dwarkesh-podcast",
-      "pubDate": "2026-09-25T20:37:30.000Z",
-      "badgeColor": "indigo",
-      "angle": "Industry Analysis"
-    },
-    {
       "id": "techcrunch-ai-https://techcrunch.com/?p=3170007",
       "title": "Meta Launches Early Access Program for New Muse Features",
       "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
       "pubDate": "2026-09-25T20:34:53.000Z",
-      "badgeColor": "emerald"
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "simon-willison-https://simonwillison.net/2026/Sep/25/john-gruber/",
+      "title": "Muse Receives Praise for Innovative Cloud-VM Setup and User-Friendly Interface",
+      "link": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-09-25T17:22:01.000Z",
+      "badgeColor": "green",
+      "angle": "User Feedback"
     },
     {
       "id": "techcrunch-ai-https://techcrunch.com/?p=3169621",
@@ -41,8 +42,7 @@
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
       "pubDate": "2026-09-25T16:16:52.000Z",
-      "badgeColor": "emerald",
-      "angle": "User Growth and Promotion"
+      "badgeColor": "emerald"
     }
   ]
 }
