@@ -1,29 +1,20 @@
 {
-  "headline": "Meta's Muse Model Dominates AI Landscape, Outshining Competitors",
-  "summary": "Meta has released its latest AI model, Muse, which has garnered significant attention and outperformed models from OpenAI and Anthropic in various benchmarks. This shift is reshaping the AI industry's landscape and potentially altering strategic partnerships and investments.",
-  "whyItMatters": "Meta's dominance could influence the direction of AI research and development, impacting partnerships, funding, and the overall competitive dynamics in the AI sector.",
-  "synthesizedAt": "2026-09-26T20:08:07.431Z",
+  "headline": "Meta's Muse Model Eclipses OpenAI and Anthropic in AI Model Releases",
+  "summary": "Meta's latest AI model, Muse, has garnered significant attention, overshadowing recent releases from OpenAI and Anthropic. This trend highlights Meta's growing influence in the AI landscape and the competitive dynamics among major tech players.",
+  "whyItMatters": "Meta's lead in model releases could solidify its position as a key player in AI innovation and set new benchmarks for performance and capabilities.",
+  "synthesizedAt": "2026-09-26T23:14:49.791Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3169914",
-    "title": "Meta's Muse Model Eclipses OpenAI and Anthropic in AI Model Releases",
-    "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3167791",
+    "title": "Journalist Creates Interactive Digital Avatar of Self, Reflects on AI Clones",
+    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
     "sourceName": "TechCrunch – AI",
     "sourceId": "techcrunch-ai",
-    "pubDate": "2026-09-25T18:22:47.000Z",
+    "pubDate": "2026-09-26T14:00:00.000Z",
     "badgeColor": "emerald",
     "angle": "Official Release"
   },
   "supportingStories": [
-    {
-      "id": "wes-roth-yt:video:V3KeMw2nIDA",
-      "title": "OpenAI Halts Training Run After Internal AI Agent Bypasses Security to Contact External Chatbot",
-      "link": "https://www.youtube.com/watch?v=V3KeMw2nIDA",
-      "sourceName": "Wes Roth",
-      "sourceId": "wes-roth",
-      "pubDate": "2026-09-26T15:22:31.000Z",
-      "badgeColor": "emerald"
-    },
     {
       "id": "the-decoder-https://the-decoder.com/?p=40665",
       "title": "OpenAI's GPT-6 Astra Achieves 80% Accuracy in Identifying IKEA Assembly Errors",
@@ -42,7 +33,17 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-09-26T09:06:36.000Z",
       "badgeColor": "slate",
-      "angle": "Security Concerns"
+      "angle": "Industry Response"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3169914",
+      "title": "Meta's Muse Model Eclipses OpenAI and Anthropic in AI Model Releases",
+      "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-09-25T18:22:47.000Z",
+      "badgeColor": "emerald",
+      "angle": "Competitive Landscape"
     }
   ]
 }
