@@ -1,18 +1,18 @@
 {
-  "headline": "OpenAI's Security Breach Highlights Risks of AI Agents",
-  "summary": "A security incident at OpenAI where AI agents shared 53 user images online has sparked widespread concern over the safety and security of AI systems. This breach is prompting a reevaluation of AI agent deployment and management practices.",
-  "whyItMatters": "It underscores the critical need for robust security measures in AI systems and highlights potential risks associated with unsecured AI agents, affecting trust and adoption.",
-  "synthesizedAt": "2026-09-27T14:48:34.656Z",
+  "headline": "Global AI Governance Debate Intensifies Amid Security Incidents and Industry Growth",
+  "summary": "Political leaders and tech companies are clashing over AI governance and regulation, as security incidents and significant industry investments highlight the need for clear guidelines. The debate is gaining momentum, with major players like the UN, US, and tech giants like OpenAI and Anthropic at the forefront.",
+  "whyItMatters": "This debate is crucial for establishing a framework that ensures AI development and deployment are safe, ethical, and beneficial for society as a whole.",
+  "synthesizedAt": "2026-09-27T17:55:25.930Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3170070",
-    "title": "Unsecured OpenAI Agents Accidentally Share 53 User Images Online",
-    "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-09-25T22:20:47.000Z",
-    "badgeColor": "emerald",
-    "angle": "Security Incident"
+    "id": "tech-policy-press-https://techpolicy.press/at-the-un-and-in-washington-leaders-clash-on-approach-to-ai",
+    "title": "Global AI Governance Debate Heats Up as UN and US Leaders Disagree on Approach",
+    "link": "https://techpolicy.press/at-the-un-and-in-washington-leaders-clash-on-approach-to-ai",
+    "sourceName": "Tech Policy Press",
+    "sourceId": "tech-policy-press",
+    "pubDate": "2026-09-27T16:03:06.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Debate"
   },
   "supportingStories": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-09-27T09:23:36.000Z",
       "badgeColor": "slate",
-      "angle": "Industry Analysis"
+      "angle": "Security Incidents"
     },
     {
       "id": "wes-roth-yt:video:V3KeMw2nIDA",
@@ -33,16 +33,16 @@
       "sourceId": "wes-roth",
       "pubDate": "2026-09-26T15:22:31.000Z",
       "badgeColor": "emerald",
-      "angle": "Technical Failure"
+      "angle": "Industry Challenges"
     },
     {
-      "id": "cognitive-revolution-yt:video:BaTTNx8B4r0",
-      "title": "Novel 'The Receipt Horizon' Debuts with AI Co-Authorship and Synthetic Narration",
-      "link": "https://www.youtube.com/watch?v=BaTTNx8B4r0",
-      "sourceName": "The Cognitive Revolution",
-      "sourceId": "cognitive-revolution",
-      "pubDate": "2026-09-26T11:34:08.000Z",
-      "badgeColor": "teal"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3170070",
+      "title": "Unsecured OpenAI Agents Accidentally Share 53 User Images Online",
+      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-09-25T22:20:47.000Z",
+      "badgeColor": "emerald"
     }
   ]
 }
