@@ -1,49 +1,48 @@
 {
-  "headline": "Meta's Muse Model Eclipses OpenAI and Anthropic in AI Model Releases",
-  "summary": "Meta's latest AI model, Muse, has garnered significant attention, overshadowing recent releases from OpenAI and Anthropic. This trend highlights Meta's growing influence in the AI landscape and the competitive dynamics among major tech players.",
-  "whyItMatters": "Meta's lead in model releases could solidify its position as a key player in AI innovation and set new benchmarks for performance and capabilities.",
-  "synthesizedAt": "2026-09-26T23:14:49.791Z",
+  "headline": "Meta's Muse Model Dominates AI Landscape, Outshining Competitors",
+  "summary": "Meta's latest AI model, Muse, has garnered significant attention and overshadowed recent releases from OpenAI and Anthropic. This dominance is reshaping the AI industry's focus and setting new benchmarks for performance and innovation.",
+  "whyItMatters": "Meta's leadership in AI model releases could influence the direction of AI research and development, setting new standards for performance and potentially shifting industry focus.",
+  "synthesizedAt": "2026-09-27T02:21:38.510Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3167791",
-    "title": "Journalist Creates Interactive Digital Avatar of Self, Reflects on AI Clones",
-    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3169914",
+    "title": "Meta's Muse Model Eclipses OpenAI and Anthropic in AI Model Releases",
+    "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
     "sourceName": "TechCrunch – AI",
     "sourceId": "techcrunch-ai",
-    "pubDate": "2026-09-26T14:00:00.000Z",
+    "pubDate": "2026-09-25T18:22:47.000Z",
     "badgeColor": "emerald",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40665",
-      "title": "OpenAI's GPT-6 Astra Achieves 80% Accuracy in Identifying IKEA Assembly Errors",
-      "link": "https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-09-26T09:44:54.000Z",
-      "badgeColor": "slate",
-      "angle": "Performance Benchmark"
+      "id": "the-zvi-https://thezvi.substack.com/p/claude-opus-55-should-raise-your",
+      "title": "Claude Opus 5.5 Boosts Ambition Levels for AI-Driven Projects",
+      "link": "https://thezvi.substack.com/p/claude-opus-55-should-raise-your",
+      "sourceName": "Don't Worry About the Vase (Zvi)",
+      "sourceId": "the-zvi",
+      "pubDate": "2026-09-26T11:32:22.000Z",
+      "badgeColor": "emerald"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40682",
-      "title": "OpenAI Halts Advanced Models Following Security Breaches and Data Leaks",
-      "link": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-09-26T09:06:36.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Response"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3169914",
-      "title": "Meta's Muse Model Eclipses OpenAI and Anthropic in AI Model Releases",
-      "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3170007",
+      "title": "Meta Launches Early Access Program for New Muse Features",
+      "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-25T18:22:47.000Z",
+      "pubDate": "2026-09-25T20:34:53.000Z",
       "badgeColor": "emerald",
-      "angle": "Competitive Landscape"
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "simon-willison-https://simonwillison.net/2026/Sep/25/john-gruber/",
+      "title": "Muse Receives Praise for Innovative Cloud-VM Setup and User-Friendly Interface",
+      "link": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-09-25T17:22:01.000Z",
+      "badgeColor": "green",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
