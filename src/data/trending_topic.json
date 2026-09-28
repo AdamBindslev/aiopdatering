@@ -1,39 +1,39 @@
 {
-  "headline": "Open-Source AI Agents Gain Ground, Threatening Proprietary Models",
-  "summary": "NVIDIA’s Open Agent Safety Platform and OpenShell tools are leading a shift towards open-source AI agents, which are demonstrating capabilities competitive with proprietary models. This trend is challenging established players and opening up new opportunities for developers.",
-  "whyItMatters": "It democratizes advanced AI capabilities and could disrupt the market by reducing reliance on expensive, closed APIs.",
-  "synthesizedAt": "2026-09-28T09:29:09.766Z",
+  "headline": "Open-Source AI Models Gain Ground in Reasoning Tasks",
+  "summary": "A series of recent studies and developments highlight the growing capabilities of open-source AI models in complex reasoning tasks, challenging the dominance of proprietary systems and driving local deployment and innovation.",
+  "whyItMatters": "This trend reduces reliance on expensive closed platforms and broadens access to advanced AI capabilities, fostering a more competitive and diverse AI ecosystem.",
+  "synthesizedAt": "2026-09-28T12:35:52.748Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "nvidia-https://developer.nvidia.com/blog/?p=122896",
-    "title": "NVIDIA Unveils Open Agent Safety Platform for Continuous In-Silicon Monitoring of Agentic AI",
-    "link": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/",
-    "sourceName": "NVIDIA Technical Blog",
-    "sourceId": "nvidia",
-    "pubDate": "2026-09-28T08:56:55.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Release"
+    "id": "weights-and-biases-yt:video:SDvIdNumJkc",
+    "title": "Prompt Engineering and Serverless Inference Close the Open Model Gap",
+    "link": "https://www.youtube.com/watch?v=SDvIdNumJkc",
+    "sourceName": "Weights & Biases",
+    "sourceId": "weights-and-biases",
+    "pubDate": "2026-09-28T05:00:38.000Z",
+    "badgeColor": "yellow",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "nvidia-https://developer.nvidia.com/blog/?p=122891",
-      "title": "NVIDIA Introduces OpenShell for Dynamic Control of AI Agents",
-      "link": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell/",
-      "sourceName": "NVIDIA Technical Blog",
-      "sourceId": "nvidia",
-      "pubDate": "2026-09-28T08:55:00.000Z",
-      "badgeColor": "emerald",
+      "id": "weights-and-biases-yt:video:dl-0cDBdCtg",
+      "title": "SUNK Simplifies Slurm Deployment on Kubernetes for Faster Cluster Setup",
+      "link": "https://www.youtube.com/watch?v=dl-0cDBdCtg",
+      "sourceName": "Weights & Biases",
+      "sourceId": "weights-and-biases",
+      "pubDate": "2026-09-28T12:30:24.000Z",
+      "badgeColor": "yellow",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "weights-and-biases-yt:video:SDvIdNumJkc",
-      "title": "Prompt Engineering and Serverless Inference Close the Open Model Gap",
-      "link": "https://www.youtube.com/watch?v=SDvIdNumJkc",
-      "sourceName": "Weights & Biases",
-      "sourceId": "weights-and-biases",
-      "pubDate": "2026-09-28T05:00:38.000Z",
-      "badgeColor": "yellow",
-      "angle": "Industry Analysis"
+      "id": "arxiv-cl-oai:arXiv.org:2609.30416v1",
+      "title": "Causality-Aware Framework Paves Way for Advanced Simultaneous Speech-to-Speech Translation",
+      "link": "https://arxiv.org/abs/2609.30416",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-28T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Innovation Highlight"
     }
   ]
 }
