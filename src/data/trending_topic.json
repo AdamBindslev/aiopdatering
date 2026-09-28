@@ -1,39 +1,48 @@
 {
-  "headline": "Open-Source AI Models Gain Ground in Reasoning Tasks",
-  "summary": "A series of recent studies and developments highlight the growing capabilities of open-source AI models in complex reasoning tasks, challenging the dominance of proprietary systems and driving local deployment and innovation.",
-  "whyItMatters": "This trend reduces reliance on expensive closed platforms and broadens access to advanced AI capabilities, fostering a more competitive and diverse AI ecosystem.",
-  "synthesizedAt": "2026-09-28T12:35:52.748Z",
+  "headline": "OpenAI's Daybreak Platform Paves Way for Comprehensive Cyber Defense",
+  "summary": "OpenAI has unveiled Daybreak, a new platform designed to establish a robust cyber defense infrastructure. This move underscores the growing importance of AI in cybersecurity and highlights OpenAI's expanding role in the enterprise AI landscape.",
+  "whyItMatters": "It positions OpenAI as a key player in the cybersecurity market and demonstrates the increasing integration of AI in enterprise security solutions.",
+  "synthesizedAt": "2026-09-28T15:43:58.686Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "weights-and-biases-yt:video:SDvIdNumJkc",
-    "title": "Prompt Engineering and Serverless Inference Close the Open Model Gap",
-    "link": "https://www.youtube.com/watch?v=SDvIdNumJkc",
-    "sourceName": "Weights & Biases",
-    "sourceId": "weights-and-biases",
-    "pubDate": "2026-09-28T05:00:38.000Z",
-    "badgeColor": "yellow",
-    "angle": "Industry Analysis"
+    "id": "openai-channel-yt:video:3jDhHA9JGUE",
+    "title": "OpenAI Unveils Daybreak: A Comprehensive Cyber Defense Solution",
+    "link": "https://www.youtube.com/watch?v=3jDhHA9JGUE",
+    "sourceName": "OpenAI (YouTube)",
+    "sourceId": "openai-channel",
+    "pubDate": "2026-09-28T13:29:06.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "weights-and-biases-yt:video:dl-0cDBdCtg",
-      "title": "SUNK Simplifies Slurm Deployment on Kubernetes for Faster Cluster Setup",
-      "link": "https://www.youtube.com/watch?v=dl-0cDBdCtg",
-      "sourceName": "Weights & Biases",
-      "sourceId": "weights-and-biases",
-      "pubDate": "2026-09-28T12:30:24.000Z",
-      "badgeColor": "yellow",
-      "angle": "Technical Deep Dive"
+      "id": "the-decoder-https://the-decoder.com/?p=40766",
+      "title": "Meta Launches Meta Enterprise Platform to Commercialize AI Services",
+      "link": "https://the-decoder.com/meta-wants-to-turn-muse-into-a-moneymaker-by-selling-ai-services-to-businesses/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-28T14:48:26.000Z",
+      "badgeColor": "slate",
+      "angle": "Enterprise Expansion"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.30416v1",
-      "title": "Causality-Aware Framework Paves Way for Advanced Simultaneous Speech-to-Speech Translation",
-      "link": "https://arxiv.org/abs/2609.30416",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-28T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Innovation Highlight"
+      "id": "the-decoder-https://the-decoder.com/?p=40765",
+      "title": "Nvidia Introduces Sentry, a Hardware Watchdog for AI Agents, to Ensure Safety and Containment",
+      "link": "https://the-decoder.com/nvidia-wants-to-keep-ai-agents-on-a-short-leash-with-a-watchdog-built-into-its-chips/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-28T14:32:00.000Z",
+      "badgeColor": "slate",
+      "angle": "Safety and Containment"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3170483",
+      "title": "Viral AI Agent Instinct Secures $1B Series C Funding, Valued at $10B",
+      "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-09-28T13:38:48.000Z",
+      "badgeColor": "emerald"
     }
   ]
 }
