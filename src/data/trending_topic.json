@@ -1,48 +1,39 @@
 {
-  "headline": "Muse AI Agent Highlights Real-World Limitations in Customer Service",
-  "summary": "Simon Willison’s article highlights the challenges faced by AI agents like Muse in customer service, as evidenced by a real-life interaction where the agent struggled with complex queries. This underscores the need for more advanced and context-aware AI systems.",
-  "whyItMatters": "It emphasizes the limitations of current AI agents and the importance of developing more sophisticated, context-aware models for real-world applications.",
-  "synthesizedAt": "2026-09-28T06:26:12.201Z",
+  "headline": "Open-Source AI Agents Gain Ground, Threatening Proprietary Models",
+  "summary": "NVIDIA’s Open Agent Safety Platform and OpenShell tools are leading a shift towards open-source AI agents, which are demonstrating capabilities competitive with proprietary models. This trend is challenging established players and opening up new opportunities for developers.",
+  "whyItMatters": "It democratizes advanced AI capabilities and could disrupt the market by reducing reliance on expensive, closed APIs.",
+  "synthesizedAt": "2026-09-28T09:29:09.766Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "simon-willison-https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
-    "title": "Muse AI Agent Demonstrates Limitations in Real-World Customer Service Scenarios",
-    "link": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
-    "sourceName": "Simon Willison",
-    "sourceId": "simon-willison",
-    "pubDate": "2026-09-28T04:01:30.000Z",
-    "badgeColor": "green",
-    "angle": "Real-World Test"
+    "id": "nvidia-https://developer.nvidia.com/blog/?p=122896",
+    "title": "NVIDIA Unveils Open Agent Safety Platform for Continuous In-Silicon Monitoring of Agentic AI",
+    "link": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/",
+    "sourceName": "NVIDIA Technical Blog",
+    "sourceId": "nvidia",
+    "pubDate": "2026-09-28T08:56:55.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.30290v1",
-      "title": "Study Reveals Flaws in LLM-as-Judge Mechanisms in Text-to-SQL Pipelines",
-      "link": "https://arxiv.org/abs/2609.30290",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-28T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Flaws"
+      "id": "nvidia-https://developer.nvidia.com/blog/?p=122891",
+      "title": "NVIDIA Introduces OpenShell for Dynamic Control of AI Agents",
+      "link": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell/",
+      "sourceName": "NVIDIA Technical Blog",
+      "sourceId": "nvidia",
+      "pubDate": "2026-09-28T08:55:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.30298v1",
-      "title": "New Benchmark Framework Aims to Streamline Screening in Systematic Reviews Using Large Language Models",
-      "link": "https://arxiv.org/abs/2609.30298",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-09-28T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Evaluation Framework"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2609.30325v1",
-      "title": "ScopeBench: Evaluating Agents' Compliance with Engagement Boundaries Under Pressure",
-      "link": "https://arxiv.org/abs/2609.30325",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-09-28T04:00:00.000Z",
-      "badgeColor": "zinc"
+      "id": "weights-and-biases-yt:video:SDvIdNumJkc",
+      "title": "Prompt Engineering and Serverless Inference Close the Open Model Gap",
+      "link": "https://www.youtube.com/watch?v=SDvIdNumJkc",
+      "sourceName": "Weights & Biases",
+      "sourceId": "weights-and-biases",
+      "pubDate": "2026-09-28T05:00:38.000Z",
+      "badgeColor": "yellow",
+      "angle": "Industry Analysis"
     }
   ]
 }
