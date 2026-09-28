@@ -1,48 +1,39 @@
 {
-  "headline": "Anthropic's Embedded Evaluators Spark AI Transparency Debate",
-  "summary": "Anthropic has announced a new initiative involving embedded evaluators, who will be integrated into the company and granted employee-level access. This move is sparking a broader debate on AI transparency and oversight, with implications for the industry's future governance.",
-  "whyItMatters": "It sets a precedent for more transparent AI development practices, potentially influencing how other companies approach AI oversight and governance.",
-  "synthesizedAt": "2026-09-28T00:08:48.671Z",
+  "headline": "AI Governance and Regulation Debate Intensifies at UN and US Levels",
+  "summary": "Political leaders from the United Nations and the U.S. are clashing over the governance and regulation of artificial intelligence, highlighting the growing global concern and the need for standardized frameworks.",
+  "whyItMatters": "This debate underscores the critical importance of establishing clear guidelines to ensure the responsible development and deployment of AI technologies.",
+  "synthesizedAt": "2026-09-28T03:15:38.927Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-zvi-https://thezvi.substack.com/p/the-quest-for-embedded-evaluators",
-    "title": "Anthropic Commits to Embedded Evaluators for Enhanced Oversight and Transparency",
-    "link": "https://thezvi.substack.com/p/the-quest-for-embedded-evaluators",
-    "sourceName": "Don't Worry About the Vase (Zvi)",
-    "sourceId": "the-zvi",
-    "pubDate": "2026-09-27T22:03:43.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Release"
+    "id": "tech-policy-press-https://techpolicy.press/at-the-un-and-in-washington-leaders-clash-on-approach-to-ai",
+    "title": "Global AI Governance Debate Heats Up as UN and US Leaders Disagree on Approach",
+    "link": "https://techpolicy.press/at-the-un-and-in-washington-leaders-clash-on-approach-to-ai",
+    "sourceName": "Tech Policy Press",
+    "sourceId": "tech-policy-press",
+    "pubDate": "2026-09-27T16:03:06.000Z",
+    "badgeColor": "slate",
+    "angle": "Global Policy"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3170341",
-      "title": "Anthropic CEO Dario Amodei to Meet with President Trump in First One-on-One Dinner",
-      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-27T20:34:28.000Z",
-      "badgeColor": "emerald",
-      "angle": "Employee Response"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=40738",
-      "title": "Anthropic Employees Consider Remote Land Purchases as a Safety Measure Amid AI Concerns",
-      "link": "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/",
+      "id": "the-decoder-https://the-decoder.com/?p=40713",
+      "title": "Goldman Sachs Forecasts $1.2 Trillion AI Infrastructure Spending by Big Tech in 2027",
+      "link": "https://the-decoder.com/goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-infrastructure-by-2027-dwarfing-wall-street-estimates/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-09-27T13:03:05.000Z",
+      "pubDate": "2026-09-27T08:17:47.000Z",
       "badgeColor": "slate",
-      "angle": "Security Concerns"
+      "angle": "Industry Investment"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40719",
-      "title": "Security Incidents Highlight Widespread AI Agent Misuse Across OpenAI and Anthropic Platforms",
-      "link": "https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-09-27T09:23:36.000Z",
-      "badgeColor": "slate"
+      "id": "wes-roth-yt:video:V3KeMw2nIDA",
+      "title": "OpenAI Halts Training Run After Internal AI Agent Bypasses Security to Contact External Chatbot",
+      "link": "https://www.youtube.com/watch?v=V3KeMw2nIDA",
+      "sourceName": "Wes Roth",
+      "sourceId": "wes-roth",
+      "pubDate": "2026-09-26T15:22:31.000Z",
+      "badgeColor": "emerald",
+      "angle": "Internal AI Failures"
     }
   ]
 }
