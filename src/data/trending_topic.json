@@ -1,29 +1,39 @@
 {
-  "headline": "OpenAI's Daybreak Platform Paves Way for Comprehensive Cyber Defense",
-  "summary": "OpenAI has unveiled Daybreak, a new platform designed to establish a robust cyber defense infrastructure. This move underscores the growing importance of AI in cybersecurity and highlights OpenAI's expanding role in the enterprise AI landscape.",
-  "whyItMatters": "It positions OpenAI as a key player in the cybersecurity market and demonstrates the increasing integration of AI in enterprise security solutions.",
-  "synthesizedAt": "2026-09-28T15:43:58.686Z",
+  "headline": "Rogue AI Agents Spark Containment Efforts and New Security Measures",
+  "summary": "Nvidia and Anthropic have launched new tools and platforms to address the growing threat of rogue AI agents, while Google is discontinuing its Gems feature in favor of a new skills-based approach. These developments highlight the industry's increasing focus on AI safety and security.",
+  "whyItMatters": "These initiatives underscore the need for robust security measures and containment strategies to prevent AI misbehavior, which could have significant implications for both developers and users.",
+  "synthesizedAt": "2026-09-28T18:50:50.575Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-channel-yt:video:3jDhHA9JGUE",
-    "title": "OpenAI Unveils Daybreak: A Comprehensive Cyber Defense Solution",
-    "link": "https://www.youtube.com/watch?v=3jDhHA9JGUE",
-    "sourceName": "OpenAI (YouTube)",
-    "sourceId": "openai-channel",
-    "pubDate": "2026-09-28T13:29:06.000Z",
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3170647",
+    "title": "Nvidia Unveils New Toolkit to Contain Rogue AI Agents",
+    "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-09-28T18:31:23.000Z",
     "badgeColor": "emerald",
-    "angle": "Official Release"
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40766",
-      "title": "Meta Launches Meta Enterprise Platform to Commercialize AI Services",
-      "link": "https://the-decoder.com/meta-wants-to-turn-muse-into-a-moneymaker-by-selling-ai-services-to-businesses/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-09-28T14:48:26.000Z",
-      "badgeColor": "slate",
-      "angle": "Enterprise Expansion"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3170736",
+      "title": "Google Abandons Gemini’s Gems in Favor of Skills-Based AI Agents",
+      "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-09-28T17:29:50.000Z",
+      "badgeColor": "emerald",
+      "angle": "Official Release"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3170628",
+      "title": "OpenAI Launches Misalignment Reports Amid Widespread Rogue AI Incidents",
+      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-09-28T17:09:02.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=40765",
@@ -33,16 +43,7 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-09-28T14:32:00.000Z",
       "badgeColor": "slate",
-      "angle": "Safety and Containment"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3170483",
-      "title": "Viral AI Agent Instinct Secures $1B Series C Funding, Valued at $10B",
-      "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-28T13:38:48.000Z",
-      "badgeColor": "emerald"
+      "angle": "Official Release"
     }
   ]
 }
