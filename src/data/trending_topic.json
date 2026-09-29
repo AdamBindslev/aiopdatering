@@ -1,59 +1,39 @@
 {
-  "headline": "CoreWeave Expands AI Infrastructure Solutions with New Tools and Capabilities",
-  "summary": "CoreWeave continues to enhance its AI infrastructure offerings, launching new tools and services such as ARIA, SUNK, and scalable cooling systems. These innovations aim to streamline AI model deployment and management, driving broader adoption and efficiency.",
-  "whyItMatters": "These advancements are crucial for developers and enterprises looking to optimize their AI workflows and reduce costs, making AI more accessible and scalable.",
-  "synthesizedAt": "2026-09-29T01:03:43.588Z",
+  "headline": "ScopeBench: New Benchmark Evaluates Autonomous Agents' Compliance with Engagement Boundaries",
+  "summary": "ScopeBench, a new benchmark introduced by researchers, evaluates how autonomous agents maintain compliance with engagement boundaries under pressure, highlighting the need for improved ethical and boundary-aware AI systems.",
+  "whyItMatters": "This benchmark will drive the development of more robust and ethically aligned AI agents, ensuring they operate within acceptable limits and reduce potential risks.",
+  "synthesizedAt": "2026-09-29T04:11:37.283Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "weights-and-biases-yt:video:47x06r_PElg",
-    "title": "CoreWeave Unveils ARIA: AI Research and Iteration Agent for Accelerated Model Development",
-    "link": "https://www.youtube.com/watch?v=47x06r_PElg",
-    "sourceName": "Weights & Biases",
-    "sourceId": "weights-and-biases",
-    "pubDate": "2026-09-28T19:00:16.000Z",
-    "badgeColor": "yellow",
-    "angle": "Official Release"
+    "id": "arxiv-ai-oai:arXiv.org:2609.30325v1",
+    "title": "ScopeBench: Evaluating Agents' Compliance with Engagement Boundaries Under Pressure",
+    "link": "https://arxiv.org/abs/2609.30325",
+    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+    "sourceId": "arxiv-ai",
+    "pubDate": "2026-09-29T04:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "weights-and-biases-yt:video:0WxBQgJ2hL8",
-      "title": "CoreWeave ARENA Demonstrates Managed Inference Paths for Model Deployment",
-      "link": "https://www.youtube.com/watch?v=0WxBQgJ2hL8",
-      "sourceName": "Weights & Biases",
-      "sourceId": "weights-and-biases",
-      "pubDate": "2026-09-28T23:54:19.000Z",
-      "badgeColor": "yellow",
-      "angle": "Technical Deep Dive"
+      "id": "arxiv-ai-oai:arXiv.org:2609.30291v1",
+      "title": "Highlighting the Role of Autonomous Systems in AI Evolution",
+      "link": "https://arxiv.org/abs/2609.30291",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-09-29T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "weights-and-biases-yt:video:6KNkQ1JhaAg",
-      "title": "CoreWeave Unveils Mission Control Agent to Streamline Inference Endpoint Troubleshooting",
-      "link": "https://www.youtube.com/watch?v=6KNkQ1JhaAg",
-      "sourceName": "Weights & Biases",
-      "sourceId": "weights-and-biases",
-      "pubDate": "2026-09-28T23:54:13.000Z",
-      "badgeColor": "yellow",
-      "angle": "Troubleshooting Tools"
-    },
-    {
-      "id": "weights-and-biases-yt:video:fLcBZPiSFcY",
-      "title": "CoreWeave Enhances Data Management for Reasoning Models to Boost GPU Efficiency",
-      "link": "https://www.youtube.com/watch?v=fLcBZPiSFcY",
-      "sourceName": "Weights & Biases",
-      "sourceId": "weights-and-biases",
-      "pubDate": "2026-09-28T23:54:05.000Z",
-      "badgeColor": "yellow",
-      "angle": "Data Management"
-    },
-    {
-      "id": "weights-and-biases-yt:video:WE4JND6hC6M",
-      "title": "CoreWeave Launches SUNK: Production-Ready AI Training System for Large-Scale Workloads",
-      "link": "https://www.youtube.com/watch?v=WE4JND6hC6M",
-      "sourceName": "Weights & Biases",
-      "sourceId": "weights-and-biases",
-      "pubDate": "2026-09-28T23:40:00.000Z",
-      "badgeColor": "yellow",
-      "angle": "Production-Ready Solutions"
+      "id": "arxiv-ai-oai:arXiv.org:2609.30383v1",
+      "title": "Stealth Apart, Harm Together: New Research Warns of Skill Cascading Attacks on Agent Systems",
+      "link": "https://arxiv.org/abs/2609.30383",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-09-29T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Critical Debate"
     }
   ]
 }
