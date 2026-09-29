@@ -1,29 +1,39 @@
 {
-  "headline": "ScopeBench: New Benchmark Evaluates Autonomous Agents' Compliance with Engagement Boundaries",
-  "summary": "ScopeBench, a new benchmark introduced by researchers, evaluates how autonomous agents maintain compliance with engagement boundaries under pressure, highlighting the need for improved ethical and boundary-aware AI systems.",
-  "whyItMatters": "This benchmark will drive the development of more robust and ethically aligned AI agents, ensuring they operate within acceptable limits and reduce potential risks.",
-  "synthesizedAt": "2026-09-29T04:11:37.283Z",
+  "headline": "ScopeBench Evaluates Autonomous Agents' Compliance with Engagement Boundaries",
+  "summary": "ScopeBench, a new benchmark introduced by researchers, assesses autonomous agents' ability to maintain compliance with engagement boundaries under pressure, highlighting a critical aspect of AI safety and ethical behavior.",
+  "whyItMatters": "This benchmark is crucial for ensuring that AI systems operate safely and ethically, especially in complex and dynamic environments.",
+  "synthesizedAt": "2026-09-29T07:16:32.056Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2609.30325v1",
-    "title": "ScopeBench: Evaluating Agents' Compliance with Engagement Boundaries Under Pressure",
-    "link": "https://arxiv.org/abs/2609.30325",
+    "id": "arxiv-ai-oai:arXiv.org:2609.30291v1",
+    "title": "Highlighting the Role of Autonomous Systems in AI Evolution",
+    "link": "https://arxiv.org/abs/2609.30291",
     "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
     "sourceId": "arxiv-ai",
     "pubDate": "2026-09-29T04:00:00.000Z",
     "badgeColor": "zinc",
-    "angle": "Technical Deep Dive"
+    "angle": "New Benchmark"
   },
   "supportingStories": [
     {
-      "id": "arxiv-ai-oai:arXiv.org:2609.30291v1",
-      "title": "Highlighting the Role of Autonomous Systems in AI Evolution",
-      "link": "https://arxiv.org/abs/2609.30291",
+      "id": "arxiv-ai-oai:arXiv.org:2609.30325v1",
+      "title": "ScopeBench: Evaluating Agents' Compliance with Engagement Boundaries Under Pressure",
+      "link": "https://arxiv.org/abs/2609.30325",
       "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
       "sourceId": "arxiv-ai",
       "pubDate": "2026-09-29T04:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Industry Analysis"
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "arxiv-ai-oai:arXiv.org:2609.30328v1",
+      "title": "New Multi-Agent Code Judge Avoids Guessing, Offers Grounded Verdicts",
+      "link": "https://arxiv.org/abs/2609.30328",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-09-29T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Innovative Approach"
     },
     {
       "id": "arxiv-ai-oai:arXiv.org:2609.30383v1",
@@ -32,8 +42,7 @@
       "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
       "sourceId": "arxiv-ai",
       "pubDate": "2026-09-29T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Critical Debate"
+      "badgeColor": "zinc"
     }
   ]
 }
