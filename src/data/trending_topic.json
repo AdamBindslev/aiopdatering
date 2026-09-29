@@ -1,8 +1,8 @@
 {
-  "headline": "Safety Concerns Prompt AI Model Halts and Ethical Scrutiny",
-  "summary": "Recent safety issues have led to the suspension of several AI model releases, including GPT-6.1 Astra by OpenAI and Manus 2.0's expanded capabilities. These incidents highlight the growing need for ethical oversight and robust safety protocols in AI development.",
-  "whyItMatters": "These safety concerns underscore the critical need for enhanced ethical standards and rigorous testing in AI deployment, affecting developer practices and public trust.",
-  "synthesizedAt": "2026-09-29T10:23:23.041Z",
+  "headline": "OpenAI's Safety Concerns Spark AI Community Scrutiny and Reevaluation",
+  "summary": "OpenAI's decision to halt the release of GPT-6.1 Astra due to safety concerns has sparked a broader debate within the AI community about the need for increased scrutiny and reevaluation of AI models before deployment. This incident highlights the growing risks associated with advanced AI systems.",
+  "whyItMatters": "It underscores the critical need for robust safety protocols and transparent communication in the AI industry, affecting developer practices and public trust.",
+  "synthesizedAt": "2026-09-29T13:30:03.325Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=40789",
@@ -16,16 +16,6 @@
   },
   "supportingStories": [
     {
-      "id": "version2-https://ing.dk/artikel/ditte-rystet-over-ai-broeler-med-105257-fortrolige-beskeder-jeg-frygter-hvad-der-er-delt-om-mit-barn",
-      "title": "Parent Alarmed by AI Experiment Involving Son's Sensitive Medical Data",
-      "link": "https://ing.dk/artikel/ditte-rystet-over-ai-broeler-med-105257-fortrolige-beskeder-jeg-frygter-hvad-der-er-delt-om-mit-barn",
-      "sourceName": "Version2 (Ingeniøren)",
-      "sourceId": "version2",
-      "pubDate": "2026-09-29T10:15:00.000Z",
-      "badgeColor": "red",
-      "angle": "Public Concern"
-    },
-    {
       "id": "version2-https://ing.dk/artikel/openai-standser-udgivelse-nyeste-model-er-farlig",
       "title": "OpenAI Temporarily Halts Model Release Amid Safety Concerns",
       "link": "https://ing.dk/artikel/openai-standser-udgivelse-nyeste-model-er-farlig",
@@ -33,7 +23,7 @@
       "sourceId": "version2",
       "pubDate": "2026-09-29T09:40:00.000Z",
       "badgeColor": "red",
-      "angle": "Industry Response"
+      "angle": "Industry Reaction"
     },
     {
       "id": "techcrunch-ai-https://techcrunch.com/?p=3171132",
@@ -42,7 +32,8 @@
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
       "pubDate": "2026-09-29T05:13:43.000Z",
-      "badgeColor": "emerald"
+      "badgeColor": "emerald",
+      "angle": "Financial and Ethical Implications"
     }
   ]
 }
