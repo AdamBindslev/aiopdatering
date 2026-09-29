@@ -1,48 +1,48 @@
 {
-  "headline": "ScopeBench Evaluates Autonomous Agents' Compliance with Engagement Boundaries",
-  "summary": "ScopeBench, a new benchmark introduced by researchers, assesses autonomous agents' ability to maintain compliance with engagement boundaries under pressure, highlighting a critical aspect of AI safety and ethical behavior.",
-  "whyItMatters": "This benchmark is crucial for ensuring that AI systems operate safely and ethically, especially in complex and dynamic environments.",
-  "synthesizedAt": "2026-09-29T07:16:32.056Z",
+  "headline": "Safety Concerns Prompt AI Model Halts and Ethical Scrutiny",
+  "summary": "Recent safety issues have led to the suspension of several AI model releases, including GPT-6.1 Astra by OpenAI and Manus 2.0's expanded capabilities. These incidents highlight the growing need for ethical oversight and robust safety protocols in AI development.",
+  "whyItMatters": "These safety concerns underscore the critical need for enhanced ethical standards and rigorous testing in AI deployment, affecting developer practices and public trust.",
+  "synthesizedAt": "2026-09-29T10:23:23.041Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2609.30291v1",
-    "title": "Highlighting the Role of Autonomous Systems in AI Evolution",
-    "link": "https://arxiv.org/abs/2609.30291",
-    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-    "sourceId": "arxiv-ai",
-    "pubDate": "2026-09-29T04:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "New Benchmark"
+    "id": "the-decoder-https://the-decoder.com/?p=40789",
+    "title": "OpenAI Halts GPT-6.1 Astra Release Over Safety Concerns",
+    "link": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-09-29T08:26:38.000Z",
+    "badgeColor": "slate",
+    "angle": "Safety Halt"
   },
   "supportingStories": [
     {
-      "id": "arxiv-ai-oai:arXiv.org:2609.30325v1",
-      "title": "ScopeBench: Evaluating Agents' Compliance with Engagement Boundaries Under Pressure",
-      "link": "https://arxiv.org/abs/2609.30325",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-09-29T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
+      "id": "version2-https://ing.dk/artikel/ditte-rystet-over-ai-broeler-med-105257-fortrolige-beskeder-jeg-frygter-hvad-der-er-delt-om-mit-barn",
+      "title": "Parent Alarmed by AI Experiment Involving Son's Sensitive Medical Data",
+      "link": "https://ing.dk/artikel/ditte-rystet-over-ai-broeler-med-105257-fortrolige-beskeder-jeg-frygter-hvad-der-er-delt-om-mit-barn",
+      "sourceName": "Version2 (Ingeniøren)",
+      "sourceId": "version2",
+      "pubDate": "2026-09-29T10:15:00.000Z",
+      "badgeColor": "red",
+      "angle": "Public Concern"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2609.30328v1",
-      "title": "New Multi-Agent Code Judge Avoids Guessing, Offers Grounded Verdicts",
-      "link": "https://arxiv.org/abs/2609.30328",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-09-29T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Innovative Approach"
+      "id": "version2-https://ing.dk/artikel/openai-standser-udgivelse-nyeste-model-er-farlig",
+      "title": "OpenAI Temporarily Halts Model Release Amid Safety Concerns",
+      "link": "https://ing.dk/artikel/openai-standser-udgivelse-nyeste-model-er-farlig",
+      "sourceName": "Version2 (Ingeniøren)",
+      "sourceId": "version2",
+      "pubDate": "2026-09-29T09:40:00.000Z",
+      "badgeColor": "red",
+      "angle": "Industry Response"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2609.30383v1",
-      "title": "Stealth Apart, Harm Together: New Research Warns of Skill Cascading Attacks on Agent Systems",
-      "link": "https://arxiv.org/abs/2609.30383",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-09-29T04:00:00.000Z",
-      "badgeColor": "zinc"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3171132",
+      "title": "Anthropic Prospectus Reveals Profound Financial Losses and Existential AI Risks",
+      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-09-29T05:13:43.000Z",
+      "badgeColor": "emerald"
     }
   ]
 }
