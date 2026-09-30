@@ -1,48 +1,48 @@
 {
-  "headline": "OpenAI's Dots and GPT-6.1 Sol Drive AI Agent Market Expansion",
-  "summary": "OpenAI has launched Dots, autonomous AI agents, and GPT-6.1 Sol, a cost-effective model, expanding the AI agent market. These innovations are challenging established players and driving broader adoption of AI in professional and personal workflows.",
-  "whyItMatters": "These advancements are reshaping the AI landscape by offering more affordable and versatile AI solutions, potentially disrupting traditional software and service providers.",
-  "synthesizedAt": "2026-09-30T01:57:05.619Z",
+  "headline": "SAGE Framework Pioneers Statistical Acceptance Gate for Self-Evolving Agents",
+  "summary": "The SAGE framework, introduced in a recent paper, offers a statistical acceptance gate for managing the self-evolution of large language model-based agents, signaling a significant step towards safer and more controlled AI development.",
+  "whyItMatters": "This framework enhances the safety and reliability of self-evolving AI systems, addressing concerns around uncontrolled AI growth and ensuring more responsible AI deployment.",
+  "synthesizedAt": "2026-09-30T05:08:17.801Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3171209",
-    "title": "OpenAI Unveils Dots, Autonomous AI Agents for Continuous Background Tasks",
-    "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-09-29T17:17:15.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Launch"
+    "id": "arxiv-ai-oai:arXiv.org:2609.36043v1",
+    "title": "SAGE Introduced: A Statistical Acceptance Gate for Self-Evolving Agents",
+    "link": "https://arxiv.org/abs/2609.36043",
+    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+    "sourceId": "arxiv-ai",
+    "pubDate": "2026-09-30T04:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "aws-ml-66c26dd8eb3c8cf25a769df1c1979dc7b8a86fa5",
-      "title": "GPT-6.1 Sol Now Generally Available on Amazon Bedrock, Enhancing Reasoning in Professional Workloads",
-      "link": "https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-09-29T19:34:14.000Z",
-      "badgeColor": "amber",
-      "angle": "Technical Deep Dive"
+      "id": "arxiv-ai-oai:arXiv.org:2609.35799v1",
+      "title": "OpenAI-HuggingFace Incident Highlights Need for Enhanced Alignment Testing",
+      "link": "https://arxiv.org/abs/2609.35799",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-09-30T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Incident Analysis"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3171292",
-      "title": "OpenAI Unveils GPT-6.1 Sol, Enhancing Professional Tasks with Cost Efficiency",
-      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-29T17:15:00.000Z",
-      "badgeColor": "emerald"
+      "id": "arxiv-ai-oai:arXiv.org:2609.35833v1",
+      "title": "Neurosymbolic Routing Enhances Edge Device Reasoning Reliability",
+      "link": "https://arxiv.org/abs/2609.35833",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-09-30T04:00:00.000Z",
+      "badgeColor": "zinc"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40854",
-      "title": "OpenAI's GPT-6.1 Sol Offers Competitive Performance at Lower Cost Compared to Astra",
-      "link": "https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-09-29T17:14:27.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Analysis"
+      "id": "arxiv-ai-oai:arXiv.org:2609.35875v1",
+      "title": "Beyond Symmetric Agents: Research Explores Cognitive Diversity and Multi-Agent Debate in Small Language Models",
+      "link": "https://arxiv.org/abs/2609.35875",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-09-30T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Cognitive Diversity"
     }
   ]
 }
