@@ -1,48 +1,48 @@
 {
-  "headline": "OpenAI's Dots Launch Sparks AI Agent Revolution",
-  "summary": "OpenAI has launched Dots, autonomous AI agents designed for continuous background tasks, signaling a shift towards more independent and always-on AI systems. This move is driving significant industry attention and debate over the future of AI agent development and deployment.",
-  "whyItMatters": "It marks a strategic shift in AI agent design, emphasizing autonomy and continuous operation, which could redefine how AI is integrated into daily workflows and applications.",
-  "synthesizedAt": "2026-09-29T22:50:24.872Z",
+  "headline": "OpenAI's Dots and GPT-6.1 Sol Drive AI Agent Market Expansion",
+  "summary": "OpenAI has launched Dots, autonomous AI agents, and GPT-6.1 Sol, a cost-effective model, expanding the AI agent market. These innovations are challenging established players and driving broader adoption of AI in professional and personal workflows.",
+  "whyItMatters": "These advancements are reshaping the AI landscape by offering more affordable and versatile AI solutions, potentially disrupting traditional software and service providers.",
+  "synthesizedAt": "2026-09-30T01:57:05.619Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-channel-yt:video:uXspbC2srEQ",
-    "title": "OpenAI Unveils Dots: Always-On Agents Leveraging GPT-6 Astra",
-    "link": "https://www.youtube.com/watch?v=uXspbC2srEQ",
-    "sourceName": "OpenAI (YouTube)",
-    "sourceId": "openai-channel",
-    "pubDate": "2026-09-29T18:04:41.000Z",
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3171209",
+    "title": "OpenAI Unveils Dots, Autonomous AI Agents for Continuous Background Tasks",
+    "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-09-29T17:17:15.000Z",
     "badgeColor": "emerald",
-    "angle": "Official Release"
+    "angle": "Official Launch"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3171209",
-      "title": "OpenAI Unveils Dots, Autonomous AI Agents for Continuous Background Tasks",
-      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-29T17:17:15.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
+      "id": "aws-ml-66c26dd8eb3c8cf25a769df1c1979dc7b8a86fa5",
+      "title": "GPT-6.1 Sol Now Generally Available on Amazon Bedrock, Enhancing Reasoning in Professional Workloads",
+      "link": "https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-09-29T19:34:14.000Z",
+      "badgeColor": "amber",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3171280",
-      "title": "OpenAI Competes with Microsoft in Office Suite Market",
-      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3171292",
+      "title": "OpenAI Unveils GPT-6.1 Sol, Enhancing Professional Tasks with Cost Efficiency",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
-      "pubDate": "2026-09-29T17:45:51.000Z",
+      "pubDate": "2026-09-29T17:15:00.000Z",
       "badgeColor": "emerald"
     },
     {
-      "id": "openai-channel-yt:video:Fls_onRviPM",
-      "title": "OpenAI Unveils Diverse Suite of New Models and Features at DevDay 2026",
-      "link": "https://www.youtube.com/watch?v=Fls_onRviPM",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-09-29T18:42:29.000Z",
-      "badgeColor": "emerald",
-      "angle": "Strategic Update"
+      "id": "the-decoder-https://the-decoder.com/?p=40854",
+      "title": "OpenAI's GPT-6.1 Sol Offers Competitive Performance at Lower Cost Compared to Astra",
+      "link": "https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-09-29T17:14:27.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
     }
   ]
 }
