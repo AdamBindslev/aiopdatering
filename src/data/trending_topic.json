@@ -1,20 +1,40 @@
 {
-  "headline": "SAGE Framework Pioneers Statistical Acceptance Gate for Self-Evolving Agents",
-  "summary": "The SAGE framework, introduced in a recent paper, offers a statistical acceptance gate for managing the self-evolution of large language model-based agents, signaling a significant step towards safer and more controlled AI development.",
-  "whyItMatters": "This framework enhances the safety and reliability of self-evolving AI systems, addressing concerns around uncontrolled AI growth and ensuring more responsible AI deployment.",
-  "synthesizedAt": "2026-09-30T05:08:17.801Z",
+  "headline": "OpenAI's DevDay 2026 Unveils Comprehensive AI Tool Suite",
+  "summary": "OpenAI's DevDay 2026 showcased a wide array of new AI tools and APIs, including Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, and a marketplace, signaling significant advancements in AI development and deployment.",
+  "whyItMatters": "This event highlights OpenAI's continued innovation and expansion of its AI ecosystem, potentially reshaping the landscape for developers and enterprises.",
+  "synthesizedAt": "2026-09-30T08:11:32.057Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2609.36043v1",
-    "title": "SAGE Introduced: A Statistical Acceptance Gate for Self-Evolving Agents",
-    "link": "https://arxiv.org/abs/2609.36043",
-    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-    "sourceId": "arxiv-ai",
-    "pubDate": "2026-09-30T04:00:00.000Z",
-    "badgeColor": "zinc",
+    "id": "latent-space-https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+    "title": "OpenAI Unveils Comprehensive Suite of AI Tools and APIs at DevDay 2026",
+    "link": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+    "sourceName": "Latent Space (Swyx & Alessio)",
+    "sourceId": "latent-space",
+    "pubDate": "2026-09-30T05:53:10.000Z",
+    "badgeColor": "pink",
     "angle": "Official Release"
   },
   "supportingStories": [
+    {
+      "id": "nvidia-developer-yt:video:WWp_RFBn34M",
+      "title": "NVIDIA Demonstrates Local AI Capabilities with Nemotron on DGX Spark & Station",
+      "link": "https://www.youtube.com/watch?v=WWp_RFBn34M",
+      "sourceName": "NVIDIA Developer",
+      "sourceId": "nvidia-developer",
+      "pubDate": "2026-09-30T06:35:25.000Z",
+      "badgeColor": "green",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2609.35807v1",
+      "title": "New Approach to Agent Safety: Environment Steering Enhances Utility and Reduces Risks",
+      "link": "https://arxiv.org/abs/2609.35807",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-09-30T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Industry Analysis"
+    },
     {
       "id": "arxiv-ai-oai:arXiv.org:2609.35799v1",
       "title": "OpenAI-HuggingFace Incident Highlights Need for Enhanced Alignment Testing",
@@ -22,27 +42,7 @@
       "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
       "sourceId": "arxiv-ai",
       "pubDate": "2026-09-30T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Incident Analysis"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2609.35833v1",
-      "title": "Neurosymbolic Routing Enhances Edge Device Reasoning Reliability",
-      "link": "https://arxiv.org/abs/2609.35833",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-09-30T04:00:00.000Z",
       "badgeColor": "zinc"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2609.35875v1",
-      "title": "Beyond Symmetric Agents: Research Explores Cognitive Diversity and Multi-Agent Debate in Small Language Models",
-      "link": "https://arxiv.org/abs/2609.35875",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-09-30T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Cognitive Diversity"
     }
   ]
 }
