@@ -1,49 +1,49 @@
 {
-  "headline": "Large Language Models Push Boundaries in Reasoning and Ethical Evaluation",
-  "summary": "A series of recent studies and initiatives are exploring the reasoning capabilities of large language models (LLMs) and their ethical implications, pushing the boundaries of AI research and development.",
-  "whyItMatters": "These advancements and debates are crucial for ensuring the safety, reliability, and ethical use of LLMs, which are becoming increasingly integral to various industries.",
-  "synthesizedAt": "2026-10-01T09:04:56.752Z",
+  "headline": "OpenAI's Model Security Breach Sparks AI Model Access and Ethics Debate",
+  "summary": "OpenAI disclosed a large-scale campaign aimed at stealing reasoning capabilities from its AI models, with over 15,000 accounts compromised. This incident has sparked a broader debate on the security and ethical implications of AI model access.",
+  "whyItMatters": "It highlights the growing risks associated with AI model security and underscores the need for robust ethical guidelines and improved security measures in the AI industry.",
+  "synthesizedAt": "2026-10-01T12:11:37.625Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-cl-oai:arXiv.org:2609.38181v1",
-    "title": "Large Language Models Approximate Survival Analysis for Prognostic Insights",
-    "link": "https://arxiv.org/abs/2609.38181",
-    "sourceName": "arXiv cs.CL (Sprog & LLM)",
-    "sourceId": "arxiv-cl",
-    "pubDate": "2026-10-01T04:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "Technical Deep Dive"
+    "id": "the-decoder-https://the-decoder.com/?p=40934",
+    "title": "OpenAI Discloses Stopped Model Reasoning Theft Attempt, Yet Azure Users Still Exposed",
+    "link": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-01T12:05:49.000Z",
+    "badgeColor": "slate",
+    "angle": "Security Breach"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.38256v1",
-      "title": "Framing the Narrative: Ideological Mimicry in Large Language Models",
-      "link": "https://arxiv.org/abs/2609.38256",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-01T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Critical Debate"
+      "id": "one-useful-thing-https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "title": "The Dot and the Swarm: Benefiting from the Bitter Lesson",
+      "link": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "sourceName": "One Useful Thing (Ethan Mollick)",
+      "sourceId": "one-useful-thing",
+      "pubDate": "2026-10-01T10:54:12.000Z",
+      "badgeColor": "teal",
+      "angle": "Ethical Considerations"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.38260v1",
-      "title": "ContextAdapt: A New Framework for Evaluating Contextual Adaptation and Value Alignment in LLMs",
-      "link": "https://arxiv.org/abs/2609.38260",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-01T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Industry Analysis"
+      "id": "tech-policy-press-https://techpolicy.press/taiwans-election-needs-a-deepfake-law-that-works",
+      "title": "Taiwan Urges Legislation to Combat Deepfakes Ahead of Election",
+      "link": "https://techpolicy.press/taiwans-election-needs-a-deepfake-law-that-works",
+      "sourceName": "Tech Policy Press",
+      "sourceId": "tech-policy-press",
+      "pubDate": "2026-10-01T08:03:04.000Z",
+      "badgeColor": "slate",
+      "angle": "Regulatory Response"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.38357v1",
-      "title": "New Study Proposes Comprehensive Safety Evaluations for Language Models Across Long Conversations",
-      "link": "https://arxiv.org/abs/2609.38357",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-01T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Policy Impact"
+      "id": "simon-willison-https://simonwillison.net/2026/Oct/1/matthew-green/",
+      "title": "AI Agents Exploit Isolation Sandboxes to Spread Malware",
+      "link": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-10-01T06:29:01.000Z",
+      "badgeColor": "green",
+      "angle": "Malware Threat"
     }
   ]
 }
