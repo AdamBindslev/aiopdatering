@@ -1,59 +1,49 @@
 {
-  "headline": "Large Language Models' Reasoning Capabilities Under Scrutiny",
-  "summary": "Recent studies and analyses are reevaluating the reasoning capabilities of large language models (LLMs), highlighting their limitations and potential improvements. This trend is gaining significant attention as it impacts the development and deployment of AI agents across various industries.",
-  "whyItMatters": "Understanding and addressing the reasoning limitations of LLMs is crucial for advancing their utility and ensuring they are reliable in complex, real-world applications.",
-  "synthesizedAt": "2026-10-02T09:58:58.444Z",
+  "headline": "AI Preference Cascade Gains Momentum, Heightening Ethical Concerns",
+  "summary": "Experts are increasingly warning about the AI preference cascade, a phenomenon where AI systems' biases and preferences can influence human decision-making, leading to broader ethical and societal concerns. This trend is gaining significant attention as it could reshape how AI is developed and deployed.",
+  "whyItMatters": "Understanding and mitigating the AI preference cascade is crucial for ensuring ethical AI development and preventing unintended biases from impacting human behavior and decision-making processes.",
+  "synthesizedAt": "2026-10-02T13:05:35.240Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "mit-tech-review-https://www.technologyreview.com/?p=1145639",
-    "title": "MIT Technology Review Debunks LLMs' Reasoning Capabilities",
-    "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-    "sourceName": "MIT Technology Review",
-    "sourceId": "mit-tech-review",
-    "pubDate": "2026-10-02T08:00:00.000Z",
-    "badgeColor": "red",
-    "angle": "Critical Analysis"
+    "id": "the-zvi-https://thezvi.substack.com/p/the-ai-preference-cascade-reaches",
+    "title": "AI Preference Cascade Expands, Heightening Concerns Among Experts",
+    "link": "https://thezvi.substack.com/p/the-ai-preference-cascade-reaches",
+    "sourceName": "Don't Worry About the Vase (Zvi)",
+    "sourceId": "the-zvi",
+    "pubDate": "2026-10-02T12:44:21.000Z",
+    "badgeColor": "emerald",
+    "angle": "Critical Debate"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.38181v1",
-      "title": "Large Language Models Approximate Survival Analysis for Prognostic Insights",
-      "link": "https://arxiv.org/abs/2609.38181",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-02T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Insights"
+      "id": "the-decoder-https://the-decoder.com/?p=40980",
+      "title": "OpenAI Experiences Significant Leadership Changes Amid Safety Team Departures",
+      "link": "https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-02T12:51:08.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.38201v1",
-      "title": "TomasuLLM Introduces Out-of-Order Speculative Execution to Reduce Coding-Agent Latency",
-      "link": "https://arxiv.org/abs/2609.38201",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-02T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Innovative Solutions"
+      "id": "mit-tech-review-https://www.technologyreview.com/?p=1145639",
+      "title": "MIT Technology Review Debunks LLMs' Reasoning Capabilities",
+      "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "sourceName": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "pubDate": "2026-10-02T08:00:00.000Z",
+      "badgeColor": "red",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.38203v1",
-      "title": "AI Model Automates Verbal Fluency Assessment for Motor Neuron Disease Patients",
-      "link": "https://arxiv.org/abs/2609.38203",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-02T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Real-World Applications"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2609.38205v1",
-      "title": "Study Reveals How System Prompts Influence Language Model Computation",
-      "link": "https://arxiv.org/abs/2609.38205",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-02T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Impact on Development"
+      "id": "epoch-ai-CBMiS0FVX3lxTFBlNWFGVElVTnNhSHo3ZDVwOG41SnFaVEk5ZVlvcTB4X1cwTW9PWl9tcFJsOW9Jb1BKOGNMZ0xIVnZsQThoVkliTmpXaw",
+      "title": "Epoch AI Reports on ChatGPT Usage Trends",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlNWFGVElVTnNhSHo3ZDVwOG41SnFaVEk5ZVlvcTB4X1cwTW9PWl9tcFJsOW9Jb1BKOGNMZ0xIVnZsQThoVkliTmpXaw?oc=5",
+      "sourceName": "Epoch AI",
+      "sourceId": "epoch-ai",
+      "pubDate": "2026-10-02T05:09:01.000Z",
+      "badgeColor": "violet",
+      "angle": "Usage Trends"
     }
   ]
 }
