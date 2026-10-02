@@ -1,28 +1,47 @@
 {
-  "headline": "OpenAI's Dots and AWS AgentCore Drive AI Agent Ecosystem Expansion",
-  "summary": "OpenAI's Dots and AWS's AgentCore are launching new AI agent frameworks, signaling a significant expansion in the AI agent ecosystem. These tools are expected to democratize AI agent development and deployment, enhancing productivity and operational efficiency.",
-  "whyItMatters": "These frameworks are crucial for broadening the accessibility and utility of AI agents, potentially transforming how businesses and individuals interact with AI technology.",
-  "synthesizedAt": "2026-10-01T21:31:51.829Z",
+  "headline": "Amazon Launches AgentCore for Building Event-Driven Ambient Agents",
+  "summary": "Amazon has introduced AgentCore as part of its Bedrock suite, enabling developers to create ambient agents that can respond to various events, including user interactions and environmental triggers. This move is expanding the capabilities of local AI agents and could significantly impact the development of ambient intelligence systems.",
+  "whyItMatters": "It broadens the accessibility and functionality of AI agents, potentially leading to more widespread adoption in consumer and enterprise environments.",
+  "synthesizedAt": "2026-10-02T00:38:39.142Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-channel-yt:video:fHEIw5CcN5U",
-    "title": "OpenAI Unveils Dots, Always-On AI Agents for Enhanced Productivity",
-    "link": "https://www.youtube.com/watch?v=fHEIw5CcN5U",
-    "sourceName": "OpenAI (YouTube)",
-    "sourceId": "openai-channel",
-    "pubDate": "2026-10-01T17:20:52.000Z",
-    "badgeColor": "emerald",
+    "id": "aws-ml-a3fcfb203f7dac7a81a6c684d4d3209b33fdbf65",
+    "title": "Amazon Launches AgentCore for Building Event-Driven Ambient Agents",
+    "link": "https://aws.amazon.com/blogs/machine-learning/building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-in-the-loop-workflows/",
+    "sourceName": "AWS Machine Learning",
+    "sourceId": "aws-ml",
+    "pubDate": "2026-10-01T16:40:24.000Z",
+    "badgeColor": "amber",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "aws-ml-a3fcfb203f7dac7a81a6c684d4d3209b33fdbf65",
-      "title": "Amazon Launches AgentCore for Building Event-Driven Ambient Agents",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-in-the-loop-workflows/",
+      "id": "aws-ml-d0376fa78aeb5acfd7edb22f7e3658ad0679a620",
+      "title": "AWS Professional Services Automates Cloud Migrations with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
       "sourceName": "AWS Machine Learning",
       "sourceId": "aws-ml",
-      "pubDate": "2026-10-01T16:40:24.000Z",
+      "pubDate": "2026-10-01T22:06:14.000Z",
       "badgeColor": "amber",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "nvidia-https://developer.nvidia.com/blog/?p=123148",
+      "title": "NVIDIA Enhances AI Agent Development with DOCA Agent Skills for BlueField",
+      "link": "https://developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills/",
+      "sourceName": "NVIDIA Technical Blog",
+      "sourceId": "nvidia",
+      "pubDate": "2026-10-01T18:13:29.000Z",
+      "badgeColor": "emerald"
+    },
+    {
+      "id": "openai-channel-yt:video:fHEIw5CcN5U",
+      "title": "OpenAI Unveils Dots, Always-On AI Agents for Enhanced Productivity",
+      "link": "https://www.youtube.com/watch?v=fHEIw5CcN5U",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-10-01T17:20:52.000Z",
+      "badgeColor": "emerald",
       "angle": "Industry Analysis"
     }
   ]
