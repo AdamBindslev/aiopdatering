@@ -1,49 +1,49 @@
 {
-  "headline": "Enterprise AI Advances Rapidly, Redefining Operational Capabilities",
-  "summary": "The MIT Technology Review highlights how enterprise AI is rapidly evolving, with models becoming more advanced and cost-effective. This shift is transforming operational capabilities across industries, driving innovation and efficiency.",
-  "whyItMatters": "It underscores the growing importance of AI in enterprise environments, influencing strategic decisions and operational processes.",
-  "synthesizedAt": "2026-10-02T16:12:58.259Z",
+  "headline": "AI Agent Autonomy Redefined by Clef and Clef-flash Models",
+  "summary": "Cloudflare's introduction of Clef and Clef-flash models significantly reduces the need for human oversight in AI agents, marking a pivotal shift towards greater autonomy. This trend is gaining momentum as companies seek to enhance efficiency and reduce costs.",
+  "whyItMatters": "It underscores the industry's focus on developing more autonomous AI systems, which could transform how AI is deployed and managed in various sectors.",
+  "synthesizedAt": "2026-10-02T19:19:06.023Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "mit-tech-review-https://www.technologyreview.com/?p=1143774",
-    "title": "Enterprise AI Advances Rapidly, Redefining Operational Capabilities",
-    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-    "sourceName": "MIT Technology Review",
-    "sourceId": "mit-tech-review",
-    "pubDate": "2026-10-02T15:49:04.000Z",
-    "badgeColor": "red",
-    "angle": "Industry Analysis"
+    "id": "the-decoder-https://the-decoder.com/?p=40983",
+    "title": "Cloudflare Unveils Clef and Clef-flash Models, Redefining AI Agent Autonomy",
+    "link": "https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-02T18:19:51.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "aws-ml-c348d5804487175a62b36b622fd99ec800d9aef8",
-      "title": "AWS Launches Fine-Tuned Search Agent with Multi-Turn RL on SageMaker",
-      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-10-02T15:44:20.000Z",
-      "badgeColor": "amber",
-      "angle": "Technical Deep Dive"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3173313",
+      "title": "Apple Tightens macOS Full Disk Access Controls Amid AI Agent Risks",
+      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-02T18:11:27.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "huggingface-https://huggingface.co/blog/allenai/astabrief",
-      "title": "AstaBrief Open-Sourced: Hugging Face Unveils Fast Report-Generation Model",
-      "link": "https://huggingface.co/blog/allenai/astabrief",
-      "sourceName": "Hugging Face Blog",
-      "sourceId": "huggingface",
-      "pubDate": "2026-10-02T15:19:50.000Z",
-      "badgeColor": "yellow",
-      "angle": "Product Launch"
+      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3173316",
+      "title": "Tech Giants Sign AI Safety Pledge Amid Consumer Skepticism",
+      "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-02T17:56:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Policy Impact"
     },
     {
-      "id": "google-ai-https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "title": "Google Unveils Latest AI Innovations in September 2026 Update",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "sourceName": "Google News AI",
-      "sourceId": "google-ai",
-      "pubDate": "2026-10-02T15:00:00.000Z",
-      "badgeColor": "cyan",
-      "angle": "Innovations Overview"
+      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_video&p=3173314",
+      "title": "White House Unveils AI Safety Pledge with 'Super Intelligence' Label",
+      "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-02T17:48:16.000Z",
+      "badgeColor": "emerald",
+      "angle": "Official Release"
     }
   ]
 }
