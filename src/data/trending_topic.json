@@ -1,49 +1,59 @@
 {
-  "headline": "Evaluating Profession-Specific Prompts for Scientific Agents: Cost vs. Accuracy Trade-offs",
-  "summary": "A new study from arXiv evaluates the use of profession-specific system prompts for scientific tasks, revealing that while these prompts increase token efficiency, they come with trade-offs in accuracy and user satisfaction. This research is driving a critical debate on the balance between cost and performance in AI agent development.",
-  "whyItMatters": "It highlights the nuanced trade-offs in AI agent customization, influencing the design and deployment strategies for specialized scientific tools.",
-  "synthesizedAt": "2026-10-02T06:56:08.860Z",
+  "headline": "Large Language Models' Reasoning Capabilities Under Scrutiny",
+  "summary": "Recent studies and analyses are reevaluating the reasoning capabilities of large language models (LLMs), highlighting their limitations and potential improvements. This trend is gaining significant attention as it impacts the development and deployment of AI agents across various industries.",
+  "whyItMatters": "Understanding and addressing the reasoning limitations of LLMs is crucial for advancing their utility and ensuring they are reliable in complex, real-world applications.",
+  "synthesizedAt": "2026-10-02T09:58:58.444Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2610.00084v1",
-    "title": "Evaluating Profession-Specific Prompts for Scientific Agents: Cost vs. Accuracy Trade-offs",
-    "link": "https://arxiv.org/abs/2610.00084",
-    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-    "sourceId": "arxiv-ai",
-    "pubDate": "2026-10-02T04:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "Critical Debate"
+    "id": "mit-tech-review-https://www.technologyreview.com/?p=1145639",
+    "title": "MIT Technology Review Debunks LLMs' Reasoning Capabilities",
+    "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+    "sourceName": "MIT Technology Review",
+    "sourceId": "mit-tech-review",
+    "pubDate": "2026-10-02T08:00:00.000Z",
+    "badgeColor": "red",
+    "angle": "Critical Analysis"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2609.38260v1",
-      "title": "ContextAdapt: A New Framework for Evaluating Contextual Adaptation and Value Alignment in LLMs",
-      "link": "https://arxiv.org/abs/2609.38260",
+      "id": "arxiv-cl-oai:arXiv.org:2609.38181v1",
+      "title": "Large Language Models Approximate Survival Analysis for Prognostic Insights",
+      "link": "https://arxiv.org/abs/2609.38181",
       "sourceName": "arXiv cs.CL (Sprog & LLM)",
       "sourceId": "arxiv-cl",
       "pubDate": "2026-10-02T04:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Industry Analysis"
+      "angle": "Technical Insights"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2610.00015v1",
-      "title": "Praxa Introduced: A Framework for Verifying AI Agent Actions and Their External Effects",
-      "link": "https://arxiv.org/abs/2610.00015",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
+      "id": "arxiv-cl-oai:arXiv.org:2609.38201v1",
+      "title": "TomasuLLM Introduces Out-of-Order Speculative Execution to Reduce Coding-Agent Latency",
+      "link": "https://arxiv.org/abs/2609.38201",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
       "pubDate": "2026-10-02T04:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Official Release"
+      "angle": "Innovative Solutions"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2610.00061v1",
-      "title": "New Technique Aligns Large Language Models with User Preferences for Personalized Experiences",
-      "link": "https://arxiv.org/abs/2610.00061",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
+      "id": "arxiv-cl-oai:arXiv.org:2609.38203v1",
+      "title": "AI Model Automates Verbal Fluency Assessment for Motor Neuron Disease Patients",
+      "link": "https://arxiv.org/abs/2609.38203",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
       "pubDate": "2026-10-02T04:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
+      "angle": "Real-World Applications"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2609.38205v1",
+      "title": "Study Reveals How System Prompts Influence Language Model Computation",
+      "link": "https://arxiv.org/abs/2609.38205",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-02T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Impact on Development"
     }
   ]
 }
