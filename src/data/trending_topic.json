@@ -1,49 +1,49 @@
 {
-  "headline": "AI Preference Cascade Gains Momentum, Heightening Ethical Concerns",
-  "summary": "Experts are increasingly warning about the AI preference cascade, a phenomenon where AI systems' biases and preferences can influence human decision-making, leading to broader ethical and societal concerns. This trend is gaining significant attention as it could reshape how AI is developed and deployed.",
-  "whyItMatters": "Understanding and mitigating the AI preference cascade is crucial for ensuring ethical AI development and preventing unintended biases from impacting human behavior and decision-making processes.",
-  "synthesizedAt": "2026-10-02T13:05:35.240Z",
+  "headline": "Enterprise AI Advances Rapidly, Redefining Operational Capabilities",
+  "summary": "The MIT Technology Review highlights how enterprise AI is rapidly evolving, with models becoming more advanced and cost-effective. This shift is transforming operational capabilities across industries, driving innovation and efficiency.",
+  "whyItMatters": "It underscores the growing importance of AI in enterprise environments, influencing strategic decisions and operational processes.",
+  "synthesizedAt": "2026-10-02T16:12:58.259Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-zvi-https://thezvi.substack.com/p/the-ai-preference-cascade-reaches",
-    "title": "AI Preference Cascade Expands, Heightening Concerns Among Experts",
-    "link": "https://thezvi.substack.com/p/the-ai-preference-cascade-reaches",
-    "sourceName": "Don't Worry About the Vase (Zvi)",
-    "sourceId": "the-zvi",
-    "pubDate": "2026-10-02T12:44:21.000Z",
-    "badgeColor": "emerald",
-    "angle": "Critical Debate"
+    "id": "mit-tech-review-https://www.technologyreview.com/?p=1143774",
+    "title": "Enterprise AI Advances Rapidly, Redefining Operational Capabilities",
+    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "sourceName": "MIT Technology Review",
+    "sourceId": "mit-tech-review",
+    "pubDate": "2026-10-02T15:49:04.000Z",
+    "badgeColor": "red",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40980",
-      "title": "OpenAI Experiences Significant Leadership Changes Amid Safety Team Departures",
-      "link": "https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-02T12:51:08.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "mit-tech-review-https://www.technologyreview.com/?p=1145639",
-      "title": "MIT Technology Review Debunks LLMs' Reasoning Capabilities",
-      "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "sourceName": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "pubDate": "2026-10-02T08:00:00.000Z",
-      "badgeColor": "red",
+      "id": "aws-ml-c348d5804487175a62b36b622fd99ec800d9aef8",
+      "title": "AWS Launches Fine-Tuned Search Agent with Multi-Turn RL on SageMaker",
+      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-10-02T15:44:20.000Z",
+      "badgeColor": "amber",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "epoch-ai-CBMiS0FVX3lxTFBlNWFGVElVTnNhSHo3ZDVwOG41SnFaVEk5ZVlvcTB4X1cwTW9PWl9tcFJsOW9Jb1BKOGNMZ0xIVnZsQThoVkliTmpXaw",
-      "title": "Epoch AI Reports on ChatGPT Usage Trends",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlNWFGVElVTnNhSHo3ZDVwOG41SnFaVEk5ZVlvcTB4X1cwTW9PWl9tcFJsOW9Jb1BKOGNMZ0xIVnZsQThoVkliTmpXaw?oc=5",
-      "sourceName": "Epoch AI",
-      "sourceId": "epoch-ai",
-      "pubDate": "2026-10-02T05:09:01.000Z",
-      "badgeColor": "violet",
-      "angle": "Usage Trends"
+      "id": "huggingface-https://huggingface.co/blog/allenai/astabrief",
+      "title": "AstaBrief Open-Sourced: Hugging Face Unveils Fast Report-Generation Model",
+      "link": "https://huggingface.co/blog/allenai/astabrief",
+      "sourceName": "Hugging Face Blog",
+      "sourceId": "huggingface",
+      "pubDate": "2026-10-02T15:19:50.000Z",
+      "badgeColor": "yellow",
+      "angle": "Product Launch"
+    },
+    {
+      "id": "google-ai-https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "title": "Google Unveils Latest AI Innovations in September 2026 Update",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "sourceName": "Google News AI",
+      "sourceId": "google-ai",
+      "pubDate": "2026-10-02T15:00:00.000Z",
+      "badgeColor": "cyan",
+      "angle": "Innovations Overview"
     }
   ]
 }
