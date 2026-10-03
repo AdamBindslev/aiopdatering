@@ -1,8 +1,8 @@
 {
-  "headline": "Meta Opens Muse AI Framework to Developers for Widespread Integration",
-  "summary": "Meta has released the Muse AI framework, enabling broader integration of advanced AI capabilities into consumer devices. This move is driving innovation and democratizing access to sophisticated AI tools.",
-  "whyItMatters": "It accelerates the adoption of advanced AI technologies in everyday consumer products, fostering a more integrated and accessible AI ecosystem.",
-  "synthesizedAt": "2026-10-03T10:52:59.034Z",
+  "headline": "Meta Opens Muse AI Framework for Broad Consumer Integration",
+  "summary": "Meta has released the Muse AI framework, allowing developers to integrate advanced AI capabilities into consumer devices. This move is expected to accelerate the adoption of AI in everyday products, driving innovation and competition in the consumer tech sector.",
+  "whyItMatters": "It opens up new opportunities for integrating sophisticated AI into consumer electronics, potentially transforming the way people interact with technology in their daily lives.",
+  "synthesizedAt": "2026-10-03T13:59:48.173Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "techcrunch-ai-https://techcrunch.com/?p=3173444",
@@ -16,6 +16,16 @@
   },
   "supportingStories": [
     {
+      "id": "nvidia-developer-yt:video:ZAzmStkdrgI",
+      "title": "NVIDIA Unveils Nemotron 3 Diarization Q&A: Enhancing Speaker Identification Across Languages",
+      "link": "https://www.youtube.com/shorts/ZAzmStkdrgI",
+      "sourceName": "NVIDIA Developer",
+      "sourceId": "nvidia-developer",
+      "pubDate": "2026-10-03T00:36:07.000Z",
+      "badgeColor": "green",
+      "angle": "Technical Deep Dive"
+    },
+    {
       "id": "nvidia-developer-yt:video:afREwSZh1Yk",
       "title": "Artificial Analysis Reveals Insights on Nemotron Models in Rigorous Benchmarking Session",
       "link": "https://www.youtube.com/watch?v=afREwSZh1Yk",
@@ -23,7 +33,7 @@
       "sourceId": "nvidia-developer",
       "pubDate": "2026-10-02T22:54:08.000Z",
       "badgeColor": "green",
-      "angle": "Technical Deep Dive"
+      "angle": "Industry Analysis"
     }
   ]
 }
