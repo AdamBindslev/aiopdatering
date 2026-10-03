@@ -1,48 +1,48 @@
 {
-  "headline": "AI Agent Autonomy and Security Gain Momentum",
-  "summary": "Cloudflare's Clef and Clef-flash models and Apple's enhanced Full Disk Access controls are pushing the boundaries of AI agent autonomy and security, indicating a growing focus on reducing human oversight and enhancing user safety.",
-  "whyItMatters": "This trend underscores the industry's commitment to developing more autonomous AI agents while prioritizing user security, which is crucial for widespread adoption and trust.",
-  "synthesizedAt": "2026-10-02T22:25:53.404Z",
+  "headline": "Meta Opens Muse AI Framework to Developers, Accelerating Local AI Integration",
+  "summary": "Meta has open-sourced the Muse AI framework, enabling developers to integrate advanced AI capabilities into consumer devices. This move is driving local AI deployment and potentially reducing reliance on proprietary platforms.",
+  "whyItMatters": "It broadens access to cutting-edge AI technologies and could lead to more diverse and innovative AI applications in consumer electronics.",
+  "synthesizedAt": "2026-10-03T01:32:34.100Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=40983",
-    "title": "Cloudflare Unveils Clef and Clef-flash Models, Redefining AI Agent Autonomy",
-    "link": "https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-02T18:19:51.000Z",
-    "badgeColor": "slate",
-    "angle": "New Models"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3173444",
+    "title": "Meta Opens Muse AI Framework to Developers for Widespread Integration",
+    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-10-03T00:45:39.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3173313",
-      "title": "Apple Tightens macOS Full Disk Access Controls Amid AI Agent Risks",
-      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-02T18:11:27.000Z",
-      "badgeColor": "emerald",
-      "angle": "Security Measures"
+      "id": "weights-and-biases-yt:video:OG9eva01RuI",
+      "title": "CoreWeave Forge Demonstrates Rapid AI Agent Development and Deployment",
+      "link": "https://www.youtube.com/watch?v=OG9eva01RuI",
+      "sourceName": "Weights & Biases",
+      "sourceId": "weights-and-biases",
+      "pubDate": "2026-10-02T21:07:38.000Z",
+      "badgeColor": "yellow",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3173316",
-      "title": "Tech Giants Sign AI Safety Pledge Amid Consumer Skepticism",
-      "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-02T17:56:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Pledges"
+      "id": "epoch-ai-CBMibkFVX3lxTE5kYkdiLUZkOER0RUVfLWVoYUZGdnRsSlg0VExtbl82ZXUzVThrWnlZQ1lvZGw0Tnc3a3JLb2NvMUJLUFRiWk1abGIzRl9fdnVfdHpRbWwxU3R6TjVDbTNSQ0ZIcWNMSUM2OTBTYm13",
+      "title": "Epoch AI Explores Scalability of AI Agents to Optimize Resource Utilization",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kYkdiLUZkOER0RUVfLWVoYUZGdnRsSlg0VExtbl82ZXUzVThrWnlZQ1lvZGw0Tnc3a3JLb2NvMUJLUFRiWk1abGIzRl9fdnVfdHpRbWwxU3R6TjVDbTNSQ0ZIcWNMSUM2OTBTYm13?oc=5",
+      "sourceName": "Epoch AI",
+      "sourceId": "epoch-ai",
+      "pubDate": "2026-10-02T19:03:35.000Z",
+      "badgeColor": "violet",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_video&p=3173314",
-      "title": "White House Unveils AI Safety Pledge with 'Super Intelligence' Label",
-      "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-02T17:48:16.000Z",
-      "badgeColor": "emerald"
+      "id": "huggingface-https://huggingface.co/blog/allenai/astabrief",
+      "title": "AstaBrief Open-Sourced: Hugging Face Unveils Fast Report-Generation Model",
+      "link": "https://huggingface.co/blog/allenai/astabrief",
+      "sourceName": "Hugging Face Blog",
+      "sourceId": "huggingface",
+      "pubDate": "2026-10-02T15:19:50.000Z",
+      "badgeColor": "yellow"
     }
   ]
 }
