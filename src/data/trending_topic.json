@@ -1,8 +1,8 @@
 {
-  "headline": "OpenAI Safety Concerns Erupt Amid Employee Resignation",
-  "summary": "OpenAI faces a significant crisis after a safety employee resigns, publicly criticizing the company's culture and practices. This event has sparked widespread debate on AI safety and the need for transparency in the industry.",
-  "whyItMatters": "The resignation highlights critical safety concerns and could lead to increased regulatory scrutiny and changes in industry practices.",
-  "synthesizedAt": "2026-10-03T20:13:15.604Z",
+  "headline": "OpenAI Safety Concerns Erupt as Key Employee Resigns",
+  "summary": "OpenAI faces a significant crisis as safety expert David Robinson resigns, publicly criticizing the company's culture and practices. This event has sparked widespread debate about AI safety and the broader implications for the industry.",
+  "whyItMatters": "It highlights ongoing safety concerns within leading AI companies and could lead to increased scrutiny and regulatory pressure on AI development practices.",
+  "synthesizedAt": "2026-10-03T23:19:57.297Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "techcrunch-ai-https://techcrunch.com/?p=3173499",
@@ -12,19 +12,9 @@
     "sourceId": "techcrunch-ai",
     "pubDate": "2026-10-03T16:30:01.000Z",
     "badgeColor": "emerald",
-    "angle": "Critical Debate"
+    "angle": "Critical Incident"
   },
   "supportingStories": [
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=41053",
-      "title": "OpenAI CEO Warns Against Overblown AI Narratives, Emphasizing Safety Concerns",
-      "link": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-03T18:56:30.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Analysis"
-    },
     {
       "id": "the-decoder-https://the-decoder.com/?p=41041",
       "title": "OpenAI Safety Expert David Robinson Leaves, Criticizing Company's Safety Culture",
@@ -33,7 +23,26 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-10-03T14:01:14.000Z",
       "badgeColor": "slate",
-      "angle": "Official Release"
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=41053",
+      "title": "OpenAI CEO Warns Against Overblown AI Narratives, Emphasizing Safety Concerns",
+      "link": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-03T18:56:30.000Z",
+      "badgeColor": "slate",
+      "angle": "Safety Concerns"
+    },
+    {
+      "id": "epoch-ai-CBMiY0FVX3lxTFBCX0JVLUF2VzVkMEVWRUtZZVlubGk5Y1c5OTdpUm9zQmI4MVd5Z1FJbWVEbGY3VU9UUzJGQlVZd2xiazI0VEwyRGRrcVd5SVpEZ0Z6NGI1NlpnLTNOMVdYcmlGUQ",
+      "title": "Epoch AI Releases ChatGPT Usage Documentation and FAQ",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCX0JVLUF2VzVkMEVWRUtZZVlubGk5Y1c5OTdpUm9zQmI4MVd5Z1FJbWVEbGY3VU9UUzJGQlVZd2xiazI0VEwyRGRrcVd5SVpEZ0Z6NGI1NlpnLTNOMVdYcmlGUQ?oc=5",
+      "sourceName": "Epoch AI",
+      "sourceId": "epoch-ai",
+      "pubDate": "2026-10-03T13:05:21.000Z",
+      "badgeColor": "violet"
     }
   ]
 }
