@@ -1,8 +1,8 @@
 {
-  "headline": "OpenAI Safety Concerns Spark Debate on AI Development Culture",
-  "summary": "David Robinson, an OpenAI safety employee, has resigned, publicly criticizing the company's culture and practices. This event has sparked a broader debate on the safety and ethical development of AI, highlighting the need for transparent and responsible practices.",
-  "whyItMatters": "It underscores the importance of ethical considerations in AI development and could lead to changes in company practices and industry standards.",
-  "synthesizedAt": "2026-10-03T17:06:29.976Z",
+  "headline": "OpenAI Safety Concerns Erupt Amid Employee Resignation",
+  "summary": "OpenAI faces a significant crisis after a safety employee resigns, publicly criticizing the company's culture and practices. This event has sparked widespread debate on AI safety and the need for transparency in the industry.",
+  "whyItMatters": "The resignation highlights critical safety concerns and could lead to increased regulatory scrutiny and changes in industry practices.",
+  "synthesizedAt": "2026-10-03T20:13:15.604Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "techcrunch-ai-https://techcrunch.com/?p=3173499",
@@ -12,9 +12,19 @@
     "sourceId": "techcrunch-ai",
     "pubDate": "2026-10-03T16:30:01.000Z",
     "badgeColor": "emerald",
-    "angle": "Official Release"
+    "angle": "Critical Debate"
   },
   "supportingStories": [
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=41053",
+      "title": "OpenAI CEO Warns Against Overblown AI Narratives, Emphasizing Safety Concerns",
+      "link": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-03T18:56:30.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
+    },
     {
       "id": "the-decoder-https://the-decoder.com/?p=41041",
       "title": "OpenAI Safety Expert David Robinson Leaves, Criticizing Company's Safety Culture",
@@ -23,17 +33,7 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-10-03T14:01:14.000Z",
       "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=41035",
-      "title": "DeepMind Researchers Propose 'Artificial Symbiotic Intelligence' as an Alternative to the Singularity",
-      "link": "https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-03T10:21:23.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Analysis"
+      "angle": "Official Release"
     }
   ]
 }
