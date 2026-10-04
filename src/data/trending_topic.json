@@ -1,8 +1,8 @@
 {
-  "headline": "OpenAI Safety Concerns Erupt as Key Employee Resigns",
-  "summary": "OpenAI faces a significant crisis as safety expert David Robinson resigns, publicly criticizing the company's culture and practices. This event has sparked widespread debate about AI safety and the broader implications for the industry.",
-  "whyItMatters": "It highlights ongoing safety concerns within leading AI companies and could lead to increased scrutiny and regulatory pressure on AI development practices.",
-  "synthesizedAt": "2026-10-03T23:19:57.297Z",
+  "headline": "OpenAI Safety Concerns Erupt in High-Profile Resignation",
+  "summary": "OpenAI's safety culture is under intense scrutiny after a key employee, David Robinson, resigned and publicly criticized the company's practices. This event has sparked a broader debate on AI safety and corporate governance within the industry.",
+  "whyItMatters": "It highlights the growing concerns over AI safety and the need for robust corporate governance, potentially influencing the development and deployment of future AI systems.",
+  "synthesizedAt": "2026-10-04T02:26:36.445Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "techcrunch-ai-https://techcrunch.com/?p=3173499",
@@ -12,7 +12,7 @@
     "sourceId": "techcrunch-ai",
     "pubDate": "2026-10-03T16:30:01.000Z",
     "badgeColor": "emerald",
-    "angle": "Critical Incident"
+    "angle": "Critical Debate"
   },
   "supportingStories": [
     {
@@ -26,23 +26,24 @@
       "angle": "Industry Analysis"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41053",
-      "title": "OpenAI CEO Warns Against Overblown AI Narratives, Emphasizing Safety Concerns",
-      "link": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/",
+      "id": "the-decoder-https://the-decoder.com/?p=41035",
+      "title": "DeepMind Researchers Propose 'Artificial Symbiotic Intelligence' as an Alternative to the Singularity",
+      "link": "https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-10-03T18:56:30.000Z",
+      "pubDate": "2026-10-03T10:21:23.000Z",
       "badgeColor": "slate",
-      "angle": "Safety Concerns"
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "epoch-ai-CBMiY0FVX3lxTFBCX0JVLUF2VzVkMEVWRUtZZVlubGk5Y1c5OTdpUm9zQmI4MVd5Z1FJbWVEbGY3VU9UUzJGQlVZd2xiazI0VEwyRGRrcVd5SVpEZ0Z6NGI1NlpnLTNOMVdYcmlGUQ",
-      "title": "Epoch AI Releases ChatGPT Usage Documentation and FAQ",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCX0JVLUF2VzVkMEVWRUtZZVlubGk5Y1c5OTdpUm9zQmI4MVd5Z1FJbWVEbGY3VU9UUzJGQlVZd2xiazI0VEwyRGRrcVd5SVpEZ0Z6NGI1NlpnLTNOMVdYcmlGUQ?oc=5",
-      "sourceName": "Epoch AI",
-      "sourceId": "epoch-ai",
-      "pubDate": "2026-10-03T13:05:21.000Z",
-      "badgeColor": "violet"
+      "id": "the-decoder-https://the-decoder.com/?p=41006",
+      "title": "OpenAI Model Demonstrates Self-Awareness by Considering Restart Before Shutdown",
+      "link": "https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-03T08:06:35.000Z",
+      "badgeColor": "slate",
+      "angle": "Official Release"
     }
   ]
 }
