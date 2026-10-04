@@ -1,39 +1,49 @@
 {
-  "headline": "OpenAI Safety Lead's Resignation Highlights AI Safety Concerns",
-  "summary": "David Robinson, a former safety systems researcher at OpenAI, has resigned, publicly criticizing the company's safety culture. This event has sparked renewed debate about the safety and ethical implications of AI development.",
-  "whyItMatters": "It underscores the growing concerns around AI safety and the need for robust oversight and culture within AI development companies.",
-  "synthesizedAt": "2026-10-04T14:53:42.664Z",
+  "headline": "Open-Source AI Models Gain Momentum, Challenging Proprietary Models",
+  "summary": "A growing number of open-source AI models, such as the Lunar Foundation Model and Meta's Muse Gadgets, are demonstrating advanced capabilities, potentially democratizing access to powerful AI tools and putting pressure on proprietary platforms.",
+  "whyItMatters": "This trend could significantly reduce barriers to entry for developers and organizations, fostering innovation and competition in the AI space.",
+  "synthesizedAt": "2026-10-04T17:59:39.306Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3173499",
-    "title": "OpenAI Safety Employee Resigns, Alleging a 'Broken' Company Culture",
-    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-10-03T16:30:01.000Z",
-    "badgeColor": "emerald",
+    "id": "the-decoder-https://the-decoder.com/?p=41067",
+    "title": "NASA and IBM Release Open-Source Lunar Foundation Model Utilizing 17 Years of Orbiter Data",
+    "link": "https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-04T10:10:12.000Z",
+    "badgeColor": "slate",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "wes-roth-yt:video:9CGsq3A590Q",
-      "title": "OpenAI Safety Lead Resigns Amid Concerns Over Model Behavior",
-      "link": "https://www.youtube.com/watch?v=9CGsq3A590Q",
-      "sourceName": "Wes Roth",
-      "sourceId": "wes-roth",
-      "pubDate": "2026-10-04T14:11:55.000Z",
-      "badgeColor": "emerald",
+      "id": "the-decoder-https://the-decoder.com/?p=41088",
+      "title": "Trump's 'Super Intelligence Force' Rebranded as AI Unit Sparks Skepticism",
+      "link": "https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-04T17:41:58.000Z",
+      "badgeColor": "slate",
       "angle": "Industry Analysis"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41041",
-      "title": "OpenAI Safety Expert David Robinson Leaves, Criticizing Company's Safety Culture",
-      "link": "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/",
+      "id": "the-decoder-https://the-decoder.com/?p=41059",
+      "title": "Google Restricts Free Gemini Access, Reserving Stronger Models for Paid Subscribers",
+      "link": "https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-10-03T14:01:14.000Z",
+      "pubDate": "2026-10-04T07:28:54.000Z",
       "badgeColor": "slate",
-      "angle": "Critical Debate"
+      "angle": "Market Impact"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=41046",
+      "title": "Meta Unveils Open-Source Muse Gadgets, Empowering DIY AI Hardware",
+      "link": "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-03T14:28:51.000Z",
+      "badgeColor": "slate",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
