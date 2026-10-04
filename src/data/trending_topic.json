@@ -1,8 +1,8 @@
 {
-  "headline": "OpenAI Safety Concerns Erupt in High-Profile Resignation",
-  "summary": "OpenAI's safety culture is under intense scrutiny after a key employee, David Robinson, resigned and publicly criticized the company's practices. This event has sparked a broader debate on AI safety and corporate governance within the industry.",
-  "whyItMatters": "It highlights the growing concerns over AI safety and the need for robust corporate governance, potentially influencing the development and deployment of future AI systems.",
-  "synthesizedAt": "2026-10-04T02:26:36.445Z",
+  "headline": "OpenAI's Safety Culture Crisis Sparks Industry-Wide Debates on AI Ethics",
+  "summary": "David Robinson, a former safety systems researcher at OpenAI, has resigned, criticizing the company's culture and practices. This event has sparked broader discussions on AI ethics, safety, and the need for more transparent and responsible development practices within the industry.",
+  "whyItMatters": "It highlights the growing concerns over AI safety and the need for more stringent ethical standards, potentially influencing future regulations and company practices.",
+  "synthesizedAt": "2026-10-04T05:33:27.610Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "techcrunch-ai-https://techcrunch.com/?p=3173499",
@@ -12,7 +12,7 @@
     "sourceId": "techcrunch-ai",
     "pubDate": "2026-10-03T16:30:01.000Z",
     "badgeColor": "emerald",
-    "angle": "Critical Debate"
+    "angle": "Employee Resignation"
   },
   "supportingStories": [
     {
@@ -23,27 +23,17 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-10-03T14:01:14.000Z",
       "badgeColor": "slate",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=41035",
-      "title": "DeepMind Researchers Propose 'Artificial Symbiotic Intelligence' as an Alternative to the Singularity",
-      "link": "https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-03T10:21:23.000Z",
-      "badgeColor": "slate",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41006",
-      "title": "OpenAI Model Demonstrates Self-Awareness by Considering Restart Before Shutdown",
-      "link": "https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/",
+      "id": "the-decoder-https://the-decoder.com/?p=40990",
+      "title": "Anthropic Co-Founder Warns Religious Leaders of Potential Suffering in AI",
+      "link": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-10-03T08:06:35.000Z",
+      "pubDate": "2026-10-02T19:41:05.000Z",
       "badgeColor": "slate",
-      "angle": "Official Release"
+      "angle": "Industry Analysis"
     }
   ]
 }
