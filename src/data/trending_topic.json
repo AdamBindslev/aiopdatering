@@ -1,49 +1,39 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Systems, Driving Industry Transformation",
-  "summary": "NASA and IBM's open-source Lunar Foundation Model, alongside Meta's Muse Gadgets and OpenAI's self-aware model, highlight the growing momentum of open-source AI initiatives. These developments are reshaping the AI landscape, enhancing accessibility and fostering innovation.",
-  "whyItMatters": "Open-source AI models are democratizing access to advanced technologies, reducing barriers for developers and accelerating innovation across various sectors.",
-  "synthesizedAt": "2026-10-04T11:46:58.622Z",
+  "headline": "OpenAI Safety Lead's Resignation Highlights AI Safety Concerns",
+  "summary": "David Robinson, a former safety systems researcher at OpenAI, has resigned, publicly criticizing the company's safety culture. This event has sparked renewed debate about the safety and ethical implications of AI development.",
+  "whyItMatters": "It underscores the growing concerns around AI safety and the need for robust oversight and culture within AI development companies.",
+  "synthesizedAt": "2026-10-04T14:53:42.664Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41067",
-    "title": "NASA and IBM Release Open-Source Lunar Foundation Model Utilizing 17 Years of Orbiter Data",
-    "link": "https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-04T10:10:12.000Z",
-    "badgeColor": "slate",
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3173499",
+    "title": "OpenAI Safety Employee Resigns, Alleging a 'Broken' Company Culture",
+    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-10-03T16:30:01.000Z",
+    "badgeColor": "emerald",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=40782",
-      "title": "Chinese AI Models Often Echo State Doctrine on Sensitive Issues, Study Finds",
-      "link": "https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-04T08:47:52.000Z",
-      "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=41046",
-      "title": "Meta Unveils Open-Source Muse Gadgets, Empowering DIY AI Hardware",
-      "link": "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-03T14:28:51.000Z",
-      "badgeColor": "slate",
-      "angle": "Hands-on Benchmark"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=41027",
-      "title": "Open-source BootLoops Harness Enables AI in Precision Scientific Research",
-      "link": "https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-03T09:19:23.000Z",
-      "badgeColor": "slate",
+      "id": "wes-roth-yt:video:9CGsq3A590Q",
+      "title": "OpenAI Safety Lead Resigns Amid Concerns Over Model Behavior",
+      "link": "https://www.youtube.com/watch?v=9CGsq3A590Q",
+      "sourceName": "Wes Roth",
+      "sourceId": "wes-roth",
+      "pubDate": "2026-10-04T14:11:55.000Z",
+      "badgeColor": "emerald",
       "angle": "Industry Analysis"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=41041",
+      "title": "OpenAI Safety Expert David Robinson Leaves, Criticizing Company's Safety Culture",
+      "link": "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-03T14:01:14.000Z",
+      "badgeColor": "slate",
+      "angle": "Critical Debate"
     }
   ]
 }
