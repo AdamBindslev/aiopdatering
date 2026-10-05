@@ -1,24 +1,34 @@
 {
-  "headline": "AI Skepticism Paradox: Popularity Soars Despite Widespread Misgivings",
-  "summary": "Despite widespread public skepticism towards AI, a recent article from MIT Technology Review highlights how demand for AI tools is surging. This paradoxical trend is driving innovation and adoption, despite concerns over ethics and misuse.",
-  "whyItMatters": "It underscores the growing importance of AI in everyday life and the need for developers to address public concerns to maintain trust and ethical standards.",
-  "synthesizedAt": "2026-10-05T09:34:52.267Z",
+  "headline": "New Open-Weight Models Challenge Proprietary AI Systems",
+  "summary": "A series of new open-weight AI models are demonstrating advanced reasoning capabilities, rivaling top commercial systems. This trend is accelerating local AI agent deployment and putting downward pressure on proprietary platform pricing.",
+  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on closed proprietary platforms.",
+  "synthesizedAt": "2026-10-05T12:40:36.027Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "mit-tech-review-https://www.technologyreview.com/?p=1145682",
-    "title": "AI Skepticism Paradox: Why Popularity of AI Tools Surges Despite Widespread Misgivings",
-    "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-    "sourceName": "MIT Technology Review",
-    "sourceId": "mit-tech-review",
-    "pubDate": "2026-10-05T08:00:00.000Z",
-    "badgeColor": "red",
+    "id": "no-priors-yt:video:lnd920WC8Yk",
+    "title": "Inception Labs CEO Explains AI Model Training as Data Compression",
+    "link": "https://www.youtube.com/shorts/lnd920WC8Yk",
+    "sourceName": "No Priors Podcast",
+    "sourceId": "no-priors",
+    "pubDate": "2026-10-05T12:23:53.000Z",
+    "badgeColor": "amber",
     "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2610.02665v1",
-      "title": "New Continuous Diffusion Models Aim to Enhance Reasoning and Inference in Large Language Models",
-      "link": "https://arxiv.org/abs/2610.02665",
+      "id": "two-minute-papers-yt:video:ZHVNTTKu9fU",
+      "title": "AI Cloud Services Compete to Lower Costs and Enhance Capabilities",
+      "link": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
+      "sourceName": "Two Minute Papers",
+      "sourceId": "two-minute-papers",
+      "pubDate": "2026-10-05T09:53:12.000Z",
+      "badgeColor": "amber",
+      "angle": "Competitive Landscape"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2610.02293v1",
+      "title": "HakemBench: A New Turkish Benchmark for Typed Decisions in AI Models",
+      "link": "https://arxiv.org/abs/2610.02293",
       "sourceName": "arXiv cs.CL (Sprog & LLM)",
       "sourceId": "arxiv-cl",
       "pubDate": "2026-10-05T04:00:00.000Z",
@@ -26,24 +36,14 @@
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2610.02267v1",
-      "title": "New Study Evaluates System-1 Decision Models for LLM Agent Optimization",
-      "link": "https://arxiv.org/abs/2610.02267",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
+      "id": "arxiv-cl-oai:arXiv.org:2610.02425v1",
+      "title": "XiangqiBench Introduced for Evaluating LLM Agents in Closed-Loop Scenarios",
+      "link": "https://arxiv.org/abs/2610.02425",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
       "pubDate": "2026-10-05T04:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Official Release"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2610.02300v1",
-      "title": "Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
-      "link": "https://arxiv.org/abs/2610.02300",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-10-05T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Critical Debate"
+      "angle": "Benchmarking"
     }
   ]
 }
