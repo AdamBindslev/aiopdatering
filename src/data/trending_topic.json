@@ -1,49 +1,48 @@
 {
-  "headline": "Open vs. Closed AI Platforms: Industry Leaders Debate Strategic Choices",
-  "summary": "TechCrunch Disrupt 2026 keynote speakers are discussing the strategic implications of choosing between open and closed AI platforms, highlighting the growing importance of this decision in the AI industry.",
-  "whyItMatters": "This debate underscores the evolving landscape of AI development and deployment, influencing access to advanced AI technologies and the future of AI innovation.",
-  "synthesizedAt": "2026-10-05T15:48:05.238Z",
+  "headline": "Open-Weight Models Emerge as a Challenge to Proprietary AI Platforms",
+  "summary": "A series of new open-weight AI models, including Reka AI's Rho-1, are demonstrating advanced capabilities that rival top commercial systems. This trend is driving local AI agent deployment and putting pressure on closed API pricing models, broadening access to advanced AI technologies.",
+  "whyItMatters": "It challenges the dominance of proprietary AI platforms, potentially democratizing advanced AI capabilities and reducing costs for developers and enterprises.",
+  "synthesizedAt": "2026-10-05T18:56:14.896Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3173563",
-    "title": "TechCrunch Disrupt 2026: Founders Weigh Open vs. Closed AI in Keynote",
-    "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-10-05T15:00:00.000Z",
-    "badgeColor": "emerald",
-    "angle": "Industry Analysis"
+    "id": "the-decoder-https://the-decoder.com/?p=41121",
+    "title": "Reka AI Unveils Rho-1, a Versatile 19-Billion-Parameter Model for Text, Images, Video, and Robot Control",
+    "link": "https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-05T18:26:05.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3173723",
-      "title": "OpenAI Introduces Visual Ads in Image Generation Results",
-      "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-05T15:14:24.000Z",
+      "id": "openai-channel-yt:video:PUBc2G0Tj5E",
+      "title": "OpenAI Unveils Updated Codex CLI with Enhanced Terminal Experience",
+      "link": "https://www.youtube.com/watch?v=PUBc2G0Tj5E",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-10-05T18:29:08.000Z",
       "badgeColor": "emerald",
-      "angle": "Official Launch"
+      "angle": "Industry Analysis"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3173705",
-      "title": "Chinese AI Researchers Track Agent Swarm Targeting Alibaba's Services",
-      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-05T14:35:09.000Z",
-      "badgeColor": "emerald",
+      "id": "the-decoder-https://the-decoder.com/?p=41111",
+      "title": "Majority of Americans Call for Pausing AI Development Amid Safety Concerns",
+      "link": "https://the-decoder.com/most-americans-want-ai-development-to-slow-down-or-stop-entirely-new-poll-finds/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-05T16:37:08.000Z",
+      "badgeColor": "slate",
       "angle": "Critical Debate"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41097",
-      "title": "ChatGPT Introduces Ad-Driven Image Generation Load Screens in US",
-      "link": "https://the-decoder.com/chatgpts-new-ad-format-fills-the-image-generation-loading-screen-with-product-carousels/",
+      "id": "the-decoder-https://the-decoder.com/?p=41102",
+      "title": "Aleph Alpha Unveils Kolibri: A German-English Mixture-of-Experts Model for European AI Sovereignty",
+      "link": "https://the-decoder.com/aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-10-05T12:37:32.000Z",
-      "badgeColor": "slate",
-      "angle": "Hands-on Benchmark"
+      "pubDate": "2026-10-05T14:12:50.000Z",
+      "badgeColor": "slate"
     }
   ]
 }
