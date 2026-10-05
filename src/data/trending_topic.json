@@ -1,48 +1,39 @@
 {
-  "headline": "Open-Weight Models Emerge as a Challenge to Proprietary AI Platforms",
-  "summary": "A series of new open-weight AI models, including Reka AI's Rho-1, are demonstrating advanced capabilities that rival top commercial systems. This trend is driving local AI agent deployment and putting pressure on closed API pricing models, broadening access to advanced AI technologies.",
-  "whyItMatters": "It challenges the dominance of proprietary AI platforms, potentially democratizing advanced AI capabilities and reducing costs for developers and enterprises.",
-  "synthesizedAt": "2026-10-05T18:56:14.896Z",
+  "headline": "Open-Weight AI Models Emerge as a Competitive Threat to Proprietary Systems",
+  "summary": "Reflection has launched Beam, an open-weight AI model designed to challenge Chinese competitors by offering lower compute costs. This trend is gaining momentum as other companies like Reka AI unveil similar models, signaling a shift towards more accessible AI technologies.",
+  "whyItMatters": "This shift broadens access to advanced AI capabilities and reduces developer dependence on expensive, proprietary platforms, potentially reshaping the AI industry landscape.",
+  "synthesizedAt": "2026-10-05T22:01:42.172Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41121",
-    "title": "Reka AI Unveils Rho-1, a Versatile 19-Billion-Parameter Model for Text, Images, Video, and Robot Control",
-    "link": "https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-05T18:26:05.000Z",
-    "badgeColor": "slate",
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3173994",
+    "title": "Reflection Launches Beam, an Open-Weight AI Model to Compete with Chinese Models at Lower Compute Costs",
+    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-10-05T19:33:53.000Z",
+    "badgeColor": "emerald",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "openai-channel-yt:video:PUBc2G0Tj5E",
-      "title": "OpenAI Unveils Updated Codex CLI with Enhanced Terminal Experience",
-      "link": "https://www.youtube.com/watch?v=PUBc2G0Tj5E",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-10-05T18:29:08.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=41111",
-      "title": "Majority of Americans Call for Pausing AI Development Amid Safety Concerns",
-      "link": "https://the-decoder.com/most-americans-want-ai-development-to-slow-down-or-stop-entirely-new-poll-finds/",
+      "id": "the-decoder-https://the-decoder.com/?p=41121",
+      "title": "Reka AI Unveils Rho-1, a Versatile 19-Billion-Parameter Model for Text, Images, Video, and Robot Control",
+      "link": "https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-10-05T16:37:08.000Z",
+      "pubDate": "2026-10-05T18:26:05.000Z",
       "badgeColor": "slate",
-      "angle": "Critical Debate"
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41102",
-      "title": "Aleph Alpha Unveils Kolibri: A German-English Mixture-of-Experts Model for European AI Sovereignty",
-      "link": "https://the-decoder.com/aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty/",
+      "id": "the-decoder-https://the-decoder.com/?p=41114",
+      "title": "OpenAI Introduces EU-Specific Watermarking for ChatGPT with Optional Global API Option",
+      "link": "https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-10-05T14:12:50.000Z",
-      "badgeColor": "slate"
+      "pubDate": "2026-10-05T17:32:42.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
     }
   ]
 }
