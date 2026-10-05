@@ -1,48 +1,49 @@
 {
-  "headline": "AI Governance and Safety Debates Intensify Amid Open-Source Advances",
-  "summary": "Recent articles highlight growing concerns over AI governance and safety, with debates surrounding the rise of open-source models and the establishment of new task forces. These discussions underscore the need for robust frameworks to ensure ethical AI development and deployment.",
-  "whyItMatters": "These debates and initiatives are crucial for shaping the future of AI, ensuring it is developed and used responsibly, and addressing potential risks to society.",
-  "synthesizedAt": "2026-10-05T03:19:04.444Z",
+  "headline": "New Reasoning Models Challenge Traditional LLM Capabilities",
+  "summary": "A series of new reasoning models, including HakemBench and XiangqiBench, are pushing the boundaries of large language models (LLMs) by demonstrating advanced reasoning and decision-making abilities. These models are prompting a reevaluation of LLMs' limitations and potential.",
+  "whyItMatters": "This trend is crucial as it could lead to more versatile and capable LLMs, potentially disrupting the current landscape and forcing developers to reconsider their approaches to AI agent design and deployment.",
+  "synthesizedAt": "2026-10-05T06:32:04.201Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3173547",
-    "title": "Trump Announces New Super Intelligence Task Force Amid AI Safety Debates",
-    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-10-04T15:15:10.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Announcement"
+    "id": "arxiv-cl-oai:arXiv.org:2610.02293v1",
+    "title": "HakemBench: A New Turkish Benchmark for Typed Decisions in AI Models",
+    "link": "https://arxiv.org/abs/2610.02293",
+    "sourceName": "arXiv cs.CL (Sprog & LLM)",
+    "sourceId": "arxiv-cl",
+    "pubDate": "2026-10-05T04:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "tech-policy-press-https://techpolicy.press/an-ai-accord-a-new-czar-and-an-autonomous-warfare-command",
-      "title": "New AI Governance Framework Established with Autonomous Warfare Command",
-      "link": "https://techpolicy.press/an-ai-accord-a-new-czar-and-an-autonomous-warfare-command",
-      "sourceName": "Tech Policy Press",
-      "sourceId": "tech-policy-press",
-      "pubDate": "2026-10-04T14:55:12.000Z",
-      "badgeColor": "slate",
-      "angle": "New Governance Framework"
+      "id": "arxiv-cl-oai:arXiv.org:2610.02425v1",
+      "title": "XiangqiBench Introduced for Evaluating LLM Agents in Closed-Loop Scenarios",
+      "link": "https://arxiv.org/abs/2610.02425",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-05T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3173499",
-      "title": "OpenAI Safety Employee Resigns, Alleging a 'Broken' Company Culture",
-      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-03T16:30:01.000Z",
-      "badgeColor": "emerald",
-      "angle": "Critical Debate"
+      "id": "arxiv-cl-oai:arXiv.org:2610.02444v1",
+      "title": "New Research Addresses Falsification Gaps in Large Language Models",
+      "link": "https://arxiv.org/abs/2610.02444",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-05T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41041",
-      "title": "OpenAI Safety Expert David Robinson Leaves, Criticizing Company's Safety Culture",
-      "link": "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-03T14:01:14.000Z",
-      "badgeColor": "slate"
+      "id": "arxiv-cl-oai:arXiv.org:2610.02665v1",
+      "title": "New Continuous Diffusion Models Aim to Enhance Reasoning and Inference in Large Language Models",
+      "link": "https://arxiv.org/abs/2610.02665",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-05T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Innovation Highlight"
     }
   ]
 }
