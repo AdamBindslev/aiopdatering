@@ -1,20 +1,40 @@
 {
-  "headline": "OpenAI Safety Expert Resigns, Highlighting Culture and Safety Concerns",
-  "summary": "David Robinson, a former safety systems researcher at OpenAI, has resigned, publicly criticizing the company's culture and practices. This event has sparked broader discussions on AI safety and company culture within the industry.",
-  "whyItMatters": "It underscores the growing concerns around AI safety and the need for robust company cultures that prioritize ethical development and deployment.",
-  "synthesizedAt": "2026-10-05T00:12:22.759Z",
+  "headline": "AI Governance and Safety Debates Intensify Amid Open-Source Advances",
+  "summary": "Recent articles highlight growing concerns over AI governance and safety, with debates surrounding the rise of open-source models and the establishment of new task forces. These discussions underscore the need for robust frameworks to ensure ethical AI development and deployment.",
+  "whyItMatters": "These debates and initiatives are crucial for shaping the future of AI, ensuring it is developed and used responsibly, and addressing potential risks to society.",
+  "synthesizedAt": "2026-10-05T03:19:04.444Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3173499",
-    "title": "OpenAI Safety Employee Resigns, Alleging a 'Broken' Company Culture",
-    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3173547",
+    "title": "Trump Announces New Super Intelligence Task Force Amid AI Safety Debates",
+    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
     "sourceName": "TechCrunch – AI",
     "sourceId": "techcrunch-ai",
-    "pubDate": "2026-10-03T16:30:01.000Z",
+    "pubDate": "2026-10-04T15:15:10.000Z",
     "badgeColor": "emerald",
-    "angle": "Official Release"
+    "angle": "Official Announcement"
   },
   "supportingStories": [
+    {
+      "id": "tech-policy-press-https://techpolicy.press/an-ai-accord-a-new-czar-and-an-autonomous-warfare-command",
+      "title": "New AI Governance Framework Established with Autonomous Warfare Command",
+      "link": "https://techpolicy.press/an-ai-accord-a-new-czar-and-an-autonomous-warfare-command",
+      "sourceName": "Tech Policy Press",
+      "sourceId": "tech-policy-press",
+      "pubDate": "2026-10-04T14:55:12.000Z",
+      "badgeColor": "slate",
+      "angle": "New Governance Framework"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3173499",
+      "title": "OpenAI Safety Employee Resigns, Alleging a 'Broken' Company Culture",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-03T16:30:01.000Z",
+      "badgeColor": "emerald",
+      "angle": "Critical Debate"
+    },
     {
       "id": "the-decoder-https://the-decoder.com/?p=41041",
       "title": "OpenAI Safety Expert David Robinson Leaves, Criticizing Company's Safety Culture",
@@ -22,18 +42,7 @@
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
       "pubDate": "2026-10-03T14:01:14.000Z",
-      "badgeColor": "slate",
-      "angle": "Critical Debate"
-    },
-    {
-      "id": "sebastian-raschka-yt:video:237Hf7Q3lgg",
-      "title": "Sebastian Raschka Demonstrates From-Scratch Implementation of RLVR Using GRPO Algorithm",
-      "link": "https://www.youtube.com/watch?v=237Hf7Q3lgg",
-      "sourceName": "Sebastian Raschka",
-      "sourceId": "sebastian-raschka",
-      "pubDate": "2026-10-03T12:06:29.000Z",
-      "badgeColor": "indigo",
-      "angle": "Technical Deep Dive"
+      "badgeColor": "slate"
     }
   ]
 }
