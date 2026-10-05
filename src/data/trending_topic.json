@@ -1,49 +1,49 @@
 {
-  "headline": "New Open-Weight Models Challenge Proprietary AI Systems",
-  "summary": "A series of new open-weight AI models are demonstrating advanced reasoning capabilities, rivaling top commercial systems. This trend is accelerating local AI agent deployment and putting downward pressure on proprietary platform pricing.",
-  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on closed proprietary platforms.",
-  "synthesizedAt": "2026-10-05T12:40:36.027Z",
+  "headline": "Open vs. Closed AI Platforms: Industry Leaders Debate Strategic Choices",
+  "summary": "TechCrunch Disrupt 2026 keynote speakers are discussing the strategic implications of choosing between open and closed AI platforms, highlighting the growing importance of this decision in the AI industry.",
+  "whyItMatters": "This debate underscores the evolving landscape of AI development and deployment, influencing access to advanced AI technologies and the future of AI innovation.",
+  "synthesizedAt": "2026-10-05T15:48:05.238Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "no-priors-yt:video:lnd920WC8Yk",
-    "title": "Inception Labs CEO Explains AI Model Training as Data Compression",
-    "link": "https://www.youtube.com/shorts/lnd920WC8Yk",
-    "sourceName": "No Priors Podcast",
-    "sourceId": "no-priors",
-    "pubDate": "2026-10-05T12:23:53.000Z",
-    "badgeColor": "amber",
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3173563",
+    "title": "TechCrunch Disrupt 2026: Founders Weigh Open vs. Closed AI in Keynote",
+    "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-10-05T15:00:00.000Z",
+    "badgeColor": "emerald",
     "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "two-minute-papers-yt:video:ZHVNTTKu9fU",
-      "title": "AI Cloud Services Compete to Lower Costs and Enhance Capabilities",
-      "link": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
-      "sourceName": "Two Minute Papers",
-      "sourceId": "two-minute-papers",
-      "pubDate": "2026-10-05T09:53:12.000Z",
-      "badgeColor": "amber",
-      "angle": "Competitive Landscape"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3173723",
+      "title": "OpenAI Introduces Visual Ads in Image Generation Results",
+      "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-05T15:14:24.000Z",
+      "badgeColor": "emerald",
+      "angle": "Official Launch"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2610.02293v1",
-      "title": "HakemBench: A New Turkish Benchmark for Typed Decisions in AI Models",
-      "link": "https://arxiv.org/abs/2610.02293",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-05T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3173705",
+      "title": "Chinese AI Researchers Track Agent Swarm Targeting Alibaba's Services",
+      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-05T14:35:09.000Z",
+      "badgeColor": "emerald",
+      "angle": "Critical Debate"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2610.02425v1",
-      "title": "XiangqiBench Introduced for Evaluating LLM Agents in Closed-Loop Scenarios",
-      "link": "https://arxiv.org/abs/2610.02425",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-05T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Benchmarking"
+      "id": "the-decoder-https://the-decoder.com/?p=41097",
+      "title": "ChatGPT Introduces Ad-Driven Image Generation Load Screens in US",
+      "link": "https://the-decoder.com/chatgpts-new-ad-format-fills-the-image-generation-loading-screen-with-product-carousels/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-05T12:37:32.000Z",
+      "badgeColor": "slate",
+      "angle": "Hands-on Benchmark"
     }
   ]
 }
