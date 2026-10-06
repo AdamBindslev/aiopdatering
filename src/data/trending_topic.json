@@ -1,20 +1,40 @@
 {
-  "headline": "Open-Weight Models Challenge Proprietary AI Dominance",
-  "summary": "Several new open-weight AI models are emerging, challenging the dominance of proprietary systems. These models, including Reflection's Beam and Mistral Large 4, are demonstrating competitive capabilities, driving innovation and reducing reliance on closed platforms.",
-  "whyItMatters": "This shift broadens access to advanced AI capabilities and could significantly impact the AI industry's business models and competitive landscape.",
-  "synthesizedAt": "2026-10-06T16:44:21.277Z",
+  "headline": "Open-Source AI Models Challenge Proprietary Systems, Driving Down Costs and Increasing Accessibility",
+  "summary": "A series of open-source AI models, including Google's Nano Banana 2.1 and Mirror Particle's world model, are outperforming proprietary systems in various benchmarks and applications, driving down costs and increasing accessibility for developers and businesses.",
+  "whyItMatters": "This trend challenges the dominance of proprietary AI platforms, potentially democratizing advanced AI technologies and reducing barriers to entry for smaller players and startups.",
+  "synthesizedAt": "2026-10-06T19:49:36.322Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41145",
-    "title": "Reflection's Beam Emerges as Top Open-Weight Model Outside China",
-    "link": "https://the-decoder.com/reflections-beam-becomes-the-most-capable-open-weight-model-built-outside-china/",
+    "id": "the-decoder-https://the-decoder.com/?p=41183",
+    "title": "Google's Nano Banana 2.1 Image Model Offers Cost-Effective Performance in Benchmarks",
+    "link": "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-10-06T12:11:22.000Z",
+    "pubDate": "2026-10-06T19:29:42.000Z",
     "badgeColor": "slate",
-    "angle": "Technical Breakthrough"
+    "angle": "Official Launch"
   },
   "supportingStories": [
+    {
+      "id": "aws-ml-923519c839c137326cec150f20986e906ba708bc",
+      "title": "Creating a Context-Aware AI Assistant with OpenClaw and Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-10-06T19:19:15.000Z",
+      "badgeColor": "amber",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3174492",
+      "title": "Hark Launches Privacy-Focused AI Personal Assistant to Compete with Industry Leaders",
+      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-06T18:22:45.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Analysis"
+    },
     {
       "id": "techcrunch-ai-https://techcrunch.com/?p=3166195",
       "title": "Mirror Particle Launches World Model to Predict Human Behavior, Challenging Large Language Models in Market Research",
@@ -22,27 +42,7 @@
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
       "pubDate": "2026-10-06T16:35:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Official Release"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3174387",
-      "title": "Mistral AI Unveils Mistral Large 4 to Compete with Global Rivals",
-      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-06T14:33:16.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=41158",
-      "title": "Mistral Large 4 Debuts as Europe's Largest AI Model, Challenges US Dominance",
-      "link": "https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-06T14:18:08.000Z",
-      "badgeColor": "slate"
+      "badgeColor": "emerald"
     }
   ]
 }
