@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Weight Models Emerge as a Competitive Threat to Proprietary AI Platforms",
-  "summary": "Reflection has launched Beam, an open-weight AI model designed to challenge Chinese competitors by offering lower compute costs. This trend is gaining momentum as other models like Reka AI's Rho-1 and Aleph Alpha's Kolibri also enter the market, potentially disrupting the dominance of proprietary AI platforms.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and reduces developer dependence on expensive, closed proprietary platforms, fostering innovation and competition.",
-  "synthesizedAt": "2026-10-06T04:13:23.822Z",
+  "headline": "Open-Source AI Models Gain Momentum, Challenging Proprietary Models",
+  "summary": "Open-source AI models like Reflection Beam and Anthropic's Beam are gaining traction, offering competitive capabilities at lower costs. This trend is reshaping the AI landscape by providing more accessible alternatives to proprietary platforms.",
+  "whyItMatters": "It democratizes advanced AI capabilities, reducing costs and increasing competition among AI providers, which could lead to broader adoption and innovation.",
+  "synthesizedAt": "2026-10-06T07:21:20.649Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "techcrunch-ai-https://techcrunch.com/?p=3173994",
@@ -16,23 +16,23 @@
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41121",
-      "title": "Reka AI Unveils Rho-1, a Versatile 19-Billion-Parameter Model for Text, Images, Video, and Robot Control",
-      "link": "https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-05T18:26:05.000Z",
-      "badgeColor": "slate",
+      "id": "latent-space-https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "title": "US Open Source Initiative Gains Ground with 'Reflection Beam' Model",
+      "link": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-10-06T06:28:43.000Z",
+      "badgeColor": "pink",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41102",
-      "title": "Aleph Alpha Unveils Kolibri: A German-English Mixture-of-Experts Model for European AI Sovereignty",
-      "link": "https://the-decoder.com/aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-05T14:12:50.000Z",
-      "badgeColor": "slate",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3173997",
+      "title": "OpenAI Introduces Watermarking for ChatGPT and Codex Text in EU Compliance with AI Act",
+      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-05T20:36:48.000Z",
+      "badgeColor": "emerald",
       "angle": "Industry Analysis"
     }
   ]
