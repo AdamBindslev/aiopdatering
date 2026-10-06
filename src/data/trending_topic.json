@@ -1,48 +1,48 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Systems, Driving Down Costs and Increasing Accessibility",
-  "summary": "A series of open-source AI models, including Google's Nano Banana 2.1 and Mirror Particle's world model, are outperforming proprietary systems in various benchmarks and applications, driving down costs and increasing accessibility for developers and businesses.",
-  "whyItMatters": "This trend challenges the dominance of proprietary AI platforms, potentially democratizing advanced AI technologies and reducing barriers to entry for smaller players and startups.",
-  "synthesizedAt": "2026-10-06T19:49:36.322Z",
+  "headline": "Open-Source Embedding Models Gain Momentum, Threatening Proprietary Models",
+  "summary": "OpenAI's Decisions API and EmbeddingGemma 2, along with other open-source models, are expanding the capabilities of AI systems. This trend is challenging proprietary models and fostering broader adoption and innovation.",
+  "whyItMatters": "It democratizes advanced AI capabilities, reducing barriers to entry and encouraging competition among developers and platforms.",
+  "synthesizedAt": "2026-10-06T22:56:32.336Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41183",
-    "title": "Google's Nano Banana 2.1 Image Model Offers Cost-Effective Performance in Benchmarks",
-    "link": "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-06T19:29:42.000Z",
-    "badgeColor": "slate",
-    "angle": "Official Launch"
+    "id": "openai-channel-yt:video:FB6oCmrIj-Y",
+    "title": "OpenAI Unveils Decisions API: Streamlining Action-Based Decision Making in Apps",
+    "link": "https://www.youtube.com/watch?v=FB6oCmrIj-Y",
+    "sourceName": "OpenAI (YouTube)",
+    "sourceId": "openai-channel",
+    "pubDate": "2026-10-06T21:33:36.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "aws-ml-923519c839c137326cec150f20986e906ba708bc",
-      "title": "Creating a Context-Aware AI Assistant with OpenClaw and Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-10-06T19:19:15.000Z",
-      "badgeColor": "amber",
+      "id": "simon-willison-https://simonwillison.net/2026/Oct/6/hn-49983751/",
+      "title": "EmbeddingGemma 2 Released Under Apache 2.0 License, Promoting Openness in Embedding Models",
+      "link": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-10-06T20:37:53.000Z",
+      "badgeColor": "green",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3174492",
-      "title": "Hark Launches Privacy-Focused AI Personal Assistant to Compete with Industry Leaders",
-      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-06T18:22:45.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
+      "id": "the-decoder-https://the-decoder.com/?p=41190",
+      "title": "Google Unveils EmbeddingGemma 2, Outperforming Larger Competitors in Resource Efficiency",
+      "link": "https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-06T19:47:27.000Z",
+      "badgeColor": "slate"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3166195",
-      "title": "Mirror Particle Launches World Model to Predict Human Behavior, Challenging Large Language Models in Market Research",
-      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-06T16:35:00.000Z",
-      "badgeColor": "emerald"
+      "id": "deepmind-https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "title": "DeepMind Unveils EmbeddingGemma 2: An Open, Lightweight Multimodal Embedding Model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "sourceName": "Google DeepMind",
+      "sourceId": "deepmind",
+      "pubDate": "2026-10-06T19:57:04.000Z",
+      "badgeColor": "cyan",
+      "angle": "Industry Analysis"
     }
   ]
 }
