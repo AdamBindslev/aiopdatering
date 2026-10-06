@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Weight Models Emerge as a Competitive Threat to Closed-Source AI",
-  "summary": "Several open-weight AI models, including Reflection's Beam and Reka AI's Rho-1, are challenging traditional closed-source AI platforms by offering competitive performance at lower costs. This trend is reshaping the AI landscape, enhancing accessibility and driving innovation.",
-  "whyItMatters": "It democratizes advanced AI capabilities, potentially reducing the dominance of large proprietary platforms and fostering a more competitive and diverse AI ecosystem.",
-  "synthesizedAt": "2026-10-06T13:34:46.356Z",
+  "headline": "Open-Weight Models Challenge Proprietary AI Dominance",
+  "summary": "Several new open-weight AI models are emerging, challenging the dominance of proprietary systems. These models, including Reflection's Beam and Mistral Large 4, are demonstrating competitive capabilities, driving innovation and reducing reliance on closed platforms.",
+  "whyItMatters": "This shift broadens access to advanced AI capabilities and could significantly impact the AI industry's business models and competitive landscape.",
+  "synthesizedAt": "2026-10-06T16:44:21.277Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=41145",
@@ -12,36 +12,36 @@
     "sourceId": "the-decoder",
     "pubDate": "2026-10-06T12:11:22.000Z",
     "badgeColor": "slate",
-    "angle": "Official Launch"
+    "angle": "Technical Breakthrough"
   },
   "supportingStories": [
     {
-      "id": "mistral-https://mistral.ai/news/mistral-large-4/",
-      "title": "Mistral AI Unveils Mistral Large 4, Paving Way for Enhanced Large Language Model Capabilities",
-      "link": "https://mistral.ai/news/mistral-large-4/",
-      "sourceName": "Mistral AI",
-      "sourceId": "mistral",
-      "pubDate": "2026-10-06T12:00:27.000Z",
-      "badgeColor": "orange",
-      "angle": "Technical Deep Dive"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3166195",
+      "title": "Mirror Particle Launches World Model to Predict Human Behavior, Challenging Large Language Models in Market Research",
+      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-06T16:35:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Official Release"
     },
     {
-      "id": "latent-space-https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-      "title": "US Open Source Initiative Gains Ground with 'Reflection Beam' Model",
-      "link": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-10-06T06:28:43.000Z",
-      "badgeColor": "pink",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3174387",
+      "title": "Mistral AI Unveils Mistral Large 4 to Compete with Global Rivals",
+      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-06T14:33:16.000Z",
+      "badgeColor": "emerald",
       "angle": "Industry Analysis"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41121",
-      "title": "Reka AI Unveils Rho-1, a Versatile 19-Billion-Parameter Model for Text, Images, Video, and Robot Control",
-      "link": "https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/",
+      "id": "the-decoder-https://the-decoder.com/?p=41158",
+      "title": "Mistral Large 4 Debuts as Europe's Largest AI Model, Challenges US Dominance",
+      "link": "https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-10-05T18:26:05.000Z",
+      "pubDate": "2026-10-06T14:18:08.000Z",
       "badgeColor": "slate"
     }
   ]
