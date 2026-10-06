@@ -1,20 +1,30 @@
 {
-  "headline": "Open-Weight AI Models Challenge Proprietary Systems",
-  "summary": "Reflection and other open-weight AI models are gaining traction, offering competitive capabilities to proprietary systems. This trend is driving innovation and potentially reducing costs in the AI industry.",
-  "whyItMatters": "It broadens access to advanced AI models and could disrupt the dominance of closed proprietary platforms.",
-  "synthesizedAt": "2026-10-06T10:27:01.318Z",
+  "headline": "Open-Weight Models Emerge as a Competitive Threat to Closed-Source AI",
+  "summary": "Several open-weight AI models, including Reflection's Beam and Reka AI's Rho-1, are challenging traditional closed-source AI platforms by offering competitive performance at lower costs. This trend is reshaping the AI landscape, enhancing accessibility and driving innovation.",
+  "whyItMatters": "It democratizes advanced AI capabilities, potentially reducing the dominance of large proprietary platforms and fostering a more competitive and diverse AI ecosystem.",
+  "synthesizedAt": "2026-10-06T13:34:46.356Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3173994",
-    "title": "Reflection Launches Beam, an Open-Weight AI Model to Compete with Chinese Models at Lower Compute Costs",
-    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-10-05T19:33:53.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Release"
+    "id": "the-decoder-https://the-decoder.com/?p=41145",
+    "title": "Reflection's Beam Emerges as Top Open-Weight Model Outside China",
+    "link": "https://the-decoder.com/reflections-beam-becomes-the-most-capable-open-weight-model-built-outside-china/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-06T12:11:22.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Launch"
   },
   "supportingStories": [
+    {
+      "id": "mistral-https://mistral.ai/news/mistral-large-4/",
+      "title": "Mistral AI Unveils Mistral Large 4, Paving Way for Enhanced Large Language Model Capabilities",
+      "link": "https://mistral.ai/news/mistral-large-4/",
+      "sourceName": "Mistral AI",
+      "sourceId": "mistral",
+      "pubDate": "2026-10-06T12:00:27.000Z",
+      "badgeColor": "orange",
+      "angle": "Technical Deep Dive"
+    },
     {
       "id": "latent-space-https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
       "title": "US Open Source Initiative Gains Ground with 'Reflection Beam' Model",
@@ -23,17 +33,16 @@
       "sourceId": "latent-space",
       "pubDate": "2026-10-06T06:28:43.000Z",
       "badgeColor": "pink",
-      "angle": "Technical Deep Dive"
+      "angle": "Industry Analysis"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3173997",
-      "title": "OpenAI Introduces Watermarking for ChatGPT and Codex Text in EU Compliance with AI Act",
-      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-05T20:36:48.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
+      "id": "the-decoder-https://the-decoder.com/?p=41121",
+      "title": "Reka AI Unveils Rho-1, a Versatile 19-Billion-Parameter Model for Text, Images, Video, and Robot Control",
+      "link": "https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-05T18:26:05.000Z",
+      "badgeColor": "slate"
     }
   ]
 }
