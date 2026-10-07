@@ -1,18 +1,18 @@
 {
-  "headline": "Open-Source Embedding Models Gain Momentum, Threatening Proprietary Models",
-  "summary": "OpenAI's Decisions API and EmbeddingGemma 2, along with other open-source models, are expanding the capabilities of AI systems. This trend is challenging proprietary models and fostering broader adoption and innovation.",
-  "whyItMatters": "It democratizes advanced AI capabilities, reducing barriers to entry and encouraging competition among developers and platforms.",
-  "synthesizedAt": "2026-10-06T22:56:32.336Z",
+  "headline": "Open-Source Reasoning Models Challenge Proprietary AI Ecosystems",
+  "summary": "The release of open-source reasoning models, such as llm-mistral 0.16 and EmbeddingGemma 2, is pushing the boundaries of AI capabilities and challenging proprietary models like OpenAI's. This shift is driving greater transparency and accessibility in AI development.",
+  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on closed proprietary platforms, fostering innovation and competition.",
+  "synthesizedAt": "2026-10-07T02:02:16.223Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-channel-yt:video:FB6oCmrIj-Y",
-    "title": "OpenAI Unveils Decisions API: Streamlining Action-Based Decision Making in Apps",
-    "link": "https://www.youtube.com/watch?v=FB6oCmrIj-Y",
-    "sourceName": "OpenAI (YouTube)",
-    "sourceId": "openai-channel",
-    "pubDate": "2026-10-06T21:33:36.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Release"
+    "id": "simon-willison-https://simonwillison.net/2026/Oct/6/llm-mistral/",
+    "title": "llm-mistral 0.16 Release Expands Support for Advanced Reasoning Models",
+    "link": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
+    "sourceName": "Simon Willison",
+    "sourceId": "simon-willison",
+    "pubDate": "2026-10-06T21:32:34.000Z",
+    "badgeColor": "green",
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
@@ -23,7 +23,17 @@
       "sourceId": "simon-willison",
       "pubDate": "2026-10-06T20:37:53.000Z",
       "badgeColor": "green",
-      "angle": "Technical Deep Dive"
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "simon-willison-https://simonwillison.net/2026/Oct/6/le-chonk/",
+      "title": "Mistral Unveils Mistral Large 4: Le Chonk, a 1 Trillion Parameter Model",
+      "link": "https://simonwillison.net/2026/Oct/6/le-chonk/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-10-06T20:18:19.000Z",
+      "badgeColor": "green",
+      "angle": "Official Release"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=41190",
@@ -33,16 +43,6 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-10-06T19:47:27.000Z",
       "badgeColor": "slate"
-    },
-    {
-      "id": "deepmind-https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "title": "DeepMind Unveils EmbeddingGemma 2: An Open, Lightweight Multimodal Embedding Model",
-      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "sourceName": "Google DeepMind",
-      "sourceId": "deepmind",
-      "pubDate": "2026-10-06T19:57:04.000Z",
-      "badgeColor": "cyan",
-      "angle": "Industry Analysis"
     }
   ]
 }
