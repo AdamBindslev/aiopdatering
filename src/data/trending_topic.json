@@ -1,29 +1,39 @@
 {
-  "headline": "Open-Weight Reasoning Models Challenge Proprietary Frontier Labs",
-  "summary": "OpenAI has published 722 mathematical papers, solving 90 of the top 500 open problems, marking a significant milestone in mathematics. This breakthrough is accelerating local AI agent deployment and putting downward pressure on closed proprietary platforms.",
-  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on closed proprietary platforms.",
-  "synthesizedAt": "2026-10-07T05:13:41.483Z",
+  "headline": "Open-Source Models Challenge Proprietary AI Leadership",
+  "summary": "NVIDIA and OpenAI are leading a shift towards open-source AI models, with NVIDIA showcasing smart routing for hybrid AI and OpenAI releasing 722 mathematical manuscripts. This trend is challenging proprietary AI platforms and driving innovation.",
+  "whyItMatters": "It democratizes advanced AI capabilities, reducing costs and increasing competition among AI providers, ultimately benefiting developers and users.",
+  "synthesizedAt": "2026-10-07T08:17:04.025Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "latent-space-https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
-    "title": "OpenAI Solves 90 of Top 500 Math Problems with Quasi-Riemann-Hypothesis Model",
-    "link": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
-    "sourceName": "Latent Space (Swyx & Alessio)",
-    "sourceId": "latent-space",
-    "pubDate": "2026-10-07T04:55:44.000Z",
-    "badgeColor": "pink",
+    "id": "wes-roth-yt:video:fTGIV3e8dTU",
+    "title": "OpenAI Unveils Unreleased AI Model Manuscripts, Sparking Mathematical Controversy",
+    "link": "https://www.youtube.com/watch?v=fTGIV3e8dTU",
+    "sourceName": "Wes Roth",
+    "sourceId": "wes-roth",
+    "pubDate": "2026-10-07T04:02:49.000Z",
+    "badgeColor": "emerald",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2610.07019v1",
-      "title": "Fiorillo v0.5 Released: Open Model Offers Calibrated Probabilities for Randomized Trial Questions",
-      "link": "https://arxiv.org/abs/2610.07019",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-07T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Hands-on Benchmark"
+      "id": "nvidia-developer-yt:video:afREwSZh1Yk",
+      "title": "Artificial Analysis Reveals Insights on Nemotron Models in Rigorous Benchmarking Session",
+      "link": "https://www.youtube.com/watch?v=afREwSZh1Yk",
+      "sourceName": "NVIDIA Developer",
+      "sourceId": "nvidia-developer",
+      "pubDate": "2026-10-07T06:13:56.000Z",
+      "badgeColor": "green",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "latent-space-https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+      "title": "OpenAI Solves 90 of Top 500 Math Problems with Quasi-Riemann-Hypothesis Model",
+      "link": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-10-07T04:55:44.000Z",
+      "badgeColor": "pink",
+      "angle": "Industry Analysis"
     }
   ]
 }
