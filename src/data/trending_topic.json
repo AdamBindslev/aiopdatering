@@ -1,39 +1,48 @@
 {
-  "headline": "OpenAI's Mathematical Breakthroughs Spark AI Research Controversy",
-  "summary": "OpenAI has released 372 AI-generated mathematical proofs and 722 mathematical papers, solving 90 of the top 500 open problems. This has sparked debate and concern about the verification and understanding of AI-generated results in the academic community.",
-  "whyItMatters": "It highlights the growing capabilities of AI in complex problem-solving but raises questions about the reliability and transparency of AI-generated research.",
-  "synthesizedAt": "2026-10-07T14:30:03.203Z",
+  "headline": "Open-Source AI Models Pave Way for Edge Computing and Local Deployment",
+  "summary": "Hugging Face's release of Open d1 decision models for edge computing, coupled with the growing trend of open-source AI frameworks, is driving local AI deployment and reducing reliance on proprietary platforms. This shift is enabling broader access to advanced AI capabilities and fostering innovation.",
+  "whyItMatters": "It broadens access to advanced AI capabilities, reduces costs, and enhances privacy and security by moving AI closer to the edge.",
+  "synthesizedAt": "2026-10-07T17:39:12.537Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "latent-space-https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
-    "title": "OpenAI Solves 90 of Top 500 Math Problems with Quasi-Riemann-Hypothesis Model",
-    "link": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
-    "sourceName": "Latent Space (Swyx & Alessio)",
-    "sourceId": "latent-space",
-    "pubDate": "2026-10-07T04:55:44.000Z",
-    "badgeColor": "pink",
-    "angle": "Mathematical Controversy"
+    "id": "huggingface-https://huggingface.co/blog/LiquidAI/open-d1",
+    "title": "Hugging Face Unveils Multimodal Open d1 Decision Models for Edge Computing",
+    "link": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "sourceName": "Hugging Face Blog",
+    "sourceId": "huggingface",
+    "pubDate": "2026-10-07T16:54:33.000Z",
+    "badgeColor": "yellow",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "wes-roth-yt:video:fTGIV3e8dTU",
-      "title": "OpenAI Unveils Unreleased AI Model Manuscripts, Sparking Mathematical Controversy",
-      "link": "https://www.youtube.com/watch?v=fTGIV3e8dTU",
-      "sourceName": "Wes Roth",
-      "sourceId": "wes-roth",
-      "pubDate": "2026-10-07T04:02:49.000Z",
-      "badgeColor": "emerald",
-      "angle": "Verification Concerns"
+      "id": "cognitive-revolution-yt:video:Y2qs-BKoMb4",
+      "title": "OutSystems CEO Discusses AI-Driven Enterprise Software Development Without Interruptions",
+      "link": "https://www.youtube.com/watch?v=Y2qs-BKoMb4",
+      "sourceName": "The Cognitive Revolution",
+      "sourceId": "cognitive-revolution",
+      "pubDate": "2026-10-07T17:00:26.000Z",
+      "badgeColor": "teal",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41196",
-      "title": "OpenAI Releases 372 AI-Generated Math Proofs on GitHub, Challenges Academic Community",
-      "link": "https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-07T08:54:43.000Z",
-      "badgeColor": "slate",
-      "angle": "Research Milestone"
+      "id": "weights-and-biases-yt:video:T3QiKNtUhKA",
+      "title": "Reflection AI's Open Intelligence Strategy and Its Impact on AI Model Deployment",
+      "link": "https://www.youtube.com/watch?v=T3QiKNtUhKA",
+      "sourceName": "Weights & Biases",
+      "sourceId": "weights-and-biases",
+      "pubDate": "2026-10-07T16:05:12.000Z",
+      "badgeColor": "yellow"
+    },
+    {
+      "id": "cognitive-revolution-yt:video:lyAboyYjIXU",
+      "title": "Formal AI Safety and Risk Strategy Announced with LoRA-Powered Work Agents",
+      "link": "https://www.youtube.com/watch?v=lyAboyYjIXU",
+      "sourceName": "The Cognitive Revolution",
+      "sourceId": "cognitive-revolution",
+      "pubDate": "2026-10-07T15:56:01.000Z",
+      "badgeColor": "teal",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
