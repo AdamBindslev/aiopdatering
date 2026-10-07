@@ -1,48 +1,29 @@
 {
-  "headline": "Open-Source Reasoning Models Challenge Proprietary AI Ecosystems",
-  "summary": "The release of open-source reasoning models, such as llm-mistral 0.16 and EmbeddingGemma 2, is pushing the boundaries of AI capabilities and challenging proprietary models like OpenAI's. This shift is driving greater transparency and accessibility in AI development.",
-  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on closed proprietary platforms, fostering innovation and competition.",
-  "synthesizedAt": "2026-10-07T02:02:16.223Z",
+  "headline": "Open-Weight Reasoning Models Challenge Proprietary Frontier Labs",
+  "summary": "OpenAI has published 722 mathematical papers, solving 90 of the top 500 open problems, marking a significant milestone in mathematics. This breakthrough is accelerating local AI agent deployment and putting downward pressure on closed proprietary platforms.",
+  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on closed proprietary platforms.",
+  "synthesizedAt": "2026-10-07T05:13:41.483Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "simon-willison-https://simonwillison.net/2026/Oct/6/llm-mistral/",
-    "title": "llm-mistral 0.16 Release Expands Support for Advanced Reasoning Models",
-    "link": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
-    "sourceName": "Simon Willison",
-    "sourceId": "simon-willison",
-    "pubDate": "2026-10-06T21:32:34.000Z",
-    "badgeColor": "green",
-    "angle": "Technical Deep Dive"
+    "id": "latent-space-https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+    "title": "OpenAI Solves 90 of Top 500 Math Problems with Quasi-Riemann-Hypothesis Model",
+    "link": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+    "sourceName": "Latent Space (Swyx & Alessio)",
+    "sourceId": "latent-space",
+    "pubDate": "2026-10-07T04:55:44.000Z",
+    "badgeColor": "pink",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "simon-willison-https://simonwillison.net/2026/Oct/6/hn-49983751/",
-      "title": "EmbeddingGemma 2 Released Under Apache 2.0 License, Promoting Openness in Embedding Models",
-      "link": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-10-06T20:37:53.000Z",
-      "badgeColor": "green",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "simon-willison-https://simonwillison.net/2026/Oct/6/le-chonk/",
-      "title": "Mistral Unveils Mistral Large 4: Le Chonk, a 1 Trillion Parameter Model",
-      "link": "https://simonwillison.net/2026/Oct/6/le-chonk/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-10-06T20:18:19.000Z",
-      "badgeColor": "green",
-      "angle": "Official Release"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=41190",
-      "title": "Google Unveils EmbeddingGemma 2, Outperforming Larger Competitors in Resource Efficiency",
-      "link": "https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-06T19:47:27.000Z",
-      "badgeColor": "slate"
+      "id": "arxiv-cl-oai:arXiv.org:2610.07019v1",
+      "title": "Fiorillo v0.5 Released: Open Model Offers Calibrated Probabilities for Randomized Trial Questions",
+      "link": "https://arxiv.org/abs/2610.07019",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-07T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Hands-on Benchmark"
     }
   ]
 }
