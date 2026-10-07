@@ -1,48 +1,48 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Systems, Driving Down Costs and Boosting Innovation",
-  "summary": "A surge of open-source AI models is outperforming proprietary systems, leading to reduced costs and increased innovation. This trend is reshaping the AI landscape, making advanced capabilities more accessible to developers and businesses.",
-  "whyItMatters": "It democratizes access to cutting-edge AI technologies, reducing barriers to entry and fostering a more competitive and collaborative industry.",
-  "synthesizedAt": "2026-10-07T20:45:25.914Z",
+  "headline": "OpenAI's ChatGPT Innovations Drive AI Integration and Efficiency",
+  "summary": "OpenAI has unveiled several updates to ChatGPT, including an Intelligent UI, a plugin system, and cost-saving strategies, which are enhancing user interaction and driving broader AI adoption across various industries.",
+  "whyItMatters": "These innovations are crucial for improving user experience and reducing costs, making AI more accessible and efficient for businesses and developers.",
+  "synthesizedAt": "2026-10-07T23:51:03.285Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41238",
-    "title": "GPT-6 Introduces Intelligent UI, Transforming Text Responses into Interactive Interfaces",
-    "link": "https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-07T19:06:40.000Z",
-    "badgeColor": "slate",
-    "angle": "Critical Release"
+    "id": "openai-channel-yt:video:IsL4dVezs18",
+    "title": "OpenAI Unveils Intelligent UI for ChatGPT, Enhancing Visual Interaction and Learning",
+    "link": "https://www.youtube.com/watch?v=IsL4dVezs18",
+    "sourceName": "OpenAI (YouTube)",
+    "sourceId": "openai-channel",
+    "pubDate": "2026-10-07T21:55:41.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "weights-and-biases-yt:video:FIOXn-oPvpA",
-      "title": "NVIDIA and CoreWeave Unveil Extreme Co-Design for Scalable AI Infrastructure",
-      "link": "https://www.youtube.com/watch?v=FIOXn-oPvpA",
-      "sourceName": "Weights & Biases",
-      "sourceId": "weights-and-biases",
-      "pubDate": "2026-10-07T20:00:33.000Z",
-      "badgeColor": "yellow",
-      "angle": "Industry Analysis"
+      "id": "openai-channel-yt:video:LiNhqbetrbU",
+      "title": "OpenAI Unveils Plugin System for Enhanced ChatGPT Interactivity",
+      "link": "https://www.youtube.com/watch?v=LiNhqbetrbU",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-10-07T21:34:02.000Z",
+      "badgeColor": "emerald"
     },
     {
-      "id": "aws-ml-0ff2b32f3802714df60aafa631f537ec3996dfd3",
-      "title": "Claude Haiku 5.5 Debuts on AWS, Paving Way for Efficient Subagent Deployments",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-10-07T18:52:10.000Z",
-      "badgeColor": "amber",
-      "angle": "Competitive Landscape"
+      "id": "openai-channel-yt:video:SXCfs7mitPo",
+      "title": "OpenAI Demonstrates ChatGPT Applications Across Various Workflows at DevDay 2026",
+      "link": "https://www.youtube.com/watch?v=SXCfs7mitPo",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-10-07T21:10:48.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Applications"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41233",
-      "title": "Claude Haiku 5.5 Launches with Substantial Price Reductions, Intensifying AI Pricing Competition",
-      "link": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-07T18:49:23.000Z",
-      "badgeColor": "slate"
+      "id": "openai-channel-yt:video:XkKdbPhIvbY",
+      "title": "Codex Expands Capabilities Across Multiple Interfaces at DevDay 2026",
+      "link": "https://www.youtube.com/watch?v=XkKdbPhIvbY",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-10-07T21:10:48.000Z",
+      "badgeColor": "emerald",
+      "angle": "Enhanced Functionality"
     }
   ]
 }
