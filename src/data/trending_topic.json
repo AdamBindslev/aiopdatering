@@ -1,30 +1,20 @@
 {
-  "headline": "Open-Source Models Challenge Proprietary AI Leadership",
-  "summary": "NVIDIA and OpenAI are leading a shift towards open-source AI models, with NVIDIA showcasing smart routing for hybrid AI and OpenAI releasing 722 mathematical manuscripts. This trend is challenging proprietary AI platforms and driving innovation.",
-  "whyItMatters": "It democratizes advanced AI capabilities, reducing costs and increasing competition among AI providers, ultimately benefiting developers and users.",
-  "synthesizedAt": "2026-10-07T08:17:04.025Z",
+  "headline": "OpenAI's AI-Generated Math Proofs Challenge Academic Norms",
+  "summary": "OpenAI has released 372 AI-generated mathematical proofs on GitHub, challenging the academic community to reassess the role of AI in formalizing complex mathematical concepts. This move is sparking debate and could redefine the standards for mathematical research and validation.",
+  "whyItMatters": "It highlights the growing capabilities of AI in complex problem-solving and could lead to significant changes in how mathematical research is conducted and verified.",
+  "synthesizedAt": "2026-10-07T11:22:25.284Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "wes-roth-yt:video:fTGIV3e8dTU",
-    "title": "OpenAI Unveils Unreleased AI Model Manuscripts, Sparking Mathematical Controversy",
-    "link": "https://www.youtube.com/watch?v=fTGIV3e8dTU",
-    "sourceName": "Wes Roth",
-    "sourceId": "wes-roth",
-    "pubDate": "2026-10-07T04:02:49.000Z",
-    "badgeColor": "emerald",
+    "id": "the-decoder-https://the-decoder.com/?p=41196",
+    "title": "OpenAI Releases 372 AI-Generated Math Proofs on GitHub, Challenges Academic Community",
+    "link": "https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-07T08:54:43.000Z",
+    "badgeColor": "slate",
     "angle": "Official Release"
   },
   "supportingStories": [
-    {
-      "id": "nvidia-developer-yt:video:afREwSZh1Yk",
-      "title": "Artificial Analysis Reveals Insights on Nemotron Models in Rigorous Benchmarking Session",
-      "link": "https://www.youtube.com/watch?v=afREwSZh1Yk",
-      "sourceName": "NVIDIA Developer",
-      "sourceId": "nvidia-developer",
-      "pubDate": "2026-10-07T06:13:56.000Z",
-      "badgeColor": "green",
-      "angle": "Technical Deep Dive"
-    },
     {
       "id": "latent-space-https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
       "title": "OpenAI Solves 90 of Top 500 Math Problems with Quasi-Riemann-Hypothesis Model",
@@ -33,7 +23,17 @@
       "sourceId": "latent-space",
       "pubDate": "2026-10-07T04:55:44.000Z",
       "badgeColor": "pink",
-      "angle": "Industry Analysis"
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "wes-roth-yt:video:fTGIV3e8dTU",
+      "title": "OpenAI Unveils Unreleased AI Model Manuscripts, Sparking Mathematical Controversy",
+      "link": "https://www.youtube.com/watch?v=fTGIV3e8dTU",
+      "sourceName": "Wes Roth",
+      "sourceId": "wes-roth",
+      "pubDate": "2026-10-07T04:02:49.000Z",
+      "badgeColor": "emerald",
+      "angle": "Critical Debate"
     }
   ]
 }
