@@ -1,48 +1,48 @@
 {
-  "headline": "Open-Source AI Models Pave Way for Edge Computing and Local Deployment",
-  "summary": "Hugging Face's release of Open d1 decision models for edge computing, coupled with the growing trend of open-source AI frameworks, is driving local AI deployment and reducing reliance on proprietary platforms. This shift is enabling broader access to advanced AI capabilities and fostering innovation.",
-  "whyItMatters": "It broadens access to advanced AI capabilities, reduces costs, and enhances privacy and security by moving AI closer to the edge.",
-  "synthesizedAt": "2026-10-07T17:39:12.537Z",
+  "headline": "Open-Source AI Models Challenge Proprietary Systems, Driving Down Costs and Boosting Innovation",
+  "summary": "A surge of open-source AI models is outperforming proprietary systems, leading to reduced costs and increased innovation. This trend is reshaping the AI landscape, making advanced capabilities more accessible to developers and businesses.",
+  "whyItMatters": "It democratizes access to cutting-edge AI technologies, reducing barriers to entry and fostering a more competitive and collaborative industry.",
+  "synthesizedAt": "2026-10-07T20:45:25.914Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "huggingface-https://huggingface.co/blog/LiquidAI/open-d1",
-    "title": "Hugging Face Unveils Multimodal Open d1 Decision Models for Edge Computing",
-    "link": "https://huggingface.co/blog/LiquidAI/open-d1",
-    "sourceName": "Hugging Face Blog",
-    "sourceId": "huggingface",
-    "pubDate": "2026-10-07T16:54:33.000Z",
-    "badgeColor": "yellow",
-    "angle": "Official Release"
+    "id": "the-decoder-https://the-decoder.com/?p=41238",
+    "title": "GPT-6 Introduces Intelligent UI, Transforming Text Responses into Interactive Interfaces",
+    "link": "https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-07T19:06:40.000Z",
+    "badgeColor": "slate",
+    "angle": "Critical Release"
   },
   "supportingStories": [
     {
-      "id": "cognitive-revolution-yt:video:Y2qs-BKoMb4",
-      "title": "OutSystems CEO Discusses AI-Driven Enterprise Software Development Without Interruptions",
-      "link": "https://www.youtube.com/watch?v=Y2qs-BKoMb4",
-      "sourceName": "The Cognitive Revolution",
-      "sourceId": "cognitive-revolution",
-      "pubDate": "2026-10-07T17:00:26.000Z",
-      "badgeColor": "teal",
+      "id": "weights-and-biases-yt:video:FIOXn-oPvpA",
+      "title": "NVIDIA and CoreWeave Unveil Extreme Co-Design for Scalable AI Infrastructure",
+      "link": "https://www.youtube.com/watch?v=FIOXn-oPvpA",
+      "sourceName": "Weights & Biases",
+      "sourceId": "weights-and-biases",
+      "pubDate": "2026-10-07T20:00:33.000Z",
+      "badgeColor": "yellow",
       "angle": "Industry Analysis"
     },
     {
-      "id": "weights-and-biases-yt:video:T3QiKNtUhKA",
-      "title": "Reflection AI's Open Intelligence Strategy and Its Impact on AI Model Deployment",
-      "link": "https://www.youtube.com/watch?v=T3QiKNtUhKA",
-      "sourceName": "Weights & Biases",
-      "sourceId": "weights-and-biases",
-      "pubDate": "2026-10-07T16:05:12.000Z",
-      "badgeColor": "yellow"
+      "id": "aws-ml-0ff2b32f3802714df60aafa631f537ec3996dfd3",
+      "title": "Claude Haiku 5.5 Debuts on AWS, Paving Way for Efficient Subagent Deployments",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-10-07T18:52:10.000Z",
+      "badgeColor": "amber",
+      "angle": "Competitive Landscape"
     },
     {
-      "id": "cognitive-revolution-yt:video:lyAboyYjIXU",
-      "title": "Formal AI Safety and Risk Strategy Announced with LoRA-Powered Work Agents",
-      "link": "https://www.youtube.com/watch?v=lyAboyYjIXU",
-      "sourceName": "The Cognitive Revolution",
-      "sourceId": "cognitive-revolution",
-      "pubDate": "2026-10-07T15:56:01.000Z",
-      "badgeColor": "teal",
-      "angle": "Technical Deep Dive"
+      "id": "the-decoder-https://the-decoder.com/?p=41233",
+      "title": "Claude Haiku 5.5 Launches with Substantial Price Reductions, Intensifying AI Pricing Competition",
+      "link": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-07T18:49:23.000Z",
+      "badgeColor": "slate"
     }
   ]
 }
