@@ -1,39 +1,49 @@
 {
-  "headline": "Claude Haiku 5.5 Launches with Substantial Price Reductions, Intensifying AI Pricing Competition",
-  "summary": "Anthropic's Claude Haiku 5.5 significantly outperforms its predecessor and offers a 90% reduction in token prices, sparking intense competition in the AI pricing landscape. This shift is driving innovation and accessibility in AI services.",
-  "whyItMatters": "Lower prices and improved performance could democratize AI access, driving broader adoption and forcing competitors to innovate or lower their costs.",
-  "synthesizedAt": "2026-10-08T15:23:51.717Z",
+  "headline": "OpenAI's Revised Projections Spark AI Industry Controversy",
+  "summary": "A recent report has downgraded OpenAI's projected annual revenue by $20 billion, from $70 billion to $50 billion, sparking debate and controversy within the AI industry. This shift highlights the financial realities and potential challenges facing leading AI companies.",
+  "whyItMatters": "It underscores the financial pressures and market realities affecting AI companies, potentially impacting investment strategies and industry dynamics.",
+  "synthesizedAt": "2026-10-08T18:33:16.077Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41233",
-    "title": "Claude Haiku 5.5 Launches with Substantial Price Reductions, Intensifying AI Pricing Competition",
-    "link": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-08T10:30:23.000Z",
-    "badgeColor": "slate",
-    "angle": "Official Launch"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3175754",
+    "title": "OpenAI's Projected Revenue Downgraded by $20 Billion",
+    "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-10-08T18:19:42.000Z",
+    "badgeColor": "emerald",
+    "angle": "Financial Downgrade"
   },
   "supportingStories": [
     {
-      "id": "latent-space-https://www.latent.space/p/ainews-claude-haiku-55-better-than",
-      "title": "Claude Haiku 5.5 Outperforms GPT-6 Luna at Same Price Point",
-      "link": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-10-08T07:27:51.000Z",
-      "badgeColor": "pink",
-      "angle": "Technical Deep Dive"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3175682",
+      "title": "Ben Affleck's AI Expertise Goes Viral, Highlighting the Broader Appeal of Tech Knowledge",
+      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-08T18:20:32.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "ml-street-talk-yt:video:LfUgsSUdaX8",
-      "title": "Akarsh Kumar Explores Core War with Large Language Models",
-      "link": "https://www.youtube.com/shorts/LfUgsSUdaX8",
-      "sourceName": "Machine Learning Street Talk",
-      "sourceId": "ml-street-talk",
-      "pubDate": "2026-10-08T10:30:08.000Z",
-      "badgeColor": "violet",
-      "angle": "Industry Analysis"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3175311",
+      "title": "OpenAI's Mathematical Proofs Fall Short of Academic Standards",
+      "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-08T18:10:55.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Critique"
+    },
+    {
+      "id": "openai-channel-yt:video:BHQF1xl2ScU",
+      "title": "OpenAI Unveils GPT-6 with Intelligent UI for Enhanced Interactive Responses",
+      "link": "https://www.youtube.com/shorts/BHQF1xl2ScU",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-10-08T17:40:12.000Z",
+      "badgeColor": "emerald",
+      "angle": "Official Response"
     }
   ]
 }
