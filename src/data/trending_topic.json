@@ -1,8 +1,8 @@
 {
-  "headline": "OpenAI's ChatGPT Innovations Drive AI Integration and Efficiency",
-  "summary": "OpenAI has unveiled several updates to ChatGPT, including an Intelligent UI, a plugin system, and cost-saving strategies, which are enhancing user interaction and driving broader AI adoption across various industries.",
-  "whyItMatters": "These innovations are crucial for improving user experience and reducing costs, making AI more accessible and efficient for businesses and developers.",
-  "synthesizedAt": "2026-10-07T23:51:03.285Z",
+  "headline": "OpenAI's ChatGPT Enhancements Drive AI Interaction and Integration",
+  "summary": "OpenAI is rolling out a series of updates to ChatGPT, including new visual interfaces, plugin systems, and cost-saving strategies, which are significantly enhancing user interaction and integration capabilities. These enhancements are driving industry-wide discussions on AI usability and cost efficiency.",
+  "whyItMatters": "These updates are crucial for improving user engagement and making AI more accessible, potentially reshaping how businesses and individuals interact with AI tools.",
+  "synthesizedAt": "2026-10-08T02:55:52.758Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "openai-channel-yt:video:IsL4dVezs18",
@@ -22,7 +22,8 @@
       "sourceName": "OpenAI (YouTube)",
       "sourceId": "openai-channel",
       "pubDate": "2026-10-07T21:34:02.000Z",
-      "badgeColor": "emerald"
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
     },
     {
       "id": "openai-channel-yt:video:SXCfs7mitPo",
@@ -32,17 +33,16 @@
       "sourceId": "openai-channel",
       "pubDate": "2026-10-07T21:10:48.000Z",
       "badgeColor": "emerald",
-      "angle": "Industry Applications"
+      "angle": "Industry Application"
     },
     {
-      "id": "openai-channel-yt:video:XkKdbPhIvbY",
-      "title": "Codex Expands Capabilities Across Multiple Interfaces at DevDay 2026",
-      "link": "https://www.youtube.com/watch?v=XkKdbPhIvbY",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-10-07T21:10:48.000Z",
-      "badgeColor": "emerald",
-      "angle": "Enhanced Functionality"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3174749",
+      "title": "OpenAI Introduces Visual Enhancements to ChatGPT for Enhanced User Interaction",
+      "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-07T18:00:19.000Z",
+      "badgeColor": "emerald"
     }
   ]
 }
