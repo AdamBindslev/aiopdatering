@@ -1,8 +1,8 @@
 {
-  "headline": "Claude Haiku 5.5 Reshapes AI Pricing Landscape",
-  "summary": "Anthropic's Claude Haiku 5.5, with its superior performance and 90% price reduction, is driving intense competition in the AI market, challenging established players and altering the economic dynamics of AI inference.",
-  "whyItMatters": "This shift is crucial for developers and businesses, as it lowers the barrier to entry and forces a reevaluation of AI pricing strategies across the industry.",
-  "synthesizedAt": "2026-10-08T12:16:24.588Z",
+  "headline": "Claude Haiku 5.5 Launches with Substantial Price Reductions, Intensifying AI Pricing Competition",
+  "summary": "Anthropic's Claude Haiku 5.5 significantly outperforms its predecessor and offers a 90% reduction in token prices, sparking intense competition in the AI pricing landscape. This shift is driving innovation and accessibility in AI services.",
+  "whyItMatters": "Lower prices and improved performance could democratize AI access, driving broader adoption and forcing competitors to innovate or lower their costs.",
+  "synthesizedAt": "2026-10-08T15:23:51.717Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=41233",
@@ -16,16 +16,6 @@
   },
   "supportingStories": [
     {
-      "id": "weights-and-biases-yt:video:VlLd3PsQ7fc",
-      "title": "AI Tokenomics: Understanding the Economic Landscape of AI Inference",
-      "link": "https://www.youtube.com/watch?v=VlLd3PsQ7fc",
-      "sourceName": "Weights & Biases",
-      "sourceId": "weights-and-biases",
-      "pubDate": "2026-10-08T12:00:23.000Z",
-      "badgeColor": "yellow",
-      "angle": "Industry Analysis"
-    },
-    {
       "id": "latent-space-https://www.latent.space/p/ainews-claude-haiku-55-better-than",
       "title": "Claude Haiku 5.5 Outperforms GPT-6 Luna at Same Price Point",
       "link": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
@@ -33,7 +23,17 @@
       "sourceId": "latent-space",
       "pubDate": "2026-10-08T07:27:51.000Z",
       "badgeColor": "pink",
-      "angle": "Hands-on Benchmark"
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "ml-street-talk-yt:video:LfUgsSUdaX8",
+      "title": "Akarsh Kumar Explores Core War with Large Language Models",
+      "link": "https://www.youtube.com/shorts/LfUgsSUdaX8",
+      "sourceName": "Machine Learning Street Talk",
+      "sourceId": "ml-street-talk",
+      "pubDate": "2026-10-08T10:30:08.000Z",
+      "badgeColor": "violet",
+      "angle": "Industry Analysis"
     }
   ]
 }
