@@ -1,39 +1,39 @@
 {
-  "headline": "Europe Proposes AI Dependency Regulations Amid Growing Concerns",
-  "summary": "European policymakers are drafting new regulations to address the risks of AI dependency, particularly in personal AI-driven applications. This move is part of a broader effort to ensure that AI systems are used responsibly and do not create undue reliance on potentially biased or opaque technologies.",
-  "whyItMatters": "These regulations could set a global precedent for AI governance, influencing how developers and companies approach AI integration and transparency.",
-  "synthesizedAt": "2026-10-09T10:06:38.868Z",
+  "headline": "Open-Weight Reasoning Models Emerge as a New Frontier in AI",
+  "summary": "ReflectionAI's launch of Beam, a 500 billion parameter open-weight reasoning model, signals a significant shift towards more accessible and powerful reasoning capabilities. This trend is driving industry debate and accelerating the deployment of advanced AI agents.",
+  "whyItMatters": "It challenges proprietary models, broadens access to advanced reasoning, and could reshape the AI landscape by democratizing powerful AI tools.",
+  "synthesizedAt": "2026-10-09T13:11:11.050Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "tech-policy-press-https://techpolicy.press/europe-wants-to-regulate-ai-friends-but-how-do-you-curb-dependency",
-    "title": "Europe Aims to Regulate AI 'Friends' Amid Concerns Over Dependency",
-    "link": "https://techpolicy.press/europe-wants-to-regulate-ai-friends-but-how-do-you-curb-dependency",
-    "sourceName": "Tech Policy Press",
-    "sourceId": "tech-policy-press",
-    "pubDate": "2026-10-09T09:49:50.000Z",
-    "badgeColor": "slate",
-    "angle": "Regulatory Update"
+    "id": "no-priors-yt:video:lx9RjE0GekI",
+    "title": "ReflectionAI Launches Beam: Open-Weight Reasoning Model with Misha Laskin",
+    "link": "https://www.youtube.com/watch?v=lx9RjE0GekI",
+    "sourceName": "No Priors Podcast",
+    "sourceId": "no-priors",
+    "pubDate": "2026-10-09T10:00:17.000Z",
+    "badgeColor": "amber",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "tech-policy-press-https://techpolicy.press/at-irelands-ai-summit-tech-industry-dominates-as-civil-society-sits-out",
-      "title": "Tech Industry Dominates Ireland’s AI Summit as Civil Society Absent",
-      "link": "https://techpolicy.press/at-irelands-ai-summit-tech-industry-dominates-as-civil-society-sits-out",
-      "sourceName": "Tech Policy Press",
-      "sourceId": "tech-policy-press",
-      "pubDate": "2026-10-09T09:27:32.000Z",
+      "id": "the-decoder-https://the-decoder.com/?p=41309",
+      "title": "OpenAI Faces Growing Safety Crisis Amid Staff Firing Controversy",
+      "link": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-09T11:45:04.000Z",
       "badgeColor": "slate",
-      "angle": "Industry Impact"
+      "angle": "Critical Debate"
     },
     {
-      "id": "mit-tech-review-https://www.technologyreview.com/?p=1145728",
-      "title": "MIT Technology Review Warns Against Overreliance on AI's Ability to Say No",
-      "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "sourceName": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "pubDate": "2026-10-09T09:00:00.000Z",
-      "badgeColor": "red",
-      "angle": "Expert Analysis"
+      "id": "arxiv-ai-oai:arXiv.org:2610.10549v1",
+      "title": "New Study Explores Scalable Agent-System Interaction for Enterprise AI",
+      "link": "https://arxiv.org/abs/2610.10549",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-10-09T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Industry Analysis"
     }
   ]
 }
