@@ -1,29 +1,39 @@
 {
-  "headline": "Open-Weights Models Pave Way for Autonomous Agents and Broader AI Access",
-  "summary": "H-Company and Cline have released open-weights models that are driving advancements in autonomous agents and broader AI access, challenging proprietary systems and expanding developer options.",
-  "whyItMatters": "This trend is crucial as it democratizes advanced AI capabilities, reducing costs and increasing innovation across industries.",
-  "synthesizedAt": "2026-10-09T00:44:23.355Z",
+  "headline": "OpenAI's Revenue Projections Under Scrutiny Amid Model Missteps",
+  "summary": "Recent reports and articles highlight significant downward revisions in OpenAI's projected revenue, coupled with criticisms of its mathematical proofs and safety practices. These developments are commanding industry attention due to their potential impact on investor confidence and regulatory scrutiny.",
+  "whyItMatters": "These issues could affect OpenAI's financial health and its standing in the AI community, influencing broader industry trends and regulatory considerations.",
+  "synthesizedAt": "2026-10-09T03:49:43.818Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "nvidia-developer-yt:video:eXlgMVAm28I",
-    "title": "H-Company Unveils Optimized Vision-Language Model for Autonomous Computer-Use Agents",
-    "link": "https://www.youtube.com/watch?v=eXlgMVAm28I",
-    "sourceName": "NVIDIA Developer",
-    "sourceId": "nvidia-developer",
-    "pubDate": "2026-10-08T23:43:42.000Z",
-    "badgeColor": "green",
-    "angle": "Official Release"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3175754",
+    "title": "OpenAI's Projected Revenue Downgraded by $20 Billion",
+    "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-10-08T18:19:42.000Z",
+    "badgeColor": "emerald",
+    "angle": "Financial Downgrade"
   },
   "supportingStories": [
     {
-      "id": "weights-and-biases-yt:video:WIeUsZncpto",
-      "title": "Cline Pioneers Open-Weights Model Ecosystem for Robust AI Agents",
-      "link": "https://www.youtube.com/watch?v=WIeUsZncpto",
-      "sourceName": "Weights & Biases",
-      "sourceId": "weights-and-biases",
-      "pubDate": "2026-10-08T20:00:09.000Z",
-      "badgeColor": "yellow",
-      "angle": "Industry Analysis"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3175894",
+      "title": "Fired OpenAI Safety Researchers Dispute Misconduct Claims, Warn of Chilling Effect",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-08T20:04:26.000Z",
+      "badgeColor": "emerald",
+      "angle": "Safety and Ethics"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3175311",
+      "title": "OpenAI's Mathematical Proofs Fall Short of Academic Standards",
+      "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-08T18:10:55.000Z",
+      "badgeColor": "emerald",
+      "angle": "Academic Standards"
     }
   ]
 }

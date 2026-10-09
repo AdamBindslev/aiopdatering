@@ -61288,5 +61288,104 @@
     "whyItMatters": "By allowing developers to build custom models, ML Intern empowers a broader community to innovate and tailor AI solutions to specific needs, driving advancements in AI personalization and specialization.",
     "enrichedAt": "2026-10-09T00:43:53.102Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "version2-https://ing.dk/artikel/foraeldre-til-syge-boern-fik-intet-vide-om-ai-forsoeg-det-er-rystende": {
+    "title": "Parents of Sick Children Uninformed About AI Experiment: 'Alarming'",
+    "summary": "Parents of children receiving treatment at the Child and Adolescent Psychiatry Department in Roskilde were unaware their children's data was used in an AI experiment. The region now acknowledges the oversight, sparking concerns among parents and highlighting the need for transparency in medical research involving patient data.",
+    "danishTitle": "Parents of Sick Children Uninformed About AI Experiment: 'Alarming'",
+    "danishSummary": "Parents of children receiving treatment at the Child and Adolescent Psychiatry Department in Roskilde were unaware their children's data was used in an AI experiment. The region now acknowledges the oversight, sparking concerns among parents and highlighting the need for transparency in medical research involving patient data.",
+    "whyItMatters": "This incident underscores the importance of informed consent and transparency in medical AI research, potentially leading to stricter regulations and ethical guidelines to protect patient privacy and trust.",
+    "enrichedAt": "2026-10-09T03:48:40.473Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://ing.dk/artikel/foraeldre-til-syge-boern-fik-intet-vide-om-ai-forsoeg-det-er-rystende": {
+    "title": "Parents of Sick Children Uninformed About AI Experiment: 'Alarming'",
+    "summary": "Parents of children receiving treatment at the Child and Adolescent Psychiatry Department in Roskilde were unaware their children's data was used in an AI experiment. The region now acknowledges the oversight, sparking concerns among parents and highlighting the need for transparency in medical research involving patient data.",
+    "danishTitle": "Parents of Sick Children Uninformed About AI Experiment: 'Alarming'",
+    "danishSummary": "Parents of children receiving treatment at the Child and Adolescent Psychiatry Department in Roskilde were unaware their children's data was used in an AI experiment. The region now acknowledges the oversight, sparking concerns among parents and highlighting the need for transparency in medical research involving patient data.",
+    "whyItMatters": "This incident underscores the importance of informed consent and transparency in medical AI research, potentially leading to stricter regulations and ethical guidelines to protect patient privacy and trust.",
+    "enrichedAt": "2026-10-09T03:48:40.473Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Oct/8/ttok/": {
+    "title": "ttok 0.4 CLI Tool Receives Updates and Enhancements",
+    "summary": "Simon Willison has released an updated version of ttok, a command-line interface tool for token counting that utilizes OpenAI's tiktoken library. The latest version includes fixes for Click warnings, updated continuous integration processes, and a new command to list available models.",
+    "danishTitle": "ttok 0.4 CLI Tool Receives Updates and Enhancements",
+    "danishSummary": "Simon Willison has released an updated version of ttok, a command-line interface tool for token counting that utilizes OpenAI's tiktoken library. The latest version includes fixes for Click warnings, updated continuous integration processes, and a new command to list available models.",
+    "whyItMatters": "These updates ensure that ttok remains a reliable and user-friendly tool for developers working with token counting, particularly in the context of OpenAI's API integrations.",
+    "enrichedAt": "2026-10-09T03:48:50.912Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/oct/8/ttok": {
+    "title": "ttok 0.4 CLI Tool Receives Updates and Enhancements",
+    "summary": "Simon Willison has released an updated version of ttok, a command-line interface tool for token counting that utilizes OpenAI's tiktoken library. The latest version includes fixes for Click warnings, updated continuous integration processes, and a new command to list available models.",
+    "danishTitle": "ttok 0.4 CLI Tool Receives Updates and Enhancements",
+    "danishSummary": "Simon Willison has released an updated version of ttok, a command-line interface tool for token counting that utilizes OpenAI's tiktoken library. The latest version includes fixes for Click warnings, updated continuous integration processes, and a new command to list available models.",
+    "whyItMatters": "These updates ensure that ttok remains a reliable and user-friendly tool for developers working with token counting, particularly in the context of OpenAI's API integrations.",
+    "enrichedAt": "2026-10-09T03:48:50.912Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Oct/8/ttok/": {
+    "title": "ttok 0.4 CLI Tool Receives Updates and Enhancements",
+    "summary": "Simon Willison has released an updated version of ttok, a command-line interface tool for token counting that utilizes OpenAI's tiktoken library. The latest version includes fixes for Click warnings, updated continuous integration processes, and a new command to list available models.",
+    "danishTitle": "ttok 0.4 CLI Tool Receives Updates and Enhancements",
+    "danishSummary": "Simon Willison has released an updated version of ttok, a command-line interface tool for token counting that utilizes OpenAI's tiktoken library. The latest version includes fixes for Click warnings, updated continuous integration processes, and a new command to list available models.",
+    "whyItMatters": "These updates ensure that ttok remains a reliable and user-friendly tool for developers working with token counting, particularly in the context of OpenAI's API integrations.",
+    "enrichedAt": "2026-10-09T03:48:50.912Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "nvidia-https://developer.nvidia.com/blog/?p=123415": {
+    "title": "NVIDIA Introduces Bitwise Determinism for Scalable Pretraining with Megatron Core",
+    "summary": "NVIDIA has released a new feature called bitwise determinism for its Megatron pretraining framework, which simplifies large-scale model training by enhancing reproducibility and ease of debugging. This advancement is crucial for maintaining consistency across extensive training processes.",
+    "danishTitle": "NVIDIA Introduces Bitwise Determinism for Scalable Pretraining with Megatron Core",
+    "danishSummary": "NVIDIA has released a new feature called bitwise determinism for its Megatron pretraining framework, which simplifies large-scale model training by enhancing reproducibility and ease of debugging. This advancement is crucial for maintaining consistency across extensive training processes.",
+    "whyItMatters": "By improving reproducibility and debugging, bitwise determinism enables more reliable and efficient large-scale pretraining, which is essential for the development and deployment of advanced AI models.",
+    "enrichedAt": "2026-10-09T03:49:01.254Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://developer.nvidia.com/blog/scale-bitwise-deterministic-pretraining-with-nvidia-megatron-core": {
+    "title": "NVIDIA Introduces Bitwise Determinism for Scalable Pretraining with Megatron Core",
+    "summary": "NVIDIA has released a new feature called bitwise determinism for its Megatron pretraining framework, which simplifies large-scale model training by enhancing reproducibility and ease of debugging. This advancement is crucial for maintaining consistency across extensive training processes.",
+    "danishTitle": "NVIDIA Introduces Bitwise Determinism for Scalable Pretraining with Megatron Core",
+    "danishSummary": "NVIDIA has released a new feature called bitwise determinism for its Megatron pretraining framework, which simplifies large-scale model training by enhancing reproducibility and ease of debugging. This advancement is crucial for maintaining consistency across extensive training processes.",
+    "whyItMatters": "By improving reproducibility and debugging, bitwise determinism enables more reliable and efficient large-scale pretraining, which is essential for the development and deployment of advanced AI models.",
+    "enrichedAt": "2026-10-09T03:49:01.254Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://developer.nvidia.com/blog/scale-bitwise-deterministic-pretraining-with-nvidia-megatron-core/": {
+    "title": "NVIDIA Introduces Bitwise Determinism for Scalable Pretraining with Megatron Core",
+    "summary": "NVIDIA has released a new feature called bitwise determinism for its Megatron pretraining framework, which simplifies large-scale model training by enhancing reproducibility and ease of debugging. This advancement is crucial for maintaining consistency across extensive training processes.",
+    "danishTitle": "NVIDIA Introduces Bitwise Determinism for Scalable Pretraining with Megatron Core",
+    "danishSummary": "NVIDIA has released a new feature called bitwise determinism for its Megatron pretraining framework, which simplifies large-scale model training by enhancing reproducibility and ease of debugging. This advancement is crucial for maintaining consistency across extensive training processes.",
+    "whyItMatters": "By improving reproducibility and debugging, bitwise determinism enables more reliable and efficient large-scale pretraining, which is essential for the development and deployment of advanced AI models.",
+    "enrichedAt": "2026-10-09T03:49:01.254Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "anthropic-CBMiX0FVX3lxTFAzMHdoR1A0ZmxtMW1TRmVkUmNqY2VwdnJSLWd4MUZjdmg3SkxXMHNYMmxCbjR3Y0EwekZaZGdKcS1TeHUxZ2R6QUpxN2VTS0dkYllORFV4T3ZCWUwxdnA0": {
+    "title": "Anthropic Updates Usage Policy to Enhance Transparency and Control",
+    "summary": "Anthropic has released an updated usage policy aimed at providing clearer guidelines and increased control for users. The new policy includes detailed terms on data handling, API usage limits, and user rights, ensuring greater transparency in the company's operations.",
+    "danishTitle": "Anthropic Updates Usage Policy to Enhance Transparency and Control",
+    "danishSummary": "Anthropic has released an updated usage policy aimed at providing clearer guidelines and increased control for users. The new policy includes detailed terms on data handling, API usage limits, and user rights, ensuring greater transparency in the company's operations.",
+    "whyItMatters": "The updated policy strengthens user trust and compliance, setting a benchmark for ethical AI usage and fostering a more responsible AI development environment.",
+    "enrichedAt": "2026-10-09T03:49:10.725Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://news.google.com/rss/articles/cbmix0fvx3lxtfazmhdor1a0zmxtmw1trmvkumnqy2vwdnjslwd4muzjdmg3skxxmhnymmxcbjr3y0ewekzazgdkcs1tehuxz2r6qupxn2vts0dkyllorfv4t3zcwuwxdna0?oc=5": {
+    "title": "Anthropic Updates Usage Policy to Enhance Transparency and Control",
+    "summary": "Anthropic has released an updated usage policy aimed at providing clearer guidelines and increased control for users. The new policy includes detailed terms on data handling, API usage limits, and user rights, ensuring greater transparency in the company's operations.",
+    "danishTitle": "Anthropic Updates Usage Policy to Enhance Transparency and Control",
+    "danishSummary": "Anthropic has released an updated usage policy aimed at providing clearer guidelines and increased control for users. The new policy includes detailed terms on data handling, API usage limits, and user rights, ensuring greater transparency in the company's operations.",
+    "whyItMatters": "The updated policy strengthens user trust and compliance, setting a benchmark for ethical AI usage and fostering a more responsible AI development environment.",
+    "enrichedAt": "2026-10-09T03:49:10.725Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzMHdoR1A0ZmxtMW1TRmVkUmNqY2VwdnJSLWd4MUZjdmg3SkxXMHNYMmxCbjR3Y0EwekZaZGdKcS1TeHUxZ2R6QUpxN2VTS0dkYllORFV4T3ZCWUwxdnA0?oc=5": {
+    "title": "Anthropic Updates Usage Policy to Enhance Transparency and Control",
+    "summary": "Anthropic has released an updated usage policy aimed at providing clearer guidelines and increased control for users. The new policy includes detailed terms on data handling, API usage limits, and user rights, ensuring greater transparency in the company's operations.",
+    "danishTitle": "Anthropic Updates Usage Policy to Enhance Transparency and Control",
+    "danishSummary": "Anthropic has released an updated usage policy aimed at providing clearer guidelines and increased control for users. The new policy includes detailed terms on data handling, API usage limits, and user rights, ensuring greater transparency in the company's operations.",
+    "whyItMatters": "The updated policy strengthens user trust and compliance, setting a benchmark for ethical AI usage and fostering a more responsible AI development environment.",
+    "enrichedAt": "2026-10-09T03:49:10.725Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }
