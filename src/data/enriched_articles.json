@@ -62665,5 +62665,257 @@
     "whyItMatters": "By refining its market focus, Anthropic can better allocate resources and potentially improve the relevance and effectiveness of its AI offerings in targeted regions, impacting its competitive position in the global AI landscape.",
     "enrichedAt": "2026-10-09T13:10:37.783Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3176079": {
+    "title": "A16z’s Olivia Moore Identifies Revenue Diversification as Key to Consumer AI Growth",
+    "summary": "In an interview, A16z partner Olivia Moore discusses the potential of consumer AI, emphasizing the need for the industry to explore new revenue models beyond traditional subscriptions and API fees to fully realize its market potential.",
+    "danishTitle": "A16z’s Olivia Moore Identifies Revenue Diversification as Key to Consumer AI Growth",
+    "danishSummary": "In an interview, A16z partner Olivia Moore discusses the potential of consumer AI, emphasizing the need for the industry to explore new revenue models beyond traditional subscriptions and API fees to fully realize its market potential.",
+    "whyItMatters": "Expanding revenue streams could unlock broader adoption and innovation in consumer AI, driving more investment and development in the sector.",
+    "enrichedAt": "2026-10-09T16:16:12.423Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai": {
+    "title": "A16z’s Olivia Moore Identifies Revenue Diversification as Key to Consumer AI Growth",
+    "summary": "In an interview, A16z partner Olivia Moore discusses the potential of consumer AI, emphasizing the need for the industry to explore new revenue models beyond traditional subscriptions and API fees to fully realize its market potential.",
+    "danishTitle": "A16z’s Olivia Moore Identifies Revenue Diversification as Key to Consumer AI Growth",
+    "danishSummary": "In an interview, A16z partner Olivia Moore discusses the potential of consumer AI, emphasizing the need for the industry to explore new revenue models beyond traditional subscriptions and API fees to fully realize its market potential.",
+    "whyItMatters": "Expanding revenue streams could unlock broader adoption and innovation in consumer AI, driving more investment and development in the sector.",
+    "enrichedAt": "2026-10-09T16:16:12.423Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/": {
+    "title": "A16z’s Olivia Moore Identifies Revenue Diversification as Key to Consumer AI Growth",
+    "summary": "In an interview, A16z partner Olivia Moore discusses the potential of consumer AI, emphasizing the need for the industry to explore new revenue models beyond traditional subscriptions and API fees to fully realize its market potential.",
+    "danishTitle": "A16z’s Olivia Moore Identifies Revenue Diversification as Key to Consumer AI Growth",
+    "danishSummary": "In an interview, A16z partner Olivia Moore discusses the potential of consumer AI, emphasizing the need for the industry to explore new revenue models beyond traditional subscriptions and API fees to fully realize its market potential.",
+    "whyItMatters": "Expanding revenue streams could unlock broader adoption and innovation in consumer AI, driving more investment and development in the sector.",
+    "enrichedAt": "2026-10-09T16:16:12.423Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-47f6ae2bd79e8fc92d958051f1fc9a5345f3e76e": {
+    "title": "AWS Updates Amazon Bedrock and Strands with Enhanced Features for AI Builders",
+    "summary": "In September 2026, AWS released updates to Amazon Bedrock and Strands, including a wider range of models, faster serverless agents with integrated evaluation capabilities, and automated knowledge base synchronization. These enhancements aim to streamline AI development and deployment processes.",
+    "danishTitle": "AWS Updates Amazon Bedrock and Strands with Enhanced Features for AI Builders",
+    "danishSummary": "In September 2026, AWS released updates to Amazon Bedrock and Strands, including a wider range of models, faster serverless agents with integrated evaluation capabilities, and automated knowledge base synchronization. These enhancements aim to streamline AI development and deployment processes.",
+    "whyItMatters": "These improvements provide AI builders with more versatile tools and streamlined workflows, potentially accelerating innovation and adoption across various industries.",
+    "enrichedAt": "2026-10-09T16:16:22.106Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026": {
+    "title": "AWS Updates Amazon Bedrock and Strands with Enhanced Features for AI Builders",
+    "summary": "In September 2026, AWS released updates to Amazon Bedrock and Strands, including a wider range of models, faster serverless agents with integrated evaluation capabilities, and automated knowledge base synchronization. These enhancements aim to streamline AI development and deployment processes.",
+    "danishTitle": "AWS Updates Amazon Bedrock and Strands with Enhanced Features for AI Builders",
+    "danishSummary": "In September 2026, AWS released updates to Amazon Bedrock and Strands, including a wider range of models, faster serverless agents with integrated evaluation capabilities, and automated knowledge base synchronization. These enhancements aim to streamline AI development and deployment processes.",
+    "whyItMatters": "These improvements provide AI builders with more versatile tools and streamlined workflows, potentially accelerating innovation and adoption across various industries.",
+    "enrichedAt": "2026-10-09T16:16:22.106Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/": {
+    "title": "AWS Updates Amazon Bedrock and Strands with Enhanced Features for AI Builders",
+    "summary": "In September 2026, AWS released updates to Amazon Bedrock and Strands, including a wider range of models, faster serverless agents with integrated evaluation capabilities, and automated knowledge base synchronization. These enhancements aim to streamline AI development and deployment processes.",
+    "danishTitle": "AWS Updates Amazon Bedrock and Strands with Enhanced Features for AI Builders",
+    "danishSummary": "In September 2026, AWS released updates to Amazon Bedrock and Strands, including a wider range of models, faster serverless agents with integrated evaluation capabilities, and automated knowledge base synchronization. These enhancements aim to streamline AI development and deployment processes.",
+    "whyItMatters": "These improvements provide AI builders with more versatile tools and streamlined workflows, potentially accelerating innovation and adoption across various industries.",
+    "enrichedAt": "2026-10-09T16:16:22.106Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-b70b3126633995a55ec3140e570c01681b054d89": {
+    "title": "Postman Deploys Agent Mode on Amazon Bedrock for 40 Million Developers",
+    "summary": "Postman has integrated Amazon Bedrock to power Agent Mode, a feature that supports 40 million developers by managing AI agent deployment at scale. The integration focuses on controlling tool sprawl, exposing schema-based reads, and optimizing infrastructure.",
+    "danishTitle": "Postman Deploys Agent Mode on Amazon Bedrock for 40 Million Developers",
+    "danishSummary": "Postman has integrated Amazon Bedrock to power Agent Mode, a feature that supports 40 million developers by managing AI agent deployment at scale. The integration focuses on controlling tool sprawl, exposing schema-based reads, and optimizing infrastructure.",
+    "whyItMatters": "This deployment showcases the scalability and reliability of AI agent management at a massive user base, setting a benchmark for other tech companies looking to integrate AI into their workflows.",
+    "enrichedAt": "2026-10-09T16:16:32.289Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock": {
+    "title": "Postman Deploys Agent Mode on Amazon Bedrock for 40 Million Developers",
+    "summary": "Postman has integrated Amazon Bedrock to power Agent Mode, a feature that supports 40 million developers by managing AI agent deployment at scale. The integration focuses on controlling tool sprawl, exposing schema-based reads, and optimizing infrastructure.",
+    "danishTitle": "Postman Deploys Agent Mode on Amazon Bedrock for 40 Million Developers",
+    "danishSummary": "Postman has integrated Amazon Bedrock to power Agent Mode, a feature that supports 40 million developers by managing AI agent deployment at scale. The integration focuses on controlling tool sprawl, exposing schema-based reads, and optimizing infrastructure.",
+    "whyItMatters": "This deployment showcases the scalability and reliability of AI agent management at a massive user base, setting a benchmark for other tech companies looking to integrate AI into their workflows.",
+    "enrichedAt": "2026-10-09T16:16:32.289Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/": {
+    "title": "Postman Deploys Agent Mode on Amazon Bedrock for 40 Million Developers",
+    "summary": "Postman has integrated Amazon Bedrock to power Agent Mode, a feature that supports 40 million developers by managing AI agent deployment at scale. The integration focuses on controlling tool sprawl, exposing schema-based reads, and optimizing infrastructure.",
+    "danishTitle": "Postman Deploys Agent Mode on Amazon Bedrock for 40 Million Developers",
+    "danishSummary": "Postman has integrated Amazon Bedrock to power Agent Mode, a feature that supports 40 million developers by managing AI agent deployment at scale. The integration focuses on controlling tool sprawl, exposing schema-based reads, and optimizing infrastructure.",
+    "whyItMatters": "This deployment showcases the scalability and reliability of AI agent management at a massive user base, setting a benchmark for other tech companies looking to integrate AI into their workflows.",
+    "enrichedAt": "2026-10-09T16:16:32.289Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "huggingface-https://huggingface.co/blog/allenai/impactful-scheduling": {
+    "title": "AllenAI Unveils Advanced GPU Cluster Scheduling to Enhance Efficiency",
+    "summary": "AllenAI has released a new scheduling algorithm designed to optimize the use of GPU clusters, significantly improving efficiency and resource management in machine learning environments. This update is particularly relevant for researchers and enterprises dealing with large-scale data processing and model training.",
+    "danishTitle": "AllenAI Unveils Advanced GPU Cluster Scheduling to Enhance Efficiency",
+    "danishSummary": "AllenAI has released a new scheduling algorithm designed to optimize the use of GPU clusters, significantly improving efficiency and resource management in machine learning environments. This update is particularly relevant for researchers and enterprises dealing with large-scale data processing and model training.",
+    "whyItMatters": "By boosting the efficiency of GPU cluster usage, this new scheduling technique can reduce operational costs and accelerate research and development cycles in the AI community.",
+    "enrichedAt": "2026-10-09T16:16:41.551Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://huggingface.co/blog/allenai/impactful-scheduling": {
+    "title": "AllenAI Unveils Advanced GPU Cluster Scheduling to Enhance Efficiency",
+    "summary": "AllenAI has released a new scheduling algorithm designed to optimize the use of GPU clusters, significantly improving efficiency and resource management in machine learning environments. This update is particularly relevant for researchers and enterprises dealing with large-scale data processing and model training.",
+    "danishTitle": "AllenAI Unveils Advanced GPU Cluster Scheduling to Enhance Efficiency",
+    "danishSummary": "AllenAI has released a new scheduling algorithm designed to optimize the use of GPU clusters, significantly improving efficiency and resource management in machine learning environments. This update is particularly relevant for researchers and enterprises dealing with large-scale data processing and model training.",
+    "whyItMatters": "By boosting the efficiency of GPU cluster usage, this new scheduling technique can reduce operational costs and accelerate research and development cycles in the AI community.",
+    "enrichedAt": "2026-10-09T16:16:41.551Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Oct/9/matthew-green/": {
+    "title": "Matthew Green Warns of Cryptographic Risks in a Skeptical Tone",
+    "summary": "Cryptographer Matthew Green, in a candid and cautionary tone, discusses the potential worst-case scenarios for cryptography, suggesting a 1% chance of living in a Minicrypt world and a 15% chance of losing confidence in current cryptographic systems.",
+    "danishTitle": "Matthew Green Warns of Cryptographic Risks in a Skeptical Tone",
+    "danishSummary": "Cryptographer Matthew Green, in a candid and cautionary tone, discusses the potential worst-case scenarios for cryptography, suggesting a 1% chance of living in a Minicrypt world and a 15% chance of losing confidence in current cryptographic systems.",
+    "whyItMatters": "Green's warnings highlight the need for increased vigilance and robustness in cryptographic practices, emphasizing the critical importance of cybersecurity in an increasingly digital world.",
+    "enrichedAt": "2026-10-09T16:16:51.576Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/oct/9/matthew-green": {
+    "title": "Matthew Green Warns of Cryptographic Risks in a Skeptical Tone",
+    "summary": "Cryptographer Matthew Green, in a candid and cautionary tone, discusses the potential worst-case scenarios for cryptography, suggesting a 1% chance of living in a Minicrypt world and a 15% chance of losing confidence in current cryptographic systems.",
+    "danishTitle": "Matthew Green Warns of Cryptographic Risks in a Skeptical Tone",
+    "danishSummary": "Cryptographer Matthew Green, in a candid and cautionary tone, discusses the potential worst-case scenarios for cryptography, suggesting a 1% chance of living in a Minicrypt world and a 15% chance of losing confidence in current cryptographic systems.",
+    "whyItMatters": "Green's warnings highlight the need for increased vigilance and robustness in cryptographic practices, emphasizing the critical importance of cybersecurity in an increasingly digital world.",
+    "enrichedAt": "2026-10-09T16:16:51.576Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Oct/9/matthew-green/": {
+    "title": "Matthew Green Warns of Cryptographic Risks in a Skeptical Tone",
+    "summary": "Cryptographer Matthew Green, in a candid and cautionary tone, discusses the potential worst-case scenarios for cryptography, suggesting a 1% chance of living in a Minicrypt world and a 15% chance of losing confidence in current cryptographic systems.",
+    "danishTitle": "Matthew Green Warns of Cryptographic Risks in a Skeptical Tone",
+    "danishSummary": "Cryptographer Matthew Green, in a candid and cautionary tone, discusses the potential worst-case scenarios for cryptography, suggesting a 1% chance of living in a Minicrypt world and a 15% chance of losing confidence in current cryptographic systems.",
+    "whyItMatters": "Green's warnings highlight the need for increased vigilance and robustness in cryptographic practices, emphasizing the critical importance of cybersecurity in an increasingly digital world.",
+    "enrichedAt": "2026-10-09T16:16:51.576Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "weights-and-biases-yt:video:2XdarmFGTFY": {
+    "title": "IBM Partners with CoreWeave to Safeguard Sensitive AI Workloads",
+    "summary": "IBM has partnered with CoreWeave to enhance the security of sensitive data and AI workloads, ensuring they are securely deployed and managed. This collaboration addresses the critical need for robust security measures in AI systems across various industries.",
+    "danishTitle": "IBM Partners with CoreWeave to Safeguard Sensitive AI Workloads",
+    "danishSummary": "IBM has partnered with CoreWeave to enhance the security of sensitive data and AI workloads, ensuring they are securely deployed and managed. This collaboration addresses the critical need for robust security measures in AI systems across various industries.",
+    "whyItMatters": "By prioritizing security, this partnership ensures that AI systems can be trusted and adopted more widely, fostering confidence in the use of AI technologies among enterprises handling sensitive information.",
+    "enrichedAt": "2026-10-09T16:17:01.481Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:2xdarmfgtfy": {
+    "title": "IBM Partners with CoreWeave to Safeguard Sensitive AI Workloads",
+    "summary": "IBM has partnered with CoreWeave to enhance the security of sensitive data and AI workloads, ensuring they are securely deployed and managed. This collaboration addresses the critical need for robust security measures in AI systems across various industries.",
+    "danishTitle": "IBM Partners with CoreWeave to Safeguard Sensitive AI Workloads",
+    "danishSummary": "IBM has partnered with CoreWeave to enhance the security of sensitive data and AI workloads, ensuring they are securely deployed and managed. This collaboration addresses the critical need for robust security measures in AI systems across various industries.",
+    "whyItMatters": "By prioritizing security, this partnership ensures that AI systems can be trusted and adopted more widely, fostering confidence in the use of AI technologies among enterprises handling sensitive information.",
+    "enrichedAt": "2026-10-09T16:17:01.481Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=2XdarmFGTFY": {
+    "title": "IBM Partners with CoreWeave to Safeguard Sensitive AI Workloads",
+    "summary": "IBM has partnered with CoreWeave to enhance the security of sensitive data and AI workloads, ensuring they are securely deployed and managed. This collaboration addresses the critical need for robust security measures in AI systems across various industries.",
+    "danishTitle": "IBM Partners with CoreWeave to Safeguard Sensitive AI Workloads",
+    "danishSummary": "IBM has partnered with CoreWeave to enhance the security of sensitive data and AI workloads, ensuring they are securely deployed and managed. This collaboration addresses the critical need for robust security measures in AI systems across various industries.",
+    "whyItMatters": "By prioritizing security, this partnership ensures that AI systems can be trusted and adopted more widely, fostering confidence in the use of AI technologies among enterprises handling sensitive information.",
+    "enrichedAt": "2026-10-09T16:17:01.481Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3175987": {
+    "title": "TechCrunch Disrupt 2026: Early Bird Passes Offer Significant Savings",
+    "summary": "TechCrunch Disrupt 2026, an annual event for tech leaders, founders, and investors, is set to commence in San Francisco on October 13-15. Attendees have until October 13 to secure discounted passes, with savings of up to $100 and a 50% discount on additional passes.",
+    "danishTitle": "TechCrunch Disrupt 2026: Early Bird Passes Offer Significant Savings",
+    "danishSummary": "TechCrunch Disrupt 2026, an annual event for tech leaders, founders, and investors, is set to commence in San Francisco on October 13-15. Attendees have until October 13 to secure discounted passes, with savings of up to $100 and a 50% discount on additional passes.",
+    "whyItMatters": "Early registration offers substantial financial benefits, encouraging more participants to attend and potentially boosting the event's attendance and networking opportunities.",
+    "enrichedAt": "2026-10-09T16:17:13.629Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise": {
+    "title": "TechCrunch Disrupt 2026: Early Bird Passes Offer Significant Savings",
+    "summary": "TechCrunch Disrupt 2026, an annual event for tech leaders, founders, and investors, is set to commence in San Francisco on October 13-15. Attendees have until October 13 to secure discounted passes, with savings of up to $100 and a 50% discount on additional passes.",
+    "danishTitle": "TechCrunch Disrupt 2026: Early Bird Passes Offer Significant Savings",
+    "danishSummary": "TechCrunch Disrupt 2026, an annual event for tech leaders, founders, and investors, is set to commence in San Francisco on October 13-15. Attendees have until October 13 to secure discounted passes, with savings of up to $100 and a 50% discount on additional passes.",
+    "whyItMatters": "Early registration offers substantial financial benefits, encouraging more participants to attend and potentially boosting the event's attendance and networking opportunities.",
+    "enrichedAt": "2026-10-09T16:17:13.629Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/": {
+    "title": "TechCrunch Disrupt 2026: Early Bird Passes Offer Significant Savings",
+    "summary": "TechCrunch Disrupt 2026, an annual event for tech leaders, founders, and investors, is set to commence in San Francisco on October 13-15. Attendees have until October 13 to secure discounted passes, with savings of up to $100 and a 50% discount on additional passes.",
+    "danishTitle": "TechCrunch Disrupt 2026: Early Bird Passes Offer Significant Savings",
+    "danishSummary": "TechCrunch Disrupt 2026, an annual event for tech leaders, founders, and investors, is set to commence in San Francisco on October 13-15. Attendees have until October 13 to secure discounted passes, with savings of up to $100 and a 50% discount on additional passes.",
+    "whyItMatters": "Early registration offers substantial financial benefits, encouraging more participants to attend and potentially boosting the event's attendance and networking opportunities.",
+    "enrichedAt": "2026-10-09T16:17:13.629Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "the-zvi-https://thezvi.substack.com/p/new-math-from-openai": {
+    "title": "OpenAI Unveils Breakthrough in Mathematical Reasoning Capabilities",
+    "summary": "OpenAI has released a significant advancement in its mathematical reasoning models, enhancing their ability to solve complex mathematical problems. This update is seen as a major step forward in the field of AI, particularly for applications requiring high-level mathematical understanding and problem-solving skills.",
+    "danishTitle": "OpenAI Unveils Breakthrough in Mathematical Reasoning Capabilities",
+    "danishSummary": "OpenAI has released a significant advancement in its mathematical reasoning models, enhancing their ability to solve complex mathematical problems. This update is seen as a major step forward in the field of AI, particularly for applications requiring high-level mathematical understanding and problem-solving skills.",
+    "whyItMatters": "This breakthrough could revolutionize industries such as finance, engineering, and research, where precise mathematical reasoning is critical, by providing more accurate and efficient solutions.",
+    "enrichedAt": "2026-10-09T16:17:23.205Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://thezvi.substack.com/p/new-math-from-openai": {
+    "title": "OpenAI Unveils Breakthrough in Mathematical Reasoning Capabilities",
+    "summary": "OpenAI has released a significant advancement in its mathematical reasoning models, enhancing their ability to solve complex mathematical problems. This update is seen as a major step forward in the field of AI, particularly for applications requiring high-level mathematical understanding and problem-solving skills.",
+    "danishTitle": "OpenAI Unveils Breakthrough in Mathematical Reasoning Capabilities",
+    "danishSummary": "OpenAI has released a significant advancement in its mathematical reasoning models, enhancing their ability to solve complex mathematical problems. This update is seen as a major step forward in the field of AI, particularly for applications requiring high-level mathematical understanding and problem-solving skills.",
+    "whyItMatters": "This breakthrough could revolutionize industries such as finance, engineering, and research, where precise mathematical reasoning is critical, by providing more accurate and efficient solutions.",
+    "enrichedAt": "2026-10-09T16:17:23.205Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "weights-and-biases-yt:video:ObzZcszkdSs": {
+    "title": "You.com, NVIDIA, and CoreWeave Enhance Nemotron 3.5 Lightning for Agentic Search",
+    "summary": "You.com’s engineering team collaborated with NVIDIA and CoreWeave to post-train NVIDIA’s Nemotron 3.5 Lightning on CoreWeave using Dynamo RL rollouts in NeMo gym, integrating You.com’s web search API. This effort aims to improve agentic search capabilities, making AI more adept at handling complex web search tasks.",
+    "danishTitle": "You.com, NVIDIA, and CoreWeave Enhance Nemotron 3.5 Lightning for Agentic Search",
+    "danishSummary": "You.com’s engineering team collaborated with NVIDIA and CoreWeave to post-train NVIDIA’s Nemotron 3.5 Lightning on CoreWeave using Dynamo RL rollouts in NeMo gym, integrating You.com’s web search API. This effort aims to improve agentic search capabilities, making AI more adept at handling complex web search tasks.",
+    "whyItMatters": "Improvements in agentic search through post-training can lead to more sophisticated and effective AI-driven search experiences, enhancing user interaction and utility in web searches.",
+    "enrichedAt": "2026-10-09T16:17:35.340Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:obzzcszkdss": {
+    "title": "You.com, NVIDIA, and CoreWeave Enhance Nemotron 3.5 Lightning for Agentic Search",
+    "summary": "You.com’s engineering team collaborated with NVIDIA and CoreWeave to post-train NVIDIA’s Nemotron 3.5 Lightning on CoreWeave using Dynamo RL rollouts in NeMo gym, integrating You.com’s web search API. This effort aims to improve agentic search capabilities, making AI more adept at handling complex web search tasks.",
+    "danishTitle": "You.com, NVIDIA, and CoreWeave Enhance Nemotron 3.5 Lightning for Agentic Search",
+    "danishSummary": "You.com’s engineering team collaborated with NVIDIA and CoreWeave to post-train NVIDIA’s Nemotron 3.5 Lightning on CoreWeave using Dynamo RL rollouts in NeMo gym, integrating You.com’s web search API. This effort aims to improve agentic search capabilities, making AI more adept at handling complex web search tasks.",
+    "whyItMatters": "Improvements in agentic search through post-training can lead to more sophisticated and effective AI-driven search experiences, enhancing user interaction and utility in web searches.",
+    "enrichedAt": "2026-10-09T16:17:35.340Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=ObzZcszkdSs": {
+    "title": "You.com, NVIDIA, and CoreWeave Enhance Nemotron 3.5 Lightning for Agentic Search",
+    "summary": "You.com’s engineering team collaborated with NVIDIA and CoreWeave to post-train NVIDIA’s Nemotron 3.5 Lightning on CoreWeave using Dynamo RL rollouts in NeMo gym, integrating You.com’s web search API. This effort aims to improve agentic search capabilities, making AI more adept at handling complex web search tasks.",
+    "danishTitle": "You.com, NVIDIA, and CoreWeave Enhance Nemotron 3.5 Lightning for Agentic Search",
+    "danishSummary": "You.com’s engineering team collaborated with NVIDIA and CoreWeave to post-train NVIDIA’s Nemotron 3.5 Lightning on CoreWeave using Dynamo RL rollouts in NeMo gym, integrating You.com’s web search API. This effort aims to improve agentic search capabilities, making AI more adept at handling complex web search tasks.",
+    "whyItMatters": "Improvements in agentic search through post-training can lead to more sophisticated and effective AI-driven search experiences, enhancing user interaction and utility in web searches.",
+    "enrichedAt": "2026-10-09T16:17:35.340Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "epoch-ai-CBMiQ0FVX3lxTE05XzI1b3d2eUhzNmpIXzhvRW53UWRqSTRMY2VYa0ZpTUc0dW5LSHNZUWhqaTExQTZwckllNXdFWXdtcVE": {
+    "title": "Epoch AI Releases Safety-First Model for Enhanced Autonomous Systems",
+    "summary": "Epoch AI has published a new safety-focused model aimed at improving the reliability and security of autonomous systems. This model prioritizes safety protocols and robust error handling to ensure safer deployment in critical applications.",
+    "danishTitle": "Epoch AI Releases Safety-First Model for Enhanced Autonomous Systems",
+    "danishSummary": "Epoch AI has published a new safety-focused model aimed at improving the reliability and security of autonomous systems. This model prioritizes safety protocols and robust error handling to ensure safer deployment in critical applications.",
+    "whyItMatters": "The emphasis on safety in autonomous systems is crucial for gaining public trust and ensuring the responsible use of AI in high-stakes environments.",
+    "enrichedAt": "2026-10-09T16:17:44.015Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://news.google.com/rss/articles/cbmiq0fvx3lxte05xzi1b3d2euhznmpixzhvrw53uwrqstrmy2vya0zptuc0dw5lshnzuwhqatexqtzwckllnxdfwxdtcve?oc=5": {
+    "title": "Epoch AI Releases Safety-First Model for Enhanced Autonomous Systems",
+    "summary": "Epoch AI has published a new safety-focused model aimed at improving the reliability and security of autonomous systems. This model prioritizes safety protocols and robust error handling to ensure safer deployment in critical applications.",
+    "danishTitle": "Epoch AI Releases Safety-First Model for Enhanced Autonomous Systems",
+    "danishSummary": "Epoch AI has published a new safety-focused model aimed at improving the reliability and security of autonomous systems. This model prioritizes safety protocols and robust error handling to ensure safer deployment in critical applications.",
+    "whyItMatters": "The emphasis on safety in autonomous systems is crucial for gaining public trust and ensuring the responsible use of AI in high-stakes environments.",
+    "enrichedAt": "2026-10-09T16:17:44.015Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE05XzI1b3d2eUhzNmpIXzhvRW53UWRqSTRMY2VYa0ZpTUc0dW5LSHNZUWhqaTExQTZwckllNXdFWXdtcVE?oc=5": {
+    "title": "Epoch AI Releases Safety-First Model for Enhanced Autonomous Systems",
+    "summary": "Epoch AI has published a new safety-focused model aimed at improving the reliability and security of autonomous systems. This model prioritizes safety protocols and robust error handling to ensure safer deployment in critical applications.",
+    "danishTitle": "Epoch AI Releases Safety-First Model for Enhanced Autonomous Systems",
+    "danishSummary": "Epoch AI has published a new safety-focused model aimed at improving the reliability and security of autonomous systems. This model prioritizes safety protocols and robust error handling to ensure safer deployment in critical applications.",
+    "whyItMatters": "The emphasis on safety in autonomous systems is crucial for gaining public trust and ensuring the responsible use of AI in high-stakes environments.",
+    "enrichedAt": "2026-10-09T16:17:44.015Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }

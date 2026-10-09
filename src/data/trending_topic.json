@@ -1,39 +1,29 @@
 {
-  "headline": "Open-Weight Reasoning Models Emerge as a New Frontier in AI",
-  "summary": "ReflectionAI's launch of Beam, a 500 billion parameter open-weight reasoning model, signals a significant shift towards more accessible and powerful reasoning capabilities. This trend is driving industry debate and accelerating the deployment of advanced AI agents.",
-  "whyItMatters": "It challenges proprietary models, broadens access to advanced reasoning, and could reshape the AI landscape by democratizing powerful AI tools.",
-  "synthesizedAt": "2026-10-09T13:11:11.050Z",
+  "headline": "OpenAI's Mathematical Breakthroughs Spark Controversy and Calls for Boycott",
+  "summary": "OpenAI has released significant advancements in mathematical reasoning, which have alarmed the mathematical community and sparked calls for a boycott. This controversy highlights the growing tension between AI-driven innovation and traditional academic standards.",
+  "whyItMatters": "It underscores the potential for AI to challenge established academic norms and the need for the AI industry to navigate these tensions carefully.",
+  "synthesizedAt": "2026-10-09T16:18:16.390Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "no-priors-yt:video:lx9RjE0GekI",
-    "title": "ReflectionAI Launches Beam: Open-Weight Reasoning Model with Misha Laskin",
-    "link": "https://www.youtube.com/watch?v=lx9RjE0GekI",
-    "sourceName": "No Priors Podcast",
-    "sourceId": "no-priors",
-    "pubDate": "2026-10-09T10:00:17.000Z",
-    "badgeColor": "amber",
-    "angle": "Official Release"
+    "id": "wes-roth-yt:video:rxpV3QLV-pg",
+    "title": "OpenAI’s Mathematical Discoveries Spark Controversy and Calls for Boycott",
+    "link": "https://www.youtube.com/watch?v=rxpV3QLV-pg",
+    "sourceName": "Wes Roth",
+    "sourceId": "wes-roth",
+    "pubDate": "2026-10-09T04:28:24.000Z",
+    "badgeColor": "emerald",
+    "angle": "Controversy"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41309",
-      "title": "OpenAI Faces Growing Safety Crisis Amid Staff Firing Controversy",
-      "link": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-09T11:45:04.000Z",
-      "badgeColor": "slate",
-      "angle": "Critical Debate"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2610.10549v1",
-      "title": "New Study Explores Scalable Agent-System Interaction for Enterprise AI",
-      "link": "https://arxiv.org/abs/2610.10549",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-10-09T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Industry Analysis"
+      "id": "the-zvi-https://thezvi.substack.com/p/new-math-from-openai",
+      "title": "OpenAI Unveils Breakthrough in Mathematical Reasoning Capabilities",
+      "link": "https://thezvi.substack.com/p/new-math-from-openai",
+      "sourceName": "Don't Worry About the Vase (Zvi)",
+      "sourceId": "the-zvi",
+      "pubDate": "2026-10-09T13:20:43.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
