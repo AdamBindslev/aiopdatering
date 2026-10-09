@@ -1,20 +1,30 @@
 {
-  "headline": "OpenAI's Mathematical Breakthroughs Spark Controversy and Calls for Boycott",
-  "summary": "OpenAI has released significant advancements in mathematical reasoning, which have alarmed the mathematical community and sparked calls for a boycott. This controversy highlights the growing tension between AI-driven innovation and traditional academic standards.",
-  "whyItMatters": "It underscores the potential for AI to challenge established academic norms and the need for the AI industry to navigate these tensions carefully.",
-  "synthesizedAt": "2026-10-09T16:18:16.390Z",
+  "headline": "Open-Weight Reasoning Models Challenge Proprietary Frontier Labs",
+  "summary": "ReflectionAI has launched Beam, a 500 billion parameter open-weight reasoning model, challenging the dominance of closed proprietary AI systems. This shift is accelerating local AI agent deployment and putting downward pressure on closed-API pricing models.",
+  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on closed proprietary platforms.",
+  "synthesizedAt": "2026-10-09T19:25:34.945Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "wes-roth-yt:video:rxpV3QLV-pg",
-    "title": "OpenAI’s Mathematical Discoveries Spark Controversy and Calls for Boycott",
-    "link": "https://www.youtube.com/watch?v=rxpV3QLV-pg",
-    "sourceName": "Wes Roth",
-    "sourceId": "wes-roth",
-    "pubDate": "2026-10-09T04:28:24.000Z",
-    "badgeColor": "emerald",
-    "angle": "Controversy"
+    "id": "no-priors-yt:video:up4sG9RM20M",
+    "title": "ReflectionAI Launches Open-Weight Reasoning Model Beam, Discussing Openness in AI",
+    "link": "https://www.youtube.com/watch?v=up4sG9RM20M",
+    "sourceName": "No Priors Podcast",
+    "sourceId": "no-priors",
+    "pubDate": "2026-10-09T17:28:41.000Z",
+    "badgeColor": "amber",
+    "angle": "Primary Source"
   },
   "supportingStories": [
+    {
+      "id": "openai-channel-yt:video:p5KxBTUncoE",
+      "title": "ChatGPT Mobile App Introduces Customizable Dot Feature",
+      "link": "https://www.youtube.com/watch?v=p5KxBTUncoE",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-10-09T19:13:03.000Z",
+      "badgeColor": "emerald",
+      "angle": "Official Release"
+    },
     {
       "id": "the-zvi-https://thezvi.substack.com/p/new-math-from-openai",
       "title": "OpenAI Unveils Breakthrough in Mathematical Reasoning Capabilities",
@@ -23,7 +33,7 @@
       "sourceId": "the-zvi",
       "pubDate": "2026-10-09T13:20:43.000Z",
       "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
+      "angle": "Industry Analysis"
     }
   ]
 }
