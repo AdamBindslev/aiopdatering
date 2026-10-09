@@ -61387,5 +61387,635 @@
     "whyItMatters": "The updated policy strengthens user trust and compliance, setting a benchmark for ethical AI usage and fostering a more responsible AI development environment.",
     "enrichedAt": "2026-10-09T03:49:10.725Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.10550v1": {
+    "title": "Diffu-LoRA: A New Low-Rank Adaptation for Personalized Text-to-Image Diffusion Models",
+    "summary": "Researchers have developed Diffu-LoRA, a novel low-rank adaptation technique for personalizing text-to-image diffusion models using only a few reference images. This method preserves the subject's identity while allowing for context-specific modifications.",
+    "danishTitle": "Diffu-LoRA: A New Low-Rank Adaptation for Personalized Text-to-Image Diffusion Models",
+    "danishSummary": "Researchers have developed Diffu-LoRA, a novel low-rank adaptation technique for personalizing text-to-image diffusion models using only a few reference images. This method preserves the subject's identity while allowing for context-specific modifications.",
+    "whyItMatters": "This innovation could significantly reduce the computational resources needed for personalizing AI-generated images, making such models more accessible and efficient for various applications.",
+    "enrichedAt": "2026-10-09T06:55:26.997Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10550": {
+    "title": "Diffu-LoRA: A New Low-Rank Adaptation for Personalized Text-to-Image Diffusion Models",
+    "summary": "Researchers have developed Diffu-LoRA, a novel low-rank adaptation technique for personalizing text-to-image diffusion models using only a few reference images. This method preserves the subject's identity while allowing for context-specific modifications.",
+    "danishTitle": "Diffu-LoRA: A New Low-Rank Adaptation for Personalized Text-to-Image Diffusion Models",
+    "danishSummary": "Researchers have developed Diffu-LoRA, a novel low-rank adaptation technique for personalizing text-to-image diffusion models using only a few reference images. This method preserves the subject's identity while allowing for context-specific modifications.",
+    "whyItMatters": "This innovation could significantly reduce the computational resources needed for personalizing AI-generated images, making such models more accessible and efficient for various applications.",
+    "enrichedAt": "2026-10-09T06:55:26.997Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.10592v1": {
+    "title": "Wieszcz-XIX: A 3.1 Billion-Word Corpus for Pre-1918 Polish Language Models",
+    "summary": "Wieszcz-XIX, a new 3.1-billion-word corpus of pre-1918 Polish language, has been released. This extensive dataset, trained from scratch, addresses the scarcity of annotated historical Polish texts, providing a valuable resource for developing temporally bounded language models.",
+    "danishTitle": "Wieszcz-XIX: A 3.1 Billion-Word Corpus for Pre-1918 Polish Language Models",
+    "danishSummary": "Wieszcz-XIX, a new 3.1-billion-word corpus of pre-1918 Polish language, has been released. This extensive dataset, trained from scratch, addresses the scarcity of annotated historical Polish texts, providing a valuable resource for developing temporally bounded language models.",
+    "whyItMatters": "The availability of this large corpus will significantly enhance the accuracy and effectiveness of historical language processing, benefiting researchers, linguists, and developers working on temporal language models and historical text analysis.",
+    "enrichedAt": "2026-10-09T06:55:39.273Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10592": {
+    "title": "Wieszcz-XIX: A 3.1 Billion-Word Corpus for Pre-1918 Polish Language Models",
+    "summary": "Wieszcz-XIX, a new 3.1-billion-word corpus of pre-1918 Polish language, has been released. This extensive dataset, trained from scratch, addresses the scarcity of annotated historical Polish texts, providing a valuable resource for developing temporally bounded language models.",
+    "danishTitle": "Wieszcz-XIX: A 3.1 Billion-Word Corpus for Pre-1918 Polish Language Models",
+    "danishSummary": "Wieszcz-XIX, a new 3.1-billion-word corpus of pre-1918 Polish language, has been released. This extensive dataset, trained from scratch, addresses the scarcity of annotated historical Polish texts, providing a valuable resource for developing temporally bounded language models.",
+    "whyItMatters": "The availability of this large corpus will significantly enhance the accuracy and effectiveness of historical language processing, benefiting researchers, linguists, and developers working on temporal language models and historical text analysis.",
+    "enrichedAt": "2026-10-09T06:55:39.273Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.10650v1": {
+    "title": "AI-Driven TMPs: Case Study Shows Promise in Enhancing WisDOT's Work Zone Safety Management",
+    "summary": "A new case study from the Wisconsin Department of Transportation (WisDOT) demonstrates how large language models can assist in the preparation of Transportation Management Plans (TMPs) for work zones, improving safety and efficiency. The study highlights the potential of AI in streamlining complex planning processes.",
+    "danishTitle": "AI-Driven TMPs: Case Study Shows Promise in Enhancing WisDOT's Work Zone Safety Management",
+    "danishSummary": "A new case study from the Wisconsin Department of Transportation (WisDOT) demonstrates how large language models can assist in the preparation of Transportation Management Plans (TMPs) for work zones, improving safety and efficiency. The study highlights the potential of AI in streamlining complex planning processes.",
+    "whyItMatters": "This application of AI in transportation management could lead to safer work zones and more efficient planning processes, setting a precedent for other transportation agencies to adopt similar technologies.",
+    "enrichedAt": "2026-10-09T06:55:50.289Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10650": {
+    "title": "AI-Driven TMPs: Case Study Shows Promise in Enhancing WisDOT's Work Zone Safety Management",
+    "summary": "A new case study from the Wisconsin Department of Transportation (WisDOT) demonstrates how large language models can assist in the preparation of Transportation Management Plans (TMPs) for work zones, improving safety and efficiency. The study highlights the potential of AI in streamlining complex planning processes.",
+    "danishTitle": "AI-Driven TMPs: Case Study Shows Promise in Enhancing WisDOT's Work Zone Safety Management",
+    "danishSummary": "A new case study from the Wisconsin Department of Transportation (WisDOT) demonstrates how large language models can assist in the preparation of Transportation Management Plans (TMPs) for work zones, improving safety and efficiency. The study highlights the potential of AI in streamlining complex planning processes.",
+    "whyItMatters": "This application of AI in transportation management could lead to safer work zones and more efficient planning processes, setting a precedent for other transportation agencies to adopt similar technologies.",
+    "enrichedAt": "2026-10-09T06:55:50.289Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.10724v1": {
+    "title": "New Research Explores Human Semantic Category Representation Through Logical Complexity",
+    "summary": "A recent study published on arXiv investigates how the human mind categorizes semantic concepts and why certain meanings are favored in natural languages, attributing these phenomena to logical definability and complexity. This research aims to enhance the understanding of human cognition and improve the design of more human-like language models.",
+    "danishTitle": "New Research Explores Human Semantic Category Representation Through Logical Complexity",
+    "danishSummary": "A recent study published on arXiv investigates how the human mind categorizes semantic concepts and why certain meanings are favored in natural languages, attributing these phenomena to logical definability and complexity. This research aims to enhance the understanding of human cognition and improve the design of more human-like language models.",
+    "whyItMatters": "Understanding the logical basis of human semantic categorization can lead to more nuanced and context-aware AI systems, improving their ability to understand and generate natural language in a way that mirrors human intuition.",
+    "enrichedAt": "2026-10-09T06:56:01.488Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10724": {
+    "title": "New Research Explores Human Semantic Category Representation Through Logical Complexity",
+    "summary": "A recent study published on arXiv investigates how the human mind categorizes semantic concepts and why certain meanings are favored in natural languages, attributing these phenomena to logical definability and complexity. This research aims to enhance the understanding of human cognition and improve the design of more human-like language models.",
+    "danishTitle": "New Research Explores Human Semantic Category Representation Through Logical Complexity",
+    "danishSummary": "A recent study published on arXiv investigates how the human mind categorizes semantic concepts and why certain meanings are favored in natural languages, attributing these phenomena to logical definability and complexity. This research aims to enhance the understanding of human cognition and improve the design of more human-like language models.",
+    "whyItMatters": "Understanding the logical basis of human semantic categorization can lead to more nuanced and context-aware AI systems, improving their ability to understand and generate natural language in a way that mirrors human intuition.",
+    "enrichedAt": "2026-10-09T06:56:01.488Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.10738v1": {
+    "title": "New Autoencoder Architecture Offers Lossy Compressive Text Representations",
+    "summary": "Researchers have developed a novel autoencoder architecture that enables the creation of lossy, compressed latent representations of text, blending data compression techniques with advanced representation learning. This approach aims to reduce storage and computational costs while maintaining reasonable text quality and utility.",
+    "danishTitle": "New Autoencoder Architecture Offers Lossy Compressive Text Representations",
+    "danishSummary": "Researchers have developed a novel autoencoder architecture that enables the creation of lossy, compressed latent representations of text, blending data compression techniques with advanced representation learning. This approach aims to reduce storage and computational costs while maintaining reasonable text quality and utility.",
+    "whyItMatters": "This innovation could significantly lower the barriers to entry for organizations looking to implement large-scale text processing systems, enhancing efficiency and scalability in natural language processing applications.",
+    "enrichedAt": "2026-10-09T06:56:11.266Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10738": {
+    "title": "New Autoencoder Architecture Offers Lossy Compressive Text Representations",
+    "summary": "Researchers have developed a novel autoencoder architecture that enables the creation of lossy, compressed latent representations of text, blending data compression techniques with advanced representation learning. This approach aims to reduce storage and computational costs while maintaining reasonable text quality and utility.",
+    "danishTitle": "New Autoencoder Architecture Offers Lossy Compressive Text Representations",
+    "danishSummary": "Researchers have developed a novel autoencoder architecture that enables the creation of lossy, compressed latent representations of text, blending data compression techniques with advanced representation learning. This approach aims to reduce storage and computational costs while maintaining reasonable text quality and utility.",
+    "whyItMatters": "This innovation could significantly lower the barriers to entry for organizations looking to implement large-scale text processing systems, enhancing efficiency and scalability in natural language processing applications.",
+    "enrichedAt": "2026-10-09T06:56:11.266Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.10758v1": {
+    "title": "New Technique for Conversation Analytics Simplifies Large-Scale Enterprise Data Processing",
+    "summary": "A recent research paper proposes a method for normalizing statements in conversation analytics to streamline the processing of millions of interactions. This technique aims to enhance the efficiency and accuracy of enterprise data analysis by clarifying and focusing on relevant information.",
+    "danishTitle": "New Technique for Conversation Analytics Simplifies Large-Scale Enterprise Data Processing",
+    "danishSummary": "A recent research paper proposes a method for normalizing statements in conversation analytics to streamline the processing of millions of interactions. This technique aims to enhance the efficiency and accuracy of enterprise data analysis by clarifying and focusing on relevant information.",
+    "whyItMatters": "By simplifying the analysis of large datasets, this technique could significantly boost the effectiveness of enterprise conversation analytics, making it more practical for real-time decision-making and customer service optimization.",
+    "enrichedAt": "2026-10-09T06:56:21.290Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10758": {
+    "title": "New Technique for Conversation Analytics Simplifies Large-Scale Enterprise Data Processing",
+    "summary": "A recent research paper proposes a method for normalizing statements in conversation analytics to streamline the processing of millions of interactions. This technique aims to enhance the efficiency and accuracy of enterprise data analysis by clarifying and focusing on relevant information.",
+    "danishTitle": "New Technique for Conversation Analytics Simplifies Large-Scale Enterprise Data Processing",
+    "danishSummary": "A recent research paper proposes a method for normalizing statements in conversation analytics to streamline the processing of millions of interactions. This technique aims to enhance the efficiency and accuracy of enterprise data analysis by clarifying and focusing on relevant information.",
+    "whyItMatters": "By simplifying the analysis of large datasets, this technique could significantly boost the effectiveness of enterprise conversation analytics, making it more practical for real-time decision-making and customer service optimization.",
+    "enrichedAt": "2026-10-09T06:56:21.290Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.10827v1": {
+    "title": "Fine-Tuned Small Language Models Outperform Prompted Models in Grammar Annotation at Scale",
+    "summary": "A new study published on arXiv demonstrates that fine-tuned small language models outperform prompted frontier models in large-scale grammar annotation tasks. This research highlights the effectiveness of corrective feedback in language learning and suggests that fine-tuned models can provide more actionable insights into grammar mastery.",
+    "danishTitle": "Fine-Tuned Small Language Models Outperform Prompted Models in Grammar Annotation at Scale",
+    "danishSummary": "A new study published on arXiv demonstrates that fine-tuned small language models outperform prompted frontier models in large-scale grammar annotation tasks. This research highlights the effectiveness of corrective feedback in language learning and suggests that fine-tuned models can provide more actionable insights into grammar mastery.",
+    "whyItMatters": "This finding could lead to more efficient and effective language learning tools, benefiting both educational technologies and natural language processing applications.",
+    "enrichedAt": "2026-10-09T06:56:31.373Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10827": {
+    "title": "Fine-Tuned Small Language Models Outperform Prompted Models in Grammar Annotation at Scale",
+    "summary": "A new study published on arXiv demonstrates that fine-tuned small language models outperform prompted frontier models in large-scale grammar annotation tasks. This research highlights the effectiveness of corrective feedback in language learning and suggests that fine-tuned models can provide more actionable insights into grammar mastery.",
+    "danishTitle": "Fine-Tuned Small Language Models Outperform Prompted Models in Grammar Annotation at Scale",
+    "danishSummary": "A new study published on arXiv demonstrates that fine-tuned small language models outperform prompted frontier models in large-scale grammar annotation tasks. This research highlights the effectiveness of corrective feedback in language learning and suggests that fine-tuned models can provide more actionable insights into grammar mastery.",
+    "whyItMatters": "This finding could lead to more efficient and effective language learning tools, benefiting both educational technologies and natural language processing applications.",
+    "enrichedAt": "2026-10-09T06:56:31.373Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.10845v1": {
+    "title": "Breakthrough in AI Memory Efficiency: 50-Million-Token Window Reduces Computation and Costs",
+    "summary": "Researchers have developed a new approach for large language models that allows them to retain a 50-million-token memory window, significantly reducing the need for recompute and lowering inference costs. This innovation could enhance the practicality and scalability of AI applications.",
+    "danishTitle": "Breakthrough in AI Memory Efficiency: 50-Million-Token Window Reduces Computation and Costs",
+    "danishSummary": "Researchers have developed a new approach for large language models that allows them to retain a 50-million-token memory window, significantly reducing the need for recompute and lowering inference costs. This innovation could enhance the practicality and scalability of AI applications.",
+    "whyItMatters": "By minimizing recompute and lowering costs, this advancement could make long-term memory capabilities more accessible to a broader range of AI applications, including those requiring extensive historical context.",
+    "enrichedAt": "2026-10-09T06:56:42.308Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10845": {
+    "title": "Breakthrough in AI Memory Efficiency: 50-Million-Token Window Reduces Computation and Costs",
+    "summary": "Researchers have developed a new approach for large language models that allows them to retain a 50-million-token memory window, significantly reducing the need for recompute and lowering inference costs. This innovation could enhance the practicality and scalability of AI applications.",
+    "danishTitle": "Breakthrough in AI Memory Efficiency: 50-Million-Token Window Reduces Computation and Costs",
+    "danishSummary": "Researchers have developed a new approach for large language models that allows them to retain a 50-million-token memory window, significantly reducing the need for recompute and lowering inference costs. This innovation could enhance the practicality and scalability of AI applications.",
+    "whyItMatters": "By minimizing recompute and lowering costs, this advancement could make long-term memory capabilities more accessible to a broader range of AI applications, including those requiring extensive historical context.",
+    "enrichedAt": "2026-10-09T06:56:42.308Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.10865v1": {
+    "title": "New Routed Sparse Autoencoders Separate Linguistic and Paralinguistic Information in Speech",
+    "summary": "Researchers have developed a new self-supervised speech encoding model using routed sparse autoencoders that can disentangle linguistic and paralinguistic information, potentially improving speech recognition and synthesis systems.",
+    "danishTitle": "New Routed Sparse Autoencoders Separate Linguistic and Paralinguistic Information in Speech",
+    "danishSummary": "Researchers have developed a new self-supervised speech encoding model using routed sparse autoencoders that can disentangle linguistic and paralinguistic information, potentially improving speech recognition and synthesis systems.",
+    "whyItMatters": "This advancement could lead to more accurate and context-aware speech processing technologies, enhancing applications such as voice assistants and audio transcription services.",
+    "enrichedAt": "2026-10-09T06:56:51.478Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10865": {
+    "title": "New Routed Sparse Autoencoders Separate Linguistic and Paralinguistic Information in Speech",
+    "summary": "Researchers have developed a new self-supervised speech encoding model using routed sparse autoencoders that can disentangle linguistic and paralinguistic information, potentially improving speech recognition and synthesis systems.",
+    "danishTitle": "New Routed Sparse Autoencoders Separate Linguistic and Paralinguistic Information in Speech",
+    "danishSummary": "Researchers have developed a new self-supervised speech encoding model using routed sparse autoencoders that can disentangle linguistic and paralinguistic information, potentially improving speech recognition and synthesis systems.",
+    "whyItMatters": "This advancement could lead to more accurate and context-aware speech processing technologies, enhancing applications such as voice assistants and audio transcription services.",
+    "enrichedAt": "2026-10-09T06:56:51.478Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.10871v1": {
+    "title": "Sparse Attention: A New Perspective on Matrix Approximation in Large Language Models",
+    "summary": "A recent arXiv paper proposes that sparse attention mechanisms in Large Language Models (LLMs) can be understood as matrix approximation techniques, potentially offering a new theoretical framework for optimizing these models. This insight aims to address the quadratic computational cost associated with attention mechanisms as prompt length increases.",
+    "danishTitle": "Sparse Attention: A New Perspective on Matrix Approximation in Large Language Models",
+    "danishSummary": "A recent arXiv paper proposes that sparse attention mechanisms in Large Language Models (LLMs) can be understood as matrix approximation techniques, potentially offering a new theoretical framework for optimizing these models. This insight aims to address the quadratic computational cost associated with attention mechanisms as prompt length increases.",
+    "whyItMatters": "By reinterpreting sparse attention as matrix approximation, researchers may develop more efficient algorithms, leading to improved performance and reduced computational demands in LLMs, which is crucial for scaling these models in practical applications.",
+    "enrichedAt": "2026-10-09T06:57:02.890Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10871": {
+    "title": "Sparse Attention: A New Perspective on Matrix Approximation in Large Language Models",
+    "summary": "A recent arXiv paper proposes that sparse attention mechanisms in Large Language Models (LLMs) can be understood as matrix approximation techniques, potentially offering a new theoretical framework for optimizing these models. This insight aims to address the quadratic computational cost associated with attention mechanisms as prompt length increases.",
+    "danishTitle": "Sparse Attention: A New Perspective on Matrix Approximation in Large Language Models",
+    "danishSummary": "A recent arXiv paper proposes that sparse attention mechanisms in Large Language Models (LLMs) can be understood as matrix approximation techniques, potentially offering a new theoretical framework for optimizing these models. This insight aims to address the quadratic computational cost associated with attention mechanisms as prompt length increases.",
+    "whyItMatters": "By reinterpreting sparse attention as matrix approximation, researchers may develop more efficient algorithms, leading to improved performance and reduced computational demands in LLMs, which is crucial for scaling these models in practical applications.",
+    "enrichedAt": "2026-10-09T06:57:02.890Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.10878v1": {
+    "title": "Stochastic Teacher Intervention Enhances On-Policy Distillation for Language Models",
+    "summary": "A new research paper on arXiv proposes a method called Stochastic Teacher Intervention for Agentic On-Policy Distillation, which improves the transfer of capabilities from a more powerful teacher model to a student model by providing dense token-level supervision during the student's rollout generation.",
+    "danishTitle": "Stochastic Teacher Intervention Enhances On-Policy Distillation for Language Models",
+    "danishSummary": "A new research paper on arXiv proposes a method called Stochastic Teacher Intervention for Agentic On-Policy Distillation, which improves the transfer of capabilities from a more powerful teacher model to a student model by providing dense token-level supervision during the student's rollout generation.",
+    "whyItMatters": "This technique could significantly boost the efficiency and effectiveness of training language models, potentially leading to faster development cycles and better performance in complex tasks.",
+    "enrichedAt": "2026-10-09T06:57:13.136Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10878": {
+    "title": "Stochastic Teacher Intervention Enhances On-Policy Distillation for Language Models",
+    "summary": "A new research paper on arXiv proposes a method called Stochastic Teacher Intervention for Agentic On-Policy Distillation, which improves the transfer of capabilities from a more powerful teacher model to a student model by providing dense token-level supervision during the student's rollout generation.",
+    "danishTitle": "Stochastic Teacher Intervention Enhances On-Policy Distillation for Language Models",
+    "danishSummary": "A new research paper on arXiv proposes a method called Stochastic Teacher Intervention for Agentic On-Policy Distillation, which improves the transfer of capabilities from a more powerful teacher model to a student model by providing dense token-level supervision during the student's rollout generation.",
+    "whyItMatters": "This technique could significantly boost the efficiency and effectiveness of training language models, potentially leading to faster development cycles and better performance in complex tasks.",
+    "enrichedAt": "2026-10-09T06:57:13.136Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.10918v1": {
+    "title": "Large Language Models Outperform Humans in Machine Translation Evaluation, Study Suggests",
+    "summary": "A new study published on arXiv demonstrates that Large Language Models (LLMs) can more efficiently and cost-effectively evaluate Machine Translation (MT) quality compared to human judgment. This research indicates that LLMs can handle the complex task of MT evaluation with greater accuracy and at a lower cost.",
+    "danishTitle": "Large Language Models Outperform Humans in Machine Translation Evaluation, Study Suggests",
+    "danishSummary": "A new study published on arXiv demonstrates that Large Language Models (LLMs) can more efficiently and cost-effectively evaluate Machine Translation (MT) quality compared to human judgment. This research indicates that LLMs can handle the complex task of MT evaluation with greater accuracy and at a lower cost.",
+    "whyItMatters": "This finding could revolutionize the MT evaluation process, making it more accessible and cost-effective for businesses and organizations, thereby accelerating the adoption of advanced translation technologies.",
+    "enrichedAt": "2026-10-09T06:57:24.153Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10918": {
+    "title": "Large Language Models Outperform Humans in Machine Translation Evaluation, Study Suggests",
+    "summary": "A new study published on arXiv demonstrates that Large Language Models (LLMs) can more efficiently and cost-effectively evaluate Machine Translation (MT) quality compared to human judgment. This research indicates that LLMs can handle the complex task of MT evaluation with greater accuracy and at a lower cost.",
+    "danishTitle": "Large Language Models Outperform Humans in Machine Translation Evaluation, Study Suggests",
+    "danishSummary": "A new study published on arXiv demonstrates that Large Language Models (LLMs) can more efficiently and cost-effectively evaluate Machine Translation (MT) quality compared to human judgment. This research indicates that LLMs can handle the complex task of MT evaluation with greater accuracy and at a lower cost.",
+    "whyItMatters": "This finding could revolutionize the MT evaluation process, making it more accessible and cost-effective for businesses and organizations, thereby accelerating the adoption of advanced translation technologies.",
+    "enrichedAt": "2026-10-09T06:57:24.153Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.10946v1": {
+    "title": "AI4Fire: Assessing Large Language Models for Wildfire Management",
+    "summary": "A new study evaluates the performance of large language models (LLMs) in wildfire management tasks, specifically examining their effectiveness with and without environmental grounding. The research highlights the critical need to ensure accurate evaluations to prevent potential risks to property and lives.",
+    "danishTitle": "AI4Fire: Assessing Large Language Models for Wildfire Management",
+    "danishSummary": "A new study evaluates the performance of large language models (LLMs) in wildfire management tasks, specifically examining their effectiveness with and without environmental grounding. The research highlights the critical need to ensure accurate evaluations to prevent potential risks to property and lives.",
+    "whyItMatters": "This assessment is crucial for the safe and effective deployment of AI in critical applications like wildfire management, ensuring that LLMs are robust and reliable in real-world scenarios.",
+    "enrichedAt": "2026-10-09T06:57:34.305Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10946": {
+    "title": "AI4Fire: Assessing Large Language Models for Wildfire Management",
+    "summary": "A new study evaluates the performance of large language models (LLMs) in wildfire management tasks, specifically examining their effectiveness with and without environmental grounding. The research highlights the critical need to ensure accurate evaluations to prevent potential risks to property and lives.",
+    "danishTitle": "AI4Fire: Assessing Large Language Models for Wildfire Management",
+    "danishSummary": "A new study evaluates the performance of large language models (LLMs) in wildfire management tasks, specifically examining their effectiveness with and without environmental grounding. The research highlights the critical need to ensure accurate evaluations to prevent potential risks to property and lives.",
+    "whyItMatters": "This assessment is crucial for the safe and effective deployment of AI in critical applications like wildfire management, ensuring that LLMs are robust and reliable in real-world scenarios.",
+    "enrichedAt": "2026-10-09T06:57:34.305Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.10971v1": {
+    "title": "New Benchmark Introduced for Detecting Legal Hallucinations in Large Language Models",
+    "summary": "Researchers have developed a claim-level benchmark to address the issue of legal hallucinations, where large language models generate claims that lack support from cited sources. This tool aims to improve the accuracy and reliability of legal research and drafting using AI.",
+    "danishTitle": "New Benchmark Introduced for Detecting Legal Hallucinations in Large Language Models",
+    "danishSummary": "Researchers have developed a claim-level benchmark to address the issue of legal hallucinations, where large language models generate claims that lack support from cited sources. This tool aims to improve the accuracy and reliability of legal research and drafting using AI.",
+    "whyItMatters": "By enhancing the detection of unsupported claims, this benchmark can significantly reduce errors in legal applications, ensuring that AI-generated content is more trustworthy and compliant with legal standards.",
+    "enrichedAt": "2026-10-09T06:57:44.272Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10971": {
+    "title": "New Benchmark Introduced for Detecting Legal Hallucinations in Large Language Models",
+    "summary": "Researchers have developed a claim-level benchmark to address the issue of legal hallucinations, where large language models generate claims that lack support from cited sources. This tool aims to improve the accuracy and reliability of legal research and drafting using AI.",
+    "danishTitle": "New Benchmark Introduced for Detecting Legal Hallucinations in Large Language Models",
+    "danishSummary": "Researchers have developed a claim-level benchmark to address the issue of legal hallucinations, where large language models generate claims that lack support from cited sources. This tool aims to improve the accuracy and reliability of legal research and drafting using AI.",
+    "whyItMatters": "By enhancing the detection of unsupported claims, this benchmark can significantly reduce errors in legal applications, ensuring that AI-generated content is more trustworthy and compliant with legal standards.",
+    "enrichedAt": "2026-10-09T06:57:44.272Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.10988v1": {
+    "title": "Sociolinguistic Approach Revamps User Simulation for Agentic Systems Evaluation",
+    "summary": "A new research paper proposes a sociolinguistic method for authoring and measuring the fidelity of simulated users in agentic systems, enhancing their realism and effectiveness in evaluations. This approach aims to bridge the gap between theoretical models and practical applications in user interaction.",
+    "danishTitle": "Sociolinguistic Approach Revamps User Simulation for Agentic Systems Evaluation",
+    "danishSummary": "A new research paper proposes a sociolinguistic method for authoring and measuring the fidelity of simulated users in agentic systems, enhancing their realism and effectiveness in evaluations. This approach aims to bridge the gap between theoretical models and practical applications in user interaction.",
+    "whyItMatters": "By improving the fidelity of user simulations, this method could lead to more accurate and reliable evaluations of agentic systems, benefiting developers and enterprises in creating more human-like and effective AI interactions.",
+    "enrichedAt": "2026-10-09T06:57:55.149Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10988": {
+    "title": "Sociolinguistic Approach Revamps User Simulation for Agentic Systems Evaluation",
+    "summary": "A new research paper proposes a sociolinguistic method for authoring and measuring the fidelity of simulated users in agentic systems, enhancing their realism and effectiveness in evaluations. This approach aims to bridge the gap between theoretical models and practical applications in user interaction.",
+    "danishTitle": "Sociolinguistic Approach Revamps User Simulation for Agentic Systems Evaluation",
+    "danishSummary": "A new research paper proposes a sociolinguistic method for authoring and measuring the fidelity of simulated users in agentic systems, enhancing their realism and effectiveness in evaluations. This approach aims to bridge the gap between theoretical models and practical applications in user interaction.",
+    "whyItMatters": "By improving the fidelity of user simulations, this method could lead to more accurate and reliable evaluations of agentic systems, benefiting developers and enterprises in creating more human-like and effective AI interactions.",
+    "enrichedAt": "2026-10-09T06:57:55.149Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.10541v1": {
+    "title": "New Framework Enhances Semantic Table Interpretation and Data Quality Assessment",
+    "summary": "A recent paper on arXiv introduces an explainable header-centric framework for large-scale semantic table interpretation and data quality assessment, emphasizing the importance of metadata quality in Knowledge Graph (KG) construction. This framework aims to improve the accuracy and reliability of integrated data.",
+    "danishTitle": "New Framework Enhances Semantic Table Interpretation and Data Quality Assessment",
+    "danishSummary": "A recent paper on arXiv introduces an explainable header-centric framework for large-scale semantic table interpretation and data quality assessment, emphasizing the importance of metadata quality in Knowledge Graph (KG) construction. This framework aims to improve the accuracy and reliability of integrated data.",
+    "whyItMatters": "By addressing metadata quality, this framework can significantly enhance the overall effectiveness and trustworthiness of Knowledge Graphs, which are crucial for various AI applications and data-driven decision-making processes.",
+    "enrichedAt": "2026-10-09T06:58:05.770Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10541": {
+    "title": "New Framework Enhances Semantic Table Interpretation and Data Quality Assessment",
+    "summary": "A recent paper on arXiv introduces an explainable header-centric framework for large-scale semantic table interpretation and data quality assessment, emphasizing the importance of metadata quality in Knowledge Graph (KG) construction. This framework aims to improve the accuracy and reliability of integrated data.",
+    "danishTitle": "New Framework Enhances Semantic Table Interpretation and Data Quality Assessment",
+    "danishSummary": "A recent paper on arXiv introduces an explainable header-centric framework for large-scale semantic table interpretation and data quality assessment, emphasizing the importance of metadata quality in Knowledge Graph (KG) construction. This framework aims to improve the accuracy and reliability of integrated data.",
+    "whyItMatters": "By addressing metadata quality, this framework can significantly enhance the overall effectiveness and trustworthiness of Knowledge Graphs, which are crucial for various AI applications and data-driven decision-making processes.",
+    "enrichedAt": "2026-10-09T06:58:05.770Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.10549v1": {
+    "title": "New Study Explores Scalable Agent-System Interaction for Enterprise AI",
+    "summary": "A recent study published on arXiv proposes a method for generating coherent enterprise data through scalable agent-system interaction, focusing on tool-calling agents. The research addresses the challenges of training and evaluating these agents at scale, which are often constrained by business and legal limitations.",
+    "danishTitle": "New Study Explores Scalable Agent-System Interaction for Enterprise AI",
+    "danishSummary": "A recent study published on arXiv proposes a method for generating coherent enterprise data through scalable agent-system interaction, focusing on tool-calling agents. The research addresses the challenges of training and evaluating these agents at scale, which are often constrained by business and legal limitations.",
+    "whyItMatters": "This approach could significantly enhance the deployment and effectiveness of AI tools in enterprise settings, overcoming current scalability issues and paving the way for more integrated and efficient AI systems.",
+    "enrichedAt": "2026-10-09T06:58:16.297Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10549": {
+    "title": "New Study Explores Scalable Agent-System Interaction for Enterprise AI",
+    "summary": "A recent study published on arXiv proposes a method for generating coherent enterprise data through scalable agent-system interaction, focusing on tool-calling agents. The research addresses the challenges of training and evaluating these agents at scale, which are often constrained by business and legal limitations.",
+    "danishTitle": "New Study Explores Scalable Agent-System Interaction for Enterprise AI",
+    "danishSummary": "A recent study published on arXiv proposes a method for generating coherent enterprise data through scalable agent-system interaction, focusing on tool-calling agents. The research addresses the challenges of training and evaluating these agents at scale, which are often constrained by business and legal limitations.",
+    "whyItMatters": "This approach could significantly enhance the deployment and effectiveness of AI tools in enterprise settings, overcoming current scalability issues and paving the way for more integrated and efficient AI systems.",
+    "enrichedAt": "2026-10-09T06:58:16.297Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.10590v1": {
+    "title": "New Research Introduces Agent-Controlled Forgetting for Enhanced Tool-Using Agents",
+    "summary": "A recent study proposes a mechanism for agent-controlled forgetting, allowing tool-using agents to selectively discard less relevant data from their memory, thereby optimizing resource usage and improving efficiency in complex tasks. This approach enables agents to manage their context more effectively, reducing the burden on computational resources.",
+    "danishTitle": "New Research Introduces Agent-Controlled Forgetting for Enhanced Tool-Using Agents",
+    "danishSummary": "A recent study proposes a mechanism for agent-controlled forgetting, allowing tool-using agents to selectively discard less relevant data from their memory, thereby optimizing resource usage and improving efficiency in complex tasks. This approach enables agents to manage their context more effectively, reducing the burden on computational resources.",
+    "whyItMatters": "By enabling more efficient management of data, this research could significantly enhance the scalability and practicality of tool-using agents, making them more viable in a wide range of applications.",
+    "enrichedAt": "2026-10-09T06:58:27.161Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10590": {
+    "title": "New Research Introduces Agent-Controlled Forgetting for Enhanced Tool-Using Agents",
+    "summary": "A recent study proposes a mechanism for agent-controlled forgetting, allowing tool-using agents to selectively discard less relevant data from their memory, thereby optimizing resource usage and improving efficiency in complex tasks. This approach enables agents to manage their context more effectively, reducing the burden on computational resources.",
+    "danishTitle": "New Research Introduces Agent-Controlled Forgetting for Enhanced Tool-Using Agents",
+    "danishSummary": "A recent study proposes a mechanism for agent-controlled forgetting, allowing tool-using agents to selectively discard less relevant data from their memory, thereby optimizing resource usage and improving efficiency in complex tasks. This approach enables agents to manage their context more effectively, reducing the burden on computational resources.",
+    "whyItMatters": "By enabling more efficient management of data, this research could significantly enhance the scalability and practicality of tool-using agents, making them more viable in a wide range of applications.",
+    "enrichedAt": "2026-10-09T06:58:27.161Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.10611v1": {
+    "title": "Agentic AI Systems Can Improve Through Extended Search, Support, or Output Verification Mechanisms",
+    "summary": "A new research paper published on arXiv explores the methods by which agentic AI systems can enhance their performance, including extended search, increased support, and modified output verification processes. The study notes that current performance metrics do not effectively differentiate between these improvement strategies.",
+    "danishTitle": "Agentic AI Systems Can Improve Through Extended Search, Support, or Output Verification Mechanisms",
+    "danishSummary": "A new research paper published on arXiv explores the methods by which agentic AI systems can enhance their performance, including extended search, increased support, and modified output verification processes. The study notes that current performance metrics do not effectively differentiate between these improvement strategies.",
+    "whyItMatters": "Understanding these improvement mechanisms is crucial for developers and researchers to optimize agentic AI systems, ensuring they can effectively self-improve without relying solely on performance metrics that may be misleading.",
+    "enrichedAt": "2026-10-09T06:58:38.068Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10611": {
+    "title": "Agentic AI Systems Can Improve Through Extended Search, Support, or Output Verification Mechanisms",
+    "summary": "A new research paper published on arXiv explores the methods by which agentic AI systems can enhance their performance, including extended search, increased support, and modified output verification processes. The study notes that current performance metrics do not effectively differentiate between these improvement strategies.",
+    "danishTitle": "Agentic AI Systems Can Improve Through Extended Search, Support, or Output Verification Mechanisms",
+    "danishSummary": "A new research paper published on arXiv explores the methods by which agentic AI systems can enhance their performance, including extended search, increased support, and modified output verification processes. The study notes that current performance metrics do not effectively differentiate between these improvement strategies.",
+    "whyItMatters": "Understanding these improvement mechanisms is crucial for developers and researchers to optimize agentic AI systems, ensuring they can effectively self-improve without relying solely on performance metrics that may be misleading.",
+    "enrichedAt": "2026-10-09T06:58:38.068Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.10629v1": {
+    "title": "Self-Evolving AI Agents in Credit Pipelines: A New Approach to Compliance and Adaptability",
+    "summary": "A recent academic paper proposes a novel method for self-improving language model (LLM) agents to adapt credit pipelines while maintaining compliance and transparency. The approach involves the 'Harness' as a mutable surface, allowing agents to evolve without rewriting themselves, thus preserving the integrity of the artefacts reviewed by supervisors.",
+    "danishTitle": "Self-Evolving AI Agents in Credit Pipelines: A New Approach to Compliance and Adaptability",
+    "danishSummary": "A recent academic paper proposes a novel method for self-improving language model (LLM) agents to adapt credit pipelines while maintaining compliance and transparency. The approach involves the 'Harness' as a mutable surface, allowing agents to evolve without rewriting themselves, thus preserving the integrity of the artefacts reviewed by supervisors.",
+    "whyItMatters": "This method ensures that AI agents can adapt to changing regulations and conditions in financial systems without compromising the auditability and transparency required in such critical applications.",
+    "enrichedAt": "2026-10-09T06:58:49.643Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10629": {
+    "title": "Self-Evolving AI Agents in Credit Pipelines: A New Approach to Compliance and Adaptability",
+    "summary": "A recent academic paper proposes a novel method for self-improving language model (LLM) agents to adapt credit pipelines while maintaining compliance and transparency. The approach involves the 'Harness' as a mutable surface, allowing agents to evolve without rewriting themselves, thus preserving the integrity of the artefacts reviewed by supervisors.",
+    "danishTitle": "Self-Evolving AI Agents in Credit Pipelines: A New Approach to Compliance and Adaptability",
+    "danishSummary": "A recent academic paper proposes a novel method for self-improving language model (LLM) agents to adapt credit pipelines while maintaining compliance and transparency. The approach involves the 'Harness' as a mutable surface, allowing agents to evolve without rewriting themselves, thus preserving the integrity of the artefacts reviewed by supervisors.",
+    "whyItMatters": "This method ensures that AI agents can adapt to changing regulations and conditions in financial systems without compromising the auditability and transparency required in such critical applications.",
+    "enrichedAt": "2026-10-09T06:58:49.643Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.10635v1": {
+    "title": "Navigating AI Agents with Trajectory-Grounded Instructions: A New Approach for Aerial VLN Agents",
+    "summary": "Researchers have developed a novel method for translating user instructions into trajectory-aligned commands for aerial vision-and-language navigation (VLN) agents, addressing the gap between detailed training data and concise user inputs. This advancement aims to enhance the usability and effectiveness of VLN agents in real-world scenarios.",
+    "danishTitle": "Navigating AI Agents with Trajectory-Grounded Instructions: A New Approach for Aerial VLN Agents",
+    "danishSummary": "Researchers have developed a novel method for translating user instructions into trajectory-aligned commands for aerial vision-and-language navigation (VLN) agents, addressing the gap between detailed training data and concise user inputs. This advancement aims to enhance the usability and effectiveness of VLN agents in real-world scenarios.",
+    "whyItMatters": "This innovation could significantly improve the interaction between users and AI agents in dynamic environments, making VLN technology more accessible and practical for applications such as drone delivery and autonomous exploration.",
+    "enrichedAt": "2026-10-09T06:59:00.978Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10635": {
+    "title": "Navigating AI Agents with Trajectory-Grounded Instructions: A New Approach for Aerial VLN Agents",
+    "summary": "Researchers have developed a novel method for translating user instructions into trajectory-aligned commands for aerial vision-and-language navigation (VLN) agents, addressing the gap between detailed training data and concise user inputs. This advancement aims to enhance the usability and effectiveness of VLN agents in real-world scenarios.",
+    "danishTitle": "Navigating AI Agents with Trajectory-Grounded Instructions: A New Approach for Aerial VLN Agents",
+    "danishSummary": "Researchers have developed a novel method for translating user instructions into trajectory-aligned commands for aerial vision-and-language navigation (VLN) agents, addressing the gap between detailed training data and concise user inputs. This advancement aims to enhance the usability and effectiveness of VLN agents in real-world scenarios.",
+    "whyItMatters": "This innovation could significantly improve the interaction between users and AI agents in dynamic environments, making VLN technology more accessible and practical for applications such as drone delivery and autonomous exploration.",
+    "enrichedAt": "2026-10-09T06:59:00.978Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.10786v1": {
+    "title": "Plan-and-Patch: New Diffusion Language Models Enhance Long-Horizon Agent Planning",
+    "summary": "A new research paper titled 'Plan-and-Patch' introduces diffusion language models designed to improve the planning capabilities of long-horizon agents, enabling better coordination of subgoals and tool use over extended periods. This advancement is crucial for complex, multi-step problem-solving tasks.",
+    "danishTitle": "Plan-and-Patch: New Diffusion Language Models Enhance Long-Horizon Agent Planning",
+    "danishSummary": "A new research paper titled 'Plan-and-Patch' introduces diffusion language models designed to improve the planning capabilities of long-horizon agents, enabling better coordination of subgoals and tool use over extended periods. This advancement is crucial for complex, multi-step problem-solving tasks.",
+    "whyItMatters": "These models could significantly enhance the autonomy and effectiveness of AI agents in various applications, from robotics to complex decision-making systems, by providing more sophisticated planning mechanisms.",
+    "enrichedAt": "2026-10-09T06:59:11.808Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10786": {
+    "title": "Plan-and-Patch: New Diffusion Language Models Enhance Long-Horizon Agent Planning",
+    "summary": "A new research paper titled 'Plan-and-Patch' introduces diffusion language models designed to improve the planning capabilities of long-horizon agents, enabling better coordination of subgoals and tool use over extended periods. This advancement is crucial for complex, multi-step problem-solving tasks.",
+    "danishTitle": "Plan-and-Patch: New Diffusion Language Models Enhance Long-Horizon Agent Planning",
+    "danishSummary": "A new research paper titled 'Plan-and-Patch' introduces diffusion language models designed to improve the planning capabilities of long-horizon agents, enabling better coordination of subgoals and tool use over extended periods. This advancement is crucial for complex, multi-step problem-solving tasks.",
+    "whyItMatters": "These models could significantly enhance the autonomy and effectiveness of AI agents in various applications, from robotics to complex decision-making systems, by providing more sophisticated planning mechanisms.",
+    "enrichedAt": "2026-10-09T06:59:11.808Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.10805v1": {
+    "title": "Embracing Human Interpretations: New AI Research Focuses on Human-Centered Decision Making",
+    "summary": "A recent paper published on arXiv explores the integration of human interpretations into AI systems, emphasizing the importance of understanding diverse human perspectives to develop more ethical and inclusive AI technologies. This research aims to address the challenges of AI decision-making in contexts where human values and interpretations are crucial.",
+    "danishTitle": "Embracing Human Interpretations: New AI Research Focuses on Human-Centered Decision Making",
+    "danishSummary": "A recent paper published on arXiv explores the integration of human interpretations into AI systems, emphasizing the importance of understanding diverse human perspectives to develop more ethical and inclusive AI technologies. This research aims to address the challenges of AI decision-making in contexts where human values and interpretations are crucial.",
+    "whyItMatters": "By incorporating human interpretations, this research could lead to more transparent and accountable AI systems, enhancing trust and acceptance among users, particularly in critical applications such as healthcare and legal decision-making.",
+    "enrichedAt": "2026-10-09T06:59:23.164Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10805": {
+    "title": "Embracing Human Interpretations: New AI Research Focuses on Human-Centered Decision Making",
+    "summary": "A recent paper published on arXiv explores the integration of human interpretations into AI systems, emphasizing the importance of understanding diverse human perspectives to develop more ethical and inclusive AI technologies. This research aims to address the challenges of AI decision-making in contexts where human values and interpretations are crucial.",
+    "danishTitle": "Embracing Human Interpretations: New AI Research Focuses on Human-Centered Decision Making",
+    "danishSummary": "A recent paper published on arXiv explores the integration of human interpretations into AI systems, emphasizing the importance of understanding diverse human perspectives to develop more ethical and inclusive AI technologies. This research aims to address the challenges of AI decision-making in contexts where human values and interpretations are crucial.",
+    "whyItMatters": "By incorporating human interpretations, this research could lead to more transparent and accountable AI systems, enhancing trust and acceptance among users, particularly in critical applications such as healthcare and legal decision-making.",
+    "enrichedAt": "2026-10-09T06:59:23.164Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.10833v1": {
+    "title": "Exploring Time-Budgeted AI Agents: A Study on Punctuality and Productivity",
+    "summary": "A new study published on arXiv investigates the feasibility of operating small language model agents within strict time constraints, focusing on their ability to respect allocated runtime and utilize available time efficiently. The research aims to enhance the practicality of AI in real-time applications.",
+    "danishTitle": "Exploring Time-Budgeted AI Agents: A Study on Punctuality and Productivity",
+    "danishSummary": "A new study published on arXiv investigates the feasibility of operating small language model agents within strict time constraints, focusing on their ability to respect allocated runtime and utilize available time efficiently. The research aims to enhance the practicality of AI in real-time applications.",
+    "whyItMatters": "Improving the punctuality and productivity of AI agents under time budgets could significantly enhance their deployment in real-time scenarios, such as customer service and automated decision-making systems, making them more reliable and efficient.",
+    "enrichedAt": "2026-10-09T06:59:34.452Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10833": {
+    "title": "Exploring Time-Budgeted AI Agents: A Study on Punctuality and Productivity",
+    "summary": "A new study published on arXiv investigates the feasibility of operating small language model agents within strict time constraints, focusing on their ability to respect allocated runtime and utilize available time efficiently. The research aims to enhance the practicality of AI in real-time applications.",
+    "danishTitle": "Exploring Time-Budgeted AI Agents: A Study on Punctuality and Productivity",
+    "danishSummary": "A new study published on arXiv investigates the feasibility of operating small language model agents within strict time constraints, focusing on their ability to respect allocated runtime and utilize available time efficiently. The research aims to enhance the practicality of AI in real-time applications.",
+    "whyItMatters": "Improving the punctuality and productivity of AI agents under time budgets could significantly enhance their deployment in real-time scenarios, such as customer service and automated decision-making systems, making them more reliable and efficient.",
+    "enrichedAt": "2026-10-09T06:59:34.452Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.10857v1": {
+    "title": "Self-Supervised Keyframe Discovery Enhances Behavior Cloning in Non-Markovian Environments",
+    "summary": "A new study proposes a self-supervised keyframe discovery method for behavior cloning in non-Markovian environments, addressing the challenge of reasoning over long horizons. This approach aims to improve the efficiency and effectiveness of training policies in complex, context-dependent scenarios.",
+    "danishTitle": "Self-Supervised Keyframe Discovery Enhances Behavior Cloning in Non-Markovian Environments",
+    "danishSummary": "A new study proposes a self-supervised keyframe discovery method for behavior cloning in non-Markovian environments, addressing the challenge of reasoning over long horizons. This approach aims to improve the efficiency and effectiveness of training policies in complex, context-dependent scenarios.",
+    "whyItMatters": "By enabling more accurate and context-aware behavior cloning, this research could significantly advance the capabilities of autonomous systems in dynamic and unpredictable environments.",
+    "enrichedAt": "2026-10-09T06:59:44.900Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10857": {
+    "title": "Self-Supervised Keyframe Discovery Enhances Behavior Cloning in Non-Markovian Environments",
+    "summary": "A new study proposes a self-supervised keyframe discovery method for behavior cloning in non-Markovian environments, addressing the challenge of reasoning over long horizons. This approach aims to improve the efficiency and effectiveness of training policies in complex, context-dependent scenarios.",
+    "danishTitle": "Self-Supervised Keyframe Discovery Enhances Behavior Cloning in Non-Markovian Environments",
+    "danishSummary": "A new study proposes a self-supervised keyframe discovery method for behavior cloning in non-Markovian environments, addressing the challenge of reasoning over long horizons. This approach aims to improve the efficiency and effectiveness of training policies in complex, context-dependent scenarios.",
+    "whyItMatters": "By enabling more accurate and context-aware behavior cloning, this research could significantly advance the capabilities of autonomous systems in dynamic and unpredictable environments.",
+    "enrichedAt": "2026-10-09T06:59:44.900Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.10906v1": {
+    "title": "Exploring Normative Competence in LLMs: Foundations, Design, and Challenges",
+    "summary": "A new paper published on arXiv explores the integration of normative systems into large language models (LLMs), discussing the foundational principles, design considerations, and potential challenges in aligning these models with human norms and values. The research aims to enhance the ethical and social compatibility of AI systems.",
+    "danishTitle": "Exploring Normative Competence in LLMs: Foundations, Design, and Challenges",
+    "danishSummary": "A new paper published on arXiv explores the integration of normative systems into large language models (LLMs), discussing the foundational principles, design considerations, and potential challenges in aligning these models with human norms and values. The research aims to enhance the ethical and social compatibility of AI systems.",
+    "whyItMatters": "Understanding and addressing the normative challenges in LLMs is crucial for ensuring their safe and ethical deployment, particularly in sensitive applications such as legal, medical, and social contexts.",
+    "enrichedAt": "2026-10-09T06:59:56.356Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10906": {
+    "title": "Exploring Normative Competence in LLMs: Foundations, Design, and Challenges",
+    "summary": "A new paper published on arXiv explores the integration of normative systems into large language models (LLMs), discussing the foundational principles, design considerations, and potential challenges in aligning these models with human norms and values. The research aims to enhance the ethical and social compatibility of AI systems.",
+    "danishTitle": "Exploring Normative Competence in LLMs: Foundations, Design, and Challenges",
+    "danishSummary": "A new paper published on arXiv explores the integration of normative systems into large language models (LLMs), discussing the foundational principles, design considerations, and potential challenges in aligning these models with human norms and values. The research aims to enhance the ethical and social compatibility of AI systems.",
+    "whyItMatters": "Understanding and addressing the normative challenges in LLMs is crucial for ensuring their safe and ethical deployment, particularly in sensitive applications such as legal, medical, and social contexts.",
+    "enrichedAt": "2026-10-09T06:59:56.356Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.10942v1": {
+    "title": "StoreBench Introduces Dynamic Live-Commerce Environment for Autonomous Operator Agents",
+    "summary": "StoreBench, a new reinforcement learning environment, dynamically simulates live-commerce scenarios to evaluate and train autonomous operator agents, addressing the limitations of static benchmarks by providing a more realistic and dynamic testing ground.",
+    "danishTitle": "StoreBench Introduces Dynamic Live-Commerce Environment for Autonomous Operator Agents",
+    "danishSummary": "StoreBench, a new reinforcement learning environment, dynamically simulates live-commerce scenarios to evaluate and train autonomous operator agents, addressing the limitations of static benchmarks by providing a more realistic and dynamic testing ground.",
+    "whyItMatters": "This dynamic approach enhances the realism of training scenarios, making autonomous agents more adaptable and effective in real-world commerce applications, which is crucial for their widespread adoption.",
+    "enrichedAt": "2026-10-09T07:00:05.894Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10942": {
+    "title": "StoreBench Introduces Dynamic Live-Commerce Environment for Autonomous Operator Agents",
+    "summary": "StoreBench, a new reinforcement learning environment, dynamically simulates live-commerce scenarios to evaluate and train autonomous operator agents, addressing the limitations of static benchmarks by providing a more realistic and dynamic testing ground.",
+    "danishTitle": "StoreBench Introduces Dynamic Live-Commerce Environment for Autonomous Operator Agents",
+    "danishSummary": "StoreBench, a new reinforcement learning environment, dynamically simulates live-commerce scenarios to evaluate and train autonomous operator agents, addressing the limitations of static benchmarks by providing a more realistic and dynamic testing ground.",
+    "whyItMatters": "This dynamic approach enhances the realism of training scenarios, making autonomous agents more adaptable and effective in real-world commerce applications, which is crucial for their widespread adoption.",
+    "enrichedAt": "2026-10-09T07:00:05.894Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.10954v1": {
+    "title": "New AI Technique Reduces Storage Requirements for Heuristic Search",
+    "summary": "Researchers have developed a method to significantly reduce the storage demands of heuristic search algorithms, which are crucial for solving complex planning problems. This technique involves learning search control strategies tailored to specific domains, potentially enhancing efficiency in AI applications.",
+    "danishTitle": "New AI Technique Reduces Storage Requirements for Heuristic Search",
+    "danishSummary": "Researchers have developed a method to significantly reduce the storage demands of heuristic search algorithms, which are crucial for solving complex planning problems. This technique involves learning search control strategies tailored to specific domains, potentially enhancing efficiency in AI applications.",
+    "whyItMatters": "By minimizing storage requirements, this innovation could lead to more scalable and efficient AI solutions in various domains, from robotics to logistics, thereby expanding the practical applications of heuristic search algorithms.",
+    "enrichedAt": "2026-10-09T07:00:15.682Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10954": {
+    "title": "New AI Technique Reduces Storage Requirements for Heuristic Search",
+    "summary": "Researchers have developed a method to significantly reduce the storage demands of heuristic search algorithms, which are crucial for solving complex planning problems. This technique involves learning search control strategies tailored to specific domains, potentially enhancing efficiency in AI applications.",
+    "danishTitle": "New AI Technique Reduces Storage Requirements for Heuristic Search",
+    "danishSummary": "Researchers have developed a method to significantly reduce the storage demands of heuristic search algorithms, which are crucial for solving complex planning problems. This technique involves learning search control strategies tailored to specific domains, potentially enhancing efficiency in AI applications.",
+    "whyItMatters": "By minimizing storage requirements, this innovation could lead to more scalable and efficient AI solutions in various domains, from robotics to logistics, thereby expanding the practical applications of heuristic search algorithms.",
+    "enrichedAt": "2026-10-09T07:00:15.682Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.11005v1": {
+    "title": "Study Reveals Impact of Narrative Wrapping on LLM Refusal: Cross-Language Benchmark and Defense",
+    "summary": "A new study published on arXiv investigates how narrative wrapping affects the refusal of harmful requests by large language models (LLMs) across different languages. The research provides a cross-language benchmark to measure this vulnerability and offers defense strategies.",
+    "danishTitle": "Study Reveals Impact of Narrative Wrapping on LLM Refusal: Cross-Language Benchmark and Defense",
+    "danishSummary": "A new study published on arXiv investigates how narrative wrapping affects the refusal of harmful requests by large language models (LLMs) across different languages. The research provides a cross-language benchmark to measure this vulnerability and offers defense strategies.",
+    "whyItMatters": "Understanding and mitigating the impact of narrative wrapping is crucial for enhancing the safety and reliability of LLMs in various applications, particularly in cross-lingual contexts.",
+    "enrichedAt": "2026-10-09T07:00:26.090Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.11005": {
+    "title": "Study Reveals Impact of Narrative Wrapping on LLM Refusal: Cross-Language Benchmark and Defense",
+    "summary": "A new study published on arXiv investigates how narrative wrapping affects the refusal of harmful requests by large language models (LLMs) across different languages. The research provides a cross-language benchmark to measure this vulnerability and offers defense strategies.",
+    "danishTitle": "Study Reveals Impact of Narrative Wrapping on LLM Refusal: Cross-Language Benchmark and Defense",
+    "danishSummary": "A new study published on arXiv investigates how narrative wrapping affects the refusal of harmful requests by large language models (LLMs) across different languages. The research provides a cross-language benchmark to measure this vulnerability and offers defense strategies.",
+    "whyItMatters": "Understanding and mitigating the impact of narrative wrapping is crucial for enhancing the safety and reliability of LLMs in various applications, particularly in cross-lingual contexts.",
+    "enrichedAt": "2026-10-09T07:00:26.090Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.11007v1": {
+    "title": "New Model Enables Always-Loaded Context for LLM Agents to Optimize Resource Usage",
+    "summary": "A recent study proposes a capacitated assortment model with censored feedback to curate always-loaded context for large language model (LLM) agents. This approach ensures that each loaded token is charged only once, optimizing resource usage and enhancing efficiency during sessions.",
+    "danishTitle": "New Model Enables Always-Loaded Context for LLM Agents to Optimize Resource Usage",
+    "danishSummary": "A recent study proposes a capacitated assortment model with censored feedback to curate always-loaded context for large language model (LLM) agents. This approach ensures that each loaded token is charged only once, optimizing resource usage and enhancing efficiency during sessions.",
+    "whyItMatters": "By reducing redundant token charges, this model could significantly improve the operational efficiency of LLM agents, making them more cost-effective and scalable for various applications.",
+    "enrichedAt": "2026-10-09T07:00:36.615Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.11007": {
+    "title": "New Model Enables Always-Loaded Context for LLM Agents to Optimize Resource Usage",
+    "summary": "A recent study proposes a capacitated assortment model with censored feedback to curate always-loaded context for large language model (LLM) agents. This approach ensures that each loaded token is charged only once, optimizing resource usage and enhancing efficiency during sessions.",
+    "danishTitle": "New Model Enables Always-Loaded Context for LLM Agents to Optimize Resource Usage",
+    "danishSummary": "A recent study proposes a capacitated assortment model with censored feedback to curate always-loaded context for large language model (LLM) agents. This approach ensures that each loaded token is charged only once, optimizing resource usage and enhancing efficiency during sessions.",
+    "whyItMatters": "By reducing redundant token charges, this model could significantly improve the operational efficiency of LLM agents, making them more cost-effective and scalable for various applications.",
+    "enrichedAt": "2026-10-09T07:00:36.615Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2610.10552v1": {
+    "title": "New Parameter-Efficient Adaptation Method Enhances SVD-Based KV-Cache Compression",
+    "summary": "A recent study proposes a novel parameter-efficient adaptation technique for SVD-based key-value cache compression, focusing on optimizing the encoder while keeping the decoder frozen. This approach aims to improve model efficiency and performance in machine learning workflows.",
+    "danishTitle": "New Parameter-Efficient Adaptation Method Enhances SVD-Based KV-Cache Compression",
+    "danishSummary": "A recent study proposes a novel parameter-efficient adaptation technique for SVD-based key-value cache compression, focusing on optimizing the encoder while keeping the decoder frozen. This approach aims to improve model efficiency and performance in machine learning workflows.",
+    "whyItMatters": "By enhancing model efficiency without significantly altering the decoder, this method could lead to more effective use of resources in large-scale machine learning applications, benefiting both researchers and industry practitioners.",
+    "enrichedAt": "2026-10-09T07:00:46.830Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10552": {
+    "title": "New Parameter-Efficient Adaptation Method Enhances SVD-Based KV-Cache Compression",
+    "summary": "A recent study proposes a novel parameter-efficient adaptation technique for SVD-based key-value cache compression, focusing on optimizing the encoder while keeping the decoder frozen. This approach aims to improve model efficiency and performance in machine learning workflows.",
+    "danishTitle": "New Parameter-Efficient Adaptation Method Enhances SVD-Based KV-Cache Compression",
+    "danishSummary": "A recent study proposes a novel parameter-efficient adaptation technique for SVD-based key-value cache compression, focusing on optimizing the encoder while keeping the decoder frozen. This approach aims to improve model efficiency and performance in machine learning workflows.",
+    "whyItMatters": "By enhancing model efficiency without significantly altering the decoder, this method could lead to more effective use of resources in large-scale machine learning applications, benefiting both researchers and industry practitioners.",
+    "enrichedAt": "2026-10-09T07:00:46.830Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2610.10571v1": {
+    "title": "SPERA: A Novel EEG Model with Spherical Prior and Geometry- and Frequency-Aware Latent Prediction",
+    "summary": "The arXiv has published a new EEG foundation model called SPERA, which incorporates a spherical prior and geometry- and frequency-aware latent prediction to address the challenges of building general-purpose EEG models. This model aims to improve the accuracy and applicability of EEG data in various neurological research and clinical applications.",
+    "danishTitle": "SPERA: A Novel EEG Model with Spherical Prior and Geometry- and Frequency-Aware Latent Prediction",
+    "danishSummary": "The arXiv has published a new EEG foundation model called SPERA, which incorporates a spherical prior and geometry- and frequency-aware latent prediction to address the challenges of building general-purpose EEG models. This model aims to improve the accuracy and applicability of EEG data in various neurological research and clinical applications.",
+    "whyItMatters": "By enhancing the generalizability and precision of EEG models, SPERA could significantly advance neurological research and improve diagnostic tools in clinical settings.",
+    "enrichedAt": "2026-10-09T07:00:58.134Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10571": {
+    "title": "SPERA: A Novel EEG Model with Spherical Prior and Geometry- and Frequency-Aware Latent Prediction",
+    "summary": "The arXiv has published a new EEG foundation model called SPERA, which incorporates a spherical prior and geometry- and frequency-aware latent prediction to address the challenges of building general-purpose EEG models. This model aims to improve the accuracy and applicability of EEG data in various neurological research and clinical applications.",
+    "danishTitle": "SPERA: A Novel EEG Model with Spherical Prior and Geometry- and Frequency-Aware Latent Prediction",
+    "danishSummary": "The arXiv has published a new EEG foundation model called SPERA, which incorporates a spherical prior and geometry- and frequency-aware latent prediction to address the challenges of building general-purpose EEG models. This model aims to improve the accuracy and applicability of EEG data in various neurological research and clinical applications.",
+    "whyItMatters": "By enhancing the generalizability and precision of EEG models, SPERA could significantly advance neurological research and improve diagnostic tools in clinical settings.",
+    "enrichedAt": "2026-10-09T07:00:58.134Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2610.10594v1": {
+    "title": "Synthetic Data Quantity for Activation Probes in Language Models Varies by Coverage, Not Difficulty",
+    "summary": "A new study from arXiv explores the relationship between the number of synthetic samples required for activation probes in language models, finding that the quantity needed is determined by the coverage of the synthetic data rather than its difficulty level. This research aims to optimize the training of these probes for better monitoring of deployed models.",
+    "danishTitle": "Synthetic Data Quantity for Activation Probes in Language Models Varies by Coverage, Not Difficulty",
+    "danishSummary": "A new study from arXiv explores the relationship between the number of synthetic samples required for activation probes in language models, finding that the quantity needed is determined by the coverage of the synthetic data rather than its difficulty level. This research aims to optimize the training of these probes for better monitoring of deployed models.",
+    "whyItMatters": "Understanding that coverage is more critical than difficulty in determining synthetic data requirements can lead to more efficient and effective training of activation probes, enhancing the overall performance and reliability of language models.",
+    "enrichedAt": "2026-10-09T07:01:09.855Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10594": {
+    "title": "Synthetic Data Quantity for Activation Probes in Language Models Varies by Coverage, Not Difficulty",
+    "summary": "A new study from arXiv explores the relationship between the number of synthetic samples required for activation probes in language models, finding that the quantity needed is determined by the coverage of the synthetic data rather than its difficulty level. This research aims to optimize the training of these probes for better monitoring of deployed models.",
+    "danishTitle": "Synthetic Data Quantity for Activation Probes in Language Models Varies by Coverage, Not Difficulty",
+    "danishSummary": "A new study from arXiv explores the relationship between the number of synthetic samples required for activation probes in language models, finding that the quantity needed is determined by the coverage of the synthetic data rather than its difficulty level. This research aims to optimize the training of these probes for better monitoring of deployed models.",
+    "whyItMatters": "Understanding that coverage is more critical than difficulty in determining synthetic data requirements can lead to more efficient and effective training of activation probes, enhancing the overall performance and reliability of language models.",
+    "enrichedAt": "2026-10-09T07:01:09.855Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2610.10613v1": {
+    "title": "New Temporal Transformer Model Enhances Anomaly Detection in Vehicle CAN Networks",
+    "summary": "A new research paper proposes a temporal transformer model with a CAN encoder and federated lightweight heads for real-time anomaly detection in vehicle communication networks. This approach aims to improve the efficiency and accuracy of diagnosing issues in complex vehicle systems.",
+    "danishTitle": "New Temporal Transformer Model Enhances Anomaly Detection in Vehicle CAN Networks",
+    "danishSummary": "A new research paper proposes a temporal transformer model with a CAN encoder and federated lightweight heads for real-time anomaly detection in vehicle communication networks. This approach aims to improve the efficiency and accuracy of diagnosing issues in complex vehicle systems.",
+    "whyItMatters": "By enhancing anomaly detection, this model could significantly improve vehicle safety and maintenance, reducing potential risks and maintenance costs for both manufacturers and consumers.",
+    "enrichedAt": "2026-10-09T07:01:19.449Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10613": {
+    "title": "New Temporal Transformer Model Enhances Anomaly Detection in Vehicle CAN Networks",
+    "summary": "A new research paper proposes a temporal transformer model with a CAN encoder and federated lightweight heads for real-time anomaly detection in vehicle communication networks. This approach aims to improve the efficiency and accuracy of diagnosing issues in complex vehicle systems.",
+    "danishTitle": "New Temporal Transformer Model Enhances Anomaly Detection in Vehicle CAN Networks",
+    "danishSummary": "A new research paper proposes a temporal transformer model with a CAN encoder and federated lightweight heads for real-time anomaly detection in vehicle communication networks. This approach aims to improve the efficiency and accuracy of diagnosing issues in complex vehicle systems.",
+    "whyItMatters": "By enhancing anomaly detection, this model could significantly improve vehicle safety and maintenance, reducing potential risks and maintenance costs for both manufacturers and consumers.",
+    "enrichedAt": "2026-10-09T07:01:19.449Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2610.10616v1": {
+    "title": "Privacy Risks Emerge from MoE Model Routing Data During Inference",
+    "summary": "A recent study on arXiv highlights privacy concerns associated with the routing information generated by Mixture-of-Experts (MoE) models during inference. This data, often logged for monitoring and debugging, can potentially reveal membership information, posing significant risks to user privacy.",
+    "danishTitle": "Privacy Risks Emerge from MoE Model Routing Data During Inference",
+    "danishSummary": "A recent study on arXiv highlights privacy concerns associated with the routing information generated by Mixture-of-Experts (MoE) models during inference. This data, often logged for monitoring and debugging, can potentially reveal membership information, posing significant risks to user privacy.",
+    "whyItMatters": "Understanding and addressing these privacy risks is crucial for the AI industry to develop more secure and privacy-preserving models, ensuring user trust and compliance with data protection regulations.",
+    "enrichedAt": "2026-10-09T07:01:29.957Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.10616": {
+    "title": "Privacy Risks Emerge from MoE Model Routing Data During Inference",
+    "summary": "A recent study on arXiv highlights privacy concerns associated with the routing information generated by Mixture-of-Experts (MoE) models during inference. This data, often logged for monitoring and debugging, can potentially reveal membership information, posing significant risks to user privacy.",
+    "danishTitle": "Privacy Risks Emerge from MoE Model Routing Data During Inference",
+    "danishSummary": "A recent study on arXiv highlights privacy concerns associated with the routing information generated by Mixture-of-Experts (MoE) models during inference. This data, often logged for monitoring and debugging, can potentially reveal membership information, posing significant risks to user privacy.",
+    "whyItMatters": "Understanding and addressing these privacy risks is crucial for the AI industry to develop more secure and privacy-preserving models, ensuring user trust and compliance with data protection regulations.",
+    "enrichedAt": "2026-10-09T07:01:29.957Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }

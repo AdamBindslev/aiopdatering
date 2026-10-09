@@ -1,39 +1,48 @@
 {
-  "headline": "OpenAI's Revenue Projections Under Scrutiny Amid Model Missteps",
-  "summary": "Recent reports and articles highlight significant downward revisions in OpenAI's projected revenue, coupled with criticisms of its mathematical proofs and safety practices. These developments are commanding industry attention due to their potential impact on investor confidence and regulatory scrutiny.",
-  "whyItMatters": "These issues could affect OpenAI's financial health and its standing in the AI community, influencing broader industry trends and regulatory considerations.",
-  "synthesizedAt": "2026-10-09T03:49:43.818Z",
+  "headline": "Plan-and-Patch: Diffusion Models Boost Long-Horizon Agent Planning",
+  "summary": "A new research paper titled 'Plan-and-Patch' introduces diffusion language models that enhance the long-horizon planning capabilities of AI agents, addressing a critical challenge in agent-system interaction and enterprise AI.",
+  "whyItMatters": "This advancement could significantly improve the decision-making processes of AI agents in complex, long-term tasks, potentially revolutionizing fields like autonomous navigation and enterprise automation.",
+  "synthesizedAt": "2026-10-09T07:02:04.996Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3175754",
-    "title": "OpenAI's Projected Revenue Downgraded by $20 Billion",
-    "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-10-08T18:19:42.000Z",
-    "badgeColor": "emerald",
-    "angle": "Financial Downgrade"
+    "id": "arxiv-ai-oai:arXiv.org:2610.10786v1",
+    "title": "Plan-and-Patch: New Diffusion Language Models Enhance Long-Horizon Agent Planning",
+    "link": "https://arxiv.org/abs/2610.10786",
+    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+    "sourceId": "arxiv-ai",
+    "pubDate": "2026-10-09T04:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "New Framework"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3175894",
-      "title": "Fired OpenAI Safety Researchers Dispute Misconduct Claims, Warn of Chilling Effect",
-      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-08T20:04:26.000Z",
-      "badgeColor": "emerald",
-      "angle": "Safety and Ethics"
+      "id": "arxiv-cl-oai:arXiv.org:2610.10827v1",
+      "title": "Fine-Tuned Small Language Models Outperform Prompted Models in Grammar Annotation at Scale",
+      "link": "https://arxiv.org/abs/2610.10827",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-09T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Performance Benchmark"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3175311",
-      "title": "OpenAI's Mathematical Proofs Fall Short of Academic Standards",
-      "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-08T18:10:55.000Z",
-      "badgeColor": "emerald",
-      "angle": "Academic Standards"
+      "id": "arxiv-ai-oai:arXiv.org:2610.10629v1",
+      "title": "Self-Evolving AI Agents in Credit Pipelines: A New Approach to Compliance and Adaptability",
+      "link": "https://arxiv.org/abs/2610.10629",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-10-09T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Enterprise Applications"
+    },
+    {
+      "id": "arxiv-ai-oai:arXiv.org:2610.10833v1",
+      "title": "Exploring Time-Budgeted AI Agents: A Study on Punctuality and Productivity",
+      "link": "https://arxiv.org/abs/2610.10833",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-10-09T04:00:00.000Z",
+      "badgeColor": "zinc"
     }
   ]
 }
