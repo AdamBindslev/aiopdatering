@@ -1,48 +1,39 @@
 {
-  "headline": "Plan-and-Patch: Diffusion Models Boost Long-Horizon Agent Planning",
-  "summary": "A new research paper titled 'Plan-and-Patch' introduces diffusion language models that enhance the long-horizon planning capabilities of AI agents, addressing a critical challenge in agent-system interaction and enterprise AI.",
-  "whyItMatters": "This advancement could significantly improve the decision-making processes of AI agents in complex, long-term tasks, potentially revolutionizing fields like autonomous navigation and enterprise automation.",
-  "synthesizedAt": "2026-10-09T07:02:04.996Z",
+  "headline": "Europe Proposes AI Dependency Regulations Amid Growing Concerns",
+  "summary": "European policymakers are drafting new regulations to address the risks of AI dependency, particularly in personal AI-driven applications. This move is part of a broader effort to ensure that AI systems are used responsibly and do not create undue reliance on potentially biased or opaque technologies.",
+  "whyItMatters": "These regulations could set a global precedent for AI governance, influencing how developers and companies approach AI integration and transparency.",
+  "synthesizedAt": "2026-10-09T10:06:38.868Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2610.10786v1",
-    "title": "Plan-and-Patch: New Diffusion Language Models Enhance Long-Horizon Agent Planning",
-    "link": "https://arxiv.org/abs/2610.10786",
-    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-    "sourceId": "arxiv-ai",
-    "pubDate": "2026-10-09T04:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "New Framework"
+    "id": "tech-policy-press-https://techpolicy.press/europe-wants-to-regulate-ai-friends-but-how-do-you-curb-dependency",
+    "title": "Europe Aims to Regulate AI 'Friends' Amid Concerns Over Dependency",
+    "link": "https://techpolicy.press/europe-wants-to-regulate-ai-friends-but-how-do-you-curb-dependency",
+    "sourceName": "Tech Policy Press",
+    "sourceId": "tech-policy-press",
+    "pubDate": "2026-10-09T09:49:50.000Z",
+    "badgeColor": "slate",
+    "angle": "Regulatory Update"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2610.10827v1",
-      "title": "Fine-Tuned Small Language Models Outperform Prompted Models in Grammar Annotation at Scale",
-      "link": "https://arxiv.org/abs/2610.10827",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-09T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Performance Benchmark"
+      "id": "tech-policy-press-https://techpolicy.press/at-irelands-ai-summit-tech-industry-dominates-as-civil-society-sits-out",
+      "title": "Tech Industry Dominates Ireland’s AI Summit as Civil Society Absent",
+      "link": "https://techpolicy.press/at-irelands-ai-summit-tech-industry-dominates-as-civil-society-sits-out",
+      "sourceName": "Tech Policy Press",
+      "sourceId": "tech-policy-press",
+      "pubDate": "2026-10-09T09:27:32.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Impact"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2610.10629v1",
-      "title": "Self-Evolving AI Agents in Credit Pipelines: A New Approach to Compliance and Adaptability",
-      "link": "https://arxiv.org/abs/2610.10629",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-10-09T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Enterprise Applications"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2610.10833v1",
-      "title": "Exploring Time-Budgeted AI Agents: A Study on Punctuality and Productivity",
-      "link": "https://arxiv.org/abs/2610.10833",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-10-09T04:00:00.000Z",
-      "badgeColor": "zinc"
+      "id": "mit-tech-review-https://www.technologyreview.com/?p=1145728",
+      "title": "MIT Technology Review Warns Against Overreliance on AI's Ability to Say No",
+      "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "sourceName": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "pubDate": "2026-10-09T09:00:00.000Z",
+      "badgeColor": "red",
+      "angle": "Expert Analysis"
     }
   ]
 }
