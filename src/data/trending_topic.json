@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Weight Reasoning Models Challenge Proprietary Frontier Labs",
-  "summary": "ReflectionAI has launched Beam, a 500 billion parameter open-weight reasoning model, challenging the dominance of closed proprietary AI systems. This shift is accelerating local AI agent deployment and putting downward pressure on closed-API pricing models.",
-  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on closed proprietary platforms.",
-  "synthesizedAt": "2026-10-09T19:25:34.945Z",
+  "headline": "ReflectionAI Launches Open-Weight Reasoning Model Beam, Sparking Debate on AI Transparency",
+  "summary": "ReflectionAI has unveiled Beam, a 500 billion parameter open-weight reasoning model, prompting discussions on the benefits and implications of open-source AI. This move challenges proprietary models and could reshape the AI landscape.",
+  "whyItMatters": "It broadens access to advanced reasoning capabilities and could lead to increased transparency and collaboration in the AI community.",
+  "synthesizedAt": "2026-10-09T22:31:51.338Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "no-priors-yt:video:up4sG9RM20M",
@@ -12,28 +12,38 @@
     "sourceId": "no-priors",
     "pubDate": "2026-10-09T17:28:41.000Z",
     "badgeColor": "amber",
-    "angle": "Primary Source"
+    "angle": "Official Launch"
   },
   "supportingStories": [
     {
-      "id": "openai-channel-yt:video:p5KxBTUncoE",
-      "title": "ChatGPT Mobile App Introduces Customizable Dot Feature",
-      "link": "https://www.youtube.com/watch?v=p5KxBTUncoE",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-10-09T19:13:03.000Z",
-      "badgeColor": "emerald",
-      "angle": "Official Release"
-    },
-    {
-      "id": "the-zvi-https://thezvi.substack.com/p/new-math-from-openai",
-      "title": "OpenAI Unveils Breakthrough in Mathematical Reasoning Capabilities",
-      "link": "https://thezvi.substack.com/p/new-math-from-openai",
-      "sourceName": "Don't Worry About the Vase (Zvi)",
-      "sourceId": "the-zvi",
-      "pubDate": "2026-10-09T13:20:43.000Z",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3176290",
+      "title": "TypeSafe AI Valued at $7.5B After Securing $870 Million in Funding",
+      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-09T21:41:29.000Z",
       "badgeColor": "emerald",
       "angle": "Industry Analysis"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_video&p=3176138",
+      "title": "Tech Giants Abandon NDAs in Data Center Deals, Seeking to Build Trust Amid Community Backlash",
+      "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-09T16:56:42.000Z",
+      "badgeColor": "emerald",
+      "angle": "Policy Impact"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3176135",
+      "title": "Amazon Abolishes Data Center NDAs, Sparking Debate on AI Infrastructure Transparency",
+      "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-09T16:53:02.000Z",
+      "badgeColor": "emerald",
+      "angle": "Critical Debate"
     }
   ]
 }
