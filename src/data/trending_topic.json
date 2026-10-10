@@ -1,8 +1,8 @@
 {
-  "headline": "ReflectionAI Launches Open-Weight Reasoning Model Beam, Pioneering Open AI Models",
-  "summary": "ReflectionAI has unveiled Beam, a 500 billion parameter open-weight reasoning model, challenging proprietary AI platforms. This launch is driving a broader debate on the openness and accessibility of AI models.",
-  "whyItMatters": "It highlights the growing trend towards open AI models, potentially reducing barriers to entry and fostering innovation.",
-  "synthesizedAt": "2026-10-10T07:51:44.575Z",
+  "headline": "ReflectionAI Launches Open-Weight Reasoning Model Beam, Fostering Transparency in AI",
+  "summary": "ReflectionAI has unveiled Beam, a 500 billion parameter open-weight reasoning model, emphasizing transparency and accessibility in AI. This move is gaining significant attention as it challenges proprietary models and could reshape the industry's approach to reasoning capabilities.",
+  "whyItMatters": "It promotes openness in AI development, potentially lowering barriers to entry and fostering innovation across the sector.",
+  "synthesizedAt": "2026-10-10T10:58:22.063Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "no-priors-yt:video:up4sG9RM20M",
@@ -16,34 +16,24 @@
   },
   "supportingStories": [
     {
-      "id": "no-priors-yt:video:z2z1iF2qVK0",
-      "title": "Reflection CEO Misha Laskin Argues for Open AI Models to Enhance Cybersecurity",
-      "link": "https://www.youtube.com/shorts/z2z1iF2qVK0",
-      "sourceName": "No Priors Podcast",
-      "sourceId": "no-priors",
-      "pubDate": "2026-10-10T00:19:04.000Z",
-      "badgeColor": "amber",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "stanford-cs25-yt:video:Izu4_AUiHyk",
-      "title": "Stanford University Explores Advanced Trajectory Optimization Techniques in Robotic Autonomy",
-      "link": "https://www.youtube.com/watch?v=Izu4_AUiHyk",
-      "sourceName": "Stanford CS25 — Transformers United",
-      "sourceId": "stanford-cs25",
-      "pubDate": "2026-10-09T22:15:02.000Z",
-      "badgeColor": "red",
+      "id": "the-decoder-https://the-decoder.com/?p=41342",
+      "title": "Only a Few Users Pay for AI, but Those Who Do Spend Substantially",
+      "link": "https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-10T10:54:56.000Z",
+      "badgeColor": "slate",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "interconnects-https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
-      "title": "Expert Predicts Rapid AI Advancements, Not General Superintelligence",
-      "link": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
-      "sourceName": "Interconnects (Nathan Lambert)",
-      "sourceId": "interconnects",
-      "pubDate": "2026-10-09T21:33:47.000Z",
-      "badgeColor": "indigo",
-      "angle": "Expert Opinion"
+      "id": "the-decoder-https://the-decoder.com/?p=41318",
+      "title": "Anthropic Launches Free AI Scanner for Open-Source Projects to Enhance Cybersecurity",
+      "link": "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-09T17:54:44.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Impact"
     }
   ]
 }
