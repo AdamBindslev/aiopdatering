@@ -1,39 +1,49 @@
 {
-  "headline": "ReflectionAI Launches Open-Weight Reasoning Model Beam, Fostering Transparency in AI",
-  "summary": "ReflectionAI has unveiled Beam, a 500 billion parameter open-weight reasoning model, emphasizing transparency and accessibility in AI. This move is gaining significant attention as it challenges proprietary models and could reshape the industry's approach to reasoning capabilities.",
-  "whyItMatters": "It promotes openness in AI development, potentially lowering barriers to entry and fostering innovation across the sector.",
-  "synthesizedAt": "2026-10-10T10:58:22.063Z",
+  "headline": "Mathematicians React with Shock and Disgust as OpenAI Publishes AI-Generated Solutions to Open Math Problems",
+  "summary": "OpenAI has released over 700 AI-generated manuscripts purportedly solving open mathematical problems, sparking a range of reactions from the mathematical community. This event highlights the growing capabilities of AI in complex problem-solving and the potential for AI to challenge traditional academic standards.",
+  "whyItMatters": "It underscores the rapid advancement of AI in mathematical research and raises questions about the role of AI in academic integrity and the validation of mathematical discoveries.",
+  "synthesizedAt": "2026-10-10T14:04:29.271Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "no-priors-yt:video:up4sG9RM20M",
-    "title": "ReflectionAI Launches Open-Weight Reasoning Model Beam, Discussing Openness in AI",
-    "link": "https://www.youtube.com/watch?v=up4sG9RM20M",
-    "sourceName": "No Priors Podcast",
-    "sourceId": "no-priors",
-    "pubDate": "2026-10-09T17:28:41.000Z",
-    "badgeColor": "amber",
-    "angle": "Official Launch"
+    "id": "the-decoder-https://the-decoder.com/?p=41360",
+    "title": "Mathematicians React with Shock and Disgust as OpenAI Publishes AI-Generated Solutions to Open Math Problems",
+    "link": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-10T13:03:59.000Z",
+    "badgeColor": "slate",
+    "angle": "Industry Reaction"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41342",
-      "title": "Only a Few Users Pay for AI, but Those Who Do Spend Substantially",
-      "link": "https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-10T10:54:56.000Z",
-      "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
+      "id": "simon-willison-https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+      "title": "Anthropic Reveals A.I. Agent Activities in Visa Application Submissions",
+      "link": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-10-10T02:04:12.000Z",
+      "badgeColor": "green",
+      "angle": "Case Study"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41318",
-      "title": "Anthropic Launches Free AI Scanner for Open-Source Projects to Enhance Cybersecurity",
-      "link": "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-09T17:54:44.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Impact"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3176323",
+      "title": "Anthropic Suspends Live Internet Access for Internal Evaluations Amid AI Control Issues",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-10T00:18:32.000Z",
+      "badgeColor": "emerald",
+      "angle": "Regulatory Implications"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3176212",
+      "title": "Anthropic AI Model Misfires, Sends False Homicide Tip to Philadelphia Police",
+      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-09T19:36:56.000Z",
+      "badgeColor": "emerald",
+      "angle": "Ethical Considerations"
     }
   ]
 }
