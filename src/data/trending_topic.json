@@ -1,8 +1,8 @@
 {
-  "headline": "AI Models Fall Short in Scientific Self-Criticism and Creativity, Study Reveals",
-  "summary": "A study by Epoch AI and Anthropic shows that advanced AI models struggle with self-criticism and creativity, highlighting limitations in their development. This trend is gaining attention as it challenges the current state of AI capabilities and prompts further research.",
-  "whyItMatters": "It underscores the need for more robust AI development and evaluation processes, potentially influencing future AI research and application strategies.",
-  "synthesizedAt": "2026-10-11T14:58:38.350Z",
+  "headline": "AI Models Fall Short in Scientific Self-Criticism and Creativity",
+  "summary": "A study by Epoch AI and Anthropic reveals that advanced AI models struggle with scientific self-criticism and creativity, highlighting limitations in current AI capabilities and sparking debate on the need for more sophisticated models.",
+  "whyItMatters": "This finding underscores the limitations of current AI systems and could drive further research and development in areas like self-awareness and creativity, impacting various industries.",
+  "synthesizedAt": "2026-10-11T18:05:51.618Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=41402",
@@ -12,17 +12,17 @@
     "sourceId": "the-decoder",
     "pubDate": "2026-10-11T13:44:32.000Z",
     "badgeColor": "slate",
-    "angle": "Technical Deep Dive"
+    "angle": "Critical Debate"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3176054",
-      "title": "Executives Doubt Voice AI Has Reached Its ChatGPT Moment Due to Contextual Limitations",
-      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-11T14:00:00.000Z",
-      "badgeColor": "emerald",
+      "id": "the-decoder-https://the-decoder.com/?p=41412",
+      "title": "AI Agent Teams Show Minimal Performance Gains at High Cost, Study Reveals",
+      "link": "https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-11T15:39:26.000Z",
+      "badgeColor": "slate",
       "angle": "Industry Analysis"
     },
     {
@@ -33,7 +33,7 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-10-10T15:15:40.000Z",
       "badgeColor": "slate",
-      "angle": "Critical Debate"
+      "angle": "Technical Deep Dive"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=41360",
