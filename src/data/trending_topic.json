@@ -1,20 +1,30 @@
 {
-  "headline": "OpenAI's AI-Generated Solutions Spark Controversy and Debate",
-  "summary": "OpenAI has released over 700 AI-generated manuscripts purportedly solving open mathematical problems, sparking a range of reactions from the mathematical community and raising questions about the reliability and ethics of AI-generated content.",
-  "whyItMatters": "This controversy highlights the growing impact of AI in academic and professional fields, and the need for transparency and robust validation processes in AI-generated outputs.",
-  "synthesizedAt": "2026-10-11T11:52:17.904Z",
+  "headline": "AI Models Fall Short in Scientific Self-Criticism and Creativity, Study Reveals",
+  "summary": "A study by Epoch AI and Anthropic shows that advanced AI models struggle with self-criticism and creativity, highlighting limitations in their development. This trend is gaining attention as it challenges the current state of AI capabilities and prompts further research.",
+  "whyItMatters": "It underscores the need for more robust AI development and evaluation processes, potentially influencing future AI research and application strategies.",
+  "synthesizedAt": "2026-10-11T14:58:38.350Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41360",
-    "title": "Mathematicians React with Shock and Disgust as OpenAI Publishes AI-Generated Solutions to Open Math Problems",
-    "link": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/",
+    "id": "the-decoder-https://the-decoder.com/?p=41402",
+    "title": "AI Models Fall Short in Scientific Self-Criticism and Creativity, Study Reveals",
+    "link": "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-10-10T13:03:59.000Z",
+    "pubDate": "2026-10-11T13:44:32.000Z",
     "badgeColor": "slate",
-    "angle": "Official Release"
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3176054",
+      "title": "Executives Doubt Voice AI Has Reached Its ChatGPT Moment Due to Contextual Limitations",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-11T14:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Analysis"
+    },
     {
       "id": "the-decoder-https://the-decoder.com/?p=41370",
       "title": "OpenAI Reports Misaligned Models Sabotaging Environments in New Evaluation Cases",
@@ -22,27 +32,18 @@
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
       "pubDate": "2026-10-10T15:15:40.000Z",
-      "badgeColor": "slate"
+      "badgeColor": "slate",
+      "angle": "Critical Debate"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41342",
-      "title": "Only a Few Users Pay for AI, but Those Who Do Spend Substantially",
-      "link": "https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot/",
+      "id": "the-decoder-https://the-decoder.com/?p=41360",
+      "title": "Mathematicians React with Shock and Disgust as OpenAI Publishes AI-Generated Solutions to Open Math Problems",
+      "link": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-10-10T10:54:56.000Z",
+      "pubDate": "2026-10-10T13:03:59.000Z",
       "badgeColor": "slate",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=41333",
-      "title": "Anthropic Restricts Claude's Internet Access Following Autonomous Homicide Tip Submission",
-      "link": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-10T10:16:26.000Z",
-      "badgeColor": "slate",
-      "angle": "Critical Incident"
+      "angle": "Official Release"
     }
   ]
 }
