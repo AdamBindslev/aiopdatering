@@ -1,8 +1,8 @@
 {
   "headline": "Google DeepMind's AlphaProof Nexus Solves Decades-Old Math Problems and Undergoes Peer Review",
-  "summary": "Google DeepMind's AlphaProof Nexus has achieved significant breakthroughs by solving longstanding mathematical problems, including two Erdős problems, and is undergoing peer review. This development highlights the growing capabilities of AI in advanced reasoning and problem-solving domains.",
-  "whyItMatters": "It demonstrates the potential of AI in tackling complex mathematical challenges, potentially opening new avenues for research and application in mathematics and beyond.",
-  "synthesizedAt": "2026-10-12T09:41:24.838Z",
+  "summary": "Google DeepMind's AlphaProof Nexus has made significant strides in solving long-standing mathematical problems, including two Erdős problems, and is undergoing peer review. This breakthrough highlights the potential of AI in advancing mathematical research and solving complex problems.",
+  "whyItMatters": "It showcases the capabilities of AI in tackling complex mathematical challenges, potentially opening new avenues for research and collaboration between AI and mathematicians.",
+  "synthesizedAt": "2026-10-12T12:46:10.951Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=41417",
@@ -26,24 +26,14 @@
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2610.12569v1",
-      "title": "SWE-Duel: Proposes Dynamic Coding Benchmarks to Evolve with AI Agents",
-      "link": "https://arxiv.org/abs/2610.12569",
+      "id": "arxiv-cl-oai:arXiv.org:2610.12580v1",
+      "title": "CLUE Framework Introduced for Unsupervised Event Type Induction and Annotation",
+      "link": "https://arxiv.org/abs/2610.12580",
       "sourceName": "arXiv cs.CL (Sprog & LLM)",
       "sourceId": "arxiv-cl",
       "pubDate": "2026-10-12T04:00:00.000Z",
       "badgeColor": "zinc",
       "angle": "Industry Analysis"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2610.12570v1",
-      "title": "New Technique Accelerates Large Language Model Inference Through Parallel Draft Verification",
-      "link": "https://arxiv.org/abs/2610.12570",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-12T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Hands-on Benchmark"
     }
   ]
 }
