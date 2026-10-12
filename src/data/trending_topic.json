@@ -1,29 +1,49 @@
 {
-  "headline": "Self-Improving Agents and Recursive Data Synthesis Gain Momentum",
-  "summary": "Recent research highlights the development of self-improving agents and recursive data synthesis techniques, such as EliteTable and MagicBeanStalk, which are pushing the boundaries of AI agent capabilities and learning efficiency. These advancements are garnering significant attention due to their potential to enhance the performance and autonomy of AI systems.",
-  "whyItMatters": "These innovations could lead to more autonomous and efficient AI agents, reducing the need for constant human intervention and improving the scalability of AI systems.",
-  "synthesizedAt": "2026-10-12T06:38:24.990Z",
+  "headline": "Google DeepMind's AlphaProof Nexus Solves Decades-Old Math Problems and Undergoes Peer Review",
+  "summary": "Google DeepMind's AlphaProof Nexus has achieved significant breakthroughs by solving longstanding mathematical problems, including two Erdős problems, and is undergoing peer review. This development highlights the growing capabilities of AI in advanced reasoning and problem-solving domains.",
+  "whyItMatters": "It demonstrates the potential of AI in tackling complex mathematical challenges, potentially opening new avenues for research and application in mathematics and beyond.",
+  "synthesizedAt": "2026-10-12T09:41:24.838Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2610.12536v1",
-    "title": "EliteTable: Self-Improving Program Search Algorithm Guided by Large Language Models",
-    "link": "https://arxiv.org/abs/2610.12536",
-    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-    "sourceId": "arxiv-ai",
-    "pubDate": "2026-10-12T04:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "Self-Improving Agents"
+    "id": "the-decoder-https://the-decoder.com/?p=41417",
+    "title": "Google DeepMind's AlphaProof Nexus Solves Decades-Old Math Problems and Undergoes Peer Review",
+    "link": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-12T09:35:54.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "arxiv-ai-oai:arXiv.org:2610.12659v1",
-      "title": "MagicBeanStalk: Overcoming RLVR Challenges with Recursive Data Synthesis",
-      "link": "https://arxiv.org/abs/2610.12659",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
+      "id": "arxiv-cl-oai:arXiv.org:2610.12545v1",
+      "title": "AutoIndexer: Flexible-Order Decoding by Training Causal Models on Chains of Edits",
+      "link": "https://arxiv.org/abs/2610.12545",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
       "pubDate": "2026-10-12T04:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Recursive Data Synthesis"
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2610.12569v1",
+      "title": "SWE-Duel: Proposes Dynamic Coding Benchmarks to Evolve with AI Agents",
+      "link": "https://arxiv.org/abs/2610.12569",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-12T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2610.12570v1",
+      "title": "New Technique Accelerates Large Language Model Inference Through Parallel Draft Verification",
+      "link": "https://arxiv.org/abs/2610.12570",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-12T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Hands-on Benchmark"
     }
   ]
 }
