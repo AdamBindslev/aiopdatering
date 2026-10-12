@@ -1,20 +1,40 @@
 {
-  "headline": "Google DeepMind's AlphaProof Nexus Solves Decades-Old Math Problems and Undergoes Peer Review",
-  "summary": "Google DeepMind's AlphaProof Nexus has made significant strides in solving long-standing mathematical problems, including two Erdős problems, and is undergoing peer review. This breakthrough highlights the potential of AI in advancing mathematical research and solving complex problems.",
-  "whyItMatters": "It showcases the capabilities of AI in tackling complex mathematical challenges, potentially opening new avenues for research and collaboration between AI and mathematicians.",
-  "synthesizedAt": "2026-10-12T12:46:10.951Z",
+  "headline": "New Open-Weight Models Challenge Proprietary AI Systems",
+  "summary": "A series of new open-weight models are demonstrating advanced reasoning capabilities, prompting a shift towards more accessible AI technologies. This trend is accelerating local AI agent deployment and putting pressure on closed proprietary platforms.",
+  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on expensive, proprietary AI solutions.",
+  "synthesizedAt": "2026-10-12T15:54:19.726Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41417",
-    "title": "Google DeepMind's AlphaProof Nexus Solves Decades-Old Math Problems and Undergoes Peer Review",
-    "link": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-12T09:35:54.000Z",
-    "badgeColor": "slate",
+    "id": "aws-ml-b4bf8b1e23545b34c9db567b51d0eb1551605184",
+    "title": "AWS Launches Multi-Node Ray LLM Deep Learning Containers for Large Language Model Inference",
+    "link": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/",
+    "sourceName": "AWS Machine Learning",
+    "sourceId": "aws-ml",
+    "pubDate": "2026-10-12T15:50:14.000Z",
+    "badgeColor": "amber",
     "angle": "Official Release"
   },
   "supportingStories": [
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3176454",
+      "title": "Blueprints AI Launches AI-Generated Permit-Ready Blueprints",
+      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-12T15:27:59.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=41417",
+      "title": "Google DeepMind's AlphaProof Nexus Solves Decades-Old Math Problems and Undergoes Peer Review",
+      "link": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-12T09:35:54.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
+    },
     {
       "id": "arxiv-cl-oai:arXiv.org:2610.12545v1",
       "title": "AutoIndexer: Flexible-Order Decoding by Training Causal Models on Chains of Edits",
@@ -23,17 +43,16 @@
       "sourceId": "arxiv-cl",
       "pubDate": "2026-10-12T04:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
+      "angle": "Innovation"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2610.12580v1",
-      "title": "CLUE Framework Introduced for Unsupervised Event Type Induction and Annotation",
-      "link": "https://arxiv.org/abs/2610.12580",
+      "id": "arxiv-cl-oai:arXiv.org:2610.12570v1",
+      "title": "New Technique Accelerates Large Language Model Inference Through Parallel Draft Verification",
+      "link": "https://arxiv.org/abs/2610.12570",
       "sourceName": "arXiv cs.CL (Sprog & LLM)",
       "sourceId": "arxiv-cl",
       "pubDate": "2026-10-12T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Industry Analysis"
+      "badgeColor": "zinc"
     }
   ]
 }

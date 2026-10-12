@@ -65716,5 +65716,239 @@
     "whyItMatters": "By shedding light on the operational aspects of AI data centers, Epoch AI's report can drive more informed decisions and encourage the adoption of greener technologies in AI development and deployment.",
     "enrichedAt": "2026-10-12T12:45:35.936Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-b4bf8b1e23545b34c9db567b51d0eb1551605184": {
+    "title": "AWS Launches Multi-Node Ray LLM Deep Learning Containers for Large Language Model Inference",
+    "summary": "AWS has introduced multi-node Ray LLM Deep Learning Containers, enabling the deployment of large language models across multiple GPU nodes on Amazon EKS. This setup uses separate prefill and decode nodes behind a single OpenAI-compatible endpoint, optimizing inference workloads.",
+    "danishTitle": "AWS Launches Multi-Node Ray LLM Deep Learning Containers for Large Language Model Inference",
+    "danishSummary": "AWS has introduced multi-node Ray LLM Deep Learning Containers, enabling the deployment of large language models across multiple GPU nodes on Amazon EKS. This setup uses separate prefill and decode nodes behind a single OpenAI-compatible endpoint, optimizing inference workloads.",
+    "whyItMatters": "This innovation enhances scalability and efficiency in deploying large language models, making it easier for enterprises to handle complex inference tasks across distributed systems.",
+    "enrichedAt": "2026-10-12T15:52:21.154Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers": {
+    "title": "AWS Launches Multi-Node Ray LLM Deep Learning Containers for Large Language Model Inference",
+    "summary": "AWS has introduced multi-node Ray LLM Deep Learning Containers, enabling the deployment of large language models across multiple GPU nodes on Amazon EKS. This setup uses separate prefill and decode nodes behind a single OpenAI-compatible endpoint, optimizing inference workloads.",
+    "danishTitle": "AWS Launches Multi-Node Ray LLM Deep Learning Containers for Large Language Model Inference",
+    "danishSummary": "AWS has introduced multi-node Ray LLM Deep Learning Containers, enabling the deployment of large language models across multiple GPU nodes on Amazon EKS. This setup uses separate prefill and decode nodes behind a single OpenAI-compatible endpoint, optimizing inference workloads.",
+    "whyItMatters": "This innovation enhances scalability and efficiency in deploying large language models, making it easier for enterprises to handle complex inference tasks across distributed systems.",
+    "enrichedAt": "2026-10-12T15:52:21.154Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/": {
+    "title": "AWS Launches Multi-Node Ray LLM Deep Learning Containers for Large Language Model Inference",
+    "summary": "AWS has introduced multi-node Ray LLM Deep Learning Containers, enabling the deployment of large language models across multiple GPU nodes on Amazon EKS. This setup uses separate prefill and decode nodes behind a single OpenAI-compatible endpoint, optimizing inference workloads.",
+    "danishTitle": "AWS Launches Multi-Node Ray LLM Deep Learning Containers for Large Language Model Inference",
+    "danishSummary": "AWS has introduced multi-node Ray LLM Deep Learning Containers, enabling the deployment of large language models across multiple GPU nodes on Amazon EKS. This setup uses separate prefill and decode nodes behind a single OpenAI-compatible endpoint, optimizing inference workloads.",
+    "whyItMatters": "This innovation enhances scalability and efficiency in deploying large language models, making it easier for enterprises to handle complex inference tasks across distributed systems.",
+    "enrichedAt": "2026-10-12T15:52:21.154Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3176628": {
+    "title": "Microsoft's Brad Smith Urges UK to Lead in AI Regulation, Citing Oversight Gaps",
+    "summary": "Microsoft President Brad Smith has advocated for the United Kingdom to take a leading role in establishing AI regulations, highlighting the current lack of oversight in the tech industry compared to everyday consumer products like milk and washing machines.",
+    "danishTitle": "Microsoft's Brad Smith Urges UK to Lead in AI Regulation, Citing Oversight Gaps",
+    "danishSummary": "Microsoft President Brad Smith has advocated for the United Kingdom to take a leading role in establishing AI regulations, highlighting the current lack of oversight in the tech industry compared to everyday consumer products like milk and washing machines.",
+    "whyItMatters": "Smith's call for stronger regulation underscores the need for clearer guidelines and standards in the AI sector, potentially influencing global regulatory frameworks and consumer trust.",
+    "enrichedAt": "2026-10-12T15:52:30.414Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation": {
+    "title": "Microsoft's Brad Smith Urges UK to Lead in AI Regulation, Citing Oversight Gaps",
+    "summary": "Microsoft President Brad Smith has advocated for the United Kingdom to take a leading role in establishing AI regulations, highlighting the current lack of oversight in the tech industry compared to everyday consumer products like milk and washing machines.",
+    "danishTitle": "Microsoft's Brad Smith Urges UK to Lead in AI Regulation, Citing Oversight Gaps",
+    "danishSummary": "Microsoft President Brad Smith has advocated for the United Kingdom to take a leading role in establishing AI regulations, highlighting the current lack of oversight in the tech industry compared to everyday consumer products like milk and washing machines.",
+    "whyItMatters": "Smith's call for stronger regulation underscores the need for clearer guidelines and standards in the AI sector, potentially influencing global regulatory frameworks and consumer trust.",
+    "enrichedAt": "2026-10-12T15:52:30.414Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/": {
+    "title": "Microsoft's Brad Smith Urges UK to Lead in AI Regulation, Citing Oversight Gaps",
+    "summary": "Microsoft President Brad Smith has advocated for the United Kingdom to take a leading role in establishing AI regulations, highlighting the current lack of oversight in the tech industry compared to everyday consumer products like milk and washing machines.",
+    "danishTitle": "Microsoft's Brad Smith Urges UK to Lead in AI Regulation, Citing Oversight Gaps",
+    "danishSummary": "Microsoft President Brad Smith has advocated for the United Kingdom to take a leading role in establishing AI regulations, highlighting the current lack of oversight in the tech industry compared to everyday consumer products like milk and washing machines.",
+    "whyItMatters": "Smith's call for stronger regulation underscores the need for clearer guidelines and standards in the AI sector, potentially influencing global regulatory frameworks and consumer trust.",
+    "enrichedAt": "2026-10-12T15:52:30.414Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3176454": {
+    "title": "Blueprints AI Launches AI-Generated Permit-Ready Blueprints",
+    "summary": "Blueprints AI, a privately funded startup, has unveiled software capable of generating code-compliant construction blueprints from various inputs such as photos, PDFs, or sketches, significantly streamlining the permit application process for architects and builders.",
+    "danishTitle": "Blueprints AI Launches AI-Generated Permit-Ready Blueprints",
+    "danishSummary": "Blueprints AI, a privately funded startup, has unveiled software capable of generating code-compliant construction blueprints from various inputs such as photos, PDFs, or sketches, significantly streamlining the permit application process for architects and builders.",
+    "whyItMatters": "This technology could substantially reduce the time and cost associated with obtaining building permits, accelerating construction project timelines and enhancing accessibility for smaller firms and individuals.",
+    "enrichedAt": "2026-10-12T15:52:39.907Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes": {
+    "title": "Blueprints AI Launches AI-Generated Permit-Ready Blueprints",
+    "summary": "Blueprints AI, a privately funded startup, has unveiled software capable of generating code-compliant construction blueprints from various inputs such as photos, PDFs, or sketches, significantly streamlining the permit application process for architects and builders.",
+    "danishTitle": "Blueprints AI Launches AI-Generated Permit-Ready Blueprints",
+    "danishSummary": "Blueprints AI, a privately funded startup, has unveiled software capable of generating code-compliant construction blueprints from various inputs such as photos, PDFs, or sketches, significantly streamlining the permit application process for architects and builders.",
+    "whyItMatters": "This technology could substantially reduce the time and cost associated with obtaining building permits, accelerating construction project timelines and enhancing accessibility for smaller firms and individuals.",
+    "enrichedAt": "2026-10-12T15:52:39.907Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/": {
+    "title": "Blueprints AI Launches AI-Generated Permit-Ready Blueprints",
+    "summary": "Blueprints AI, a privately funded startup, has unveiled software capable of generating code-compliant construction blueprints from various inputs such as photos, PDFs, or sketches, significantly streamlining the permit application process for architects and builders.",
+    "danishTitle": "Blueprints AI Launches AI-Generated Permit-Ready Blueprints",
+    "danishSummary": "Blueprints AI, a privately funded startup, has unveiled software capable of generating code-compliant construction blueprints from various inputs such as photos, PDFs, or sketches, significantly streamlining the permit application process for architects and builders.",
+    "whyItMatters": "This technology could substantially reduce the time and cost associated with obtaining building permits, accelerating construction project timelines and enhancing accessibility for smaller firms and individuals.",
+    "enrichedAt": "2026-10-12T15:52:39.907Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "the-decoder-https://the-decoder.com/?p=41439": {
+    "title": "Microsoft Sets Sights on Gigawatt-Scale Maia AI Chips for Dominant Inference Power by 2027",
+    "summary": "Microsoft is planning to significantly scale its in-house Azure Maia AI chips to gigawatt levels by 2027, aiming to enhance its AI inference capabilities and maintain a competitive edge in the data center market. The upcoming Maia 300 is expected to boost token processing by 40% per megawatt, underscoring the company's commitment to in-house hardware innovation.",
+    "danishTitle": "Microsoft Sets Sights on Gigawatt-Scale Maia AI Chips for Dominant Inference Power by 2027",
+    "danishSummary": "Microsoft is planning to significantly scale its in-house Azure Maia AI chips to gigawatt levels by 2027, aiming to enhance its AI inference capabilities and maintain a competitive edge in the data center market. The upcoming Maia 300 is expected to boost token processing by 40% per megawatt, underscoring the company's commitment to in-house hardware innovation.",
+    "whyItMatters": "This move signals Microsoft's strategic investment in self-reliant AI hardware, potentially reducing dependency on external suppliers and strengthening its position in the AI-driven economy.",
+    "enrichedAt": "2026-10-12T15:52:53.489Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027": {
+    "title": "Microsoft Sets Sights on Gigawatt-Scale Maia AI Chips for Dominant Inference Power by 2027",
+    "summary": "Microsoft is planning to significantly scale its in-house Azure Maia AI chips to gigawatt levels by 2027, aiming to enhance its AI inference capabilities and maintain a competitive edge in the data center market. The upcoming Maia 300 is expected to boost token processing by 40% per megawatt, underscoring the company's commitment to in-house hardware innovation.",
+    "danishTitle": "Microsoft Sets Sights on Gigawatt-Scale Maia AI Chips for Dominant Inference Power by 2027",
+    "danishSummary": "Microsoft is planning to significantly scale its in-house Azure Maia AI chips to gigawatt levels by 2027, aiming to enhance its AI inference capabilities and maintain a competitive edge in the data center market. The upcoming Maia 300 is expected to boost token processing by 40% per megawatt, underscoring the company's commitment to in-house hardware innovation.",
+    "whyItMatters": "This move signals Microsoft's strategic investment in self-reliant AI hardware, potentially reducing dependency on external suppliers and strengthening its position in the AI-driven economy.",
+    "enrichedAt": "2026-10-12T15:52:53.489Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/": {
+    "title": "Microsoft Sets Sights on Gigawatt-Scale Maia AI Chips for Dominant Inference Power by 2027",
+    "summary": "Microsoft is planning to significantly scale its in-house Azure Maia AI chips to gigawatt levels by 2027, aiming to enhance its AI inference capabilities and maintain a competitive edge in the data center market. The upcoming Maia 300 is expected to boost token processing by 40% per megawatt, underscoring the company's commitment to in-house hardware innovation.",
+    "danishTitle": "Microsoft Sets Sights on Gigawatt-Scale Maia AI Chips for Dominant Inference Power by 2027",
+    "danishSummary": "Microsoft is planning to significantly scale its in-house Azure Maia AI chips to gigawatt levels by 2027, aiming to enhance its AI inference capabilities and maintain a competitive edge in the data center market. The upcoming Maia 300 is expected to boost token processing by 40% per megawatt, underscoring the company's commitment to in-house hardware innovation.",
+    "whyItMatters": "This move signals Microsoft's strategic investment in self-reliant AI hardware, potentially reducing dependency on external suppliers and strengthening its position in the AI-driven economy.",
+    "enrichedAt": "2026-10-12T15:52:53.489Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3176499": {
+    "title": "TechCrunch Disrupt 2026 Launches Tomorrow: A Hub for Innovation and Networking",
+    "summary": "TechCrunch Disrupt 2026 commences tomorrow with an expected attendance of over 10,000 participants, including founders, investors, and tech operators, at San Francisco’s Moscone West. The event aims to foster innovation and networking through three days of discussions and startup showcases.",
+    "danishTitle": "TechCrunch Disrupt 2026 Launches Tomorrow: A Hub for Innovation and Networking",
+    "danishSummary": "TechCrunch Disrupt 2026 commences tomorrow with an expected attendance of over 10,000 participants, including founders, investors, and tech operators, at San Francisco’s Moscone West. The event aims to foster innovation and networking through three days of discussions and startup showcases.",
+    "whyItMatters": "As a key platform for tech industry interaction, Disrupt 2026 offers unparalleled opportunities for collaboration and idea exchange, driving the evolution of technology and entrepreneurship.",
+    "enrichedAt": "2026-10-12T15:53:05.382Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings": {
+    "title": "TechCrunch Disrupt 2026 Launches Tomorrow: A Hub for Innovation and Networking",
+    "summary": "TechCrunch Disrupt 2026 commences tomorrow with an expected attendance of over 10,000 participants, including founders, investors, and tech operators, at San Francisco’s Moscone West. The event aims to foster innovation and networking through three days of discussions and startup showcases.",
+    "danishTitle": "TechCrunch Disrupt 2026 Launches Tomorrow: A Hub for Innovation and Networking",
+    "danishSummary": "TechCrunch Disrupt 2026 commences tomorrow with an expected attendance of over 10,000 participants, including founders, investors, and tech operators, at San Francisco’s Moscone West. The event aims to foster innovation and networking through three days of discussions and startup showcases.",
+    "whyItMatters": "As a key platform for tech industry interaction, Disrupt 2026 offers unparalleled opportunities for collaboration and idea exchange, driving the evolution of technology and entrepreneurship.",
+    "enrichedAt": "2026-10-12T15:53:05.382Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/": {
+    "title": "TechCrunch Disrupt 2026 Launches Tomorrow: A Hub for Innovation and Networking",
+    "summary": "TechCrunch Disrupt 2026 commences tomorrow with an expected attendance of over 10,000 participants, including founders, investors, and tech operators, at San Francisco’s Moscone West. The event aims to foster innovation and networking through three days of discussions and startup showcases.",
+    "danishTitle": "TechCrunch Disrupt 2026 Launches Tomorrow: A Hub for Innovation and Networking",
+    "danishSummary": "TechCrunch Disrupt 2026 commences tomorrow with an expected attendance of over 10,000 participants, including founders, investors, and tech operators, at San Francisco’s Moscone West. The event aims to foster innovation and networking through three days of discussions and startup showcases.",
+    "whyItMatters": "As a key platform for tech industry interaction, Disrupt 2026 offers unparalleled opportunities for collaboration and idea exchange, driving the evolution of technology and entrepreneurship.",
+    "enrichedAt": "2026-10-12T15:53:05.382Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "the-decoder-https://the-decoder.com/?p=41425": {
+    "title": "White House Reverses Course, Restores UK AI Safety Institute's Access to Advanced AI Models",
+    "summary": "The White House has rescinded a previous ban and granted the UK's AI Security Institute renewed access to cutting-edge AI models from leading tech companies, including Anthropic, Google DeepMind, and OpenAI. This policy shift follows a previous decision by the Trump administration to restrict such access.",
+    "danishTitle": "White House Reverses Course, Restores UK AI Safety Institute's Access to Advanced AI Models",
+    "danishSummary": "The White House has rescinded a previous ban and granted the UK's AI Security Institute renewed access to cutting-edge AI models from leading tech companies, including Anthropic, Google DeepMind, and OpenAI. This policy shift follows a previous decision by the Trump administration to restrict such access.",
+    "whyItMatters": "This change could enhance international collaboration on AI safety and security, fostering a more robust global approach to managing the risks associated with advanced AI technologies.",
+    "enrichedAt": "2026-10-12T15:53:16.163Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models": {
+    "title": "White House Reverses Course, Restores UK AI Safety Institute's Access to Advanced AI Models",
+    "summary": "The White House has rescinded a previous ban and granted the UK's AI Security Institute renewed access to cutting-edge AI models from leading tech companies, including Anthropic, Google DeepMind, and OpenAI. This policy shift follows a previous decision by the Trump administration to restrict such access.",
+    "danishTitle": "White House Reverses Course, Restores UK AI Safety Institute's Access to Advanced AI Models",
+    "danishSummary": "The White House has rescinded a previous ban and granted the UK's AI Security Institute renewed access to cutting-edge AI models from leading tech companies, including Anthropic, Google DeepMind, and OpenAI. This policy shift follows a previous decision by the Trump administration to restrict such access.",
+    "whyItMatters": "This change could enhance international collaboration on AI safety and security, fostering a more robust global approach to managing the risks associated with advanced AI technologies.",
+    "enrichedAt": "2026-10-12T15:53:16.163Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/": {
+    "title": "White House Reverses Course, Restores UK AI Safety Institute's Access to Advanced AI Models",
+    "summary": "The White House has rescinded a previous ban and granted the UK's AI Security Institute renewed access to cutting-edge AI models from leading tech companies, including Anthropic, Google DeepMind, and OpenAI. This policy shift follows a previous decision by the Trump administration to restrict such access.",
+    "danishTitle": "White House Reverses Course, Restores UK AI Safety Institute's Access to Advanced AI Models",
+    "danishSummary": "The White House has rescinded a previous ban and granted the UK's AI Security Institute renewed access to cutting-edge AI models from leading tech companies, including Anthropic, Google DeepMind, and OpenAI. This policy shift follows a previous decision by the Trump administration to restrict such access.",
+    "whyItMatters": "This change could enhance international collaboration on AI safety and security, fostering a more robust global approach to managing the risks associated with advanced AI technologies.",
+    "enrichedAt": "2026-10-12T15:53:16.163Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "the-decoder-https://the-decoder.com/?p=41429": {
+    "title": "Andrej Karpathy of Anthropic Warns of Widening AI Knowledge Gap",
+    "summary": "In a recent statement, Andrej Karpathy, co-founder of Anthropic, highlights the disparity in AI knowledge, noting that while a small fraction of the population has access to advanced AI systems, the majority remains unfamiliar with the capabilities of large language models (LLMs).",
+    "danishTitle": "Andrej Karpathy of Anthropic Warns of Widening AI Knowledge Gap",
+    "danishSummary": "In a recent statement, Andrej Karpathy, co-founder of Anthropic, highlights the disparity in AI knowledge, noting that while a small fraction of the population has access to advanced AI systems, the majority remains unfamiliar with the capabilities of large language models (LLMs).",
+    "whyItMatters": "Karpathy's warning underscores the potential for increased digital divides and highlights the urgent need for broader AI literacy and equitable access to advanced technologies.",
+    "enrichedAt": "2026-10-12T15:53:26.882Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do": {
+    "title": "Andrej Karpathy of Anthropic Warns of Widening AI Knowledge Gap",
+    "summary": "In a recent statement, Andrej Karpathy, co-founder of Anthropic, highlights the disparity in AI knowledge, noting that while a small fraction of the population has access to advanced AI systems, the majority remains unfamiliar with the capabilities of large language models (LLMs).",
+    "danishTitle": "Andrej Karpathy of Anthropic Warns of Widening AI Knowledge Gap",
+    "danishSummary": "In a recent statement, Andrej Karpathy, co-founder of Anthropic, highlights the disparity in AI knowledge, noting that while a small fraction of the population has access to advanced AI systems, the majority remains unfamiliar with the capabilities of large language models (LLMs).",
+    "whyItMatters": "Karpathy's warning underscores the potential for increased digital divides and highlights the urgent need for broader AI literacy and equitable access to advanced technologies.",
+    "enrichedAt": "2026-10-12T15:53:26.882Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/": {
+    "title": "Andrej Karpathy of Anthropic Warns of Widening AI Knowledge Gap",
+    "summary": "In a recent statement, Andrej Karpathy, co-founder of Anthropic, highlights the disparity in AI knowledge, noting that while a small fraction of the population has access to advanced AI systems, the majority remains unfamiliar with the capabilities of large language models (LLMs).",
+    "danishTitle": "Andrej Karpathy of Anthropic Warns of Widening AI Knowledge Gap",
+    "danishSummary": "In a recent statement, Andrej Karpathy, co-founder of Anthropic, highlights the disparity in AI knowledge, noting that while a small fraction of the population has access to advanced AI systems, the majority remains unfamiliar with the capabilities of large language models (LLMs).",
+    "whyItMatters": "Karpathy's warning underscores the potential for increased digital divides and highlights the urgent need for broader AI literacy and equitable access to advanced technologies.",
+    "enrichedAt": "2026-10-12T15:53:26.882Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3176520": {
+    "title": "Ambi Raises $26M for AI App Enabling Background Ambient Capture on iPhone, Mac, and Apple Watch",
+    "summary": "Ambi, led by a former Plaud executive, has secured $26 million to develop AI applications that capture ambient sounds and data in the background on multiple Apple devices. The app aims to provide real-time insights and context through continuous background listening.",
+    "danishTitle": "Ambi Raises $26M for AI App Enabling Background Ambient Capture on iPhone, Mac, and Apple Watch",
+    "danishSummary": "Ambi, led by a former Plaud executive, has secured $26 million to develop AI applications that capture ambient sounds and data in the background on multiple Apple devices. The app aims to provide real-time insights and context through continuous background listening.",
+    "whyItMatters": "This funding could significantly expand the capabilities of ambient AI, potentially revolutionizing user experience and data collection in smart home and personal assistant technologies.",
+    "enrichedAt": "2026-10-12T15:53:37.155Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background": {
+    "title": "Ambi Raises $26M for AI App Enabling Background Ambient Capture on iPhone, Mac, and Apple Watch",
+    "summary": "Ambi, led by a former Plaud executive, has secured $26 million to develop AI applications that capture ambient sounds and data in the background on multiple Apple devices. The app aims to provide real-time insights and context through continuous background listening.",
+    "danishTitle": "Ambi Raises $26M for AI App Enabling Background Ambient Capture on iPhone, Mac, and Apple Watch",
+    "danishSummary": "Ambi, led by a former Plaud executive, has secured $26 million to develop AI applications that capture ambient sounds and data in the background on multiple Apple devices. The app aims to provide real-time insights and context through continuous background listening.",
+    "whyItMatters": "This funding could significantly expand the capabilities of ambient AI, potentially revolutionizing user experience and data collection in smart home and personal assistant technologies.",
+    "enrichedAt": "2026-10-12T15:53:37.155Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/": {
+    "title": "Ambi Raises $26M for AI App Enabling Background Ambient Capture on iPhone, Mac, and Apple Watch",
+    "summary": "Ambi, led by a former Plaud executive, has secured $26 million to develop AI applications that capture ambient sounds and data in the background on multiple Apple devices. The app aims to provide real-time insights and context through continuous background listening.",
+    "danishTitle": "Ambi Raises $26M for AI App Enabling Background Ambient Capture on iPhone, Mac, and Apple Watch",
+    "danishSummary": "Ambi, led by a former Plaud executive, has secured $26 million to develop AI applications that capture ambient sounds and data in the background on multiple Apple devices. The app aims to provide real-time insights and context through continuous background listening.",
+    "whyItMatters": "This funding could significantly expand the capabilities of ambient AI, potentially revolutionizing user experience and data collection in smart home and personal assistant technologies.",
+    "enrichedAt": "2026-10-12T15:53:37.155Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "tech-policy-press-https://techpolicy.press/ai-governance-is-being-decided-now-and-the-public-isnt-in-the-room": {
+    "title": "AI Governance Being Shaped Without Public Input",
+    "summary": "TechPolicy Press reports that key decisions regarding AI governance are being made behind closed doors, excluding public participation. This development raises concerns about the lack of transparency and potential misalignment of AI policies with public interests.",
+    "danishTitle": "AI Governance Being Shaped Without Public Input",
+    "danishSummary": "TechPolicy Press reports that key decisions regarding AI governance are being made behind closed doors, excluding public participation. This development raises concerns about the lack of transparency and potential misalignment of AI policies with public interests.",
+    "whyItMatters": "Excluding public input in AI governance could lead to policies that do not adequately address ethical, social, and safety concerns, potentially harming society and undermining trust in AI technologies.",
+    "enrichedAt": "2026-10-12T15:53:45.822Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techpolicy.press/ai-governance-is-being-decided-now-and-the-public-isnt-in-the-room": {
+    "title": "AI Governance Being Shaped Without Public Input",
+    "summary": "TechPolicy Press reports that key decisions regarding AI governance are being made behind closed doors, excluding public participation. This development raises concerns about the lack of transparency and potential misalignment of AI policies with public interests.",
+    "danishTitle": "AI Governance Being Shaped Without Public Input",
+    "danishSummary": "TechPolicy Press reports that key decisions regarding AI governance are being made behind closed doors, excluding public participation. This development raises concerns about the lack of transparency and potential misalignment of AI policies with public interests.",
+    "whyItMatters": "Excluding public input in AI governance could lead to policies that do not adequately address ethical, social, and safety concerns, potentially harming society and undermining trust in AI technologies.",
+    "enrichedAt": "2026-10-12T15:53:45.822Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }
