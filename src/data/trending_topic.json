@@ -1,48 +1,58 @@
 {
-  "headline": "Open-Source Models Gain Ground, Threatening Proprietary AI Ecosystems",
-  "summary": "A surge in open-source AI models, such as Anthropic's Claude, is demonstrating competitive reasoning capabilities, challenging established proprietary systems and driving industry-wide debates on model openness and security.",
-  "whyItMatters": "This trend could democratize advanced AI capabilities, reduce dependency on expensive proprietary solutions, and spark new ethical and security discussions.",
-  "synthesizedAt": "2026-10-13T13:41:44.531Z",
+  "headline": "Open-Source AI Models Gain Momentum, Challenge Proprietary Solutions",
+  "summary": "A growing number of open-source AI models are demonstrating competitive capabilities with proprietary systems, driving innovation and reducing costs in the AI industry. This trend is reshaping the landscape for developers and enterprises alike.",
+  "whyItMatters": "It democratizes access to advanced AI technologies, fostering competition and potentially lowering barriers to entry for smaller players.",
+  "synthesizedAt": "2026-10-13T16:51:13.739Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41475",
-    "title": "Anthropic Reports Dramatic Reduction in Claude Reasoning Token Theft",
-    "link": "https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-13T11:06:46.000Z",
-    "badgeColor": "slate",
-    "angle": "Critical Debate"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3172378",
+    "title": "Satlyt Secures $8M to Democratize AI on Satellites, Competing with SpaceX",
+    "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-10-13T16:30:00.000Z",
+    "badgeColor": "emerald",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41470",
-      "title": "Anthropic Study Warns of Growing Threat from Small AI Models on Consumer Devices",
-      "link": "https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-13T10:33:28.000Z",
-      "badgeColor": "slate",
-      "angle": "Security Concerns"
+      "id": "weights-and-biases-yt:video:dTDFuDqJTvc",
+      "title": "Reflection AI's Open Intelligence Strategy and Its Impact on AI Model Deployment",
+      "link": "https://www.youtube.com/shorts/dTDFuDqJTvc",
+      "sourceName": "Weights & Biases",
+      "sourceId": "weights-and-biases",
+      "pubDate": "2026-10-13T16:27:01.000Z",
+      "badgeColor": "yellow",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "mit-tech-review-https://www.technologyreview.com/?p=1146366",
-      "title": "Anthropic Report Explores Benefits and Risks of Open Models in AI",
-      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "sourceName": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "pubDate": "2026-10-13T10:00:00.000Z",
-      "badgeColor": "red"
+      "id": "deepmind-https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "title": "Google DeepMind Unveils Gemini 4 Argon for Enhanced Robotics",
+      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "sourceName": "Google DeepMind",
+      "sourceId": "deepmind",
+      "pubDate": "2026-10-13T16:01:58.000Z",
+      "badgeColor": "cyan",
+      "angle": "Official Launch"
     },
     {
-      "id": "latent-space-https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
-      "title": "Meta MSL Unveils Advanced Claude 5.5-tier Frontier Model",
-      "link": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-10-13T09:37:04.000Z",
-      "badgeColor": "pink",
-      "angle": "Industry Analysis"
+      "id": "deepmind-https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "title": "Google DeepMind Unveils Gemini 4 Argon: Engineered for Complex Problem Solving",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "sourceName": "Google DeepMind",
+      "sourceId": "deepmind",
+      "pubDate": "2026-10-13T16:01:52.000Z",
+      "badgeColor": "cyan",
+      "angle": "Official Launch"
+    },
+    {
+      "id": "nvidia-https://developer.nvidia.com/blog/?p=123356",
+      "title": "NVIDIA Unveils Open-Source Run:ai as Part of DSX AI Factory Platform",
+      "link": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/",
+      "sourceName": "NVIDIA Technical Blog",
+      "sourceId": "nvidia",
+      "pubDate": "2026-10-13T14:19:40.000Z",
+      "badgeColor": "emerald"
     }
   ]
 }
