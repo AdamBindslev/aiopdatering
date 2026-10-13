@@ -1,39 +1,48 @@
 {
-  "headline": "Meta's Muse Wonder Full Model Surges in Agentic Tasks, Boosting Top-tier Performance",
-  "summary": "Meta's new Muse Wonder Full model has achieved top-three rankings in six out of ten benchmarks, particularly excelling in agentic tasks. This performance underscores the growing importance of advanced reasoning capabilities and could drive broader AI adoption.",
-  "whyItMatters": "It highlights the increasing focus on agentic tasks and reasoning capabilities, which are crucial for advanced AI applications and could influence the direction of future AI development.",
-  "synthesizedAt": "2026-10-13T01:13:20.067Z",
+  "headline": "Evolving Benchmarking Frameworks Drive AI Agent Advancements",
+  "summary": "A series of recent papers propose new benchmarking frameworks to evaluate AI agents in dynamic and complex scenarios, driving advancements in reasoning, strategic thinking, and self-improvement capabilities. These benchmarks are crucial for ensuring AI agents can handle real-world challenges more effectively.",
+  "whyItMatters": "These benchmarks will accelerate the development of more robust and adaptable AI agents, enhancing their performance in various applications and reducing the risk of failure in critical tasks.",
+  "synthesizedAt": "2026-10-13T04:19:49.696Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41463",
-    "title": "Meta's Muse Wonder Full Model Surges in Agentic Tasks, Boosts Top-tier Performance",
-    "link": "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-12T18:48:29.000Z",
-    "badgeColor": "slate",
-    "angle": "Technical Deep Dive"
+    "id": "arxiv-cl-oai:arXiv.org:2610.12669v1",
+    "title": "GeoFitBench-LLM Introduced: A New Benchmark for Evaluating Large Language Models in Geospatial Data Elicitation",
+    "link": "https://arxiv.org/abs/2610.12669",
+    "sourceName": "arXiv cs.CL (Sprog & LLM)",
+    "sourceId": "arxiv-cl",
+    "pubDate": "2026-10-13T04:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "New Benchmark"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3176752",
-      "title": "Meta Unveils Larger, More Capable Muse Wonder Model to Compete in Advanced AI Market",
-      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-12T17:56:56.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
+      "id": "arxiv-cl-oai:arXiv.org:2610.12569v1",
+      "title": "SWE-Duel: Proposes Dynamic Coding Benchmarks to Evolve with AI Agents",
+      "link": "https://arxiv.org/abs/2610.12569",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-13T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Dynamic Benchmarking"
     },
     {
-      "id": "the-zvi-https://thezvi.substack.com/p/openai-fires-three-safety-researchers",
-      "title": "OpenAI Fires Three Safety Researchers Amid Sensitive Information Controversy",
-      "link": "https://thezvi.substack.com/p/openai-fires-three-safety-researchers",
-      "sourceName": "Don't Worry About the Vase (Zvi)",
-      "sourceId": "the-zvi",
-      "pubDate": "2026-10-12T21:00:53.000Z",
-      "badgeColor": "emerald",
-      "angle": "Official Release"
+      "id": "arxiv-ai-oai:arXiv.org:2610.12596v1",
+      "title": "SpireBench: New Benchmark Evaluates Long-Horizon Strategic Reasoning in Agentic Models",
+      "link": "https://arxiv.org/abs/2610.12596",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-10-13T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Strategic Reasoning"
+    },
+    {
+      "id": "arxiv-ai-oai:arXiv.org:2610.12655v1",
+      "title": "CLEAT Introduces Value-Guided Clarification for Interactive AI Agents",
+      "link": "https://arxiv.org/abs/2610.12655",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-10-13T04:00:00.000Z",
+      "badgeColor": "zinc"
     }
   ]
 }
