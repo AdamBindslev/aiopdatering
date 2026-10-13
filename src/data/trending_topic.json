@@ -1,58 +1,58 @@
 {
-  "headline": "Open-Source AI Models Gain Momentum, Challenge Proprietary Solutions",
-  "summary": "A growing number of open-source AI models are demonstrating competitive capabilities with proprietary systems, driving innovation and reducing costs in the AI industry. This trend is reshaping the landscape for developers and enterprises alike.",
-  "whyItMatters": "It democratizes access to advanced AI technologies, fostering competition and potentially lowering barriers to entry for smaller players.",
-  "synthesizedAt": "2026-10-13T16:51:13.739Z",
+  "headline": "AI Ethics and Safety Gain Momentum as Key Models Launch",
+  "summary": "Google DeepMind and OpenAI have recently launched advanced AI models, Gemini 4 Argon and Block, respectively, while a coalition of prominent scientists has called for an internet-wide ban on AI models. This trend highlights the growing emphasis on ethical and safety considerations in AI development.",
+  "whyItMatters": "These developments underscore the industry's increasing focus on responsible AI practices, which could influence future regulatory frameworks and user trust.",
+  "synthesizedAt": "2026-10-13T19:56:12.563Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3172378",
-    "title": "Satlyt Secures $8M to Democratize AI on Satellites, Competing with SpaceX",
-    "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-10-13T16:30:00.000Z",
-    "badgeColor": "emerald",
-    "angle": "Industry Analysis"
+    "id": "deepmind-https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "title": "Google DeepMind Emphasizes Responsible and Safe Development of Gemini 4 Argon",
+    "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "sourceName": "Google DeepMind",
+    "sourceId": "deepmind",
+    "pubDate": "2026-10-13T19:43:07.000Z",
+    "badgeColor": "cyan",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "weights-and-biases-yt:video:dTDFuDqJTvc",
-      "title": "Reflection AI's Open Intelligence Strategy and Its Impact on AI Model Deployment",
-      "link": "https://www.youtube.com/shorts/dTDFuDqJTvc",
-      "sourceName": "Weights & Biases",
-      "sourceId": "weights-and-biases",
-      "pubDate": "2026-10-13T16:27:01.000Z",
-      "badgeColor": "yellow",
+      "id": "the-decoder-https://the-decoder.com/?p=41516",
+      "title": "406 Prominent Scientists Call for Immediate Internet Disconnect of AI Models",
+      "link": "https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-13T18:50:44.000Z",
+      "badgeColor": "slate",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "deepmind-https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "title": "Google DeepMind Unveils Gemini 4 Argon for Enhanced Robotics",
-      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "sourceName": "Google DeepMind",
-      "sourceId": "deepmind",
-      "pubDate": "2026-10-13T16:01:58.000Z",
-      "badgeColor": "cyan",
-      "angle": "Official Launch"
+      "id": "the-decoder-https://the-decoder.com/?p=41510",
+      "title": "Google Launches Gemini 4 Argon Globally, Competing in the Advanced AI Model Market",
+      "link": "https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-13T18:00:49.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "deepmind-https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "title": "Google DeepMind Unveils Gemini 4 Argon: Engineered for Complex Problem Solving",
-      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "sourceName": "Google DeepMind",
-      "sourceId": "deepmind",
-      "pubDate": "2026-10-13T16:01:52.000Z",
-      "badgeColor": "cyan",
-      "angle": "Official Launch"
+      "id": "openai-channel-yt:video:N6K_pxaAh0w",
+      "title": "OpenAI's Block Launches Tool to Identify and Mitigate Security Risks Proactively",
+      "link": "https://www.youtube.com/watch?v=N6K_pxaAh0w",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-10-13T17:59:33.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "nvidia-https://developer.nvidia.com/blog/?p=123356",
-      "title": "NVIDIA Unveils Open-Source Run:ai as Part of DSX AI Factory Platform",
-      "link": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/",
-      "sourceName": "NVIDIA Technical Blog",
-      "sourceId": "nvidia",
-      "pubDate": "2026-10-13T14:19:40.000Z",
-      "badgeColor": "emerald"
+      "id": "the-decoder-https://the-decoder.com/?p=41504",
+      "title": "AI Trailblazer Michael I. Jordan Critiques Doomsday Predictions, Describes Young Researchers' Resignations as 'Grand Moralizing'",
+      "link": "https://the-decoder.com/machine-learning-pioneer-michael-i-jordan-dismantles-ai-doom-rhetoric-as-grand-moralizing-performance/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-13T17:12:41.000Z",
+      "badgeColor": "slate"
     }
   ]
 }
