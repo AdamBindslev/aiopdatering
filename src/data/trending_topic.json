@@ -1,20 +1,39 @@
 {
-  "headline": "Open-Source AI Models Gain Ground, Challenge Proprietary Systems",
-  "summary": "A series of recent reports and releases highlight the growing momentum of open-source AI models, which are demonstrating competitive capabilities with proprietary systems. This shift is driving local AI agent deployment and potentially reducing reliance on closed platforms.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and could disrupt the market dynamics by offering more affordable and flexible alternatives to proprietary solutions.",
-  "synthesizedAt": "2026-10-13T10:34:17.347Z",
+  "headline": "Open-Source Models Gain Ground, Threatening Proprietary AI Ecosystems",
+  "summary": "A surge in open-source AI models, such as Anthropic's Claude, is demonstrating competitive reasoning capabilities, challenging established proprietary systems and driving industry-wide debates on model openness and security.",
+  "whyItMatters": "This trend could democratize advanced AI capabilities, reduce dependency on expensive proprietary solutions, and spark new ethical and security discussions.",
+  "synthesizedAt": "2026-10-13T13:41:44.531Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "mit-tech-review-https://www.technologyreview.com/?p=1146366",
-    "title": "Anthropic Report Explores Benefits and Risks of Open Models in AI",
-    "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-    "sourceName": "MIT Technology Review",
-    "sourceId": "mit-tech-review",
-    "pubDate": "2026-10-13T10:00:00.000Z",
-    "badgeColor": "red",
-    "angle": "Industry Analysis"
+    "id": "the-decoder-https://the-decoder.com/?p=41475",
+    "title": "Anthropic Reports Dramatic Reduction in Claude Reasoning Token Theft",
+    "link": "https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-13T11:06:46.000Z",
+    "badgeColor": "slate",
+    "angle": "Critical Debate"
   },
   "supportingStories": [
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=41470",
+      "title": "Anthropic Study Warns of Growing Threat from Small AI Models on Consumer Devices",
+      "link": "https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-13T10:33:28.000Z",
+      "badgeColor": "slate",
+      "angle": "Security Concerns"
+    },
+    {
+      "id": "mit-tech-review-https://www.technologyreview.com/?p=1146366",
+      "title": "Anthropic Report Explores Benefits and Risks of Open Models in AI",
+      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "sourceName": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "pubDate": "2026-10-13T10:00:00.000Z",
+      "badgeColor": "red"
+    },
     {
       "id": "latent-space-https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
       "title": "Meta MSL Unveils Advanced Claude 5.5-tier Frontier Model",
@@ -23,27 +42,7 @@
       "sourceId": "latent-space",
       "pubDate": "2026-10-13T09:37:04.000Z",
       "badgeColor": "pink",
-      "angle": "Official Launch"
-    },
-    {
-      "id": "two-minute-papers-yt:video:z_sXLlLVUls",
-      "title": "OpenAI Unveils Advanced Mathematical Models for Enhanced Computational Efficiency",
-      "link": "https://www.youtube.com/watch?v=z_sXLlLVUls",
-      "sourceName": "Two Minute Papers",
-      "sourceId": "two-minute-papers",
-      "pubDate": "2026-10-13T08:56:12.000Z",
-      "badgeColor": "amber",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2610.12762v1",
-      "title": "New AI Model Automates Construction of Hierarchical Hardware Knowledge Graphs",
-      "link": "https://arxiv.org/abs/2610.12762",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-10-13T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Market Impact"
+      "angle": "Industry Analysis"
     }
   ]
 }
