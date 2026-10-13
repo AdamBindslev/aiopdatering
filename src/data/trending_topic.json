@@ -1,8 +1,8 @@
 {
   "headline": "Meta's Muse Wonder Full Model Surges in Agentic Tasks, Boosting Top-tier Performance",
-  "summary": "Meta's new Muse Wonder Full model has achieved top-three rankings in six out of ten benchmarks, particularly excelling in agentic tasks. This breakthrough underscores the growing importance of advanced reasoning capabilities in AI development.",
-  "whyItMatters": "It highlights the increasing focus on agentic tasks and reasoning capabilities, driving innovation and competition in the AI industry.",
-  "synthesizedAt": "2026-10-12T22:06:47.450Z",
+  "summary": "Meta's new Muse Wonder Full model has achieved top-three rankings in six out of ten benchmarks, particularly excelling in agentic tasks. This performance underscores the growing importance of advanced reasoning capabilities and could drive broader AI adoption.",
+  "whyItMatters": "It highlights the increasing focus on agentic tasks and reasoning capabilities, which are crucial for advanced AI applications and could influence the direction of future AI development.",
+  "synthesizedAt": "2026-10-13T01:13:20.067Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=41463",
@@ -12,7 +12,7 @@
     "sourceId": "the-decoder",
     "pubDate": "2026-10-12T18:48:29.000Z",
     "badgeColor": "slate",
-    "angle": "Official Release"
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
@@ -23,17 +23,17 @@
       "sourceId": "techcrunch-ai",
       "pubDate": "2026-10-12T17:56:56.000Z",
       "badgeColor": "emerald",
-      "angle": "Competitive Landscape"
+      "angle": "Industry Analysis"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41439",
-      "title": "Microsoft Sets Sights on Gigawatt-Scale Maia AI Chips for Dominant Inference Power by 2027",
-      "link": "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-12T15:24:03.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Analysis"
+      "id": "the-zvi-https://thezvi.substack.com/p/openai-fires-three-safety-researchers",
+      "title": "OpenAI Fires Three Safety Researchers Amid Sensitive Information Controversy",
+      "link": "https://thezvi.substack.com/p/openai-fires-three-safety-researchers",
+      "sourceName": "Don't Worry About the Vase (Zvi)",
+      "sourceId": "the-zvi",
+      "pubDate": "2026-10-12T21:00:53.000Z",
+      "badgeColor": "emerald",
+      "angle": "Official Release"
     }
   ]
 }
