@@ -1,48 +1,48 @@
 {
-  "headline": "AI-Driven Innovation in Cybersecurity and Autonomous Agents Paves New Paths",
-  "summary": "Recent advancements in AI, particularly in cybersecurity and autonomous agents, are driving significant innovation. Companies like OpenAI, Oracle, and Third Moment Research are pushing the boundaries with new models and tools, while experts warn of potential risks and ethical concerns.",
-  "whyItMatters": "These developments underscore the increasing importance of AI in critical sectors and highlight the need for robust governance and safety measures.",
-  "synthesizedAt": "2026-10-14T17:43:31.170Z",
+  "headline": "AI Agents and Autonomous Systems Gain Momentum Across Industries",
+  "summary": "A variety of companies are developing and deploying AI agents and autonomous systems, from NVIDIA and AWS to startups like Floqer and Zenzap. This trend is driving innovation and efficiency improvements in areas like document processing, sales research, and cybersecurity.",
+  "whyItMatters": "It highlights the growing importance of AI agents in various sectors, enhancing operational efficiency and opening new avenues for automation.",
+  "synthesizedAt": "2026-10-14T20:49:15.913Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-https://openai.com/index/amp-beyond-coding",
-    "title": "Amp Expands AI Agent Capabilities Beyond Coding with OpenAI Models",
-    "link": "https://openai.com/index/amp-beyond-coding",
-    "sourceName": "OpenAI News",
-    "sourceId": "openai",
-    "pubDate": "2026-10-14T12:00:00.000Z",
-    "badgeColor": "emerald",
-    "angle": "Industry Analysis"
+    "id": "nvidia-developer-yt:video:WkIfnIZHPMo",
+    "title": "NVIDIA Developer Video Explains How AI Agents Complete Tasks Efficiently",
+    "link": "https://www.youtube.com/shorts/WkIfnIZHPMo",
+    "sourceName": "NVIDIA Developer",
+    "sourceId": "nvidia-developer",
+    "pubDate": "2026-10-14T16:30:39.000Z",
+    "badgeColor": "green",
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41524",
-      "title": "Artemis Security's Orion-1 Model Pioneers Advanced Cyber Defense Against General-Purpose AI Limitations",
-      "link": "https://the-decoder.com/ai-guardrails-designed-to-stop-hackers-are-now-blocking-defenders-and-orion-1-aims-to-fill-the-gap/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-14T13:24:22.000Z",
-      "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
+      "id": "nvidia-https://developer.nvidia.com/blog/?p=123574",
+      "title": "NVIDIA NeMo Gym Enhances AI Agent Reliability in Chip Design",
+      "link": "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/",
+      "sourceName": "NVIDIA Technical Blog",
+      "sourceId": "nvidia",
+      "pubDate": "2026-10-14T16:10:45.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "ars-technica-https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-      "title": "Anthropic Warns of Potential Self-Replicating AI Models Through IoT Devices",
-      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-      "sourceName": "Ars Technica – AI",
-      "sourceId": "ars-technica",
-      "pubDate": "2026-10-14T12:55:06.000Z",
-      "badgeColor": "orange",
-      "angle": "Safety and Ethics"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3173327",
+      "title": "Floqer Launches AI Agents to Automate Sales Research for B2B Revenue Teams",
+      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-14T15:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Hands-on Benchmark"
     },
     {
-      "id": "version2-https://ing.dk/artikel/katastrofale-konsekvenser-samfundet-ai-kan-vaere-bombe-under-kryptering-mener-topmatematiker",
-      "title": "Top Mathematician Warns of Catastrophic Consequences: AI Could Be a Bomb Under Cybersecurity",
-      "link": "https://ing.dk/artikel/katastrofale-konsekvenser-samfundet-ai-kan-vaere-bombe-under-kryptering-mener-topmatematiker",
-      "sourceName": "Version2 (Ingeniøren)",
-      "sourceId": "version2",
-      "pubDate": "2026-10-14T12:50:28.000Z",
-      "badgeColor": "red"
+      "id": "aws-ml-d7fcbb6e54548bceb8e3c5489bb676b9bb401df4",
+      "title": "Amazon Launches AgentCore for Automated PowerPoint Presentation Generation",
+      "link": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-10-14T13:58:43.000Z",
+      "badgeColor": "amber"
     }
   ]
 }
