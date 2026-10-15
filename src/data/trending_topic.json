@@ -1,48 +1,39 @@
 {
-  "headline": "GPT-6-Astra's Breakthrough in Physics Research Challenges Commercial Proprietary Models",
-  "summary": "GPT-6-Astra, a new model from OpenAI, has demonstrated exceptional performance in physics research, solving 49 out of 50 complex problems for a relatively low cost. This breakthrough highlights the growing capabilities of open-source models and challenges the dominance of commercial proprietary systems.",
-  "whyItMatters": "It underscores the potential of open-source models to drive innovation and reduce costs in scientific research, potentially disrupting the market for commercial AI solutions.",
-  "synthesizedAt": "2026-10-15T15:32:11.042Z",
+  "headline": "Open-Source AI Models Gain Momentum, Challenge Proprietary Systems",
+  "summary": "A surge in open-source AI models, such as Meta's Muse Spark Open and Nvidia's Nemotron 3.5 Super VL, is enhancing accessibility and driving innovation. This trend is challenging proprietary systems and accelerating local AI agent deployment.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and reduces reliance on expensive, closed platforms, fostering greater competition and innovation.",
+  "synthesizedAt": "2026-10-15T18:37:06.482Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41557",
-    "title": "GPT-6-Astra Demonstrates Exceptional Performance in Physics Research, Solving 49 of 50 Problems for $2.40 Each",
-    "link": "https://the-decoder.com/gpt-6-astra-solves-49-of-50-physics-research-problems-at-2-40-apiece/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-15T15:24:15.000Z",
-    "badgeColor": "slate",
-    "angle": "Technical Deep Dive"
+    "id": "nvidia-https://developer.nvidia.com/blog/?p=122698",
+    "title": "Meta Unveils Muse Spark Open, an Optimized Coding Model for Agentic Workflows",
+    "link": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72/",
+    "sourceName": "NVIDIA Technical Blog",
+    "sourceId": "nvidia",
+    "pubDate": "2026-10-15T18:00:01.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "weights-and-biases-yt:video:uHf-gKuyp_w",
-      "title": "CoreWeave CEO Mike Intrator Discusses AI Trends on Hot Ones Podcast",
-      "link": "https://www.youtube.com/watch?v=uHf-gKuyp_w",
-      "sourceName": "Weights & Biases",
-      "sourceId": "weights-and-biases",
-      "pubDate": "2026-10-15T14:00:17.000Z",
-      "badgeColor": "yellow",
+      "id": "nvidia-https://developer.nvidia.com/blog/?p=123590",
+      "title": "NVIDIA Launches Nemotron 3.5 Super VL to Enhance Multimodal Reasoning in Enterprise Agents",
+      "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
+      "sourceName": "NVIDIA Technical Blog",
+      "sourceId": "nvidia",
+      "pubDate": "2026-10-15T18:01:00.000Z",
+      "badgeColor": "emerald",
       "angle": "Industry Analysis"
     },
     {
-      "id": "tech-policy-press-https://techpolicy.press/uk-election-watchdog-develops-ai-system-to-flag-deepfakes-within-3-hours",
-      "title": "UK Election Commission Launches AI System to Rapidly Detect Deepfakes",
-      "link": "https://techpolicy.press/uk-election-watchdog-develops-ai-system-to-flag-deepfakes-within-3-hours",
-      "sourceName": "Tech Policy Press",
-      "sourceId": "tech-policy-press",
-      "pubDate": "2026-10-15T13:45:47.000Z",
+      "id": "the-decoder-https://the-decoder.com/?p=41575",
+      "title": "Nvidia Unveils Nemotron 3.5 Super VL: An Open-Source Model for Continuous Enterprise AI Agent Operations",
+      "link": "https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-15T16:09:44.000Z",
       "badgeColor": "slate",
-      "angle": "Policy Impact"
-    },
-    {
-      "id": "no-priors-yt:video:AwuTTOJGEi0",
-      "title": "OpenAI President Greg Brockman Discusses GPT-6’s Impact on Scientific Discovery and Cybersecurity",
-      "link": "https://www.youtube.com/watch?v=AwuTTOJGEi0",
-      "sourceName": "No Priors Podcast",
-      "sourceId": "no-priors",
-      "pubDate": "2026-10-15T10:00:05.000Z",
-      "badgeColor": "amber"
+      "angle": "Technical Deep Dive"
     }
   ]
 }
