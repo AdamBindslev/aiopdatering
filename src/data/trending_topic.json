@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Weight Models Pave Way for Local AI Agent Deployment",
-  "summary": "A new model, CTI-REALM with open-weights, has been introduced, enabling organizations to run and audit language-model agents, potentially reducing dependence on closed proprietary platforms and accelerating local AI agent deployment.",
-  "whyItMatters": "This shift broadens access to advanced AI capabilities and reduces the reliance on centralized, proprietary systems, fostering innovation and competition.",
-  "synthesizedAt": "2026-10-15T09:17:53.706Z",
+  "headline": "Open-Weight Models Pave Way for Enhanced AI Agent Flexibility and Transparency",
+  "summary": "The introduction of open-weight models, such as CTI-REALM, is expanding the capabilities of AI agents by allowing for greater flexibility and transparency. This shift is challenging proprietary models and fostering innovation in security and other domains.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and enhances accountability, which is crucial for the development of trust in AI systems.",
+  "synthesizedAt": "2026-10-15T12:22:30.420Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "arxiv-ai-oai:arXiv.org:2610.14180v1",
@@ -12,28 +12,28 @@
     "sourceId": "arxiv-ai",
     "pubDate": "2026-10-15T04:00:00.000Z",
     "badgeColor": "zinc",
-    "angle": "Official Release"
+    "angle": "Hands-on Benchmark"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3177541",
-      "title": "Figma Launches Code Layers Feature in Open Beta to Enhance Agent Collaboration",
-      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-15T04:30:00.000Z",
+      "id": "the-zvi-https://thezvi.substack.com/p/ai-190-scion-of-the-times",
+      "title": "Anthropic's Code Output Continues Exponential Growth",
+      "link": "https://thezvi.substack.com/p/ai-190-scion-of-the-times",
+      "sourceName": "Don't Worry About the Vase (Zvi)",
+      "sourceId": "the-zvi",
+      "pubDate": "2026-10-15T12:03:51.000Z",
       "badgeColor": "emerald",
-      "angle": "Industry Analysis"
+      "angle": "Official Release"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2610.14209v1",
-      "title": "Study Proposes Local Models for Cloud-Agnostic AI Agents to Enhance Privacy and Efficiency",
-      "link": "https://arxiv.org/abs/2610.14209",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-10-15T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Policy Impact"
+      "id": "the-decoder-https://the-decoder.com/?p=41553",
+      "title": "Anthropic Reports Q3 Revenue of $16.8B, Growth Slows Ahead of November IPO",
+      "link": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-15T09:50:43.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
     }
   ]
 }
