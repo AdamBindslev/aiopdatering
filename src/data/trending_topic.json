@@ -1,20 +1,30 @@
 {
-  "headline": "Open-Source AI Models Gain Momentum, Challenge Proprietary Systems",
-  "summary": "A surge in open-source AI models, such as Meta's Muse Spark Open and Nvidia's Nemotron 3.5 Super VL, is enhancing accessibility and driving innovation. This trend is challenging proprietary systems and accelerating local AI agent deployment.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and reduces reliance on expensive, closed platforms, fostering greater competition and innovation.",
-  "synthesizedAt": "2026-10-15T18:37:06.482Z",
+  "headline": "Open-Weight AI Models Reshape Local AI Deployment Landscape",
+  "summary": "Meta and NVIDIA have released open-weight AI models, such as Muse Spark Open and Nemotron 3.5 Super VL, which are compatible with local hardware and offer advanced capabilities. This trend is driving local AI agent deployment and reducing reliance on closed APIs.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and reduces costs for developers, potentially democratizing AI technology.",
+  "synthesizedAt": "2026-10-15T21:43:55.481Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "nvidia-https://developer.nvidia.com/blog/?p=122698",
-    "title": "Meta Unveils Muse Spark Open, an Optimized Coding Model for Agentic Workflows",
-    "link": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72/",
-    "sourceName": "NVIDIA Technical Blog",
-    "sourceId": "nvidia",
-    "pubDate": "2026-10-15T18:00:01.000Z",
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3178309",
+    "title": "Meta Unveils Muse Spark Open, an Open-Weight AI Model Compatible with Apple Silicon",
+    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-10-15T20:04:53.000Z",
     "badgeColor": "emerald",
     "angle": "Official Release"
   },
   "supportingStories": [
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=41600",
+      "title": "Meta Unveils Muse Spark Open, Competing with Chinese AI Models in the Open-Weight Race",
+      "link": "https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-15T18:34:32.000Z",
+      "badgeColor": "slate",
+      "angle": "Technical Deep Dive"
+    },
     {
       "id": "nvidia-https://developer.nvidia.com/blog/?p=123590",
       "title": "NVIDIA Launches Nemotron 3.5 Super VL to Enhance Multimodal Reasoning in Enterprise Agents",
@@ -26,14 +36,23 @@
       "angle": "Industry Analysis"
     },
     {
+      "id": "the-decoder-https://the-decoder.com/?p=41595",
+      "title": "Black Forest Labs Unveils FLUX 3 Image Klein: An Efficient 4K Image Generation Model for Consumer GPUs",
+      "link": "https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-15T16:57:14.000Z",
+      "badgeColor": "slate",
+      "angle": "Technical Deep Dive"
+    },
+    {
       "id": "the-decoder-https://the-decoder.com/?p=41575",
       "title": "Nvidia Unveils Nemotron 3.5 Super VL: An Open-Source Model for Continuous Enterprise AI Agent Operations",
       "link": "https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
       "pubDate": "2026-10-15T16:09:44.000Z",
-      "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
+      "badgeColor": "slate"
     }
   ]
 }
