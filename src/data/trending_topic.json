@@ -1,39 +1,48 @@
 {
-  "headline": "Open-Weight Models Pave Way for Enhanced AI Agent Flexibility and Transparency",
-  "summary": "The introduction of open-weight models, such as CTI-REALM, is expanding the capabilities of AI agents by allowing for greater flexibility and transparency. This shift is challenging proprietary models and fostering innovation in security and other domains.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and enhances accountability, which is crucial for the development of trust in AI systems.",
-  "synthesizedAt": "2026-10-15T12:22:30.420Z",
+  "headline": "GPT-6-Astra's Breakthrough in Physics Research Challenges Commercial Proprietary Models",
+  "summary": "GPT-6-Astra, a new model from OpenAI, has demonstrated exceptional performance in physics research, solving 49 out of 50 complex problems for a relatively low cost. This breakthrough highlights the growing capabilities of open-source models and challenges the dominance of commercial proprietary systems.",
+  "whyItMatters": "It underscores the potential of open-source models to drive innovation and reduce costs in scientific research, potentially disrupting the market for commercial AI solutions.",
+  "synthesizedAt": "2026-10-15T15:32:11.042Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2610.14180v1",
-    "title": "Unconstrained CTI-REALM with Open-Weights Seeks to Enhance Security Agent Flexibility",
-    "link": "https://arxiv.org/abs/2610.14180",
-    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-    "sourceId": "arxiv-ai",
-    "pubDate": "2026-10-15T04:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "Hands-on Benchmark"
+    "id": "the-decoder-https://the-decoder.com/?p=41557",
+    "title": "GPT-6-Astra Demonstrates Exceptional Performance in Physics Research, Solving 49 of 50 Problems for $2.40 Each",
+    "link": "https://the-decoder.com/gpt-6-astra-solves-49-of-50-physics-research-problems-at-2-40-apiece/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-15T15:24:15.000Z",
+    "badgeColor": "slate",
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "the-zvi-https://thezvi.substack.com/p/ai-190-scion-of-the-times",
-      "title": "Anthropic's Code Output Continues Exponential Growth",
-      "link": "https://thezvi.substack.com/p/ai-190-scion-of-the-times",
-      "sourceName": "Don't Worry About the Vase (Zvi)",
-      "sourceId": "the-zvi",
-      "pubDate": "2026-10-15T12:03:51.000Z",
-      "badgeColor": "emerald",
-      "angle": "Official Release"
+      "id": "weights-and-biases-yt:video:uHf-gKuyp_w",
+      "title": "CoreWeave CEO Mike Intrator Discusses AI Trends on Hot Ones Podcast",
+      "link": "https://www.youtube.com/watch?v=uHf-gKuyp_w",
+      "sourceName": "Weights & Biases",
+      "sourceId": "weights-and-biases",
+      "pubDate": "2026-10-15T14:00:17.000Z",
+      "badgeColor": "yellow",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41553",
-      "title": "Anthropic Reports Q3 Revenue of $16.8B, Growth Slows Ahead of November IPO",
-      "link": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-15T09:50:43.000Z",
+      "id": "tech-policy-press-https://techpolicy.press/uk-election-watchdog-develops-ai-system-to-flag-deepfakes-within-3-hours",
+      "title": "UK Election Commission Launches AI System to Rapidly Detect Deepfakes",
+      "link": "https://techpolicy.press/uk-election-watchdog-develops-ai-system-to-flag-deepfakes-within-3-hours",
+      "sourceName": "Tech Policy Press",
+      "sourceId": "tech-policy-press",
+      "pubDate": "2026-10-15T13:45:47.000Z",
       "badgeColor": "slate",
-      "angle": "Industry Analysis"
+      "angle": "Policy Impact"
+    },
+    {
+      "id": "no-priors-yt:video:AwuTTOJGEi0",
+      "title": "OpenAI President Greg Brockman Discusses GPT-6’s Impact on Scientific Discovery and Cybersecurity",
+      "link": "https://www.youtube.com/watch?v=AwuTTOJGEi0",
+      "sourceName": "No Priors Podcast",
+      "sourceId": "no-priors",
+      "pubDate": "2026-10-15T10:00:05.000Z",
+      "badgeColor": "amber"
     }
   ]
 }
