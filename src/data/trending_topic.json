@@ -1,59 +1,39 @@
 {
-  "headline": "AI-Driven Automation Reshapes Industries and Raises Ethical Concerns",
-  "summary": "A variety of companies are leveraging AI for automation in diverse sectors, from chip design to sales research, while ethical concerns and regulatory scrutiny are intensifying. This trend is driving significant industry transformation and prompting discussions on safety and privacy.",
-  "whyItMatters": "It highlights the rapid advancement of AI in practical applications and the urgent need for ethical guidelines and regulatory frameworks.",
-  "synthesizedAt": "2026-10-15T03:01:51.976Z",
+  "headline": "Unconstrained CTI-REALM with Open-Weights Pioneers Local AI Agent Deployment",
+  "summary": "A new model, CTI-REALM with open-weights, has been introduced, allowing organizations to run and audit language-model agents, promoting local AI agent deployment and reducing reliance on closed proprietary platforms.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and enhances privacy and security by enabling local execution of AI agents.",
+  "synthesizedAt": "2026-10-15T06:14:03.622Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "anthropic-CBMiW0FVX3lxTE40a2x1bXc2VHhZaFl0SlRhdGhoWjNqNHlKZ3dGcWpzSHNWUFVHbUhwSkY3ZXVrU3dXVWJGSEh5cUlvMjUzMm5YQ2E3VHF2cUFBZ3NneDJGTnQyVUk",
-    "title": "Anthropic Preparing for 2026 US Midterms with Advanced AI Models",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40a2x1bXc2VHhZaFl0SlRhdGhoWjNqNHlKZ3dGcWpzSHNWUFVHbUhwSkY3ZXVrU3dXVWJGSEh5cUlvMjUzMm5YQ2E3VHF2cUFBZ3NneDJGTnQyVUk?oc=5",
-    "sourceName": "Anthropic",
-    "sourceId": "anthropic",
-    "pubDate": "2026-10-14T18:33:00.000Z",
-    "badgeColor": "amber",
-    "angle": "Strategic Planning"
+    "id": "arxiv-ai-oai:arXiv.org:2610.14180v1",
+    "title": "Unconstrained CTI-REALM with Open-Weights Seeks to Enhance Security Agent Flexibility",
+    "link": "https://arxiv.org/abs/2610.14180",
+    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+    "sourceId": "arxiv-ai",
+    "pubDate": "2026-10-15T04:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3177960",
-      "title": "Ricursive Intelligence Aims to Automate Chip Design with AI",
-      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3177541",
+      "title": "Figma Launches Code Layers Feature in Open Beta to Enhance Agent Collaboration",
+      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-15T01:01:32.000Z",
+      "pubDate": "2026-10-15T04:30:00.000Z",
       "badgeColor": "emerald",
-      "angle": "Innovation in Hardware"
+      "angle": "Industry Analysis"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3175869",
-      "title": "Gudea Utilizes AI to Proactively Prevent Social Media Crises",
-      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-15T00:00:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Proactive Crisis Management"
-    },
-    {
-      "id": "tech-policy-press-https://techpolicy.press/riverdance-inside-protestors-outside-at-irelands-big-ai-branding-bash",
-      "title": "Protesters Voice Concerns as Ireland Hosts Major AI Branding Event",
-      "link": "https://techpolicy.press/riverdance-inside-protestors-outside-at-irelands-big-ai-branding-bash",
-      "sourceName": "Tech Policy Press",
-      "sourceId": "tech-policy-press",
-      "pubDate": "2026-10-14T21:39:01.000Z",
-      "badgeColor": "slate",
-      "angle": "Public Concerns"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=41548",
-      "title": "Google Engineer Dismisses Self-Improving AI as a Distant Possibility",
-      "link": "https://the-decoder.com/google-says-self-improving-ai-isnt-anywhere-close/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-14T19:18:44.000Z",
-      "badgeColor": "slate",
-      "angle": "Expert Perspective"
+      "id": "arxiv-ai-oai:arXiv.org:2610.14209v1",
+      "title": "Study Proposes Local Models for Cloud-Agnostic AI Agents to Enhance Privacy and Efficiency",
+      "link": "https://arxiv.org/abs/2610.14209",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-10-15T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Policy Impact"
     }
   ]
 }
