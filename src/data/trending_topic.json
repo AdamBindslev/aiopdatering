@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Weight AI Models Pave the Way for Local Deployment and Increased Accessibility",
-  "summary": "A surge in open-weight AI models, including Meta's Muse Spark Open and Anthropic's METR access, is driving local deployment and reducing reliance on proprietary platforms. These models are enhancing accessibility and innovation across industries.",
-  "whyItMatters": "This trend democratizes advanced AI capabilities, enabling broader adoption and fostering competition among tech companies.",
-  "synthesizedAt": "2026-10-16T00:49:22.009Z",
+  "headline": "Open-Weight AI Models Proliferate, Challenging Proprietary Models",
+  "summary": "Meta, Anthropic, and NVIDIA have released open-weight AI models that can run locally, reducing dependency on proprietary platforms and lowering costs. This trend is driving innovation and access to advanced AI capabilities.",
+  "whyItMatters": "It broadens access to advanced AI models, reduces vendor lock-in, and could significantly impact the AI industry's business models.",
+  "synthesizedAt": "2026-10-16T03:56:01.706Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "techcrunch-ai-https://techcrunch.com/?p=3178309",
@@ -26,22 +26,22 @@
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "aws-ml-8370f01f72d733de10ec1ce843e1456b54b19515",
-      "title": "Meta’s Coding-Optimized Model Muse Spark Open Now Available in Amazon SageMaker JumpStart",
-      "link": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-10-15T17:43:35.000Z",
-      "badgeColor": "amber",
-      "angle": "Industry Analysis"
-    },
-    {
       "id": "the-decoder-https://the-decoder.com/?p=41595",
       "title": "Black Forest Labs Unveils FLUX 3 Image Klein: An Efficient 4K Image Generation Model for Consumer GPUs",
       "link": "https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
       "pubDate": "2026-10-15T16:57:14.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=41575",
+      "title": "Nvidia Unveils Nemotron 3.5 Super VL: An Open-Source Model for Continuous Enterprise AI Agent Operations",
+      "link": "https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-15T16:09:44.000Z",
       "badgeColor": "slate"
     }
   ]
