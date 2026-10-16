@@ -1,48 +1,29 @@
 {
-  "headline": "Open-Weight AI Models Proliferate, Challenging Proprietary Models",
-  "summary": "Meta, Anthropic, and NVIDIA have released open-weight AI models that can run locally, reducing dependency on proprietary platforms and lowering costs. This trend is driving innovation and access to advanced AI capabilities.",
-  "whyItMatters": "It broadens access to advanced AI models, reduces vendor lock-in, and could significantly impact the AI industry's business models.",
-  "synthesizedAt": "2026-10-16T03:56:01.706Z",
+  "headline": "Open-World AI: Redefining AI Requirements for Dynamic Environments",
+  "summary": "A new paper proposes a shift from the traditional closed-world approach to open-world AI, emphasizing the need for AI systems to adapt to changing realities and dynamic environments. This paradigm shift is driving innovation in multi-modal agents and self-evolution techniques.",
+  "whyItMatters": "It challenges existing AI paradigms and opens new avenues for developing more flexible and adaptable AI systems, crucial for real-world applications.",
+  "synthesizedAt": "2026-10-16T07:08:35.993Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3178309",
-    "title": "Meta Unveils Muse Spark Open, an Open-Weight AI Model Compatible with Apple Silicon",
-    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-10-15T20:04:53.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Release"
+    "id": "arxiv-ai-oai:arXiv.org:2610.20782v1",
+    "title": "Open-world AI: Redefining AI Requirements for Dynamic Environments",
+    "link": "https://arxiv.org/abs/2610.20782",
+    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+    "sourceId": "arxiv-ai",
+    "pubDate": "2026-10-16T04:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41600",
-      "title": "Meta Unveils Muse Spark Open, Competing with Chinese AI Models in the Open-Weight Race",
-      "link": "https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-15T18:34:32.000Z",
-      "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=41595",
-      "title": "Black Forest Labs Unveils FLUX 3 Image Klein: An Efficient 4K Image Generation Model for Consumer GPUs",
-      "link": "https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-15T16:57:14.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=41575",
-      "title": "Nvidia Unveils Nemotron 3.5 Super VL: An Open-Source Model for Continuous Enterprise AI Agent Operations",
-      "link": "https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-15T16:09:44.000Z",
-      "badgeColor": "slate"
+      "id": "arxiv-ai-oai:arXiv.org:2610.20786v1",
+      "title": "EvolvingBrain: A Breakthrough in Multi-modal Agents' Self-Evolution for Open Worlds",
+      "link": "https://arxiv.org/abs/2610.20786",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-10-16T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Innovative Technique"
     }
   ]
 }
