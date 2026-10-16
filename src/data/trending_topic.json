@@ -1,8 +1,8 @@
 {
   "headline": "New Scaling Principle Challenges AI Paradigms on Reality Adaptation",
-  "summary": "A groundbreaking paper proposes a new scaling principle for AI systems to better adapt to dynamic realities, challenging existing paradigms and potentially reshaping how AI is developed and deployed in real-world scenarios.",
-  "whyItMatters": "This new approach could significantly enhance AI's ability to handle unpredictable and rapidly changing environments, driving innovation in various industries.",
-  "synthesizedAt": "2026-10-16T10:12:41.496Z",
+  "summary": "A groundbreaking new scaling principle is proposed to enhance AI systems' adaptability to dynamic realities, potentially reshaping how AI models are designed and deployed in real-world scenarios.",
+  "whyItMatters": "This principle could significantly improve AI's responsiveness to changing environments, making it more robust and versatile for various applications.",
+  "synthesizedAt": "2026-10-16T13:17:37.583Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "arxiv-ai-oai:arXiv.org:2610.20764v1",
@@ -12,7 +12,7 @@
     "sourceId": "arxiv-ai",
     "pubDate": "2026-10-16T04:00:00.000Z",
     "badgeColor": "zinc",
-    "angle": "New Paradigm"
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "arxiv-ai",
       "pubDate": "2026-10-16T04:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Real-Time Evaluation"
+      "angle": "Industry Analysis"
     },
     {
       "id": "arxiv-ai-oai:arXiv.org:2610.20667v1",
@@ -32,17 +32,17 @@
       "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
       "sourceId": "arxiv-ai",
       "pubDate": "2026-10-16T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Benchmark Saturation"
+      "badgeColor": "zinc"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2610.20780v1",
-      "title": "ARIA: A New Framework for Runtime Inspection and Amendment in Multi-Agent Systems",
-      "link": "https://arxiv.org/abs/2610.20780",
+      "id": "arxiv-ai-oai:arXiv.org:2610.20681v1",
+      "title": "IneqAgent: A New Agentic Framework for Formal Inequality Proving with Symbolic Computation",
+      "link": "https://arxiv.org/abs/2610.20681",
       "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
       "sourceId": "arxiv-ai",
       "pubDate": "2026-10-16T04:00:00.000Z",
-      "badgeColor": "zinc"
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
