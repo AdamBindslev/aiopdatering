@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Weight AI Models Gain Ground, Outperforming Proprietary Systems",
-  "summary": "Deepseek's V4.1-Flash-1017 model outperforms larger proprietary models in agentic tasks with lower costs, while Anthropic's Claude solves a decades-old cryptography puzzle. These advancements highlight the growing competitiveness of open-weight models in various industries.",
-  "whyItMatters": "This trend underscores the increasing accessibility and effectiveness of open-source AI, potentially disrupting the market and reducing reliance on expensive, proprietary solutions.",
-  "synthesizedAt": "2026-10-17T20:24:36.695Z",
+  "headline": "Open-Weight AI Models Gain Momentum, Challenge Proprietary Systems",
+  "summary": "A series of recent developments highlight the growing prominence of open-weight AI models, with Deepseek's V4.1-Flash-1017 outperforming larger models in agentic tasks and Epoch AI reporting a 6-7 month lag in cybersecurity applications. This trend is reshaping the AI landscape by broadening access and reducing reliance on proprietary solutions.",
+  "whyItMatters": "This shift is crucial as it democratizes advanced AI capabilities, potentially driving innovation and competition in the industry.",
+  "synthesizedAt": "2026-10-17T23:30:58.463Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=41659",
@@ -12,28 +12,18 @@
     "sourceId": "the-decoder",
     "pubDate": "2026-10-17T10:33:28.000Z",
     "badgeColor": "slate",
-    "angle": "Hands-on Benchmark"
+    "angle": "Performance Benchmark"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41667",
-      "title": "Anthropic's Claude Solves Decades-Old NSA Cryptography Puzzle in Record Time",
-      "link": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-17T14:42:56.000Z",
-      "badgeColor": "slate",
-      "angle": "Critical Achievement"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3178934",
-      "title": "Anthropic Reports Workforce Evolution with Fewer Juniors and Increased Meeting Time",
-      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-17T20:21:19.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
+      "id": "epoch-ai-CBMiZ0FVX3lxTE5kaVlUMEdNczhrRkFwN3Yza1g1Y0NiV1FWVVBibVVuQ0N6VVM0blhPNEpuMS10TTJxSjJhYVByb3h1RnlfS214bjB6V2FBckVzdTVuTkhQaTU5NzdSU2JVVXRRQlZXR3M",
+      "title": "Open-Weight AI Models Lag Behind in Cybersecurity by 6-7 Months",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kaVlUMEdNczhrRkFwN3Yza1g1Y0NiV1FWVVBibVVuQ0N6VVM0blhPNEpuMS10TTJxSjJhYVByb3h1RnlfS214bjB6V2FBckVzdTVuTkhQaTU5NzdSU2JVVXRRQlZXR3M?oc=5",
+      "sourceName": "Epoch AI",
+      "sourceId": "epoch-ai",
+      "pubDate": "2026-10-16T18:38:14.000Z",
+      "badgeColor": "violet",
+      "angle": "Industry Impact"
     }
   ]
 }
