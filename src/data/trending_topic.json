@@ -1,38 +1,38 @@
 {
-  "headline": "Open-Source AI Models Gain Ground, Challenging Proprietary Models",
-  "summary": "Meta's decision to reopen access to its pre-trained AI model weights, alongside Deepseek's V4.1-Flash-1017, highlights a growing trend towards open-source AI models. This shift is pressuring proprietary platforms to open up, potentially democratizing AI innovation and reducing costs.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and could lead to more collaborative and transparent development practices, fostering innovation and competition.",
-  "synthesizedAt": "2026-10-17T17:18:03.692Z",
+  "headline": "Open-Weight AI Models Gain Ground, Outperforming Proprietary Systems",
+  "summary": "Deepseek's V4.1-Flash-1017 model outperforms larger proprietary models in agentic tasks with lower costs, while Anthropic's Claude solves a decades-old cryptography puzzle. These advancements highlight the growing competitiveness of open-weight models in various industries.",
+  "whyItMatters": "This trend underscores the increasing accessibility and effectiveness of open-source AI, potentially disrupting the market and reducing reliance on expensive, proprietary solutions.",
+  "synthesizedAt": "2026-10-17T20:24:36.695Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "interconnects-https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
-    "title": "Meta Reintroduces Open-Source Weights to Boost AI Innovation",
-    "link": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
-    "sourceName": "Interconnects (Nathan Lambert)",
-    "sourceId": "interconnects",
-    "pubDate": "2026-10-17T14:06:54.000Z",
-    "badgeColor": "indigo",
-    "angle": "Official Release"
+    "id": "the-decoder-https://the-decoder.com/?p=41659",
+    "title": "Deepseek V4.1-Flash-1017 Outperforms Larger Models in Agentic Tasks with Lower Costs",
+    "link": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-17T10:33:28.000Z",
+    "badgeColor": "slate",
+    "angle": "Hands-on Benchmark"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41659",
-      "title": "Deepseek V4.1-Flash-1017 Outperforms Larger Models in Agentic Tasks with Lower Costs",
-      "link": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
+      "id": "the-decoder-https://the-decoder.com/?p=41667",
+      "title": "Anthropic's Claude Solves Decades-Old NSA Cryptography Puzzle in Record Time",
+      "link": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-10-17T10:33:28.000Z",
+      "pubDate": "2026-10-17T14:42:56.000Z",
       "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
+      "angle": "Critical Achievement"
     },
     {
-      "id": "epoch-ai-CBMiZ0FVX3lxTE5kaVlUMEdNczhrRkFwN3Yza1g1Y0NiV1FWVVBibVVuQ0N6VVM0blhPNEpuMS10TTJxSjJhYVByb3h1RnlfS214bjB6V2FBckVzdTVuTkhQaTU5NzdSU2JVVXRRQlZXR3M",
-      "title": "Open-Weight AI Models Lag Behind in Cybersecurity by 6-7 Months",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kaVlUMEdNczhrRkFwN3Yza1g1Y0NiV1FWVVBibVVuQ0N6VVM0blhPNEpuMS10TTJxSjJhYVByb3h1RnlfS214bjB6V2FBckVzdTVuTkhQaTU5NzdSU2JVVXRRQlZXR3M?oc=5",
-      "sourceName": "Epoch AI",
-      "sourceId": "epoch-ai",
-      "pubDate": "2026-10-16T18:38:14.000Z",
-      "badgeColor": "violet",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3178934",
+      "title": "Anthropic Reports Workforce Evolution with Fewer Juniors and Increased Meeting Time",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-17T20:21:19.000Z",
+      "badgeColor": "emerald",
       "angle": "Industry Analysis"
     }
   ]
