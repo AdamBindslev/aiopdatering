@@ -75301,5 +75301,59 @@
     "whyItMatters": "The removal of this language provides clarity and reassurance to the tech community, potentially easing tensions over data access and usage while maintaining transparency in Meta’s operations.",
     "enrichedAt": "2026-10-17T23:30:25.211Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Oct/17/document-currentscript/": {
+    "title": "Using document.currentScript for Inline Rendering",
+    "summary": "Simon Willison highlights a technique utilizing the document.currentScript property to embed and replace small inline <script> elements, which can be useful for dynamic content loading without external scripts. This method enhances performance and security by reducing external dependencies.",
+    "danishTitle": "Using document.currentScript for Inline Rendering",
+    "danishSummary": "Simon Willison highlights a technique utilizing the document.currentScript property to embed and replace small inline <script> elements, which can be useful for dynamic content loading without external scripts. This method enhances performance and security by reducing external dependencies.",
+    "whyItMatters": "This approach can improve web performance and security by minimizing the number of external scripts, making websites faster and more resilient to potential vulnerabilities.",
+    "enrichedAt": "2026-10-18T02:36:59.963Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/oct/17/document-currentscript": {
+    "title": "Using document.currentScript for Inline Rendering",
+    "summary": "Simon Willison highlights a technique utilizing the document.currentScript property to embed and replace small inline <script> elements, which can be useful for dynamic content loading without external scripts. This method enhances performance and security by reducing external dependencies.",
+    "danishTitle": "Using document.currentScript for Inline Rendering",
+    "danishSummary": "Simon Willison highlights a technique utilizing the document.currentScript property to embed and replace small inline <script> elements, which can be useful for dynamic content loading without external scripts. This method enhances performance and security by reducing external dependencies.",
+    "whyItMatters": "This approach can improve web performance and security by minimizing the number of external scripts, making websites faster and more resilient to potential vulnerabilities.",
+    "enrichedAt": "2026-10-18T02:36:59.963Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Oct/17/document-currentscript/": {
+    "title": "Using document.currentScript for Inline Rendering",
+    "summary": "Simon Willison highlights a technique utilizing the document.currentScript property to embed and replace small inline <script> elements, which can be useful for dynamic content loading without external scripts. This method enhances performance and security by reducing external dependencies.",
+    "danishTitle": "Using document.currentScript for Inline Rendering",
+    "danishSummary": "Simon Willison highlights a technique utilizing the document.currentScript property to embed and replace small inline <script> elements, which can be useful for dynamic content loading without external scripts. This method enhances performance and security by reducing external dependencies.",
+    "whyItMatters": "This approach can improve web performance and security by minimizing the number of external scripts, making websites faster and more resilient to potential vulnerabilities.",
+    "enrichedAt": "2026-10-18T02:36:59.963Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Oct/17/web-edit/": {
+    "title": "web-edit 0.1a2 Release Adds Clipboard Copy Functionality for Enhanced User Experience",
+    "summary": "Simon Willison has released version 0.1a2 of web-edit, introducing a 'copy to clipboard' feature for both text and image data. This update aims to improve usability, particularly when working with mobile devices and remote prompts.",
+    "danishTitle": "web-edit 0.1a2 Release Adds Clipboard Copy Functionality for Enhanced User Experience",
+    "danishSummary": "Simon Willison has released version 0.1a2 of web-edit, introducing a 'copy to clipboard' feature for both text and image data. This update aims to improve usability, particularly when working with mobile devices and remote prompts.",
+    "whyItMatters": "The addition of clipboard copy functionality enhances the accessibility and efficiency of web-edit, making it more practical for users who need to work across multiple devices.",
+    "enrichedAt": "2026-10-18T02:37:09.966Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/oct/17/web-edit": {
+    "title": "web-edit 0.1a2 Release Adds Clipboard Copy Functionality for Enhanced User Experience",
+    "summary": "Simon Willison has released version 0.1a2 of web-edit, introducing a 'copy to clipboard' feature for both text and image data. This update aims to improve usability, particularly when working with mobile devices and remote prompts.",
+    "danishTitle": "web-edit 0.1a2 Release Adds Clipboard Copy Functionality for Enhanced User Experience",
+    "danishSummary": "Simon Willison has released version 0.1a2 of web-edit, introducing a 'copy to clipboard' feature for both text and image data. This update aims to improve usability, particularly when working with mobile devices and remote prompts.",
+    "whyItMatters": "The addition of clipboard copy functionality enhances the accessibility and efficiency of web-edit, making it more practical for users who need to work across multiple devices.",
+    "enrichedAt": "2026-10-18T02:37:09.966Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Oct/17/web-edit/": {
+    "title": "web-edit 0.1a2 Release Adds Clipboard Copy Functionality for Enhanced User Experience",
+    "summary": "Simon Willison has released version 0.1a2 of web-edit, introducing a 'copy to clipboard' feature for both text and image data. This update aims to improve usability, particularly when working with mobile devices and remote prompts.",
+    "danishTitle": "web-edit 0.1a2 Release Adds Clipboard Copy Functionality for Enhanced User Experience",
+    "danishSummary": "Simon Willison has released version 0.1a2 of web-edit, introducing a 'copy to clipboard' feature for both text and image data. This update aims to improve usability, particularly when working with mobile devices and remote prompts.",
+    "whyItMatters": "The addition of clipboard copy functionality enhances the accessibility and efficiency of web-edit, making it more practical for users who need to work across multiple devices.",
+    "enrichedAt": "2026-10-18T02:37:09.966Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }
