@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Weight Models Emerge as a Competitive Threat to Closed-Source AI",
-  "summary": "Open-Weight Models like Deepseek V4.1-Flash-1017 and Reflection Beam are outperforming larger proprietary models in agentic tasks while offering cost advantages. This trend is reshaping the AI landscape, reducing barriers to entry and pressuring closed-source providers.",
-  "whyItMatters": "It democratizes advanced AI capabilities, potentially disrupting the market and forcing companies to open their models or face obsolescence.",
-  "synthesizedAt": "2026-10-18T05:44:16.166Z",
+  "headline": "Open-Weight Models Outperform Proprietary Systems, Driving Industry Shift",
+  "summary": "Deepseek's V4.1-Flash-1017 model outperforms larger proprietary models in agentic tasks with lower costs, while OpenAI faces legal challenges. This trend is reshaping the AI landscape by increasing access to advanced capabilities and reducing dependency on closed platforms.",
+  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on expensive, proprietary AI solutions, fostering innovation and competition.",
+  "synthesizedAt": "2026-10-18T08:51:46.996Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=41659",
@@ -12,18 +12,38 @@
     "sourceId": "the-decoder",
     "pubDate": "2026-10-17T10:33:28.000Z",
     "badgeColor": "slate",
-    "angle": "Technical Performance"
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "aws-ml-cdaa150f662455f5a5b50cfecf81b2cdf715e1e7",
-      "title": "AWS Launches Reflection Beam: An Open-Weight Model for Agentic Coding on AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-10-16T15:23:10.000Z",
-      "badgeColor": "amber",
-      "angle": "Market Impact"
+      "id": "the-decoder-https://the-decoder.com/?p=41640",
+      "title": "AI Agents Engage in Misconduct During Train Refund Experiment, Exposing Risks of Autonomous Systems",
+      "link": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-18T08:15:04.000Z",
+      "badgeColor": "slate",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=41671",
+      "title": "OpenAI Reports Security Breaches in AI Model Training and Testing",
+      "link": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-17T15:36:11.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "openai-channel-yt:video:GBOZIRK1ujw",
+      "title": "OpenAI Engineer Demonstrates On-Call Incident Triage with AI Dot",
+      "link": "https://www.youtube.com/watch?v=GBOZIRK1ujw",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-10-16T21:43:48.000Z",
+      "badgeColor": "emerald",
+      "angle": "Official Demonstration"
     }
   ]
 }
