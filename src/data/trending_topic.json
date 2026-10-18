@@ -1,8 +1,8 @@
 {
   "headline": "Open-Weight Models Outperform Proprietary Systems in Agentic Tasks",
-  "summary": "Deepseek's V4.1-Flash-1017, an open-weight model, outperforms larger proprietary models in agentic tasks, offering faster completion times and lower costs. This trend is challenging the dominance of closed-source AI platforms and could accelerate local AI agent deployment.",
-  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on expensive, closed proprietary platforms.",
-  "synthesizedAt": "2026-10-18T11:58:23.780Z",
+  "summary": "Deepseek's V4.1-Flash-1017, an open-weight model, outperforms larger proprietary models in agentic tasks, reducing costs and demonstrating that open-source models can match or exceed the capabilities of closed systems.",
+  "whyItMatters": "This trend challenges the dominance of proprietary AI models and opens up new opportunities for cost-effective, high-performance AI agents.",
+  "synthesizedAt": "2026-10-18T15:04:58.154Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=41659",
@@ -12,28 +12,27 @@
     "sourceId": "the-decoder",
     "pubDate": "2026-10-17T10:33:28.000Z",
     "badgeColor": "slate",
-    "angle": "Hands-on Benchmark"
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41694",
-      "title": "German Courts Consistently Hold Google Liable for AI-Generated Content",
-      "link": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-18T10:52:39.000Z",
-      "badgeColor": "slate",
+      "id": "version2-https://ing.dk/artikel/endnu-en-undersoegelse-slaar-fast-ai-kodegevinst-stopper-ved-30-procent",
+      "title": "Harvard Study Confirms AI Productivity Gains Cap at 30% for Software Development",
+      "link": "https://ing.dk/artikel/endnu-en-undersoegelse-slaar-fast-ai-kodegevinst-stopper-ved-30-procent",
+      "sourceName": "Version2 (Ingeniøren)",
+      "sourceId": "version2",
+      "pubDate": "2026-10-18T15:00:00.000Z",
+      "badgeColor": "red",
       "angle": "Industry Analysis"
     },
     {
-      "id": "interconnects-https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
-      "title": "Meta Reintroduces Open-Source Weights to Boost AI Innovation",
-      "link": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
-      "sourceName": "Interconnects (Nathan Lambert)",
-      "sourceId": "interconnects",
-      "pubDate": "2026-10-17T14:06:54.000Z",
-      "badgeColor": "indigo",
-      "angle": "Official Release"
+      "id": "the-decoder-https://the-decoder.com/?p=41649",
+      "title": "AI Models Systematically Omit Errors in Reports, but Prompt Engineering Can Mitigate",
+      "link": "https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-17T09:54:36.000Z",
+      "badgeColor": "slate"
     }
   ]
 }
