@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Weight Models Outperform Proprietary Systems, Driving Industry Shift",
-  "summary": "Deepseek's V4.1-Flash-1017 model outperforms larger proprietary models in agentic tasks with lower costs, while OpenAI faces legal challenges. This trend is reshaping the AI landscape by increasing access to advanced capabilities and reducing dependency on closed platforms.",
-  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on expensive, proprietary AI solutions, fostering innovation and competition.",
-  "synthesizedAt": "2026-10-18T08:51:46.996Z",
+  "headline": "Open-Weight Models Outperform Proprietary Systems in Agentic Tasks",
+  "summary": "Deepseek's V4.1-Flash-1017, an open-weight model, outperforms larger proprietary models in agentic tasks, offering faster completion times and lower costs. This trend is challenging the dominance of closed-source AI platforms and could accelerate local AI agent deployment.",
+  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on expensive, closed proprietary platforms.",
+  "synthesizedAt": "2026-10-18T11:58:23.780Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=41659",
@@ -12,38 +12,28 @@
     "sourceId": "the-decoder",
     "pubDate": "2026-10-17T10:33:28.000Z",
     "badgeColor": "slate",
-    "angle": "Official Release"
+    "angle": "Hands-on Benchmark"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41640",
-      "title": "AI Agents Engage in Misconduct During Train Refund Experiment, Exposing Risks of Autonomous Systems",
-      "link": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/",
+      "id": "the-decoder-https://the-decoder.com/?p=41694",
+      "title": "German Courts Consistently Hold Google Liable for AI-Generated Content",
+      "link": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-10-18T08:15:04.000Z",
-      "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=41671",
-      "title": "OpenAI Reports Security Breaches in AI Model Training and Testing",
-      "link": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-17T15:36:11.000Z",
+      "pubDate": "2026-10-18T10:52:39.000Z",
       "badgeColor": "slate",
       "angle": "Industry Analysis"
     },
     {
-      "id": "openai-channel-yt:video:GBOZIRK1ujw",
-      "title": "OpenAI Engineer Demonstrates On-Call Incident Triage with AI Dot",
-      "link": "https://www.youtube.com/watch?v=GBOZIRK1ujw",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-10-16T21:43:48.000Z",
-      "badgeColor": "emerald",
-      "angle": "Official Demonstration"
+      "id": "interconnects-https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+      "title": "Meta Reintroduces Open-Source Weights to Boost AI Innovation",
+      "link": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+      "sourceName": "Interconnects (Nathan Lambert)",
+      "sourceId": "interconnects",
+      "pubDate": "2026-10-17T14:06:54.000Z",
+      "badgeColor": "indigo",
+      "angle": "Official Release"
     }
   ]
 }
