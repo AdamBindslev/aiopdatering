@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Weight Models Gain Ground in Key AI Domains",
-  "summary": "Open-weight AI models are making significant strides in various domains, outperforming proprietary models in areas like cybersecurity, visual reasoning, and agentic tasks. This trend is reshaping the AI landscape, increasing accessibility and driving innovation.",
-  "whyItMatters": "It broadens access to advanced AI capabilities, reduces costs, and accelerates development across multiple industries.",
-  "synthesizedAt": "2026-10-18T02:37:42.833Z",
+  "headline": "Open-Weight Models Emerge as a Competitive Threat to Closed-Source AI",
+  "summary": "Open-Weight Models like Deepseek V4.1-Flash-1017 and Reflection Beam are outperforming larger proprietary models in agentic tasks while offering cost advantages. This trend is reshaping the AI landscape, reducing barriers to entry and pressuring closed-source providers.",
+  "whyItMatters": "It democratizes advanced AI capabilities, potentially disrupting the market and forcing companies to open their models or face obsolescence.",
+  "synthesizedAt": "2026-10-18T05:44:16.166Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=41659",
@@ -12,19 +12,9 @@
     "sourceId": "the-decoder",
     "pubDate": "2026-10-17T10:33:28.000Z",
     "badgeColor": "slate",
-    "angle": "Performance Benchmark"
+    "angle": "Technical Performance"
   },
   "supportingStories": [
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3178756",
-      "title": "Elorian's Glimpse AI Model Outperforms GPT-6 Astra in Visual Reasoning Tasks",
-      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-16T16:01:37.000Z",
-      "badgeColor": "emerald",
-      "angle": "Visual Reasoning"
-    },
     {
       "id": "aws-ml-cdaa150f662455f5a5b50cfecf81b2cdf715e1e7",
       "title": "AWS Launches Reflection Beam: An Open-Weight Model for Agentic Coding on AWS",
@@ -33,17 +23,7 @@
       "sourceId": "aws-ml",
       "pubDate": "2026-10-16T15:23:10.000Z",
       "badgeColor": "amber",
-      "angle": "Agentic Coding"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=41620",
-      "title": "Google's Gemini 4 Argon Achieves Near-AGI Performance on Key Benchmark",
-      "link": "https://the-decoder.com/googles-gemini-4-argon-is-closer-to-the-ai-frontier-than-any-google-model-in-months/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-16T15:03:46.000Z",
-      "badgeColor": "slate",
-      "angle": "Near-AGI Capabilities"
+      "angle": "Market Impact"
     }
   ]
 }
