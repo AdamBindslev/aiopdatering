@@ -1,8 +1,8 @@
 {
-  "headline": "Nvidia Unveils Open Models for Enterprise and On-Device AI Agents",
-  "summary": "Nvidia has launched new open-source AI models to enable enterprises to run their own AI agents in-house and on personal computers, challenging proprietary platforms and accelerating local AI deployment.",
-  "whyItMatters": "This shift broadens access to advanced AI capabilities and reduces reliance on closed APIs, fostering innovation and competition in the AI industry.",
-  "synthesizedAt": "2026-10-19T15:59:52.269Z",
+  "headline": "NVIDIA Unveils Open Models for Enterprise and On-Device AI Agents",
+  "summary": "NVIDIA has launched new open AI models to enable enterprise companies to run their own AI agents in-house and on personal computers, addressing concerns over data privacy and control. This move is gaining significant traction as it democratizes AI deployment and reduces reliance on proprietary platforms.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and empowers enterprises to manage their own data, enhancing privacy and control.",
+  "synthesizedAt": "2026-10-19T19:08:34.919Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "techcrunch-ai-https://techcrunch.com/?p=3177977",
@@ -12,38 +12,27 @@
     "sourceId": "techcrunch-ai",
     "pubDate": "2026-10-19T15:37:09.000Z",
     "badgeColor": "emerald",
-    "angle": "Official Release"
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41714",
-      "title": "Stripe Reports Rising AI Agent Purchases, Refuses to Disclose Specifics",
-      "link": "https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-19T12:51:12.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Impact"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3179141",
+      "title": "Tolan Secures $30M in Funding for AI Companion App with Over 250,000 Users",
+      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-19T19:00:12.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "version2-https://ing.dk/holdning/ai-loefter-den-enkelte-ingenioer-men-lammer-vores-kollektive-innovation",
-      "title": "AI Offers Individual Engineers but Hinders Collective Innovation",
-      "link": "https://ing.dk/holdning/ai-loefter-den-enkelte-ingenioer-men-lammer-vores-kollektive-innovation",
-      "sourceName": "Version2 (Ingeniøren)",
-      "sourceId": "version2",
-      "pubDate": "2026-10-19T12:00:00.000Z",
-      "badgeColor": "red",
-      "angle": "Innovation and Access"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=41715",
-      "title": "Neocloud Shakeout Looms, with Nvidia at Greatest Risk",
-      "link": "https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-19T11:33:36.000Z",
-      "badgeColor": "slate",
-      "angle": "Market Consolidation"
+      "id": "ars-technica-https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+      "title": "AI-Generated Game Clones Frighten Indie Developers, Hindering Showcase Opportunities",
+      "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+      "sourceName": "Ars Technica – AI",
+      "sourceId": "ars-technica",
+      "pubDate": "2026-10-19T16:59:22.000Z",
+      "badgeColor": "orange"
     }
   ]
 }
