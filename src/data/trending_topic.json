@@ -1,8 +1,8 @@
 {
-  "headline": "Structured Authority Injection Pioneers Persistent Human Control in LLM Agents",
-  "summary": "The Structured Authority Injection (SAI) method, introduced in a new research paper, enables persistent human control over large language model (LLM) agents, enhancing safety and ethical considerations in AI deployment.",
-  "whyItMatters": "SAI provides a practical framework for integrating human oversight into AI systems, addressing concerns around autonomous decision-making and ensuring more responsible AI development.",
-  "synthesizedAt": "2026-10-19T06:44:30.461Z",
+  "headline": "Structured Authority Injection Paves Way for Persistent Human Control in AI Agents",
+  "summary": "A new research paper proposes Structured Authority Injection, a method enabling persistent human control over large language model (LLM) agents. This approach could significantly enhance the safety and ethical oversight of AI systems in various applications.",
+  "whyItMatters": "It addresses the critical need for human oversight in AI systems, potentially mitigating risks and ensuring more responsible AI deployment.",
+  "synthesizedAt": "2026-10-19T09:47:59.444Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "arxiv-ai-oai:arXiv.org:2610.22373v1",
@@ -16,31 +16,31 @@
   },
   "supportingStories": [
     {
-      "id": "arxiv-ai-oai:arXiv.org:2610.22400v1",
-      "title": "New User Encoder Paradigm Aims to Enhance Adaptive Scenario Representation in AI Models",
-      "link": "https://arxiv.org/abs/2610.22400",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
+      "id": "arxiv-cl-oai:arXiv.org:2610.22515v1",
+      "title": "akhder at ImageEval 2026: Constrained Selection and Rotation-Averaged Logit Scoring for Multimodal Hallucination Detection",
+      "link": "https://arxiv.org/abs/2610.22515",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
       "pubDate": "2026-10-19T04:00:00.000Z",
       "badgeColor": "zinc",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2610.22426v1",
-      "title": "PRIME Framework Introduced for Verifiable Reasoning in LLM Agents",
-      "link": "https://arxiv.org/abs/2610.22426",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
+      "id": "arxiv-cl-oai:arXiv.org:2610.22542v1",
+      "title": "HeRE Benchmark Introduced to Evaluate LLMs in Hebrew Relation Extraction",
+      "link": "https://arxiv.org/abs/2610.22542",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
       "pubDate": "2026-10-19T04:00:00.000Z",
       "badgeColor": "zinc",
       "angle": "Industry Analysis"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2610.22441v1",
-      "title": "Hierarchical Feedback-Guided LLM Planning Enhances Natural Language Command Execution in Cyber-Physical Systems",
-      "link": "https://arxiv.org/abs/2610.22441",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
+      "id": "arxiv-cl-oai:arXiv.org:2610.22588v1",
+      "title": "SAG2: A New Embedding-Free Multi-Hop Retrieval Architecture",
+      "link": "https://arxiv.org/abs/2610.22588",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
       "pubDate": "2026-10-19T04:00:00.000Z",
       "badgeColor": "zinc"
     }
