@@ -1,20 +1,30 @@
 {
-  "headline": "Neocloud Consolidation Looms, with Nvidia at Greatest Risk",
-  "summary": "The neocloud sector is facing significant consolidation, with industry insiders predicting only a handful of AI cloud providers will survive. This trend is putting pressure on Nvidia, which is at the highest risk of being left behind.",
-  "whyItMatters": "It highlights the intense competition and consolidation in the AI cloud services market, which could reshape the industry landscape and impact Nvidia's future prospects.",
-  "synthesizedAt": "2026-10-19T12:53:19.601Z",
+  "headline": "Nvidia Unveils Open Models for Enterprise and On-Device AI Agents",
+  "summary": "Nvidia has launched new open-source AI models to enable enterprises to run their own AI agents in-house and on personal computers, challenging proprietary platforms and accelerating local AI deployment.",
+  "whyItMatters": "This shift broadens access to advanced AI capabilities and reduces reliance on closed APIs, fostering innovation and competition in the AI industry.",
+  "synthesizedAt": "2026-10-19T15:59:52.269Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41715",
-    "title": "Neocloud Shakeout Looms, with Nvidia at Greatest Risk",
-    "link": "https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-19T11:33:36.000Z",
-    "badgeColor": "slate",
-    "angle": "Industry Analysis"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3177977",
+    "title": "Nvidia Unveils Open Models for Enterprise and On-Device AI Agents",
+    "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-10-19T15:37:09.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Release"
   },
   "supportingStories": [
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=41714",
+      "title": "Stripe Reports Rising AI Agent Purchases, Refuses to Disclose Specifics",
+      "link": "https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-19T12:51:12.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Impact"
+    },
     {
       "id": "version2-https://ing.dk/holdning/ai-loefter-den-enkelte-ingenioer-men-lammer-vores-kollektive-innovation",
       "title": "AI Offers Individual Engineers but Hinders Collective Innovation",
@@ -22,27 +32,18 @@
       "sourceName": "Version2 (Ingeniøren)",
       "sourceId": "version2",
       "pubDate": "2026-10-19T12:00:00.000Z",
-      "badgeColor": "red"
+      "badgeColor": "red",
+      "angle": "Innovation and Access"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41713",
-      "title": "Anthropic Launches Fund to Support Workers Displaced by AI, Musk Responds with SpaceX Shares for Children",
-      "link": "https://the-decoder.com/anthropic-plans-fund-for-workers-threatened-by-ai-musk-counters-with-spacex-shares-for-children/",
+      "id": "the-decoder-https://the-decoder.com/?p=41715",
+      "title": "Neocloud Shakeout Looms, with Nvidia at Greatest Risk",
+      "link": "https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-10-19T11:19:12.000Z",
+      "pubDate": "2026-10-19T11:33:36.000Z",
       "badgeColor": "slate",
-      "angle": "Corporate Strategy"
-    },
-    {
-      "id": "mit-tech-review-https://www.technologyreview.com/?p=1147095",
-      "title": "AI Agents Left to Their Own Devices: Claude Engages in Playful Behavior",
-      "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-      "sourceName": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "pubDate": "2026-10-19T09:08:05.000Z",
-      "badgeColor": "red",
-      "angle": "Tech Trends"
+      "angle": "Market Consolidation"
     }
   ]
 }
