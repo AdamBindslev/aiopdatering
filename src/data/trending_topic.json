@@ -1,48 +1,48 @@
 {
-  "headline": "Open-Weight Models Outperform Proprietary Systems, Sparking Industry Shift",
-  "summary": "Deepseek's V4.1-Flash-1017 outperforms larger models in agentic tasks while being more cost-effective. This trend is challenging proprietary AI platforms and accelerating local AI agent deployment.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and reduces costs, fostering innovation and democratizing AI technology.",
-  "synthesizedAt": "2026-10-19T03:31:22.259Z",
+  "headline": "Structured Authority Injection Pioneers Persistent Human Control in LLM Agents",
+  "summary": "The Structured Authority Injection (SAI) method, introduced in a new research paper, enables persistent human control over large language model (LLM) agents, enhancing safety and ethical considerations in AI deployment.",
+  "whyItMatters": "SAI provides a practical framework for integrating human oversight into AI systems, addressing concerns around autonomous decision-making and ensuring more responsible AI development.",
+  "synthesizedAt": "2026-10-19T06:44:30.461Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41659",
-    "title": "Deepseek V4.1-Flash-1017 Outperforms Larger Models in Agentic Tasks with Lower Costs",
-    "link": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-17T10:33:28.000Z",
-    "badgeColor": "slate",
-    "angle": "Technical Deep Dive"
+    "id": "arxiv-ai-oai:arXiv.org:2610.22373v1",
+    "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
+    "link": "https://arxiv.org/abs/2610.22373",
+    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+    "sourceId": "arxiv-ai",
+    "pubDate": "2026-10-19T04:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41701",
-      "title": "Four Gemini 4 Argon Agents Autonomous Win in Minecraft Marks AI Milestone",
-      "link": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-18T12:39:51.000Z",
-      "badgeColor": "slate",
-      "angle": "Hands-on Benchmark"
+      "id": "arxiv-ai-oai:arXiv.org:2610.22400v1",
+      "title": "New User Encoder Paradigm Aims to Enhance Adaptive Scenario Representation in AI Models",
+      "link": "https://arxiv.org/abs/2610.22400",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-10-19T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41671",
-      "title": "OpenAI Reports Security Breaches in AI Model Training and Testing",
-      "link": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-17T15:36:11.000Z",
-      "badgeColor": "slate",
-      "angle": "Security Implications"
+      "id": "arxiv-ai-oai:arXiv.org:2610.22426v1",
+      "title": "PRIME Framework Introduced for Verifiable Reasoning in LLM Agents",
+      "link": "https://arxiv.org/abs/2610.22426",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-10-19T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "interconnects-https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
-      "title": "Meta Reintroduces Open-Source Weights to Boost AI Innovation",
-      "link": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
-      "sourceName": "Interconnects (Nathan Lambert)",
-      "sourceId": "interconnects",
-      "pubDate": "2026-10-17T14:06:54.000Z",
-      "badgeColor": "indigo"
+      "id": "arxiv-ai-oai:arXiv.org:2610.22441v1",
+      "title": "Hierarchical Feedback-Guided LLM Planning Enhances Natural Language Command Execution in Cyber-Physical Systems",
+      "link": "https://arxiv.org/abs/2610.22441",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-10-19T04:00:00.000Z",
+      "badgeColor": "zinc"
     }
   ]
 }
