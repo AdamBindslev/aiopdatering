@@ -75823,5 +75823,86 @@
     "whyItMatters": "By prioritizing public benefit, Anthropic seeks to address ethical concerns in AI development, potentially setting a new standard for responsible AI innovation and deployment.",
     "enrichedAt": "2026-10-18T21:18:10.585Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Oct/18/llm-tools-datasette/": {
+    "title": "llm-tools-datasette 0.1.1 Released: Fixes Compatibility Issue with LLM 0.33",
+    "summary": "Simon Willison has released version 0.1.1 of llm-tools-datasette to address compatibility issues introduced by LLM 0.33, which switched to httpx2, breaking plugins that did not directly depend on it. This update ensures seamless integration for users relying on both LLM and datasette.",
+    "danishTitle": "llm-tools-datasette 0.1.1 Released: Fixes Compatibility Issue with LLM 0.33",
+    "danishSummary": "Simon Willison has released version 0.1.1 of llm-tools-datasette to address compatibility issues introduced by LLM 0.33, which switched to httpx2, breaking plugins that did not directly depend on it. This update ensures seamless integration for users relying on both LLM and datasette.",
+    "whyItMatters": "The fix enhances the reliability and usability of llm-tools-datasette, ensuring that it can continue to support LLM users without disruptions.",
+    "enrichedAt": "2026-10-19T00:24:19.208Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/oct/18/llm-tools-datasette": {
+    "title": "llm-tools-datasette 0.1.1 Released: Fixes Compatibility Issue with LLM 0.33",
+    "summary": "Simon Willison has released version 0.1.1 of llm-tools-datasette to address compatibility issues introduced by LLM 0.33, which switched to httpx2, breaking plugins that did not directly depend on it. This update ensures seamless integration for users relying on both LLM and datasette.",
+    "danishTitle": "llm-tools-datasette 0.1.1 Released: Fixes Compatibility Issue with LLM 0.33",
+    "danishSummary": "Simon Willison has released version 0.1.1 of llm-tools-datasette to address compatibility issues introduced by LLM 0.33, which switched to httpx2, breaking plugins that did not directly depend on it. This update ensures seamless integration for users relying on both LLM and datasette.",
+    "whyItMatters": "The fix enhances the reliability and usability of llm-tools-datasette, ensuring that it can continue to support LLM users without disruptions.",
+    "enrichedAt": "2026-10-19T00:24:19.208Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/": {
+    "title": "llm-tools-datasette 0.1.1 Released: Fixes Compatibility Issue with LLM 0.33",
+    "summary": "Simon Willison has released version 0.1.1 of llm-tools-datasette to address compatibility issues introduced by LLM 0.33, which switched to httpx2, breaking plugins that did not directly depend on it. This update ensures seamless integration for users relying on both LLM and datasette.",
+    "danishTitle": "llm-tools-datasette 0.1.1 Released: Fixes Compatibility Issue with LLM 0.33",
+    "danishSummary": "Simon Willison has released version 0.1.1 of llm-tools-datasette to address compatibility issues introduced by LLM 0.33, which switched to httpx2, breaking plugins that did not directly depend on it. This update ensures seamless integration for users relying on both LLM and datasette.",
+    "whyItMatters": "The fix enhances the reliability and usability of llm-tools-datasette, ensuring that it can continue to support LLM users without disruptions.",
+    "enrichedAt": "2026-10-19T00:24:19.208Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Oct/18/llm-echo/": {
+    "title": "llm-echo 0.5 Released: Debugging Tool Mimics LLM Behavior Without Using an LLM",
+    "summary": "Simon Willison has released llm-echo 0.5, a debug plugin that mimics the behavior of language models by simply repeating back the prompts it receives. This tool aims to simplify the debugging process for developers working with LLMs without the computational overhead of running an actual language model.",
+    "danishTitle": "llm-echo 0.5 Released: Debugging Tool Mimics LLM Behavior Without Using an LLM",
+    "danishSummary": "Simon Willison has released llm-echo 0.5, a debug plugin that mimics the behavior of language models by simply repeating back the prompts it receives. This tool aims to simplify the debugging process for developers working with LLMs without the computational overhead of running an actual language model.",
+    "whyItMatters": "By providing a lightweight alternative for debugging, llm-echo 0.5 can significantly enhance the development and testing phases of LLM-based applications, making the process more efficient and cost-effective.",
+    "enrichedAt": "2026-10-19T00:24:31.455Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/oct/18/llm-echo": {
+    "title": "llm-echo 0.5 Released: Debugging Tool Mimics LLM Behavior Without Using an LLM",
+    "summary": "Simon Willison has released llm-echo 0.5, a debug plugin that mimics the behavior of language models by simply repeating back the prompts it receives. This tool aims to simplify the debugging process for developers working with LLMs without the computational overhead of running an actual language model.",
+    "danishTitle": "llm-echo 0.5 Released: Debugging Tool Mimics LLM Behavior Without Using an LLM",
+    "danishSummary": "Simon Willison has released llm-echo 0.5, a debug plugin that mimics the behavior of language models by simply repeating back the prompts it receives. This tool aims to simplify the debugging process for developers working with LLMs without the computational overhead of running an actual language model.",
+    "whyItMatters": "By providing a lightweight alternative for debugging, llm-echo 0.5 can significantly enhance the development and testing phases of LLM-based applications, making the process more efficient and cost-effective.",
+    "enrichedAt": "2026-10-19T00:24:31.455Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Oct/18/llm-echo/": {
+    "title": "llm-echo 0.5 Released: Debugging Tool Mimics LLM Behavior Without Using an LLM",
+    "summary": "Simon Willison has released llm-echo 0.5, a debug plugin that mimics the behavior of language models by simply repeating back the prompts it receives. This tool aims to simplify the debugging process for developers working with LLMs without the computational overhead of running an actual language model.",
+    "danishTitle": "llm-echo 0.5 Released: Debugging Tool Mimics LLM Behavior Without Using an LLM",
+    "danishSummary": "Simon Willison has released llm-echo 0.5, a debug plugin that mimics the behavior of language models by simply repeating back the prompts it receives. This tool aims to simplify the debugging process for developers working with LLMs without the computational overhead of running an actual language model.",
+    "whyItMatters": "By providing a lightweight alternative for debugging, llm-echo 0.5 can significantly enhance the development and testing phases of LLM-based applications, making the process more efficient and cost-effective.",
+    "enrichedAt": "2026-10-19T00:24:31.455Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "dataethics-CBMirAFBVV95cUxPSVpEM3J4VlNNSUYySUJyWnRyYVIzRVlmYnJqRFVXQ3liVHNyQWI3NUFPT1NOWG1FUkhHYTgtUkhyQUh6THIzZVo1R1QwOUR6TVY1UjA2UEtXeWpKVDJnZ1lrYVZEMDg3ZXljcUkzcUxyei1YTWFuZzM4cGhSVkV3SmVYUVdSV0dPc3BIc2t4N3ViR0VxY0hpMEhJQ0VLMExCUkxIeGRrUXVnYzIy": {
+    "title": "US Tech Giants Opposed Generative AI Classification in EU AI Act",
+    "summary": "US technology giants lobbied against the classification of generative AI as high-risk under the EU's AI Act, according to a report. This opposition reflects a broader debate over the regulation of AI technologies and their potential societal impacts.",
+    "danishTitle": "US Tech Giants Opposed Generative AI Classification in EU AI Act",
+    "danishSummary": "US technology giants lobbied against the classification of generative AI as high-risk under the EU's AI Act, according to a report. This opposition reflects a broader debate over the regulation of AI technologies and their potential societal impacts.",
+    "whyItMatters": "The lobbying effort highlights the tension between industry interests and regulatory frameworks, potentially influencing the future development and deployment of AI technologies in Europe.",
+    "enrichedAt": "2026-10-19T00:24:42.274Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://news.google.com/rss/articles/cbmirafbvv95cuxpsvpem3j4vlnnsuyysujywnryyvizrvlmynjqrfvxq3livhnyqwi3nufpt1nowg1fukhhytgtukhyquh6thizzvo1r1qwour6tvy1uja2uetxewpkvdjnz1lryvzemdg3zxljcukzcuxyei1ytwfuzzm4cghsvkv3smvyuvdsv0dpc3bic2t4n3vir0vxy0hpmehjq0vlmexcukxiegrruxvnyziy?oc=5": {
+    "title": "US Tech Giants Opposed Generative AI Classification in EU AI Act",
+    "summary": "US technology giants lobbied against the classification of generative AI as high-risk under the EU's AI Act, according to a report. This opposition reflects a broader debate over the regulation of AI technologies and their potential societal impacts.",
+    "danishTitle": "US Tech Giants Opposed Generative AI Classification in EU AI Act",
+    "danishSummary": "US technology giants lobbied against the classification of generative AI as high-risk under the EU's AI Act, according to a report. This opposition reflects a broader debate over the regulation of AI technologies and their potential societal impacts.",
+    "whyItMatters": "The lobbying effort highlights the tension between industry interests and regulatory frameworks, potentially influencing the future development and deployment of AI technologies in Europe.",
+    "enrichedAt": "2026-10-19T00:24:42.274Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSVpEM3J4VlNNSUYySUJyWnRyYVIzRVlmYnJqRFVXQ3liVHNyQWI3NUFPT1NOWG1FUkhHYTgtUkhyQUh6THIzZVo1R1QwOUR6TVY1UjA2UEtXeWpKVDJnZ1lrYVZEMDg3ZXljcUkzcUxyei1YTWFuZzM4cGhSVkV3SmVYUVdSV0dPc3BIc2t4N3ViR0VxY0hpMEhJQ0VLMExCUkxIeGRrUXVnYzIy?oc=5": {
+    "title": "US Tech Giants Opposed Generative AI Classification in EU AI Act",
+    "summary": "US technology giants lobbied against the classification of generative AI as high-risk under the EU's AI Act, according to a report. This opposition reflects a broader debate over the regulation of AI technologies and their potential societal impacts.",
+    "danishTitle": "US Tech Giants Opposed Generative AI Classification in EU AI Act",
+    "danishSummary": "US technology giants lobbied against the classification of generative AI as high-risk under the EU's AI Act, according to a report. This opposition reflects a broader debate over the regulation of AI technologies and their potential societal impacts.",
+    "whyItMatters": "The lobbying effort highlights the tension between industry interests and regulatory frameworks, potentially influencing the future development and deployment of AI technologies in Europe.",
+    "enrichedAt": "2026-10-19T00:24:42.274Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }
