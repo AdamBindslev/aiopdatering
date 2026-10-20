@@ -1,39 +1,39 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Systems, Driving Innovation and Cost Reduction",
-  "summary": "A surge in open-source AI models, such as DeepSeek V4.1 and Axiom, is pushing the boundaries of what's possible in AI research and development. These models are driving innovation, reducing costs, and challenging the dominance of proprietary systems.",
-  "whyItMatters": "This trend is democratizing access to advanced AI capabilities, fostering competition, and accelerating the pace of technological advancement.",
-  "synthesizedAt": "2026-10-20T20:03:25.094Z",
+  "headline": "AI Safety Bill Proposals Spark Legislative Debate",
+  "summary": "Anthropic and other AI companies have proposed legislative bills aimed at regulating AI safety, sparking a debate over the balance between innovation and regulation. These proposals could significantly impact the industry's future development and deployment.",
+  "whyItMatters": "These proposals highlight the growing concerns around AI safety and could lead to stricter regulations, affecting how AI is developed and used globally.",
+  "synthesizedAt": "2026-10-20T23:08:00.265Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41765",
-    "title": "Deepseek Opens Sources DeepInfer, Its Fastest and Cheapest AI Model's Inference Engine",
-    "link": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-20T18:56:15.000Z",
-    "badgeColor": "slate",
-    "angle": "Official Release"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3179755",
+    "title": "Anthropic Proposes AI Safety Bill Allowing Model Bans if 50+ Lives at Risk",
+    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-10-20T23:01:23.000Z",
+    "badgeColor": "emerald",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "interconnects-https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
-      "title": "Western Open Models Respond to Global Competition with DeepSeek V4.1 and New Regulatory Measures",
-      "link": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
-      "sourceName": "Interconnects (Nathan Lambert)",
-      "sourceId": "interconnects",
-      "pubDate": "2026-10-20T17:04:21.000Z",
-      "badgeColor": "indigo",
-      "angle": "Industry Analysis"
+      "id": "the-zvi-https://thezvi.substack.com/p/anthropic-does-not-understand-why",
+      "title": "Anthropic Defends Its Draft Bill, Claiming Lack of Understanding Behind Rejections",
+      "link": "https://thezvi.substack.com/p/anthropic-does-not-understand-why",
+      "sourceName": "Don't Worry About the Vase (Zvi)",
+      "sourceId": "the-zvi",
+      "pubDate": "2026-10-20T23:03:05.000Z",
+      "badgeColor": "emerald",
+      "angle": "Official Release"
     },
     {
-      "id": "weights-and-biases-yt:video:wlG2PNHtcaI",
-      "title": "Axiom AI Solves Century-Old Math Problems in Hours, Revolutionizing Mathematical Research",
-      "link": "https://www.youtube.com/shorts/wlG2PNHtcaI",
-      "sourceName": "Weights & Biases",
-      "sourceId": "weights-and-biases",
-      "pubDate": "2026-10-20T18:45:23.000Z",
-      "badgeColor": "yellow",
-      "angle": "Technical Deep Dive"
+      "id": "stanford-cs25-yt:video:dAzTioGQIzQ",
+      "title": "Stanford Webinar Discusses AI Regulation Amid Growing Global Concerns",
+      "link": "https://www.youtube.com/watch?v=dAzTioGQIzQ",
+      "sourceName": "Stanford CS25 — Transformers United",
+      "sourceId": "stanford-cs25",
+      "pubDate": "2026-10-20T19:23:36.000Z",
+      "badgeColor": "red",
+      "angle": "Policy Impact"
     }
   ]
 }
