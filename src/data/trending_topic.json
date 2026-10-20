@@ -1,37 +1,38 @@
 {
-  "headline": "Nvidia Unveils Open Models for Enterprise and On-Device AI Agents",
-  "summary": "Nvidia has launched new open models to enable enterprises to run their own AI agents in-house and on personal computers, challenging proprietary platforms and fostering in-house AI development. This move is gaining significant traction as companies seek to reduce dependency on closed APIs and enhance control over their AI operations.",
-  "whyItMatters": "It broadens access to advanced AI models and reduces reliance on centralized AI services, empowering enterprises to deploy and manage AI agents more flexibly and securely.",
-  "synthesizedAt": "2026-10-20T04:26:12.205Z",
+  "headline": "MiniMax M3.1 Flash Surpasses Competitors with Lower Cost and Higher Performance",
+  "summary": "MiniMax's M3.1 Flash has outperformed its competitors on the Artificial Analysis Intelligence Index while reducing costs by half, making it a game-changer in the AI hardware market. This advancement is driving industry innovation and competition.",
+  "whyItMatters": "It sets a new benchmark for cost-effectiveness and performance, potentially reshaping the AI hardware landscape and accelerating adoption of advanced AI technologies.",
+  "synthesizedAt": "2026-10-20T07:33:22.109Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3177977",
-    "title": "Nvidia Unveils Open Models for Enterprise and On-Device AI Agents",
-    "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-10-19T15:37:09.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Release"
+    "id": "the-decoder-https://the-decoder.com/?p=41732",
+    "title": "MiniMax M3.1 Flash Surpasses Competitors with Lower Cost and Higher Performance",
+    "link": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-19T18:22:30.000Z",
+    "badgeColor": "slate",
+    "angle": "Primary Source"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3179517",
-      "title": "New York Mayor Mamdani Urges Public Resistance Against Unregulated AI",
-      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-20T01:27:03.000Z",
-      "badgeColor": "emerald"
+      "id": "latent-space-https://www.latent.space/p/ainews-not-much-happened-today-f09",
+      "title": "AI Innovations in Development but Limited Immediate Widespread Use",
+      "link": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-10-20T05:21:52.000Z",
+      "badgeColor": "pink",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3179487",
-      "title": "Nscale and Anthropic Reportedly Engage in Talks for Another $45 Billion Compute Deal",
-      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-19T23:39:38.000Z",
-      "badgeColor": "emerald",
+      "id": "weights-and-biases-yt:video:r88kfVABgsY",
+      "title": "Capital One Releasing VulnHunter Open-Source to Combat False Positives in Security Alerts",
+      "link": "https://www.youtube.com/shorts/r88kfVABgsY",
+      "sourceName": "Weights & Biases",
+      "sourceId": "weights-and-biases",
+      "pubDate": "2026-10-20T00:00:23.000Z",
+      "badgeColor": "yellow",
       "angle": "Industry Analysis"
     },
     {
@@ -42,17 +43,17 @@
       "sourceId": "aws-ml",
       "pubDate": "2026-10-19T23:32:19.000Z",
       "badgeColor": "amber",
-      "angle": "Technical Deep Dive"
+      "angle": "Official Release"
     },
     {
-      "id": "aws-ml-caf8c9cd8fb47f7d05ebc18e6193092824fb5c28",
-      "title": "Amazon SageMaker JumpStart Onboards Over 100 New Models in 2026",
-      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-10-19T21:14:44.000Z",
-      "badgeColor": "amber",
-      "angle": "Market Impact"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3178312",
+      "title": "Hugging Face's Policy Chief Warns Against Easy Solutions in AI Benchmarking",
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-19T22:49:27.000Z",
+      "badgeColor": "emerald",
+      "angle": "Critical Debate"
     }
   ]
 }
