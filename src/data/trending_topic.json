@@ -1,39 +1,48 @@
 {
-  "headline": "US National Security Concerns Drive Ban on Chinese AI",
-  "summary": "The United States has mandated that federal civilian agencies remove DeepSeek AI products and services due to national security concerns, signaling a broader trend of increased scrutiny and regulation of foreign AI technologies.",
-  "whyItMatters": "This ban highlights the growing geopolitical tensions surrounding AI, potentially leading to stricter regulations and a shift in the global AI landscape.",
-  "synthesizedAt": "2026-10-20T13:48:27.531Z",
+  "headline": "AWS Expands OpenAI Model Access, Shifting AI Landscape",
+  "summary": "AWS has expanded access to advanced OpenAI GPT models through Amazon Bedrock, enabling Canadian organizations to leverage cutting-edge AI capabilities across multiple regions. This move is reshaping the AI landscape by democratizing access to powerful models and potentially reducing reliance on proprietary platforms.",
+  "whyItMatters": "It broadens access to advanced AI models and could reduce the dominance of closed proprietary platforms, fostering more competitive and innovative ecosystems.",
+  "synthesizedAt": "2026-10-20T16:56:58.151Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3179571",
-    "title": "US Directs Federal Agencies to Ban China’s DeepSeek AI Over National Security Concerns",
-    "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-10-20T13:07:24.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Ban"
+    "id": "aws-ml-64795cdbf69a431d795a47585bec95352a07ed61",
+    "title": "Amazon Bedrock Expands OpenAI GPT Model Access in Canada with Cross-Region Inference",
+    "link": "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/",
+    "sourceName": "AWS Machine Learning",
+    "sourceId": "aws-ml",
+    "pubDate": "2026-10-20T16:42:53.000Z",
+    "badgeColor": "amber",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41740",
-      "title": "US Prohibits Federal Civilian Agencies from Using Deepseek AI Technology",
-      "link": "https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-20T11:34:54.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Impact"
+      "id": "aws-ml-d3c3a7c789540007b485ac6f7137782fb5e6c556",
+      "title": "Eon Deploys Unified Multi-Cloud Access via Amazon Bedrock AgentCore Gateway",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-10-20T15:57:57.000Z",
+      "badgeColor": "amber",
+      "angle": "Multi-Cloud Integration"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3179487",
-      "title": "Nscale and Anthropic Reportedly Engage in Talks for Another $45 Billion Compute Deal",
-      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-19T23:39:38.000Z",
-      "badgeColor": "emerald",
-      "angle": "Market Reaction"
+      "id": "aws-ml-35a19d20a9faf60985c6eccdb143b93a0781a1a3",
+      "title": "AWS Launches Denodo Platform Integration with Amazon Bedrock AgentCore for Agentic AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-10-20T15:39:04.000Z",
+      "badgeColor": "amber",
+      "angle": "Semantic Layer Integration"
+    },
+    {
+      "id": "aws-ml-27b90480a1f289c553a54c263feab25503621afe",
+      "title": "Strategy Mosaic and Amazon Bedrock AgentCore Enable Scalable Semantic Layer for Agentic AI on AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-strategy-mosaic-and-amazon-bedrock-agentcore/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-10-20T15:36:39.000Z",
+      "badgeColor": "amber"
     }
   ]
 }

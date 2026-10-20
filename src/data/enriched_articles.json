@@ -78541,5 +78541,581 @@
     "whyItMatters": "By integrating MPS, PyTorch 2.15 enhances the AI development experience on Apple devices, making it a more attractive choice for developers working on macOS and iOS, thereby broadening the ecosystem's reach and usability.",
     "enrichedAt": "2026-10-20T13:47:56.867Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-64795cdbf69a431d795a47585bec95352a07ed61": {
+    "title": "Amazon Bedrock Expands OpenAI GPT Model Access in Canada with Cross-Region Inference",
+    "summary": "Amazon Bedrock now offers Canadian organizations the ability to use advanced OpenAI GPT-5.6, GPT-6, and GPT-6.1 models across multiple regions, enhancing accessibility and flexibility for AI-powered applications. This expansion supports broader deployment of sophisticated language models in the region.",
+    "danishTitle": "Amazon Bedrock Expands OpenAI GPT Model Access in Canada with Cross-Region Inference",
+    "danishSummary": "Amazon Bedrock now offers Canadian organizations the ability to use advanced OpenAI GPT-5.6, GPT-6, and GPT-6.1 models across multiple regions, enhancing accessibility and flexibility for AI-powered applications. This expansion supports broader deployment of sophisticated language models in the region.",
+    "whyItMatters": "This expansion increases the geographical reach and availability of cutting-edge AI models, enabling Canadian businesses to leverage advanced natural language processing capabilities more effectively and efficiently.",
+    "enrichedAt": "2026-10-20T16:52:32.642Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference": {
+    "title": "Amazon Bedrock Expands OpenAI GPT Model Access in Canada with Cross-Region Inference",
+    "summary": "Amazon Bedrock now offers Canadian organizations the ability to use advanced OpenAI GPT-5.6, GPT-6, and GPT-6.1 models across multiple regions, enhancing accessibility and flexibility for AI-powered applications. This expansion supports broader deployment of sophisticated language models in the region.",
+    "danishTitle": "Amazon Bedrock Expands OpenAI GPT Model Access in Canada with Cross-Region Inference",
+    "danishSummary": "Amazon Bedrock now offers Canadian organizations the ability to use advanced OpenAI GPT-5.6, GPT-6, and GPT-6.1 models across multiple regions, enhancing accessibility and flexibility for AI-powered applications. This expansion supports broader deployment of sophisticated language models in the region.",
+    "whyItMatters": "This expansion increases the geographical reach and availability of cutting-edge AI models, enabling Canadian businesses to leverage advanced natural language processing capabilities more effectively and efficiently.",
+    "enrichedAt": "2026-10-20T16:52:32.642Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/": {
+    "title": "Amazon Bedrock Expands OpenAI GPT Model Access in Canada with Cross-Region Inference",
+    "summary": "Amazon Bedrock now offers Canadian organizations the ability to use advanced OpenAI GPT-5.6, GPT-6, and GPT-6.1 models across multiple regions, enhancing accessibility and flexibility for AI-powered applications. This expansion supports broader deployment of sophisticated language models in the region.",
+    "danishTitle": "Amazon Bedrock Expands OpenAI GPT Model Access in Canada with Cross-Region Inference",
+    "danishSummary": "Amazon Bedrock now offers Canadian organizations the ability to use advanced OpenAI GPT-5.6, GPT-6, and GPT-6.1 models across multiple regions, enhancing accessibility and flexibility for AI-powered applications. This expansion supports broader deployment of sophisticated language models in the region.",
+    "whyItMatters": "This expansion increases the geographical reach and availability of cutting-edge AI models, enabling Canadian businesses to leverage advanced natural language processing capabilities more effectively and efficiently.",
+    "enrichedAt": "2026-10-20T16:52:32.642Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "the-decoder-https://the-decoder.com/?p=41754": {
+    "title": "OpenAI Enhances GPT-6 for Legacy Programming Languages, Boosting Performance Significantly",
+    "summary": "OpenAI has improved its GPT-6 model to better understand and process legacy programming languages such as COBOL and Fortran, achieving an 87.4 percent test pass rate on the MultiLangBench benchmark, compared to about 38 percent previously. This advancement supports the modernization of older codebases and ensures continued utility in environments where these languages are still in use.",
+    "danishTitle": "OpenAI Enhances GPT-6 for Legacy Programming Languages, Boosting Performance Significantly",
+    "danishSummary": "OpenAI has improved its GPT-6 model to better understand and process legacy programming languages such as COBOL and Fortran, achieving an 87.4 percent test pass rate on the MultiLangBench benchmark, compared to about 38 percent previously. This advancement supports the modernization of older codebases and ensures continued utility in environments where these languages are still in use.",
+    "whyItMatters": "This improvement makes it more feasible to integrate and maintain legacy systems, reducing the risk and cost associated with modernizing older codebases, which is crucial for organizations that rely on these languages for critical operations.",
+    "enrichedAt": "2026-10-20T16:52:46.091Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran": {
+    "title": "OpenAI Enhances GPT-6 for Legacy Programming Languages, Boosting Performance Significantly",
+    "summary": "OpenAI has improved its GPT-6 model to better understand and process legacy programming languages such as COBOL and Fortran, achieving an 87.4 percent test pass rate on the MultiLangBench benchmark, compared to about 38 percent previously. This advancement supports the modernization of older codebases and ensures continued utility in environments where these languages are still in use.",
+    "danishTitle": "OpenAI Enhances GPT-6 for Legacy Programming Languages, Boosting Performance Significantly",
+    "danishSummary": "OpenAI has improved its GPT-6 model to better understand and process legacy programming languages such as COBOL and Fortran, achieving an 87.4 percent test pass rate on the MultiLangBench benchmark, compared to about 38 percent previously. This advancement supports the modernization of older codebases and ensures continued utility in environments where these languages are still in use.",
+    "whyItMatters": "This improvement makes it more feasible to integrate and maintain legacy systems, reducing the risk and cost associated with modernizing older codebases, which is crucial for organizations that rely on these languages for critical operations.",
+    "enrichedAt": "2026-10-20T16:52:46.091Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/": {
+    "title": "OpenAI Enhances GPT-6 for Legacy Programming Languages, Boosting Performance Significantly",
+    "summary": "OpenAI has improved its GPT-6 model to better understand and process legacy programming languages such as COBOL and Fortran, achieving an 87.4 percent test pass rate on the MultiLangBench benchmark, compared to about 38 percent previously. This advancement supports the modernization of older codebases and ensures continued utility in environments where these languages are still in use.",
+    "danishTitle": "OpenAI Enhances GPT-6 for Legacy Programming Languages, Boosting Performance Significantly",
+    "danishSummary": "OpenAI has improved its GPT-6 model to better understand and process legacy programming languages such as COBOL and Fortran, achieving an 87.4 percent test pass rate on the MultiLangBench benchmark, compared to about 38 percent previously. This advancement supports the modernization of older codebases and ensures continued utility in environments where these languages are still in use.",
+    "whyItMatters": "This improvement makes it more feasible to integrate and maintain legacy systems, reducing the risk and cost associated with modernizing older codebases, which is crucial for organizations that rely on these languages for critical operations.",
+    "enrichedAt": "2026-10-20T16:52:46.091Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-3a6f4d4b37bd5f432ae64ac9368553ce7e94b9ac": {
+    "title": "AWS Launches AWS Agent Registry for Dynamic Tool Discovery and Orchestration",
+    "summary": "AWS has introduced the AWS Agent Registry, a tool designed to dynamically discover, instantiate, and execute tools at runtime, addressing the limitations of hardcoded wiring as an agent's tool catalog expands. This solution enhances flexibility and scalability in machine learning workflows.",
+    "danishTitle": "AWS Launches AWS Agent Registry for Dynamic Tool Discovery and Orchestration",
+    "danishSummary": "AWS has introduced the AWS Agent Registry, a tool designed to dynamically discover, instantiate, and execute tools at runtime, addressing the limitations of hardcoded wiring as an agent's tool catalog expands. This solution enhances flexibility and scalability in machine learning workflows.",
+    "whyItMatters": "By enabling real-time tool discovery and orchestration, the AWS Agent Registry streamlines complex ML workflows, making it easier for enterprises to manage and scale their AI operations efficiently.",
+    "enrichedAt": "2026-10-20T16:52:55.986Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry": {
+    "title": "AWS Launches AWS Agent Registry for Dynamic Tool Discovery and Orchestration",
+    "summary": "AWS has introduced the AWS Agent Registry, a tool designed to dynamically discover, instantiate, and execute tools at runtime, addressing the limitations of hardcoded wiring as an agent's tool catalog expands. This solution enhances flexibility and scalability in machine learning workflows.",
+    "danishTitle": "AWS Launches AWS Agent Registry for Dynamic Tool Discovery and Orchestration",
+    "danishSummary": "AWS has introduced the AWS Agent Registry, a tool designed to dynamically discover, instantiate, and execute tools at runtime, addressing the limitations of hardcoded wiring as an agent's tool catalog expands. This solution enhances flexibility and scalability in machine learning workflows.",
+    "whyItMatters": "By enabling real-time tool discovery and orchestration, the AWS Agent Registry streamlines complex ML workflows, making it easier for enterprises to manage and scale their AI operations efficiently.",
+    "enrichedAt": "2026-10-20T16:52:55.986Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry/": {
+    "title": "AWS Launches AWS Agent Registry for Dynamic Tool Discovery and Orchestration",
+    "summary": "AWS has introduced the AWS Agent Registry, a tool designed to dynamically discover, instantiate, and execute tools at runtime, addressing the limitations of hardcoded wiring as an agent's tool catalog expands. This solution enhances flexibility and scalability in machine learning workflows.",
+    "danishTitle": "AWS Launches AWS Agent Registry for Dynamic Tool Discovery and Orchestration",
+    "danishSummary": "AWS has introduced the AWS Agent Registry, a tool designed to dynamically discover, instantiate, and execute tools at runtime, addressing the limitations of hardcoded wiring as an agent's tool catalog expands. This solution enhances flexibility and scalability in machine learning workflows.",
+    "whyItMatters": "By enabling real-time tool discovery and orchestration, the AWS Agent Registry streamlines complex ML workflows, making it easier for enterprises to manage and scale their AI operations efficiently.",
+    "enrichedAt": "2026-10-20T16:52:55.986Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "tech-policy-press-https://techpolicy.press/ai-hype-helped-google-dodge-an-antitrust-breakup-what-comes-next": {
+    "title": "AI Hype Enabled Google to Avoid Antitrust Split, but the Future Remains Uncertain",
+    "summary": "The article discusses how Google leveraged the public's fascination with artificial intelligence to sidestep an antitrust breakup, focusing on the implications of this strategy for the tech industry and regulatory oversight. It explores the potential consequences as AI technologies continue to evolve and gain prominence.",
+    "danishTitle": "AI Hype Enabled Google to Avoid Antitrust Split, but the Future Remains Uncertain",
+    "danishSummary": "The article discusses how Google leveraged the public's fascination with artificial intelligence to sidestep an antitrust breakup, focusing on the implications of this strategy for the tech industry and regulatory oversight. It explores the potential consequences as AI technologies continue to evolve and gain prominence.",
+    "whyItMatters": "The outcome highlights the critical role of public perception in shaping regulatory outcomes and underscores the need for ongoing scrutiny and adaptation in AI policy.",
+    "enrichedAt": "2026-10-20T16:53:05.663Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techpolicy.press/ai-hype-helped-google-dodge-an-antitrust-breakup-what-comes-next": {
+    "title": "AI Hype Enabled Google to Avoid Antitrust Split, but the Future Remains Uncertain",
+    "summary": "The article discusses how Google leveraged the public's fascination with artificial intelligence to sidestep an antitrust breakup, focusing on the implications of this strategy for the tech industry and regulatory oversight. It explores the potential consequences as AI technologies continue to evolve and gain prominence.",
+    "danishTitle": "AI Hype Enabled Google to Avoid Antitrust Split, but the Future Remains Uncertain",
+    "danishSummary": "The article discusses how Google leveraged the public's fascination with artificial intelligence to sidestep an antitrust breakup, focusing on the implications of this strategy for the tech industry and regulatory oversight. It explores the potential consequences as AI technologies continue to evolve and gain prominence.",
+    "whyItMatters": "The outcome highlights the critical role of public perception in shaping regulatory outcomes and underscores the need for ongoing scrutiny and adaptation in AI policy.",
+    "enrichedAt": "2026-10-20T16:53:05.663Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "huggingface-https://huggingface.co/blog/allenai/fairstress": {
+    "title": "FairStress: Hugging Face Evaluates Fairness in Large Language Model Decision-Making",
+    "summary": "Hugging Face has released FairStress, a tool designed to evaluate the fairness of decisions made by large language models (LLMs). This evaluation aims to identify and mitigate biases in LLMs, ensuring more equitable outcomes in various applications.",
+    "danishTitle": "FairStress: Hugging Face Evaluates Fairness in Large Language Model Decision-Making",
+    "danishSummary": "Hugging Face has released FairStress, a tool designed to evaluate the fairness of decisions made by large language models (LLMs). This evaluation aims to identify and mitigate biases in LLMs, ensuring more equitable outcomes in various applications.",
+    "whyItMatters": "By providing a robust framework for assessing LLM fairness, FairStress can help developers and organizations create more ethical and unbiased AI systems, fostering trust and responsible AI deployment.",
+    "enrichedAt": "2026-10-20T16:53:15.562Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://huggingface.co/blog/allenai/fairstress": {
+    "title": "FairStress: Hugging Face Evaluates Fairness in Large Language Model Decision-Making",
+    "summary": "Hugging Face has released FairStress, a tool designed to evaluate the fairness of decisions made by large language models (LLMs). This evaluation aims to identify and mitigate biases in LLMs, ensuring more equitable outcomes in various applications.",
+    "danishTitle": "FairStress: Hugging Face Evaluates Fairness in Large Language Model Decision-Making",
+    "danishSummary": "Hugging Face has released FairStress, a tool designed to evaluate the fairness of decisions made by large language models (LLMs). This evaluation aims to identify and mitigate biases in LLMs, ensuring more equitable outcomes in various applications.",
+    "whyItMatters": "By providing a robust framework for assessing LLM fairness, FairStress can help developers and organizations create more ethical and unbiased AI systems, fostering trust and responsible AI deployment.",
+    "enrichedAt": "2026-10-20T16:53:15.562Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-05547fd2bd22554636c30cf4bb67047887b0d94a": {
+    "title": "AWS Introduces X.509 PKI for Secure Multi-Agent AI Systems",
+    "summary": "AWS has partnered with Keyfactor EJBCA to introduce a reference architecture that secures multi-agent AI systems using X.509 Public Key Infrastructure (PKI) on AWS services. This approach employs signed request envelopes and user-signed delegation assertions to enhance security.",
+    "danishTitle": "AWS Introduces X.509 PKI for Secure Multi-Agent AI Systems",
+    "danishSummary": "AWS has partnered with Keyfactor EJBCA to introduce a reference architecture that secures multi-agent AI systems using X.509 Public Key Infrastructure (PKI) on AWS services. This approach employs signed request envelopes and user-signed delegation assertions to enhance security.",
+    "whyItMatters": "This solution addresses critical security challenges in AI systems, enabling more robust and scalable identity management, which is essential for enterprise adoption and compliance in sensitive applications.",
+    "enrichedAt": "2026-10-20T16:53:26.001Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws": {
+    "title": "AWS Introduces X.509 PKI for Secure Multi-Agent AI Systems",
+    "summary": "AWS has partnered with Keyfactor EJBCA to introduce a reference architecture that secures multi-agent AI systems using X.509 Public Key Infrastructure (PKI) on AWS services. This approach employs signed request envelopes and user-signed delegation assertions to enhance security.",
+    "danishTitle": "AWS Introduces X.509 PKI for Secure Multi-Agent AI Systems",
+    "danishSummary": "AWS has partnered with Keyfactor EJBCA to introduce a reference architecture that secures multi-agent AI systems using X.509 Public Key Infrastructure (PKI) on AWS services. This approach employs signed request envelopes and user-signed delegation assertions to enhance security.",
+    "whyItMatters": "This solution addresses critical security challenges in AI systems, enabling more robust and scalable identity management, which is essential for enterprise adoption and compliance in sensitive applications.",
+    "enrichedAt": "2026-10-20T16:53:26.001Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws/": {
+    "title": "AWS Introduces X.509 PKI for Secure Multi-Agent AI Systems",
+    "summary": "AWS has partnered with Keyfactor EJBCA to introduce a reference architecture that secures multi-agent AI systems using X.509 Public Key Infrastructure (PKI) on AWS services. This approach employs signed request envelopes and user-signed delegation assertions to enhance security.",
+    "danishTitle": "AWS Introduces X.509 PKI for Secure Multi-Agent AI Systems",
+    "danishSummary": "AWS has partnered with Keyfactor EJBCA to introduce a reference architecture that secures multi-agent AI systems using X.509 Public Key Infrastructure (PKI) on AWS services. This approach employs signed request envelopes and user-signed delegation assertions to enhance security.",
+    "whyItMatters": "This solution addresses critical security challenges in AI systems, enabling more robust and scalable identity management, which is essential for enterprise adoption and compliance in sensitive applications.",
+    "enrichedAt": "2026-10-20T16:53:26.001Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "weights-and-biases-yt:video:lkQuBRWnOaA": {
+    "title": "CoreWeave CEO Mike Intrator Discusses the Unrelenting Pace of AI Innovation",
+    "summary": "In a recent video, CoreWeave CEO Mike Intrator reflects on the rapid advancements in AI, emphasizing the constant demand and the importance of strategic partnerships. He highlights the growing recognition of AI's transformative potential and the need for robust financing to support this progress.",
+    "danishTitle": "CoreWeave CEO Mike Intrator Discusses the Unrelenting Pace of AI Innovation",
+    "danishSummary": "In a recent video, CoreWeave CEO Mike Intrator reflects on the rapid advancements in AI, emphasizing the constant demand and the importance of strategic partnerships. He highlights the growing recognition of AI's transformative potential and the need for robust financing to support this progress.",
+    "whyItMatters": "Intrator's insights underscore the critical role of strong partnerships and investment in keeping up with AI's accelerating development, which is essential for both industry leaders and emerging players.",
+    "enrichedAt": "2026-10-20T16:53:36.622Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:lkqubrwnoaa": {
+    "title": "CoreWeave CEO Mike Intrator Discusses the Unrelenting Pace of AI Innovation",
+    "summary": "In a recent video, CoreWeave CEO Mike Intrator reflects on the rapid advancements in AI, emphasizing the constant demand and the importance of strategic partnerships. He highlights the growing recognition of AI's transformative potential and the need for robust financing to support this progress.",
+    "danishTitle": "CoreWeave CEO Mike Intrator Discusses the Unrelenting Pace of AI Innovation",
+    "danishSummary": "In a recent video, CoreWeave CEO Mike Intrator reflects on the rapid advancements in AI, emphasizing the constant demand and the importance of strategic partnerships. He highlights the growing recognition of AI's transformative potential and the need for robust financing to support this progress.",
+    "whyItMatters": "Intrator's insights underscore the critical role of strong partnerships and investment in keeping up with AI's accelerating development, which is essential for both industry leaders and emerging players.",
+    "enrichedAt": "2026-10-20T16:53:36.622Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/shorts/lkQuBRWnOaA": {
+    "title": "CoreWeave CEO Mike Intrator Discusses the Unrelenting Pace of AI Innovation",
+    "summary": "In a recent video, CoreWeave CEO Mike Intrator reflects on the rapid advancements in AI, emphasizing the constant demand and the importance of strategic partnerships. He highlights the growing recognition of AI's transformative potential and the need for robust financing to support this progress.",
+    "danishTitle": "CoreWeave CEO Mike Intrator Discusses the Unrelenting Pace of AI Innovation",
+    "danishSummary": "In a recent video, CoreWeave CEO Mike Intrator reflects on the rapid advancements in AI, emphasizing the constant demand and the importance of strategic partnerships. He highlights the growing recognition of AI's transformative potential and the need for robust financing to support this progress.",
+    "whyItMatters": "Intrator's insights underscore the critical role of strong partnerships and investment in keeping up with AI's accelerating development, which is essential for both industry leaders and emerging players.",
+    "enrichedAt": "2026-10-20T16:53:36.622Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "stanford-cs25-yt:video:pSBhRF6j-Zc": {
+    "title": "Stanford University Explores Parametric Filtering Techniques in Robotic Autonomy Course",
+    "summary": "In a 2019 lecture from Stanford University’s CS25 — Transformers United, the principles of parametric filtering, including Kalman Filters (KF), Extended Kalman Filters (EKF), and Unscented Kalman Filters (UKF), are discussed as fundamental tools in robotic autonomy. The lecture provides insights into advanced filtering methods crucial for state estimation in robotic systems.",
+    "danishTitle": "Stanford University Explores Parametric Filtering Techniques in Robotic Autonomy Course",
+    "danishSummary": "In a 2019 lecture from Stanford University’s CS25 — Transformers United, the principles of parametric filtering, including Kalman Filters (KF), Extended Kalman Filters (EKF), and Unscented Kalman Filters (UKF), are discussed as fundamental tools in robotic autonomy. The lecture provides insights into advanced filtering methods crucial for state estimation in robotic systems.",
+    "whyItMatters": "Understanding these filtering techniques is essential for developers and researchers working on autonomous robotics, as they form the backbone of accurate state estimation and decision-making processes in robotic systems.",
+    "enrichedAt": "2026-10-20T16:53:48.901Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:psbhrf6j-zc": {
+    "title": "Stanford University Explores Parametric Filtering Techniques in Robotic Autonomy Course",
+    "summary": "In a 2019 lecture from Stanford University’s CS25 — Transformers United, the principles of parametric filtering, including Kalman Filters (KF), Extended Kalman Filters (EKF), and Unscented Kalman Filters (UKF), are discussed as fundamental tools in robotic autonomy. The lecture provides insights into advanced filtering methods crucial for state estimation in robotic systems.",
+    "danishTitle": "Stanford University Explores Parametric Filtering Techniques in Robotic Autonomy Course",
+    "danishSummary": "In a 2019 lecture from Stanford University’s CS25 — Transformers United, the principles of parametric filtering, including Kalman Filters (KF), Extended Kalman Filters (EKF), and Unscented Kalman Filters (UKF), are discussed as fundamental tools in robotic autonomy. The lecture provides insights into advanced filtering methods crucial for state estimation in robotic systems.",
+    "whyItMatters": "Understanding these filtering techniques is essential for developers and researchers working on autonomous robotics, as they form the backbone of accurate state estimation and decision-making processes in robotic systems.",
+    "enrichedAt": "2026-10-20T16:53:48.901Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=pSBhRF6j-Zc": {
+    "title": "Stanford University Explores Parametric Filtering Techniques in Robotic Autonomy Course",
+    "summary": "In a 2019 lecture from Stanford University’s CS25 — Transformers United, the principles of parametric filtering, including Kalman Filters (KF), Extended Kalman Filters (EKF), and Unscented Kalman Filters (UKF), are discussed as fundamental tools in robotic autonomy. The lecture provides insights into advanced filtering methods crucial for state estimation in robotic systems.",
+    "danishTitle": "Stanford University Explores Parametric Filtering Techniques in Robotic Autonomy Course",
+    "danishSummary": "In a 2019 lecture from Stanford University’s CS25 — Transformers United, the principles of parametric filtering, including Kalman Filters (KF), Extended Kalman Filters (EKF), and Unscented Kalman Filters (UKF), are discussed as fundamental tools in robotic autonomy. The lecture provides insights into advanced filtering methods crucial for state estimation in robotic systems.",
+    "whyItMatters": "Understanding these filtering techniques is essential for developers and researchers working on autonomous robotics, as they form the backbone of accurate state estimation and decision-making processes in robotic systems.",
+    "enrichedAt": "2026-10-20T16:53:48.901Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3179291": {
+    "title": "Startup Develops AI Model to Translate Plants' Electrical Signals",
+    "summary": "Electric Plant, a tech startup, has created an AI-powered translator to interpret the electrical signals emitted by plants, enabling humans to understand the messages plants convey through their stems. This breakthrough could lead to new insights in agriculture and environmental monitoring.",
+    "danishTitle": "Startup Develops AI Model to Translate Plants' Electrical Signals",
+    "danishSummary": "Electric Plant, a tech startup, has created an AI-powered translator to interpret the electrical signals emitted by plants, enabling humans to understand the messages plants convey through their stems. This breakthrough could lead to new insights in agriculture and environmental monitoring.",
+    "whyItMatters": "This technology could revolutionize our understanding of plant communication, potentially leading to more sustainable and efficient agricultural practices.",
+    "enrichedAt": "2026-10-20T16:53:57.710Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language": {
+    "title": "Startup Develops AI Model to Translate Plants' Electrical Signals",
+    "summary": "Electric Plant, a tech startup, has created an AI-powered translator to interpret the electrical signals emitted by plants, enabling humans to understand the messages plants convey through their stems. This breakthrough could lead to new insights in agriculture and environmental monitoring.",
+    "danishTitle": "Startup Develops AI Model to Translate Plants' Electrical Signals",
+    "danishSummary": "Electric Plant, a tech startup, has created an AI-powered translator to interpret the electrical signals emitted by plants, enabling humans to understand the messages plants convey through their stems. This breakthrough could lead to new insights in agriculture and environmental monitoring.",
+    "whyItMatters": "This technology could revolutionize our understanding of plant communication, potentially leading to more sustainable and efficient agricultural practices.",
+    "enrichedAt": "2026-10-20T16:53:57.710Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/": {
+    "title": "Startup Develops AI Model to Translate Plants' Electrical Signals",
+    "summary": "Electric Plant, a tech startup, has created an AI-powered translator to interpret the electrical signals emitted by plants, enabling humans to understand the messages plants convey through their stems. This breakthrough could lead to new insights in agriculture and environmental monitoring.",
+    "danishTitle": "Startup Develops AI Model to Translate Plants' Electrical Signals",
+    "danishSummary": "Electric Plant, a tech startup, has created an AI-powered translator to interpret the electrical signals emitted by plants, enabling humans to understand the messages plants convey through their stems. This breakthrough could lead to new insights in agriculture and environmental monitoring.",
+    "whyItMatters": "This technology could revolutionize our understanding of plant communication, potentially leading to more sustainable and efficient agricultural practices.",
+    "enrichedAt": "2026-10-20T16:53:57.710Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "one-useful-thing-https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts": {
+    "title": "30 Months On the Exponential: Ethan Mollick's Latest Insights Unveiled",
+    "summary": "Ethan Mollick's latest book, '30 Months on the Exponential in Charts,' delves into the rapid advancements and trends in technology over the past three years, providing visual insights through charts and data analysis.",
+    "danishTitle": "30 Months On the Exponential: Ethan Mollick's Latest Insights Unveiled",
+    "danishSummary": "Ethan Mollick's latest book, '30 Months on the Exponential in Charts,' delves into the rapid advancements and trends in technology over the past three years, providing visual insights through charts and data analysis.",
+    "whyItMatters": "The book offers critical perspectives and data-driven insights for tech professionals and policymakers to navigate the evolving landscape of exponential growth in technology.",
+    "enrichedAt": "2026-10-20T16:54:06.788Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts": {
+    "title": "30 Months On the Exponential: Ethan Mollick's Latest Insights Unveiled",
+    "summary": "Ethan Mollick's latest book, '30 Months on the Exponential in Charts,' delves into the rapid advancements and trends in technology over the past three years, providing visual insights through charts and data analysis.",
+    "danishTitle": "30 Months On the Exponential: Ethan Mollick's Latest Insights Unveiled",
+    "danishSummary": "Ethan Mollick's latest book, '30 Months on the Exponential in Charts,' delves into the rapid advancements and trends in technology over the past three years, providing visual insights through charts and data analysis.",
+    "whyItMatters": "The book offers critical perspectives and data-driven insights for tech professionals and policymakers to navigate the evolving landscape of exponential growth in technology.",
+    "enrichedAt": "2026-10-20T16:54:06.788Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-d3c3a7c789540007b485ac6f7137782fb5e6c556": {
+    "title": "Eon Deploys Unified Multi-Cloud Access via Amazon Bedrock AgentCore Gateway",
+    "summary": "Eon has implemented a unified multi-cloud investigation solution using Amazon Bedrock AgentCore, which acts as a single authenticated gateway to AWS, GCP, and Azure. This move simplifies credential management and enhances access for over 100 developers and autonomous agents, streamlining cross-cloud operations.",
+    "danishTitle": "Eon Deploys Unified Multi-Cloud Access via Amazon Bedrock AgentCore Gateway",
+    "danishSummary": "Eon has implemented a unified multi-cloud investigation solution using Amazon Bedrock AgentCore, which acts as a single authenticated gateway to AWS, GCP, and Azure. This move simplifies credential management and enhances access for over 100 developers and autonomous agents, streamlining cross-cloud operations.",
+    "whyItMatters": "By centralizing cloud access, Eon’s implementation reduces security risks and operational complexity, setting a precedent for enterprises seeking to optimize multi-cloud environments.",
+    "enrichedAt": "2026-10-20T16:54:17.472Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore": {
+    "title": "Eon Deploys Unified Multi-Cloud Access via Amazon Bedrock AgentCore Gateway",
+    "summary": "Eon has implemented a unified multi-cloud investigation solution using Amazon Bedrock AgentCore, which acts as a single authenticated gateway to AWS, GCP, and Azure. This move simplifies credential management and enhances access for over 100 developers and autonomous agents, streamlining cross-cloud operations.",
+    "danishTitle": "Eon Deploys Unified Multi-Cloud Access via Amazon Bedrock AgentCore Gateway",
+    "danishSummary": "Eon has implemented a unified multi-cloud investigation solution using Amazon Bedrock AgentCore, which acts as a single authenticated gateway to AWS, GCP, and Azure. This move simplifies credential management and enhances access for over 100 developers and autonomous agents, streamlining cross-cloud operations.",
+    "whyItMatters": "By centralizing cloud access, Eon’s implementation reduces security risks and operational complexity, setting a precedent for enterprises seeking to optimize multi-cloud environments.",
+    "enrichedAt": "2026-10-20T16:54:17.472Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore/": {
+    "title": "Eon Deploys Unified Multi-Cloud Access via Amazon Bedrock AgentCore Gateway",
+    "summary": "Eon has implemented a unified multi-cloud investigation solution using Amazon Bedrock AgentCore, which acts as a single authenticated gateway to AWS, GCP, and Azure. This move simplifies credential management and enhances access for over 100 developers and autonomous agents, streamlining cross-cloud operations.",
+    "danishTitle": "Eon Deploys Unified Multi-Cloud Access via Amazon Bedrock AgentCore Gateway",
+    "danishSummary": "Eon has implemented a unified multi-cloud investigation solution using Amazon Bedrock AgentCore, which acts as a single authenticated gateway to AWS, GCP, and Azure. This move simplifies credential management and enhances access for over 100 developers and autonomous agents, streamlining cross-cloud operations.",
+    "whyItMatters": "By centralizing cloud access, Eon’s implementation reduces security risks and operational complexity, setting a precedent for enterprises seeking to optimize multi-cloud environments.",
+    "enrichedAt": "2026-10-20T16:54:17.472Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "weights-and-biases-yt:video:_u-Ep6rAKM4": {
+    "title": "Axiom Math Founder Carina Hong Discusses AI-Powered Math Innovations with CoreWeave",
+    "summary": "In a recent video, Carina Hong, founder of Axiom Math, details how her company leverages CoreWeave’s ARENA platform to accelerate mathematical conjecture solving, reducing what used to be a lifetime of work into mere minutes through advanced AI models.",
+    "danishTitle": "Axiom Math Founder Carina Hong Discusses AI-Powered Math Innovations with CoreWeave",
+    "danishSummary": "In a recent video, Carina Hong, founder of Axiom Math, details how her company leverages CoreWeave’s ARENA platform to accelerate mathematical conjecture solving, reducing what used to be a lifetime of work into mere minutes through advanced AI models.",
+    "whyItMatters": "This collaboration highlights the potential of AI in transforming complex mathematical research, making breakthroughs more accessible and rapid, which could have significant implications for various scientific and technological fields.",
+    "enrichedAt": "2026-10-20T16:54:28.272Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:_u-ep6rakm4": {
+    "title": "Axiom Math Founder Carina Hong Discusses AI-Powered Math Innovations with CoreWeave",
+    "summary": "In a recent video, Carina Hong, founder of Axiom Math, details how her company leverages CoreWeave’s ARENA platform to accelerate mathematical conjecture solving, reducing what used to be a lifetime of work into mere minutes through advanced AI models.",
+    "danishTitle": "Axiom Math Founder Carina Hong Discusses AI-Powered Math Innovations with CoreWeave",
+    "danishSummary": "In a recent video, Carina Hong, founder of Axiom Math, details how her company leverages CoreWeave’s ARENA platform to accelerate mathematical conjecture solving, reducing what used to be a lifetime of work into mere minutes through advanced AI models.",
+    "whyItMatters": "This collaboration highlights the potential of AI in transforming complex mathematical research, making breakthroughs more accessible and rapid, which could have significant implications for various scientific and technological fields.",
+    "enrichedAt": "2026-10-20T16:54:28.272Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=_u-Ep6rAKM4": {
+    "title": "Axiom Math Founder Carina Hong Discusses AI-Powered Math Innovations with CoreWeave",
+    "summary": "In a recent video, Carina Hong, founder of Axiom Math, details how her company leverages CoreWeave’s ARENA platform to accelerate mathematical conjecture solving, reducing what used to be a lifetime of work into mere minutes through advanced AI models.",
+    "danishTitle": "Axiom Math Founder Carina Hong Discusses AI-Powered Math Innovations with CoreWeave",
+    "danishSummary": "In a recent video, Carina Hong, founder of Axiom Math, details how her company leverages CoreWeave’s ARENA platform to accelerate mathematical conjecture solving, reducing what used to be a lifetime of work into mere minutes through advanced AI models.",
+    "whyItMatters": "This collaboration highlights the potential of AI in transforming complex mathematical research, making breakthroughs more accessible and rapid, which could have significant implications for various scientific and technological fields.",
+    "enrichedAt": "2026-10-20T16:54:28.272Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-35a19d20a9faf60985c6eccdb143b93a0781a1a3": {
+    "title": "AWS Launches Denodo Platform Integration with Amazon Bedrock AgentCore for Agentic AI",
+    "summary": "AWS has partnered with Denodo to introduce a semantic layer for agentic AI, leveraging Denodo Platform and Amazon Bedrock AgentCore to integrate and analyze data from various sources, including Amazon Aurora, Amazon Redshift, and on-premises databases, to provide a unified customer 360 view.",
+    "danishTitle": "AWS Launches Denodo Platform Integration with Amazon Bedrock AgentCore for Agentic AI",
+    "danishSummary": "AWS has partnered with Denodo to introduce a semantic layer for agentic AI, leveraging Denodo Platform and Amazon Bedrock AgentCore to integrate and analyze data from various sources, including Amazon Aurora, Amazon Redshift, and on-premises databases, to provide a unified customer 360 view.",
+    "whyItMatters": "This integration enhances data governance and analysis capabilities, enabling more sophisticated and context-aware AI applications, which is crucial for enterprises looking to leverage agentic AI in customer service and operations.",
+    "enrichedAt": "2026-10-20T16:54:39.650Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore": {
+    "title": "AWS Launches Denodo Platform Integration with Amazon Bedrock AgentCore for Agentic AI",
+    "summary": "AWS has partnered with Denodo to introduce a semantic layer for agentic AI, leveraging Denodo Platform and Amazon Bedrock AgentCore to integrate and analyze data from various sources, including Amazon Aurora, Amazon Redshift, and on-premises databases, to provide a unified customer 360 view.",
+    "danishTitle": "AWS Launches Denodo Platform Integration with Amazon Bedrock AgentCore for Agentic AI",
+    "danishSummary": "AWS has partnered with Denodo to introduce a semantic layer for agentic AI, leveraging Denodo Platform and Amazon Bedrock AgentCore to integrate and analyze data from various sources, including Amazon Aurora, Amazon Redshift, and on-premises databases, to provide a unified customer 360 view.",
+    "whyItMatters": "This integration enhances data governance and analysis capabilities, enabling more sophisticated and context-aware AI applications, which is crucial for enterprises looking to leverage agentic AI in customer service and operations.",
+    "enrichedAt": "2026-10-20T16:54:39.650Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore/": {
+    "title": "AWS Launches Denodo Platform Integration with Amazon Bedrock AgentCore for Agentic AI",
+    "summary": "AWS has partnered with Denodo to introduce a semantic layer for agentic AI, leveraging Denodo Platform and Amazon Bedrock AgentCore to integrate and analyze data from various sources, including Amazon Aurora, Amazon Redshift, and on-premises databases, to provide a unified customer 360 view.",
+    "danishTitle": "AWS Launches Denodo Platform Integration with Amazon Bedrock AgentCore for Agentic AI",
+    "danishSummary": "AWS has partnered with Denodo to introduce a semantic layer for agentic AI, leveraging Denodo Platform and Amazon Bedrock AgentCore to integrate and analyze data from various sources, including Amazon Aurora, Amazon Redshift, and on-premises databases, to provide a unified customer 360 view.",
+    "whyItMatters": "This integration enhances data governance and analysis capabilities, enabling more sophisticated and context-aware AI applications, which is crucial for enterprises looking to leverage agentic AI in customer service and operations.",
+    "enrichedAt": "2026-10-20T16:54:39.650Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-27b90480a1f289c553a54c263feab25503621afe": {
+    "title": "Strategy Mosaic and Amazon Bedrock AgentCore Enable Scalable Semantic Layer for Agentic AI on AWS",
+    "summary": "AWS has released a new approach to building a semantic layer for agentic AI, leveraging Strategy Mosaic and Amazon Bedrock AgentCore. This method integrates data from Amazon Redshift and Amazon Aurora, exposes it to Strands agents, and ensures secure access and management.",
+    "danishTitle": "Strategy Mosaic and Amazon Bedrock AgentCore Enable Scalable Semantic Layer for Agentic AI on AWS",
+    "danishSummary": "AWS has released a new approach to building a semantic layer for agentic AI, leveraging Strategy Mosaic and Amazon Bedrock AgentCore. This method integrates data from Amazon Redshift and Amazon Aurora, exposes it to Strands agents, and ensures secure access and management.",
+    "whyItMatters": "This integration simplifies the deployment of advanced AI capabilities, making it easier for enterprises to manage and utilize agentic AI across their data ecosystems.",
+    "enrichedAt": "2026-10-20T16:54:50.107Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-strategy-mosaic-and-amazon-bedrock-agentcore": {
+    "title": "Strategy Mosaic and Amazon Bedrock AgentCore Enable Scalable Semantic Layer for Agentic AI on AWS",
+    "summary": "AWS has released a new approach to building a semantic layer for agentic AI, leveraging Strategy Mosaic and Amazon Bedrock AgentCore. This method integrates data from Amazon Redshift and Amazon Aurora, exposes it to Strands agents, and ensures secure access and management.",
+    "danishTitle": "Strategy Mosaic and Amazon Bedrock AgentCore Enable Scalable Semantic Layer for Agentic AI on AWS",
+    "danishSummary": "AWS has released a new approach to building a semantic layer for agentic AI, leveraging Strategy Mosaic and Amazon Bedrock AgentCore. This method integrates data from Amazon Redshift and Amazon Aurora, exposes it to Strands agents, and ensures secure access and management.",
+    "whyItMatters": "This integration simplifies the deployment of advanced AI capabilities, making it easier for enterprises to manage and utilize agentic AI across their data ecosystems.",
+    "enrichedAt": "2026-10-20T16:54:50.107Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-strategy-mosaic-and-amazon-bedrock-agentcore/": {
+    "title": "Strategy Mosaic and Amazon Bedrock AgentCore Enable Scalable Semantic Layer for Agentic AI on AWS",
+    "summary": "AWS has released a new approach to building a semantic layer for agentic AI, leveraging Strategy Mosaic and Amazon Bedrock AgentCore. This method integrates data from Amazon Redshift and Amazon Aurora, exposes it to Strands agents, and ensures secure access and management.",
+    "danishTitle": "Strategy Mosaic and Amazon Bedrock AgentCore Enable Scalable Semantic Layer for Agentic AI on AWS",
+    "danishSummary": "AWS has released a new approach to building a semantic layer for agentic AI, leveraging Strategy Mosaic and Amazon Bedrock AgentCore. This method integrates data from Amazon Redshift and Amazon Aurora, exposes it to Strands agents, and ensures secure access and management.",
+    "whyItMatters": "This integration simplifies the deployment of advanced AI capabilities, making it easier for enterprises to manage and utilize agentic AI across their data ecosystems.",
+    "enrichedAt": "2026-10-20T16:54:50.107Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-bd75beff5300c4d9af16336dedefd68e74f7e8fb": {
+    "title": "AWS Launches Semantic Layer Integration for Agentic AI with AtScale and Amazon Bedrock AgentCore",
+    "summary": "AWS has integrated AtScale for building a governed customer 360 model on Amazon Redshift, which is then exposed to Strands agents on Amazon Bedrock AgentCore via the AtScale MCP server. This setup includes identity propagation and role-based access control (RBAC) mechanisms.",
+    "danishTitle": "AWS Launches Semantic Layer Integration for Agentic AI with AtScale and Amazon Bedrock AgentCore",
+    "danishSummary": "AWS has integrated AtScale for building a governed customer 360 model on Amazon Redshift, which is then exposed to Strands agents on Amazon Bedrock AgentCore via the AtScale MCP server. This setup includes identity propagation and role-based access control (RBAC) mechanisms.",
+    "whyItMatters": "This integration enhances the governance and accessibility of data for agentic AI models, making it easier for enterprises to leverage advanced AI capabilities while maintaining data integrity and security.",
+    "enrichedAt": "2026-10-20T16:55:01.088Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-atscale-and-amazon-bedrock-agentcore": {
+    "title": "AWS Launches Semantic Layer Integration for Agentic AI with AtScale and Amazon Bedrock AgentCore",
+    "summary": "AWS has integrated AtScale for building a governed customer 360 model on Amazon Redshift, which is then exposed to Strands agents on Amazon Bedrock AgentCore via the AtScale MCP server. This setup includes identity propagation and role-based access control (RBAC) mechanisms.",
+    "danishTitle": "AWS Launches Semantic Layer Integration for Agentic AI with AtScale and Amazon Bedrock AgentCore",
+    "danishSummary": "AWS has integrated AtScale for building a governed customer 360 model on Amazon Redshift, which is then exposed to Strands agents on Amazon Bedrock AgentCore via the AtScale MCP server. This setup includes identity propagation and role-based access control (RBAC) mechanisms.",
+    "whyItMatters": "This integration enhances the governance and accessibility of data for agentic AI models, making it easier for enterprises to leverage advanced AI capabilities while maintaining data integrity and security.",
+    "enrichedAt": "2026-10-20T16:55:01.088Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-atscale-and-amazon-bedrock-agentcore/": {
+    "title": "AWS Launches Semantic Layer Integration for Agentic AI with AtScale and Amazon Bedrock AgentCore",
+    "summary": "AWS has integrated AtScale for building a governed customer 360 model on Amazon Redshift, which is then exposed to Strands agents on Amazon Bedrock AgentCore via the AtScale MCP server. This setup includes identity propagation and role-based access control (RBAC) mechanisms.",
+    "danishTitle": "AWS Launches Semantic Layer Integration for Agentic AI with AtScale and Amazon Bedrock AgentCore",
+    "danishSummary": "AWS has integrated AtScale for building a governed customer 360 model on Amazon Redshift, which is then exposed to Strands agents on Amazon Bedrock AgentCore via the AtScale MCP server. This setup includes identity propagation and role-based access control (RBAC) mechanisms.",
+    "whyItMatters": "This integration enhances the governance and accessibility of data for agentic AI models, making it easier for enterprises to leverage advanced AI capabilities while maintaining data integrity and security.",
+    "enrichedAt": "2026-10-20T16:55:01.088Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "mit-tech-review-https://www.technologyreview.com/?p=1146937": {
+    "title": "Enterprise AI Adoption Reaches Critical Mass, Driving Efficiency and Innovation",
+    "summary": "The MIT Technology Review discusses how the widespread adoption of AI in enterprises is transforming business processes, much like the introduction of electricity. As AI becomes an integral part of operations, companies are optimizing workflows and exploring new applications, leading to significant efficiency gains and innovation.",
+    "danishTitle": "Enterprise AI Adoption Reaches Critical Mass, Driving Efficiency and Innovation",
+    "danishSummary": "The MIT Technology Review discusses how the widespread adoption of AI in enterprises is transforming business processes, much like the introduction of electricity. As AI becomes an integral part of operations, companies are optimizing workflows and exploring new applications, leading to significant efficiency gains and innovation.",
+    "whyItMatters": "This shift signals a new era where AI is no longer a luxury but a necessity, driving competitive advantage and operational excellence across industries.",
+    "enrichedAt": "2026-10-20T16:55:10.636Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai": {
+    "title": "Enterprise AI Adoption Reaches Critical Mass, Driving Efficiency and Innovation",
+    "summary": "The MIT Technology Review discusses how the widespread adoption of AI in enterprises is transforming business processes, much like the introduction of electricity. As AI becomes an integral part of operations, companies are optimizing workflows and exploring new applications, leading to significant efficiency gains and innovation.",
+    "danishTitle": "Enterprise AI Adoption Reaches Critical Mass, Driving Efficiency and Innovation",
+    "danishSummary": "The MIT Technology Review discusses how the widespread adoption of AI in enterprises is transforming business processes, much like the introduction of electricity. As AI becomes an integral part of operations, companies are optimizing workflows and exploring new applications, leading to significant efficiency gains and innovation.",
+    "whyItMatters": "This shift signals a new era where AI is no longer a luxury but a necessity, driving competitive advantage and operational excellence across industries.",
+    "enrichedAt": "2026-10-20T16:55:10.636Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/": {
+    "title": "Enterprise AI Adoption Reaches Critical Mass, Driving Efficiency and Innovation",
+    "summary": "The MIT Technology Review discusses how the widespread adoption of AI in enterprises is transforming business processes, much like the introduction of electricity. As AI becomes an integral part of operations, companies are optimizing workflows and exploring new applications, leading to significant efficiency gains and innovation.",
+    "danishTitle": "Enterprise AI Adoption Reaches Critical Mass, Driving Efficiency and Innovation",
+    "danishSummary": "The MIT Technology Review discusses how the widespread adoption of AI in enterprises is transforming business processes, much like the introduction of electricity. As AI becomes an integral part of operations, companies are optimizing workflows and exploring new applications, leading to significant efficiency gains and innovation.",
+    "whyItMatters": "This shift signals a new era where AI is no longer a luxury but a necessity, driving competitive advantage and operational excellence across industries.",
+    "enrichedAt": "2026-10-20T16:55:10.636Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "huggingface-https://huggingface.co/blog/ibm-research/altk-evolve-bc": {
+    "title": "ALTK-Evolve Surpasses τ²-bench Leaderboard in Customer Service Tasks Without Using Frontier Models",
+    "summary": "Hugging Face's ALTK-Evolve model has achieved top performance on the τ²-bench leaderboard for customer service tasks, outperforming models that rely on frontier techniques. This breakthrough indicates a significant advancement in memory-based learning approaches for real-world applications.",
+    "danishTitle": "ALTK-Evolve Surpasses τ²-bench Leaderboard in Customer Service Tasks Without Using Frontier Models",
+    "danishSummary": "Hugging Face's ALTK-Evolve model has achieved top performance on the τ²-bench leaderboard for customer service tasks, outperforming models that rely on frontier techniques. This breakthrough indicates a significant advancement in memory-based learning approaches for real-world applications.",
+    "whyItMatters": "By demonstrating superior performance without frontier models, ALTK-Evolve could lead to more efficient and effective AI solutions in customer service, potentially reducing the complexity and cost of implementing advanced AI systems.",
+    "enrichedAt": "2026-10-20T16:55:21.395Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://huggingface.co/blog/ibm-research/altk-evolve-bc": {
+    "title": "ALTK-Evolve Surpasses τ²-bench Leaderboard in Customer Service Tasks Without Using Frontier Models",
+    "summary": "Hugging Face's ALTK-Evolve model has achieved top performance on the τ²-bench leaderboard for customer service tasks, outperforming models that rely on frontier techniques. This breakthrough indicates a significant advancement in memory-based learning approaches for real-world applications.",
+    "danishTitle": "ALTK-Evolve Surpasses τ²-bench Leaderboard in Customer Service Tasks Without Using Frontier Models",
+    "danishSummary": "Hugging Face's ALTK-Evolve model has achieved top performance on the τ²-bench leaderboard for customer service tasks, outperforming models that rely on frontier techniques. This breakthrough indicates a significant advancement in memory-based learning approaches for real-world applications.",
+    "whyItMatters": "By demonstrating superior performance without frontier models, ALTK-Evolve could lead to more efficient and effective AI solutions in customer service, potentially reducing the complexity and cost of implementing advanced AI systems.",
+    "enrichedAt": "2026-10-20T16:55:21.395Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "deeplearning-ai-yt:video:CUjHZlvQufk": {
+    "title": "Chroma's Jeff Huber Identifies Context Growth as Key Challenge for AI Agents",
+    "summary": "In a recent video from DeepLearning.AI, Jeff Huber discusses how the accumulation of repeated, contradictory, or outdated information in an AI agent's context degrades its performance over time. This issue, highlighted by Huber and his team at Chroma, is a critical challenge in the development of more robust and effective AI agents.",
+    "danishTitle": "Chroma's Jeff Huber Identifies Context Growth as Key Challenge for AI Agents",
+    "danishSummary": "In a recent video from DeepLearning.AI, Jeff Huber discusses how the accumulation of repeated, contradictory, or outdated information in an AI agent's context degrades its performance over time. This issue, highlighted by Huber and his team at Chroma, is a critical challenge in the development of more robust and effective AI agents.",
+    "whyItMatters": "Addressing context growth issues is essential for improving the longevity and reliability of AI systems, making them more suitable for long-term and complex applications.",
+    "enrichedAt": "2026-10-20T16:55:32.517Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:cujhzlvqufk": {
+    "title": "Chroma's Jeff Huber Identifies Context Growth as Key Challenge for AI Agents",
+    "summary": "In a recent video from DeepLearning.AI, Jeff Huber discusses how the accumulation of repeated, contradictory, or outdated information in an AI agent's context degrades its performance over time. This issue, highlighted by Huber and his team at Chroma, is a critical challenge in the development of more robust and effective AI agents.",
+    "danishTitle": "Chroma's Jeff Huber Identifies Context Growth as Key Challenge for AI Agents",
+    "danishSummary": "In a recent video from DeepLearning.AI, Jeff Huber discusses how the accumulation of repeated, contradictory, or outdated information in an AI agent's context degrades its performance over time. This issue, highlighted by Huber and his team at Chroma, is a critical challenge in the development of more robust and effective AI agents.",
+    "whyItMatters": "Addressing context growth issues is essential for improving the longevity and reliability of AI systems, making them more suitable for long-term and complex applications.",
+    "enrichedAt": "2026-10-20T16:55:32.517Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=CUjHZlvQufk": {
+    "title": "Chroma's Jeff Huber Identifies Context Growth as Key Challenge for AI Agents",
+    "summary": "In a recent video from DeepLearning.AI, Jeff Huber discusses how the accumulation of repeated, contradictory, or outdated information in an AI agent's context degrades its performance over time. This issue, highlighted by Huber and his team at Chroma, is a critical challenge in the development of more robust and effective AI agents.",
+    "danishTitle": "Chroma's Jeff Huber Identifies Context Growth as Key Challenge for AI Agents",
+    "danishSummary": "In a recent video from DeepLearning.AI, Jeff Huber discusses how the accumulation of repeated, contradictory, or outdated information in an AI agent's context degrades its performance over time. This issue, highlighted by Huber and his team at Chroma, is a critical challenge in the development of more robust and effective AI agents.",
+    "whyItMatters": "Addressing context growth issues is essential for improving the longevity and reliability of AI systems, making them more suitable for long-term and complex applications.",
+    "enrichedAt": "2026-10-20T16:55:32.517Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "statquest-yt:video:AgypoO13DJ0": {
+    "title": "StatQuest Launches Multiple Support Options to Enhance Community Engagement",
+    "summary": "StatQuest with Josh Starmer has introduced several new support options, including Patreon and YouTube Membership, to bolster community engagement and financial support for the educational content. These initiatives aim to provide more ways for viewers to contribute and stay connected with the channel.",
+    "danishTitle": "StatQuest Launches Multiple Support Options to Enhance Community Engagement",
+    "danishSummary": "StatQuest with Josh Starmer has introduced several new support options, including Patreon and YouTube Membership, to bolster community engagement and financial support for the educational content. These initiatives aim to provide more ways for viewers to contribute and stay connected with the channel.",
+    "whyItMatters": "Expanding support mechanisms can significantly boost the sustainability and reach of educational content, potentially attracting a broader audience and fostering a stronger community around complex technical topics.",
+    "enrichedAt": "2026-10-20T16:55:42.235Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:agypoo13dj0": {
+    "title": "StatQuest Launches Multiple Support Options to Enhance Community Engagement",
+    "summary": "StatQuest with Josh Starmer has introduced several new support options, including Patreon and YouTube Membership, to bolster community engagement and financial support for the educational content. These initiatives aim to provide more ways for viewers to contribute and stay connected with the channel.",
+    "danishTitle": "StatQuest Launches Multiple Support Options to Enhance Community Engagement",
+    "danishSummary": "StatQuest with Josh Starmer has introduced several new support options, including Patreon and YouTube Membership, to bolster community engagement and financial support for the educational content. These initiatives aim to provide more ways for viewers to contribute and stay connected with the channel.",
+    "whyItMatters": "Expanding support mechanisms can significantly boost the sustainability and reach of educational content, potentially attracting a broader audience and fostering a stronger community around complex technical topics.",
+    "enrichedAt": "2026-10-20T16:55:42.235Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=AgypoO13DJ0": {
+    "title": "StatQuest Launches Multiple Support Options to Enhance Community Engagement",
+    "summary": "StatQuest with Josh Starmer has introduced several new support options, including Patreon and YouTube Membership, to bolster community engagement and financial support for the educational content. These initiatives aim to provide more ways for viewers to contribute and stay connected with the channel.",
+    "danishTitle": "StatQuest Launches Multiple Support Options to Enhance Community Engagement",
+    "danishSummary": "StatQuest with Josh Starmer has introduced several new support options, including Patreon and YouTube Membership, to bolster community engagement and financial support for the educational content. These initiatives aim to provide more ways for viewers to contribute and stay connected with the channel.",
+    "whyItMatters": "Expanding support mechanisms can significantly boost the sustainability and reach of educational content, potentially attracting a broader audience and fostering a stronger community around complex technical topics.",
+    "enrichedAt": "2026-10-20T16:55:42.235Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3179569": {
+    "title": "Figma Co-Founder Critiques MCP Protocol, Emphasizes Data Privacy and Standardization",
+    "summary": "In a recent statement, Figma co-founder Dylan Field has expressed concerns about the MCP protocol, advocating for a more balanced approach that supports multiple standards while safeguarding user data. This stance highlights the ongoing challenges in balancing interoperability and data privacy in the tech industry.",
+    "danishTitle": "Figma Co-Founder Critiques MCP Protocol, Emphasizes Data Privacy and Standardization",
+    "danishSummary": "In a recent statement, Figma co-founder Dylan Field has expressed concerns about the MCP protocol, advocating for a more balanced approach that supports multiple standards while safeguarding user data. This stance highlights the ongoing challenges in balancing interoperability and data privacy in the tech industry.",
+    "whyItMatters": "Field's critique underscores the need for more nuanced approaches to standardization, potentially influencing the broader tech community to prioritize user privacy alongside technological interoperability.",
+    "enrichedAt": "2026-10-20T16:55:52.372Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol": {
+    "title": "Figma Co-Founder Critiques MCP Protocol, Emphasizes Data Privacy and Standardization",
+    "summary": "In a recent statement, Figma co-founder Dylan Field has expressed concerns about the MCP protocol, advocating for a more balanced approach that supports multiple standards while safeguarding user data. This stance highlights the ongoing challenges in balancing interoperability and data privacy in the tech industry.",
+    "danishTitle": "Figma Co-Founder Critiques MCP Protocol, Emphasizes Data Privacy and Standardization",
+    "danishSummary": "In a recent statement, Figma co-founder Dylan Field has expressed concerns about the MCP protocol, advocating for a more balanced approach that supports multiple standards while safeguarding user data. This stance highlights the ongoing challenges in balancing interoperability and data privacy in the tech industry.",
+    "whyItMatters": "Field's critique underscores the need for more nuanced approaches to standardization, potentially influencing the broader tech community to prioritize user privacy alongside technological interoperability.",
+    "enrichedAt": "2026-10-20T16:55:52.372Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/": {
+    "title": "Figma Co-Founder Critiques MCP Protocol, Emphasizes Data Privacy and Standardization",
+    "summary": "In a recent statement, Figma co-founder Dylan Field has expressed concerns about the MCP protocol, advocating for a more balanced approach that supports multiple standards while safeguarding user data. This stance highlights the ongoing challenges in balancing interoperability and data privacy in the tech industry.",
+    "danishTitle": "Figma Co-Founder Critiques MCP Protocol, Emphasizes Data Privacy and Standardization",
+    "danishSummary": "In a recent statement, Figma co-founder Dylan Field has expressed concerns about the MCP protocol, advocating for a more balanced approach that supports multiple standards while safeguarding user data. This stance highlights the ongoing challenges in balancing interoperability and data privacy in the tech industry.",
+    "whyItMatters": "Field's critique underscores the need for more nuanced approaches to standardization, potentially influencing the broader tech community to prioritize user privacy alongside technological interoperability.",
+    "enrichedAt": "2026-10-20T16:55:52.372Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "mistral-https://mistral.ai/news/voxtral-3/": {
+    "title": "Mistral AI Unveils Voxtral 3: Enhanced Voice Agent SDK for Multilingual Real-Time Speech",
+    "summary": "Mistral AI has released Voxtral 3, an advanced voice agent software development kit (SDK) that supports real-time speech in over 50 languages, offering accurate transcription and emotional text-to-speech capabilities. The SDK can be hosted in the EU or self-deployed, catering to diverse enterprise needs.",
+    "danishTitle": "Mistral AI Unveils Voxtral 3: Enhanced Voice Agent SDK for Multilingual Real-Time Speech",
+    "danishSummary": "Mistral AI has released Voxtral 3, an advanced voice agent software development kit (SDK) that supports real-time speech in over 50 languages, offering accurate transcription and emotional text-to-speech capabilities. The SDK can be hosted in the EU or self-deployed, catering to diverse enterprise needs.",
+    "whyItMatters": "Voxtral 3's expanded language support and versatile deployment options make it a powerful tool for global enterprises looking to integrate sophisticated voice technologies into their operations.",
+    "enrichedAt": "2026-10-20T16:56:03.995Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://mistral.ai/news/voxtral-3": {
+    "title": "Mistral AI Unveils Voxtral 3: Enhanced Voice Agent SDK for Multilingual Real-Time Speech",
+    "summary": "Mistral AI has released Voxtral 3, an advanced voice agent software development kit (SDK) that supports real-time speech in over 50 languages, offering accurate transcription and emotional text-to-speech capabilities. The SDK can be hosted in the EU or self-deployed, catering to diverse enterprise needs.",
+    "danishTitle": "Mistral AI Unveils Voxtral 3: Enhanced Voice Agent SDK for Multilingual Real-Time Speech",
+    "danishSummary": "Mistral AI has released Voxtral 3, an advanced voice agent software development kit (SDK) that supports real-time speech in over 50 languages, offering accurate transcription and emotional text-to-speech capabilities. The SDK can be hosted in the EU or self-deployed, catering to diverse enterprise needs.",
+    "whyItMatters": "Voxtral 3's expanded language support and versatile deployment options make it a powerful tool for global enterprises looking to integrate sophisticated voice technologies into their operations.",
+    "enrichedAt": "2026-10-20T16:56:03.995Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://mistral.ai/news/voxtral-3/": {
+    "title": "Mistral AI Unveils Voxtral 3: Enhanced Voice Agent SDK for Multilingual Real-Time Speech",
+    "summary": "Mistral AI has released Voxtral 3, an advanced voice agent software development kit (SDK) that supports real-time speech in over 50 languages, offering accurate transcription and emotional text-to-speech capabilities. The SDK can be hosted in the EU or self-deployed, catering to diverse enterprise needs.",
+    "danishTitle": "Mistral AI Unveils Voxtral 3: Enhanced Voice Agent SDK for Multilingual Real-Time Speech",
+    "danishSummary": "Mistral AI has released Voxtral 3, an advanced voice agent software development kit (SDK) that supports real-time speech in over 50 languages, offering accurate transcription and emotional text-to-speech capabilities. The SDK can be hosted in the EU or self-deployed, catering to diverse enterprise needs.",
+    "whyItMatters": "Voxtral 3's expanded language support and versatile deployment options make it a powerful tool for global enterprises looking to integrate sophisticated voice technologies into their operations.",
+    "enrichedAt": "2026-10-20T16:56:03.995Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "metr-https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review/": {
+    "title": "Review of Anthropic's Risk Report Highlights Risks of AI Misalignment in High-Stakes Settings",
+    "summary": "METR (safety) has reviewed Anthropic's Risk Report from August 2026, focusing on the section that discusses the potential risks of AI misalignment in high-stakes environments. The report emphasizes the importance of addressing these risks to prevent catastrophic outcomes.",
+    "danishTitle": "Review of Anthropic's Risk Report Highlights Risks of AI Misalignment in High-Stakes Settings",
+    "danishSummary": "METR (safety) has reviewed Anthropic's Risk Report from August 2026, focusing on the section that discusses the potential risks of AI misalignment in high-stakes environments. The report emphasizes the importance of addressing these risks to prevent catastrophic outcomes.",
+    "whyItMatters": "This review underscores the critical need for robust safety measures in AI development, particularly in sectors where AI decisions can have severe consequences, prompting industry stakeholders to prioritize ethical and safety considerations.",
+    "enrichedAt": "2026-10-20T16:56:14.742Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review": {
+    "title": "Review of Anthropic's Risk Report Highlights Risks of AI Misalignment in High-Stakes Settings",
+    "summary": "METR (safety) has reviewed Anthropic's Risk Report from August 2026, focusing on the section that discusses the potential risks of AI misalignment in high-stakes environments. The report emphasizes the importance of addressing these risks to prevent catastrophic outcomes.",
+    "danishTitle": "Review of Anthropic's Risk Report Highlights Risks of AI Misalignment in High-Stakes Settings",
+    "danishSummary": "METR (safety) has reviewed Anthropic's Risk Report from August 2026, focusing on the section that discusses the potential risks of AI misalignment in high-stakes environments. The report emphasizes the importance of addressing these risks to prevent catastrophic outcomes.",
+    "whyItMatters": "This review underscores the critical need for robust safety measures in AI development, particularly in sectors where AI decisions can have severe consequences, prompting industry stakeholders to prioritize ethical and safety considerations.",
+    "enrichedAt": "2026-10-20T16:56:14.742Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review/": {
+    "title": "Review of Anthropic's Risk Report Highlights Risks of AI Misalignment in High-Stakes Settings",
+    "summary": "METR (safety) has reviewed Anthropic's Risk Report from August 2026, focusing on the section that discusses the potential risks of AI misalignment in high-stakes environments. The report emphasizes the importance of addressing these risks to prevent catastrophic outcomes.",
+    "danishTitle": "Review of Anthropic's Risk Report Highlights Risks of AI Misalignment in High-Stakes Settings",
+    "danishSummary": "METR (safety) has reviewed Anthropic's Risk Report from August 2026, focusing on the section that discusses the potential risks of AI misalignment in high-stakes environments. The report emphasizes the importance of addressing these risks to prevent catastrophic outcomes.",
+    "whyItMatters": "This review underscores the critical need for robust safety measures in AI development, particularly in sectors where AI decisions can have severe consequences, prompting industry stakeholders to prioritize ethical and safety considerations.",
+    "enrichedAt": "2026-10-20T16:56:14.742Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "huggingface-https://huggingface.co/blog/hf-torchtpu": {
+    "title": "Hugging Face Integrates TorchTPU for Enhanced AI Model Training",
+    "summary": "Hugging Face has partnered with Google to integrate TorchTPU, enabling native support for Google’s Tensor Processing Units (TPUs) in its framework. This integration aims to accelerate AI model training and inference, particularly for large-scale machine learning tasks.",
+    "danishTitle": "Hugging Face Integrates TorchTPU for Enhanced AI Model Training",
+    "danishSummary": "Hugging Face has partnered with Google to integrate TorchTPU, enabling native support for Google’s Tensor Processing Units (TPUs) in its framework. This integration aims to accelerate AI model training and inference, particularly for large-scale machine learning tasks.",
+    "whyItMatters": "By optimizing training processes with TPUs, Hugging Face’s users can significantly reduce computational costs and speed up model development, making advanced AI technologies more accessible to a broader range of developers and enterprises.",
+    "enrichedAt": "2026-10-20T16:56:24.693Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://huggingface.co/blog/hf-torchtpu": {
+    "title": "Hugging Face Integrates TorchTPU for Enhanced AI Model Training",
+    "summary": "Hugging Face has partnered with Google to integrate TorchTPU, enabling native support for Google’s Tensor Processing Units (TPUs) in its framework. This integration aims to accelerate AI model training and inference, particularly for large-scale machine learning tasks.",
+    "danishTitle": "Hugging Face Integrates TorchTPU for Enhanced AI Model Training",
+    "danishSummary": "Hugging Face has partnered with Google to integrate TorchTPU, enabling native support for Google’s Tensor Processing Units (TPUs) in its framework. This integration aims to accelerate AI model training and inference, particularly for large-scale machine learning tasks.",
+    "whyItMatters": "By optimizing training processes with TPUs, Hugging Face’s users can significantly reduce computational costs and speed up model development, making advanced AI technologies more accessible to a broader range of developers and enterprises.",
+    "enrichedAt": "2026-10-20T16:56:24.693Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }
