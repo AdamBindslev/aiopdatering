@@ -1,48 +1,39 @@
 {
-  "headline": "AWS Expands OpenAI Model Access, Shifting AI Landscape",
-  "summary": "AWS has expanded access to advanced OpenAI GPT models through Amazon Bedrock, enabling Canadian organizations to leverage cutting-edge AI capabilities across multiple regions. This move is reshaping the AI landscape by democratizing access to powerful models and potentially reducing reliance on proprietary platforms.",
-  "whyItMatters": "It broadens access to advanced AI models and could reduce the dominance of closed proprietary platforms, fostering more competitive and innovative ecosystems.",
-  "synthesizedAt": "2026-10-20T16:56:58.151Z",
+  "headline": "Open-Source AI Models Challenge Proprietary Systems, Driving Innovation and Cost Reduction",
+  "summary": "A surge in open-source AI models, such as DeepSeek V4.1 and Axiom, is pushing the boundaries of what's possible in AI research and development. These models are driving innovation, reducing costs, and challenging the dominance of proprietary systems.",
+  "whyItMatters": "This trend is democratizing access to advanced AI capabilities, fostering competition, and accelerating the pace of technological advancement.",
+  "synthesizedAt": "2026-10-20T20:03:25.094Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "aws-ml-64795cdbf69a431d795a47585bec95352a07ed61",
-    "title": "Amazon Bedrock Expands OpenAI GPT Model Access in Canada with Cross-Region Inference",
-    "link": "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/",
-    "sourceName": "AWS Machine Learning",
-    "sourceId": "aws-ml",
-    "pubDate": "2026-10-20T16:42:53.000Z",
-    "badgeColor": "amber",
+    "id": "the-decoder-https://the-decoder.com/?p=41765",
+    "title": "Deepseek Opens Sources DeepInfer, Its Fastest and Cheapest AI Model's Inference Engine",
+    "link": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-20T18:56:15.000Z",
+    "badgeColor": "slate",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "aws-ml-d3c3a7c789540007b485ac6f7137782fb5e6c556",
-      "title": "Eon Deploys Unified Multi-Cloud Access via Amazon Bedrock AgentCore Gateway",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-10-20T15:57:57.000Z",
-      "badgeColor": "amber",
-      "angle": "Multi-Cloud Integration"
+      "id": "interconnects-https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+      "title": "Western Open Models Respond to Global Competition with DeepSeek V4.1 and New Regulatory Measures",
+      "link": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+      "sourceName": "Interconnects (Nathan Lambert)",
+      "sourceId": "interconnects",
+      "pubDate": "2026-10-20T17:04:21.000Z",
+      "badgeColor": "indigo",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "aws-ml-35a19d20a9faf60985c6eccdb143b93a0781a1a3",
-      "title": "AWS Launches Denodo Platform Integration with Amazon Bedrock AgentCore for Agentic AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-10-20T15:39:04.000Z",
-      "badgeColor": "amber",
-      "angle": "Semantic Layer Integration"
-    },
-    {
-      "id": "aws-ml-27b90480a1f289c553a54c263feab25503621afe",
-      "title": "Strategy Mosaic and Amazon Bedrock AgentCore Enable Scalable Semantic Layer for Agentic AI on AWS",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-strategy-mosaic-and-amazon-bedrock-agentcore/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-10-20T15:36:39.000Z",
-      "badgeColor": "amber"
+      "id": "weights-and-biases-yt:video:wlG2PNHtcaI",
+      "title": "Axiom AI Solves Century-Old Math Problems in Hours, Revolutionizing Mathematical Research",
+      "link": "https://www.youtube.com/shorts/wlG2PNHtcaI",
+      "sourceName": "Weights & Biases",
+      "sourceId": "weights-and-biases",
+      "pubDate": "2026-10-20T18:45:23.000Z",
+      "badgeColor": "yellow",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
