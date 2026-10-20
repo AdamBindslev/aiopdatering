@@ -1,8 +1,8 @@
 {
   "headline": "Nvidia Unveils Open Models for Enterprise and On-Device AI Agents",
-  "summary": "Nvidia has launched new open models to enable enterprises to run their own AI agents in-house and on personal computers, challenging proprietary platforms and promoting local deployment. This shift is driving industry discussions on transparency, cost, and control.",
-  "whyItMatters": "It broadens access to advanced AI capabilities, reduces dependence on closed platforms, and opens new strategic opportunities for enterprises.",
-  "synthesizedAt": "2026-10-20T01:20:29.091Z",
+  "summary": "Nvidia has launched new open models to enable enterprises to run their own AI agents in-house and on personal computers, challenging proprietary platforms and fostering in-house AI development. This move is gaining significant traction as companies seek to reduce dependency on closed APIs and enhance control over their AI operations.",
+  "whyItMatters": "It broadens access to advanced AI models and reduces reliance on centralized AI services, empowering enterprises to deploy and manage AI agents more flexibly and securely.",
+  "synthesizedAt": "2026-10-20T04:26:12.205Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "techcrunch-ai-https://techcrunch.com/?p=3177977",
@@ -16,33 +16,43 @@
   },
   "supportingStories": [
     {
-      "id": "weights-and-biases-yt:video:r88kfVABgsY",
-      "title": "Capital One Releasing VulnHunter Open-Source to Combat False Positives in Security Alerts",
-      "link": "https://www.youtube.com/shorts/r88kfVABgsY",
-      "sourceName": "Weights & Biases",
-      "sourceId": "weights-and-biases",
-      "pubDate": "2026-10-20T00:00:23.000Z",
-      "badgeColor": "yellow",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3179517",
+      "title": "New York Mayor Mamdani Urges Public Resistance Against Unregulated AI",
+      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-20T01:27:03.000Z",
+      "badgeColor": "emerald"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3179487",
+      "title": "Nscale and Anthropic Reportedly Engage in Talks for Another $45 Billion Compute Deal",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-19T23:39:38.000Z",
+      "badgeColor": "emerald",
       "angle": "Industry Analysis"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3179099",
-      "title": "Amazon Launches TorchNeuron Dev Tool to Challenge Nvidia’s Dominance in AI",
-      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-19T20:09:24.000Z",
-      "badgeColor": "emerald",
-      "angle": "Competitive Response"
+      "id": "aws-ml-a1099e0a38a56e4f447d2dfcf2f10f2a8cdb2b50",
+      "title": "Amazon Bedrock Enhances Anthropic Claude Models with Structured Output Support",
+      "link": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-10-19T23:32:19.000Z",
+      "badgeColor": "amber",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3179171",
-      "title": "Tenstorrent Achieves $6.2B Valuation as Independent AI Chip Developer",
-      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-19T18:37:27.000Z",
-      "badgeColor": "emerald"
+      "id": "aws-ml-caf8c9cd8fb47f7d05ebc18e6193092824fb5c28",
+      "title": "Amazon SageMaker JumpStart Onboards Over 100 New Models in 2026",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-10-19T21:14:44.000Z",
+      "badgeColor": "amber",
+      "angle": "Market Impact"
     }
   ]
 }
