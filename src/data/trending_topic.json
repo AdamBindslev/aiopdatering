@@ -1,58 +1,29 @@
 {
-  "headline": "AI-Native SDLC Pioneers Transform Fortune 2000 Companies",
-  "summary": "Tenex, in collaboration with industry experts, has developed an AI-native Software Development Lifecycle (SDLC) approach, which is being adopted by Fortune 2000 companies. This shift is driving a new era of AI integration in software development, enhancing efficiency and innovation.",
-  "whyItMatters": "It accelerates the adoption of AI in enterprise software development, potentially reshaping how large corporations approach technology and innovation.",
-  "synthesizedAt": "2026-10-21T05:26:04.608Z",
+  "headline": "Open-Source Models Drive Inference Efficiency and Autonomous Agent Advancements",
+  "summary": "DeepSeek's DeepInfer and NVIDIA's Nemotron 3.5 Super VL are leading a surge in open-source models that significantly boost inference efficiency and enhance autonomous agents' reasoning capabilities, challenging proprietary systems and driving innovation.",
+  "whyItMatters": "This trend democratizes advanced AI technologies, reducing costs and increasing accessibility for developers and businesses, while also fostering competition and innovation in the AI ecosystem.",
+  "synthesizedAt": "2026-10-21T08:29:55.438Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "latent-space-https://www.latent.space/p/tenex",
-    "title": "Tenex Pioneers AI-Native Software Development Lifecycle for Fortune 2000 Companies",
-    "link": "https://www.latent.space/p/tenex",
+    "id": "latent-space-https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+    "title": "DeepSeek DeepInfer: Open Source Model Sets New Standards in Inference Efficiency",
+    "link": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
     "sourceName": "Latent Space (Swyx & Alessio)",
     "sourceId": "latent-space",
-    "pubDate": "2026-10-21T05:01:26.000Z",
+    "pubDate": "2026-10-21T06:54:09.000Z",
     "badgeColor": "pink",
-    "angle": "Official Release"
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "google-ai-https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "title": "Southeast Asia’s Digital Economy Projected to Reach $1 Trillion by 2035, Driven by AI",
-      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "sourceName": "Google News AI",
-      "sourceId": "google-ai",
-      "pubDate": "2026-10-21T04:00:00.000Z",
-      "badgeColor": "cyan",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2610.26864v1",
-      "title": "H2DF: Introducing Calibrated Target Bands for Controllable Language-Model Unlearning",
-      "link": "https://arxiv.org/abs/2610.26864",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-21T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2610.26865v1",
-      "title": "AutoTerm-SST: Adaptive Terminology Memory for Seamless Streaming Speech Translation",
-      "link": "https://arxiv.org/abs/2610.26865",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-21T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Hands-on Benchmark"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2610.26867v1",
-      "title": "WaveCommitments: New Framework for Private and Verifiable Speech-Agent Marketplaces",
-      "link": "https://arxiv.org/abs/2610.26867",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-21T04:00:00.000Z",
-      "badgeColor": "zinc"
+      "id": "nvidia-developer-yt:video:MsIMM-co4lo",
+      "title": "Nemotron 3.5 Super VL Unveiled: A Multimodal Model for Autonomous Agents",
+      "link": "https://www.youtube.com/watch?v=MsIMM-co4lo",
+      "sourceName": "NVIDIA Developer",
+      "sourceId": "nvidia-developer",
+      "pubDate": "2026-10-21T06:07:23.000Z",
+      "badgeColor": "green",
+      "angle": "Official Release"
     }
   ]
 }
