@@ -1,29 +1,39 @@
 {
-  "headline": "Open-Source Models Drive Inference Efficiency and Autonomous Agent Advancements",
-  "summary": "DeepSeek's DeepInfer and NVIDIA's Nemotron 3.5 Super VL are leading a surge in open-source models that significantly boost inference efficiency and enhance autonomous agents' reasoning capabilities, challenging proprietary systems and driving innovation.",
-  "whyItMatters": "This trend democratizes advanced AI technologies, reducing costs and increasing accessibility for developers and businesses, while also fostering competition and innovation in the AI ecosystem.",
-  "synthesizedAt": "2026-10-21T08:29:55.438Z",
+  "headline": "NVIDIA Leads AI Security and Governance Frameworks",
+  "summary": "NVIDIA has unveiled several security and governance frameworks, including Sentry and OpenShell, to enhance the reliability and safety of AI agents. These tools are crucial for developers and enterprises aiming to secure AI workloads and ensure compliance.",
+  "whyItMatters": "These frameworks are essential for building secure and compliant AI systems, reducing the risk of security breaches and ensuring ethical AI deployment.",
+  "synthesizedAt": "2026-10-21T11:35:09.905Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "latent-space-https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
-    "title": "DeepSeek DeepInfer: Open Source Model Sets New Standards in Inference Efficiency",
-    "link": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
-    "sourceName": "Latent Space (Swyx & Alessio)",
-    "sourceId": "latent-space",
-    "pubDate": "2026-10-21T06:54:09.000Z",
-    "badgeColor": "pink",
-    "angle": "Technical Deep Dive"
+    "id": "nvidia-https://developer.nvidia.com/blog/?p=123898",
+    "title": "NVIDIA Unveils Sentry: Runtime Security Framework for AI Agents",
+    "link": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/",
+    "sourceName": "NVIDIA Technical Blog",
+    "sourceId": "nvidia",
+    "pubDate": "2026-10-21T09:52:16.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "nvidia-developer-yt:video:MsIMM-co4lo",
-      "title": "Nemotron 3.5 Super VL Unveiled: A Multimodal Model for Autonomous Agents",
-      "link": "https://www.youtube.com/watch?v=MsIMM-co4lo",
-      "sourceName": "NVIDIA Developer",
-      "sourceId": "nvidia-developer",
-      "pubDate": "2026-10-21T06:07:23.000Z",
-      "badgeColor": "green",
-      "angle": "Official Release"
+      "id": "nvidia-https://developer.nvidia.com/blog/?p=123932",
+      "title": "NVIDIA Unveils OpenShell Reference Architecture for Secure and Governed AI Agent Workloads at Scale",
+      "link": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale/",
+      "sourceName": "NVIDIA Technical Blog",
+      "sourceId": "nvidia",
+      "pubDate": "2026-10-21T09:50:14.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "nvidia-https://developer.nvidia.com/blog/?p=123892",
+      "title": "NVIDIA Launches DSX POD to Accelerate AI Workload Deployment",
+      "link": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod/",
+      "sourceName": "NVIDIA Technical Blog",
+      "sourceId": "nvidia",
+      "pubDate": "2026-10-21T09:35:32.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Analysis"
     }
   ]
 }
