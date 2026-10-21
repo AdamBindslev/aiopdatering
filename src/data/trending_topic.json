@@ -1,38 +1,58 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Systems, Driving Industry Shift",
-  "summary": "A surge in open-source AI models, particularly those from eMudhra and Deepseek, is challenging proprietary systems and driving down costs. This shift is expanding access to advanced AI capabilities and reshaping the industry landscape.",
-  "whyItMatters": "It broadens access to advanced AI technologies, reduces costs for developers, and puts pressure on traditional proprietary models to adapt or risk obsolescence.",
-  "synthesizedAt": "2026-10-21T02:13:35.287Z",
+  "headline": "AI-Native SDLC Pioneers Transform Fortune 2000 Companies",
+  "summary": "Tenex, in collaboration with industry experts, has developed an AI-native Software Development Lifecycle (SDLC) approach, which is being adopted by Fortune 2000 companies. This shift is driving a new era of AI integration in software development, enhancing efficiency and innovation.",
+  "whyItMatters": "It accelerates the adoption of AI in enterprise software development, potentially reshaping how large corporations approach technology and innovation.",
+  "synthesizedAt": "2026-10-21T05:26:04.608Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "aws-ml-733fa955e4db373fd2ec88938f4d9a6aa8ad0a49",
-    "title": "i14 Deploys Laplace 3B Linear Attention Model on AWS Trainium2 with Optimized PyTorch Integration",
-    "link": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/",
-    "sourceName": "AWS Machine Learning",
-    "sourceId": "aws-ml",
-    "pubDate": "2026-10-20T21:14:10.000Z",
-    "badgeColor": "amber",
-    "angle": "Technical Deep Dive"
+    "id": "latent-space-https://www.latent.space/p/tenex",
+    "title": "Tenex Pioneers AI-Native Software Development Lifecycle for Fortune 2000 Companies",
+    "link": "https://www.latent.space/p/tenex",
+    "sourceName": "Latent Space (Swyx & Alessio)",
+    "sourceId": "latent-space",
+    "pubDate": "2026-10-21T05:01:26.000Z",
+    "badgeColor": "pink",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3179822",
-      "title": "Hugging Face CEO Critiques Netflix Documentary on OpenAI Hack, Claims Inaccuracy",
-      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-20T22:24:02.000Z",
-      "badgeColor": "emerald"
+      "id": "google-ai-https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "title": "Southeast Asia’s Digital Economy Projected to Reach $1 Trillion by 2035, Driven by AI",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "sourceName": "Google News AI",
+      "sourceId": "google-ai",
+      "pubDate": "2026-10-21T04:00:00.000Z",
+      "badgeColor": "cyan",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41765",
-      "title": "Deepseek Opens Sources DeepInfer, Its Fastest and Cheapest AI Model's Inference Engine",
-      "link": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-20T18:56:15.000Z",
-      "badgeColor": "slate",
-      "angle": "Cost Reduction"
+      "id": "arxiv-cl-oai:arXiv.org:2610.26864v1",
+      "title": "H2DF: Introducing Calibrated Target Bands for Controllable Language-Model Unlearning",
+      "link": "https://arxiv.org/abs/2610.26864",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-21T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2610.26865v1",
+      "title": "AutoTerm-SST: Adaptive Terminology Memory for Seamless Streaming Speech Translation",
+      "link": "https://arxiv.org/abs/2610.26865",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-21T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Hands-on Benchmark"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2610.26867v1",
+      "title": "WaveCommitments: New Framework for Private and Verifiable Speech-Agent Marketplaces",
+      "link": "https://arxiv.org/abs/2610.26867",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-21T04:00:00.000Z",
+      "badgeColor": "zinc"
     }
   ]
 }
