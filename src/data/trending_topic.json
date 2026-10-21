@@ -1,48 +1,39 @@
 {
-  "headline": "Google Cloud Expands AI Offerings, Puts Pressure on Competitors",
-  "summary": "Google Cloud has launched a comprehensive AI model suite, including Gemini, Claude, and OpenAI's GPT models, on a single platform. This move is expected to put competitive pressure on other cloud providers and accelerate local AI agent deployment.",
-  "whyItMatters": "It highlights Google's commitment to expanding its AI offerings, potentially reshaping the AI landscape and influencing developer choices.",
-  "synthesizedAt": "2026-10-21T17:49:25.750Z",
+  "headline": "Open-Source AI Models Gain Ground, Outperforming Proprietary Systems",
+  "summary": "A surge of open-source AI models, such as Inception's Mercury 3 and Anthropic's Claude Mods, is demonstrating superior performance and faster development cycles compared to proprietary systems. This trend is reshaping the AI landscape, increasing accessibility and driving innovation.",
+  "whyItMatters": "Open-source models reduce barriers to entry for developers and organizations, fostering a more competitive and collaborative AI ecosystem.",
+  "synthesizedAt": "2026-10-21T20:56:17.836Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41808",
-    "title": "Google Cloud Launches Comprehensive AI Model Suite Including Gemini, Claude, and OpenAI",
-    "link": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/",
+    "id": "the-decoder-https://the-decoder.com/?p=41795",
+    "title": "Inception's Mercury 3 Diffusion Model Outperforms GPT-6 Luna and Claude Haiku 5.5 with Significantly Faster Performance",
+    "link": "https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-10-21T17:44:22.000Z",
+    "pubDate": "2026-10-21T14:45:45.000Z",
     "badgeColor": "slate",
-    "angle": "Official Release"
+    "angle": "Hands-on Benchmark"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41795",
-      "title": "Inception's Mercury 3 Diffusion Model Outperforms GPT-6 Luna and Claude Haiku 5.5 with Significantly Faster Performance",
-      "link": "https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-21T14:45:45.000Z",
-      "badgeColor": "slate",
-      "angle": "Hands-on Benchmark"
+      "id": "huggingface-https://huggingface.co/blog/nvidia/kumo-relational",
+      "title": "NVIDIA Kumo Relational Outperforms Traditional Supervised Learning on Relational Data Without Training",
+      "link": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "sourceName": "Hugging Face Blog",
+      "sourceId": "huggingface",
+      "pubDate": "2026-10-21T18:26:30.000Z",
+      "badgeColor": "yellow",
+      "angle": "Official Release"
     },
     {
-      "id": "openai-https://openai.com/index/openai-models-google-cloud",
-      "title": "OpenAI Models Now Available on Google Cloud Platform",
-      "link": "https://openai.com/index/openai-models-google-cloud",
-      "sourceName": "OpenAI News",
-      "sourceId": "openai",
-      "pubDate": "2026-10-21T12:00:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=41774",
-      "title": "Claude Independently Designs Protein Binders to Combat Deadly Scorpion Stings",
-      "link": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-21T08:37:06.000Z",
-      "badgeColor": "slate"
+      "id": "latent-space-https://www.latent.space/p/claude-mods",
+      "title": "Claude Mods: Revolutionizing Human-Agent Interaction Through the Attention Interface",
+      "link": "https://www.latent.space/p/claude-mods",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-10-21T13:04:19.000Z",
+      "badgeColor": "pink",
+      "angle": "Critical Debate"
     }
   ]
 }
