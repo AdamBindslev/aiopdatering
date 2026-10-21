@@ -1,30 +1,20 @@
 {
-  "headline": "NVIDIA Leads AI Security and Governance Frameworks",
-  "summary": "NVIDIA has unveiled several security and governance frameworks, including Sentry and OpenShell, to enhance the reliability and safety of AI agents. These tools are crucial for developers and enterprises aiming to secure AI workloads and ensure compliance.",
-  "whyItMatters": "These frameworks are essential for building secure and compliant AI systems, reducing the risk of security breaches and ensuring ethical AI deployment.",
-  "synthesizedAt": "2026-10-21T11:35:09.905Z",
+  "headline": "NVIDIA's AI Infrastructure Solutions Accelerate Industry Deployment",
+  "summary": "NVIDIA has unveiled a series of AI infrastructure solutions, including DSX POD and Kumo Forecast, which are streamlining AI deployment and enhancing capabilities. These tools are gaining significant traction, driving industry adoption and innovation.",
+  "whyItMatters": "These solutions are crucial for accelerating AI deployment, reducing costs, and improving performance, making them essential for both developers and enterprises.",
+  "synthesizedAt": "2026-10-21T14:42:13.350Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "nvidia-https://developer.nvidia.com/blog/?p=123898",
-    "title": "NVIDIA Unveils Sentry: Runtime Security Framework for AI Agents",
-    "link": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/",
-    "sourceName": "NVIDIA Technical Blog",
-    "sourceId": "nvidia",
-    "pubDate": "2026-10-21T09:52:16.000Z",
-    "badgeColor": "emerald",
+    "id": "the-decoder-https://the-decoder.com/?p=41791",
+    "title": "Nvidia's DSX POD Accelerates AI Data Center Setup to 14 Days",
+    "link": "https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-21T13:42:05.000Z",
+    "badgeColor": "slate",
     "angle": "Official Release"
   },
   "supportingStories": [
-    {
-      "id": "nvidia-https://developer.nvidia.com/blog/?p=123932",
-      "title": "NVIDIA Unveils OpenShell Reference Architecture for Secure and Governed AI Agent Workloads at Scale",
-      "link": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale/",
-      "sourceName": "NVIDIA Technical Blog",
-      "sourceId": "nvidia",
-      "pubDate": "2026-10-21T09:50:14.000Z",
-      "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
-    },
     {
       "id": "nvidia-https://developer.nvidia.com/blog/?p=123892",
       "title": "NVIDIA Launches DSX POD to Accelerate AI Workload Deployment",
@@ -32,6 +22,26 @@
       "sourceName": "NVIDIA Technical Blog",
       "sourceId": "nvidia",
       "pubDate": "2026-10-21T09:35:32.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "nvidia-https://developer.nvidia.com/blog/?p=123898",
+      "title": "NVIDIA Unveils Sentry: Runtime Security Framework for AI Agents",
+      "link": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/",
+      "sourceName": "NVIDIA Technical Blog",
+      "sourceId": "nvidia",
+      "pubDate": "2026-10-21T09:52:16.000Z",
+      "badgeColor": "emerald",
+      "angle": "Security and Governance"
+    },
+    {
+      "id": "nvidia-https://developer.nvidia.com/blog/?p=123932",
+      "title": "NVIDIA Unveils OpenShell Reference Architecture for Secure and Governed AI Agent Workloads at Scale",
+      "link": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale/",
+      "sourceName": "NVIDIA Technical Blog",
+      "sourceId": "nvidia",
+      "pubDate": "2026-10-21T09:50:14.000Z",
       "badgeColor": "emerald",
       "angle": "Industry Analysis"
     }
