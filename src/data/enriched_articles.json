@@ -79900,5 +79900,77 @@
     "whyItMatters": "By lowering inference costs, Anthropic's new model could make advanced AI reasoning more accessible to a wider range of businesses and applications, driving innovation and adoption across industries.",
     "enrichedAt": "2026-10-20T23:07:28.537Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Oct/20/emudhra-certificates/": {
+    "title": "eMudhra Intermediate Certificate Compromise Affects Major Browser Trust Programs",
+    "summary": "eMudhra, a digital certificate authority, has reported the compromise of private keys for eight of its intermediate CA certificates, which are trusted by major browser programs including Mozilla, Microsoft, Apple, and Chrome. This breach poses significant security risks and could impact user trust and online security.",
+    "danishTitle": "eMudhra Intermediate Certificate Compromise Affects Major Browser Trust Programs",
+    "danishSummary": "eMudhra, a digital certificate authority, has reported the compromise of private keys for eight of its intermediate CA certificates, which are trusted by major browser programs including Mozilla, Microsoft, Apple, and Chrome. This breach poses significant security risks and could impact user trust and online security.",
+    "whyItMatters": "The compromise highlights vulnerabilities in the certificate authority ecosystem and could lead to widespread revocation of certificates, impacting trust and security across multiple platforms and browsers.",
+    "enrichedAt": "2026-10-21T02:12:42.728Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/oct/20/emudhra-certificates": {
+    "title": "eMudhra Intermediate Certificate Compromise Affects Major Browser Trust Programs",
+    "summary": "eMudhra, a digital certificate authority, has reported the compromise of private keys for eight of its intermediate CA certificates, which are trusted by major browser programs including Mozilla, Microsoft, Apple, and Chrome. This breach poses significant security risks and could impact user trust and online security.",
+    "danishTitle": "eMudhra Intermediate Certificate Compromise Affects Major Browser Trust Programs",
+    "danishSummary": "eMudhra, a digital certificate authority, has reported the compromise of private keys for eight of its intermediate CA certificates, which are trusted by major browser programs including Mozilla, Microsoft, Apple, and Chrome. This breach poses significant security risks and could impact user trust and online security.",
+    "whyItMatters": "The compromise highlights vulnerabilities in the certificate authority ecosystem and could lead to widespread revocation of certificates, impacting trust and security across multiple platforms and browsers.",
+    "enrichedAt": "2026-10-21T02:12:42.728Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Oct/20/emudhra-certificates/": {
+    "title": "eMudhra Intermediate Certificate Compromise Affects Major Browser Trust Programs",
+    "summary": "eMudhra, a digital certificate authority, has reported the compromise of private keys for eight of its intermediate CA certificates, which are trusted by major browser programs including Mozilla, Microsoft, Apple, and Chrome. This breach poses significant security risks and could impact user trust and online security.",
+    "danishTitle": "eMudhra Intermediate Certificate Compromise Affects Major Browser Trust Programs",
+    "danishSummary": "eMudhra, a digital certificate authority, has reported the compromise of private keys for eight of its intermediate CA certificates, which are trusted by major browser programs including Mozilla, Microsoft, Apple, and Chrome. This breach poses significant security risks and could impact user trust and online security.",
+    "whyItMatters": "The compromise highlights vulnerabilities in the certificate authority ecosystem and could lead to widespread revocation of certificates, impacting trust and security across multiple platforms and browsers.",
+    "enrichedAt": "2026-10-21T02:12:42.728Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "openai-channel-yt:video:8n-SXxRIrm8": {
+    "title": "OpenAI Unveils Shopping Agent Demo: Enhancing Personalized Customer Experiences",
+    "summary": "OpenAI has showcased a new AI shopping agent capable of transforming room photos into personalized shopping experiences, from product identification to order updates. The demo, featuring a fictional home goods retailer Vesper & Alder, highlights the agent's ability to assist shoppers through voice and image recognition.",
+    "danishTitle": "OpenAI Unveils Shopping Agent Demo: Enhancing Personalized Customer Experiences",
+    "danishSummary": "OpenAI has showcased a new AI shopping agent capable of transforming room photos into personalized shopping experiences, from product identification to order updates. The demo, featuring a fictional home goods retailer Vesper & Alder, highlights the agent's ability to assist shoppers through voice and image recognition.",
+    "whyItMatters": "This technology could revolutionize e-commerce by providing more intuitive and personalized shopping experiences, potentially increasing customer satisfaction and driving sales for retailers.",
+    "enrichedAt": "2026-10-21T02:12:52.599Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:8n-sxxrirm8": {
+    "title": "OpenAI Unveils Shopping Agent Demo: Enhancing Personalized Customer Experiences",
+    "summary": "OpenAI has showcased a new AI shopping agent capable of transforming room photos into personalized shopping experiences, from product identification to order updates. The demo, featuring a fictional home goods retailer Vesper & Alder, highlights the agent's ability to assist shoppers through voice and image recognition.",
+    "danishTitle": "OpenAI Unveils Shopping Agent Demo: Enhancing Personalized Customer Experiences",
+    "danishSummary": "OpenAI has showcased a new AI shopping agent capable of transforming room photos into personalized shopping experiences, from product identification to order updates. The demo, featuring a fictional home goods retailer Vesper & Alder, highlights the agent's ability to assist shoppers through voice and image recognition.",
+    "whyItMatters": "This technology could revolutionize e-commerce by providing more intuitive and personalized shopping experiences, potentially increasing customer satisfaction and driving sales for retailers.",
+    "enrichedAt": "2026-10-21T02:12:52.599Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=8n-SXxRIrm8": {
+    "title": "OpenAI Unveils Shopping Agent Demo: Enhancing Personalized Customer Experiences",
+    "summary": "OpenAI has showcased a new AI shopping agent capable of transforming room photos into personalized shopping experiences, from product identification to order updates. The demo, featuring a fictional home goods retailer Vesper & Alder, highlights the agent's ability to assist shoppers through voice and image recognition.",
+    "danishTitle": "OpenAI Unveils Shopping Agent Demo: Enhancing Personalized Customer Experiences",
+    "danishSummary": "OpenAI has showcased a new AI shopping agent capable of transforming room photos into personalized shopping experiences, from product identification to order updates. The demo, featuring a fictional home goods retailer Vesper & Alder, highlights the agent's ability to assist shoppers through voice and image recognition.",
+    "whyItMatters": "This technology could revolutionize e-commerce by providing more intuitive and personalized shopping experiences, potentially increasing customer satisfaction and driving sales for retailers.",
+    "enrichedAt": "2026-10-21T02:12:52.599Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "openai-https://openai.com/index/terminal-x": {
+    "title": "Terminal X Agent Exceeds Senior Investor Judgment with GPT-6.1",
+    "summary": "OpenAI's Terminal X Eval Agent, powered by GPT-6.1, demonstrates superior judgment by scoring 88.6% as accurate as senior investors. The agent evaluates outputs against a 54-criterion rubric, identifying 25% more deviations from a fund's mandate, enhancing investment oversight.",
+    "danishTitle": "Terminal X Agent Exceeds Senior Investor Judgment with GPT-6.1",
+    "danishSummary": "OpenAI's Terminal X Eval Agent, powered by GPT-6.1, demonstrates superior judgment by scoring 88.6% as accurate as senior investors. The agent evaluates outputs against a 54-criterion rubric, identifying 25% more deviations from a fund's mandate, enhancing investment oversight.",
+    "whyItMatters": "This advancement in AI-driven investment oversight could significantly improve fund management accuracy and efficiency, potentially reshaping the way financial investments are monitored and managed.",
+    "enrichedAt": "2026-10-21T02:13:03.367Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://openai.com/index/terminal-x": {
+    "title": "Terminal X Agent Exceeds Senior Investor Judgment with GPT-6.1",
+    "summary": "OpenAI's Terminal X Eval Agent, powered by GPT-6.1, demonstrates superior judgment by scoring 88.6% as accurate as senior investors. The agent evaluates outputs against a 54-criterion rubric, identifying 25% more deviations from a fund's mandate, enhancing investment oversight.",
+    "danishTitle": "Terminal X Agent Exceeds Senior Investor Judgment with GPT-6.1",
+    "danishSummary": "OpenAI's Terminal X Eval Agent, powered by GPT-6.1, demonstrates superior judgment by scoring 88.6% as accurate as senior investors. The agent evaluates outputs against a 54-criterion rubric, identifying 25% more deviations from a fund's mandate, enhancing investment oversight.",
+    "whyItMatters": "This advancement in AI-driven investment oversight could significantly improve fund management accuracy and efficiency, potentially reshaping the way financial investments are monitored and managed.",
+    "enrichedAt": "2026-10-21T02:13:03.367Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }
