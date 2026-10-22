@@ -1,29 +1,29 @@
 {
-  "headline": "Open-Source AI Models Drive Down Costs and Expand Access",
-  "summary": "A series of open-source AI models, including GPT-5.6 Luna, are significantly reducing operational costs and expanding access to advanced AI capabilities. This trend is challenging proprietary models and accelerating local AI agent deployment.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and reduces developer dependence on expensive closed proprietary platforms, fostering innovation and democratization.",
-  "synthesizedAt": "2026-10-22T00:02:19.739Z",
+  "headline": "Open-Source AI Models Challenge Proprietary Systems, Driving Local Deployment",
+  "summary": "A surge of open-source AI models is demonstrating advanced capabilities, challenging proprietary systems and accelerating local AI agent deployment. This shift is reducing dependency on closed APIs and opening up advanced AI to a broader audience.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and reduces the cost and complexity of deploying AI solutions, fostering innovation and competition.",
+  "synthesizedAt": "2026-10-22T03:08:22.283Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-channel-yt:video:20IRGgQwPkc",
-    "title": "V7 Launches GPT-5.6 Luna, Achieving 78% Cost Reduction and 89% Accuracy in Complex Queries",
-    "link": "https://www.youtube.com/watch?v=20IRGgQwPkc",
-    "sourceName": "OpenAI (YouTube)",
-    "sourceId": "openai-channel",
-    "pubDate": "2026-10-21T22:05:10.000Z",
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3180324",
+    "title": "Recursive Unveils Flint, an AI-Driven Coding Model for Laptops",
+    "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-10-21T20:27:41.000Z",
     "badgeColor": "emerald",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "the-zvi-https://thezvi.substack.com/p/misaligned",
-      "title": "A Lot of AIs Were Misaligned This Week, Warns Expert",
-      "link": "https://thezvi.substack.com/p/misaligned",
-      "sourceName": "Don't Worry About the Vase (Zvi)",
-      "sourceId": "the-zvi",
-      "pubDate": "2026-10-21T22:24:38.000Z",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3180391",
+      "title": "Meta's AI App Muse Gains Over 10 Million Users, Drives Shopping and Productivity",
+      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-21T21:14:19.000Z",
       "badgeColor": "emerald",
-      "angle": "Critical Debate"
+      "angle": "Hands-on Benchmark"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=41815",
@@ -33,17 +33,16 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-10-21T19:45:01.000Z",
       "badgeColor": "slate",
-      "angle": "Security Implications"
+      "angle": "Critical Debate"
     },
     {
-      "id": "huggingface-https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "title": "Hugging Face Introduces Vocabulary Specialization to Slash Inference Costs by 77%",
-      "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "id": "huggingface-https://huggingface.co/blog/nvidia/kumo-relational",
+      "title": "NVIDIA Kumo Relational Outperforms Traditional Supervised Learning on Relational Data Without Training",
+      "link": "https://huggingface.co/blog/nvidia/kumo-relational",
       "sourceName": "Hugging Face Blog",
       "sourceId": "huggingface",
-      "pubDate": "2026-10-21T17:35:36.000Z",
-      "badgeColor": "yellow",
-      "angle": "Technical Deep Dive"
+      "pubDate": "2026-10-21T18:26:30.000Z",
+      "badgeColor": "yellow"
     }
   ]
 }
