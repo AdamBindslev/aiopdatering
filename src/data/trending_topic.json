@@ -1,48 +1,39 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Systems, Driving Local Deployment",
-  "summary": "A surge of open-source AI models is demonstrating advanced capabilities, challenging proprietary systems and accelerating local AI agent deployment. This shift is reducing dependency on closed APIs and opening up advanced AI to a broader audience.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and reduces the cost and complexity of deploying AI solutions, fostering innovation and competition.",
-  "synthesizedAt": "2026-10-22T03:08:22.283Z",
+  "headline": "LLM Agents Pioneering Autonomous Planning in Smart Manufacturing",
+  "summary": "A new generation of large language model (LLM)-driven agents is revolutionizing smart manufacturing by enabling autonomous planning, moving beyond predefined workflows. This trend is gaining significant traction as it promises enhanced efficiency and flexibility in industrial processes.",
+  "whyItMatters": "This advancement could lead to more intelligent and adaptive manufacturing systems, significantly impacting productivity and innovation in the industry.",
+  "synthesizedAt": "2026-10-22T06:19:20.342Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3180324",
-    "title": "Recursive Unveils Flint, an AI-Driven Coding Model for Laptops",
-    "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-10-21T20:27:41.000Z",
-    "badgeColor": "emerald",
+    "id": "arxiv-ai-oai:arXiv.org:2610.26941v1",
+    "title": "New Generation of LLM-Driven Agents Pioneers Autonomous Planning in Smart Manufacturing",
+    "link": "https://arxiv.org/abs/2610.26941",
+    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+    "sourceId": "arxiv-ai",
+    "pubDate": "2026-10-22T04:00:00.000Z",
+    "badgeColor": "zinc",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3180391",
-      "title": "Meta's AI App Muse Gains Over 10 Million Users, Drives Shopping and Productivity",
-      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-21T21:14:19.000Z",
-      "badgeColor": "emerald",
-      "angle": "Hands-on Benchmark"
+      "id": "arxiv-ai-oai:arXiv.org:2610.26887v1",
+      "title": "Navalia Unveils Verifiable Task Synthesis for Autonomous Cowork Agents",
+      "link": "https://arxiv.org/abs/2610.26887",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-10-22T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41815",
-      "title": "Critical PHP Flaw Discovered in OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon",
-      "link": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-21T19:45:01.000Z",
-      "badgeColor": "slate",
+      "id": "arxiv-ai-oai:arXiv.org:2610.27027v1",
+      "title": "Multi-Agent LLM Systems Show Promise in Reducing Hallucination in Clinical Tasks, but Trustworthiness is Not Guaranteed",
+      "link": "https://arxiv.org/abs/2610.27027",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-10-22T04:00:00.000Z",
+      "badgeColor": "zinc",
       "angle": "Critical Debate"
-    },
-    {
-      "id": "huggingface-https://huggingface.co/blog/nvidia/kumo-relational",
-      "title": "NVIDIA Kumo Relational Outperforms Traditional Supervised Learning on Relational Data Without Training",
-      "link": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "sourceName": "Hugging Face Blog",
-      "sourceId": "huggingface",
-      "pubDate": "2026-10-21T18:26:30.000Z",
-      "badgeColor": "yellow"
     }
   ]
 }
