@@ -1,49 +1,39 @@
 {
-  "headline": "Anthropic Claude Duet Challenges Proprietary AI Agents",
-  "summary": "Anthropic has launched Claude Duet, an always-on AI agent that operates independently of user input, competing with leading commercial models from Meta and OpenAI. This move is reshaping the landscape of AI agent deployment and accessibility.",
-  "whyItMatters": "It democratizes AI agent capabilities, potentially reducing reliance on proprietary systems and lowering barriers to entry for developers and businesses.",
-  "synthesizedAt": "2026-10-22T09:22:17.508Z",
+  "headline": "AI Agents in Cybersecurity and Cyberattacks",
+  "summary": "Security researchers have uncovered an advanced AI agent capable of hijacking unprotected language models for cyberattacks, while industry leaders warn of AI-enhanced threats. This trend highlights the increasing sophistication of AI in cybersecurity and the need for robust defenses.",
+  "whyItMatters": "This trend underscores the critical need for enhanced cybersecurity measures to protect against AI-driven attacks, impacting both developers and users of AI technologies.",
+  "synthesizedAt": "2026-10-22T12:28:26.105Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41818",
-    "title": "Anthropic Unveils Proactive AI Agent Claude Duet, Competing with Meta's and OpenAI's Models",
-    "link": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
+    "id": "the-decoder-https://the-decoder.com/?p=41826",
+    "title": "Offensive AI Agent Hijacks Unprotected Language Models for Self-Sustaining Cyberattacks",
+    "link": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-10-22T08:35:22.000Z",
+    "pubDate": "2026-10-22T11:30:56.000Z",
     "badgeColor": "slate",
-    "angle": "Official Launch"
+    "angle": "Security Breach"
   },
   "supportingStories": [
     {
-      "id": "nvidia-developer-yt:video:85NGIhJkJao",
-      "title": "GTC Berlin After Hours: Keynote Reactions & Insights for Developers",
-      "link": "https://www.youtube.com/watch?v=85NGIhJkJao",
-      "sourceName": "NVIDIA Developer",
-      "sourceId": "nvidia-developer",
-      "pubDate": "2026-10-22T05:26:52.000Z",
-      "badgeColor": "green",
-      "angle": "Industry Analysis"
+      "id": "no-priors-yt:video:PST8yesYOSo",
+      "title": "CrowdStrike CEO Warns of AI-Enhanced Cyber Threats",
+      "link": "https://www.youtube.com/watch?v=PST8yesYOSo",
+      "sourceName": "No Priors Podcast",
+      "sourceId": "no-priors",
+      "pubDate": "2026-10-22T10:00:04.000Z",
+      "badgeColor": "amber",
+      "angle": "Expert Warning"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2610.26887v1",
-      "title": "Navalia Unveils Verifiable Task Synthesis for Autonomous Cowork Agents",
-      "link": "https://arxiv.org/abs/2610.26887",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-10-22T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Innovation in AI Agents"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2610.26941v1",
-      "title": "New Generation of LLM-Driven Agents Pioneers Autonomous Planning in Smart Manufacturing",
-      "link": "https://arxiv.org/abs/2610.26941",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-10-22T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Competitive Landscape"
+      "id": "version2-https://ing.dk/artikel/php-sikkerhedsbrist-varsler-en-ny-tid-ai-finder-fejlene-i-vild-skala",
+      "title": "PHP Security Flaws Signal New Era: AI Identifies Bugs at Scale",
+      "link": "https://ing.dk/artikel/php-sikkerhedsbrist-varsler-en-ny-tid-ai-finder-fejlene-i-vild-skala",
+      "sourceName": "Version2 (Ingeniøren)",
+      "sourceId": "version2",
+      "pubDate": "2026-10-22T08:30:00.000Z",
+      "badgeColor": "red",
+      "angle": "New Era Warning"
     }
   ]
 }
