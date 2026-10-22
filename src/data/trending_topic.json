@@ -1,20 +1,30 @@
 {
-  "headline": "LLM Agents Pioneering Autonomous Planning in Smart Manufacturing",
-  "summary": "A new generation of large language model (LLM)-driven agents is revolutionizing smart manufacturing by enabling autonomous planning, moving beyond predefined workflows. This trend is gaining significant traction as it promises enhanced efficiency and flexibility in industrial processes.",
-  "whyItMatters": "This advancement could lead to more intelligent and adaptive manufacturing systems, significantly impacting productivity and innovation in the industry.",
-  "synthesizedAt": "2026-10-22T06:19:20.342Z",
+  "headline": "Anthropic Claude Duet Challenges Proprietary AI Agents",
+  "summary": "Anthropic has launched Claude Duet, an always-on AI agent that operates independently of user input, competing with leading commercial models from Meta and OpenAI. This move is reshaping the landscape of AI agent deployment and accessibility.",
+  "whyItMatters": "It democratizes AI agent capabilities, potentially reducing reliance on proprietary systems and lowering barriers to entry for developers and businesses.",
+  "synthesizedAt": "2026-10-22T09:22:17.508Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2610.26941v1",
-    "title": "New Generation of LLM-Driven Agents Pioneers Autonomous Planning in Smart Manufacturing",
-    "link": "https://arxiv.org/abs/2610.26941",
-    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-    "sourceId": "arxiv-ai",
-    "pubDate": "2026-10-22T04:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "Official Release"
+    "id": "the-decoder-https://the-decoder.com/?p=41818",
+    "title": "Anthropic Unveils Proactive AI Agent Claude Duet, Competing with Meta's and OpenAI's Models",
+    "link": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-22T08:35:22.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Launch"
   },
   "supportingStories": [
+    {
+      "id": "nvidia-developer-yt:video:85NGIhJkJao",
+      "title": "GTC Berlin After Hours: Keynote Reactions & Insights for Developers",
+      "link": "https://www.youtube.com/watch?v=85NGIhJkJao",
+      "sourceName": "NVIDIA Developer",
+      "sourceId": "nvidia-developer",
+      "pubDate": "2026-10-22T05:26:52.000Z",
+      "badgeColor": "green",
+      "angle": "Industry Analysis"
+    },
     {
       "id": "arxiv-ai-oai:arXiv.org:2610.26887v1",
       "title": "Navalia Unveils Verifiable Task Synthesis for Autonomous Cowork Agents",
@@ -23,17 +33,17 @@
       "sourceId": "arxiv-ai",
       "pubDate": "2026-10-22T04:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Industry Analysis"
+      "angle": "Innovation in AI Agents"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2610.27027v1",
-      "title": "Multi-Agent LLM Systems Show Promise in Reducing Hallucination in Clinical Tasks, but Trustworthiness is Not Guaranteed",
-      "link": "https://arxiv.org/abs/2610.27027",
+      "id": "arxiv-ai-oai:arXiv.org:2610.26941v1",
+      "title": "New Generation of LLM-Driven Agents Pioneers Autonomous Planning in Smart Manufacturing",
+      "link": "https://arxiv.org/abs/2610.26941",
       "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
       "sourceId": "arxiv-ai",
       "pubDate": "2026-10-22T04:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Critical Debate"
+      "angle": "Competitive Landscape"
     }
   ]
 }
