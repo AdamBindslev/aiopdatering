@@ -1,39 +1,48 @@
 {
-  "headline": "AI Agents in Cybersecurity and Cyberattacks",
-  "summary": "Security researchers have uncovered an advanced AI agent capable of hijacking unprotected language models for cyberattacks, while industry leaders warn of AI-enhanced threats. This trend highlights the increasing sophistication of AI in cybersecurity and the need for robust defenses.",
-  "whyItMatters": "This trend underscores the critical need for enhanced cybersecurity measures to protect against AI-driven attacks, impacting both developers and users of AI technologies.",
-  "synthesizedAt": "2026-10-22T12:28:26.105Z",
+  "headline": "OpenAI's Forward Deployed Engineering Strategy Paves Way for Edge AI Dominance",
+  "summary": "OpenAI has detailed its forward deployed engineering (FDE) approach, which aims to bring AI models closer to the edge, enabling real-time, on-device processing. This strategy is gaining momentum as companies seek to reduce latency and increase privacy, making it a defining trend in the industry.",
+  "whyItMatters": "It addresses key challenges in latency and privacy, positioning OpenAI as a leader in edge AI and setting a new standard for AI deployment strategies.",
+  "synthesizedAt": "2026-10-22T15:36:30.660Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41826",
-    "title": "Offensive AI Agent Hijacks Unprotected Language Models for Self-Sustaining Cyberattacks",
-    "link": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-22T11:30:56.000Z",
-    "badgeColor": "slate",
-    "angle": "Security Breach"
+    "id": "openai-https://openai.com/index/forward-deployed-engineering-means",
+    "title": "OpenAI Unveils Forward Deployed Engineering (FDE) Strategy",
+    "link": "https://openai.com/index/forward-deployed-engineering-means",
+    "sourceName": "OpenAI News",
+    "sourceId": "openai",
+    "pubDate": "2026-10-22T06:00:00.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "no-priors-yt:video:PST8yesYOSo",
-      "title": "CrowdStrike CEO Warns of AI-Enhanced Cyber Threats",
-      "link": "https://www.youtube.com/watch?v=PST8yesYOSo",
-      "sourceName": "No Priors Podcast",
-      "sourceId": "no-priors",
-      "pubDate": "2026-10-22T10:00:04.000Z",
-      "badgeColor": "amber",
-      "angle": "Expert Warning"
+      "id": "the-zvi-https://thezvi.substack.com/p/ai-191-the-hackening-begins",
+      "title": "AI #191: The Hackening Begins - Cybersecurity Faces Devastating Attack",
+      "link": "https://thezvi.substack.com/p/ai-191-the-hackening-begins",
+      "sourceName": "Don't Worry About the Vase (Zvi)",
+      "sourceId": "the-zvi",
+      "pubDate": "2026-10-22T15:13:06.000Z",
+      "badgeColor": "emerald"
     },
     {
-      "id": "version2-https://ing.dk/artikel/php-sikkerhedsbrist-varsler-en-ny-tid-ai-finder-fejlene-i-vild-skala",
-      "title": "PHP Security Flaws Signal New Era: AI Identifies Bugs at Scale",
-      "link": "https://ing.dk/artikel/php-sikkerhedsbrist-varsler-en-ny-tid-ai-finder-fejlene-i-vild-skala",
-      "sourceName": "Version2 (Ingeniøren)",
-      "sourceId": "version2",
-      "pubDate": "2026-10-22T08:30:00.000Z",
-      "badgeColor": "red",
-      "angle": "New Era Warning"
+      "id": "the-decoder-https://the-decoder.com/?p=41826",
+      "title": "Offensive AI Agent Hijacks Unprotected Language Models for Self-Sustaining Cyberattacks",
+      "link": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-22T11:30:56.000Z",
+      "badgeColor": "slate",
+      "angle": "Security Implications"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=41818",
+      "title": "Anthropic Unveils Proactive AI Agent Claude Duet, Competing with Meta's and OpenAI's Models",
+      "link": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-22T08:35:22.000Z",
+      "badgeColor": "slate",
+      "angle": "Competitive Landscape"
     }
   ]
 }
