@@ -83590,5 +83590,707 @@
     "whyItMatters": "By decentralizing AI processing, FDE can significantly enhance the efficiency and responsiveness of AI applications, making them more accessible and practical for a wide range of devices and industries.",
     "enrichedAt": "2026-10-22T15:35:56.569Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "the-decoder-https://the-decoder.com/?p=41849": {
+    "title": "Major U.S. Banks Restrict AI Agents Accessing Customer Accounts",
+    "summary": "Major U.S. banks, including Morgan Stanley and JPMorgan, are implementing stricter security measures to prevent AI agents from accessing customer accounts using their credentials, despite some customers granting such permissions. This move reflects growing concerns over data privacy and security in the AI-driven financial sector.",
+    "danishTitle": "Major U.S. Banks Restrict AI Agents Accessing Customer Accounts",
+    "danishSummary": "Major U.S. banks, including Morgan Stanley and JPMorgan, are implementing stricter security measures to prevent AI agents from accessing customer accounts using their credentials, despite some customers granting such permissions. This move reflects growing concerns over data privacy and security in the AI-driven financial sector.",
+    "whyItMatters": "These restrictions highlight the increasing emphasis on robust security protocols in AI applications, potentially setting new standards for data protection in financial services and other industries.",
+    "enrichedAt": "2026-10-22T18:40:51.475Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials": {
+    "title": "Major U.S. Banks Restrict AI Agents Accessing Customer Accounts",
+    "summary": "Major U.S. banks, including Morgan Stanley and JPMorgan, are implementing stricter security measures to prevent AI agents from accessing customer accounts using their credentials, despite some customers granting such permissions. This move reflects growing concerns over data privacy and security in the AI-driven financial sector.",
+    "danishTitle": "Major U.S. Banks Restrict AI Agents Accessing Customer Accounts",
+    "danishSummary": "Major U.S. banks, including Morgan Stanley and JPMorgan, are implementing stricter security measures to prevent AI agents from accessing customer accounts using their credentials, despite some customers granting such permissions. This move reflects growing concerns over data privacy and security in the AI-driven financial sector.",
+    "whyItMatters": "These restrictions highlight the increasing emphasis on robust security protocols in AI applications, potentially setting new standards for data protection in financial services and other industries.",
+    "enrichedAt": "2026-10-22T18:40:51.475Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/": {
+    "title": "Major U.S. Banks Restrict AI Agents Accessing Customer Accounts",
+    "summary": "Major U.S. banks, including Morgan Stanley and JPMorgan, are implementing stricter security measures to prevent AI agents from accessing customer accounts using their credentials, despite some customers granting such permissions. This move reflects growing concerns over data privacy and security in the AI-driven financial sector.",
+    "danishTitle": "Major U.S. Banks Restrict AI Agents Accessing Customer Accounts",
+    "danishSummary": "Major U.S. banks, including Morgan Stanley and JPMorgan, are implementing stricter security measures to prevent AI agents from accessing customer accounts using their credentials, despite some customers granting such permissions. This move reflects growing concerns over data privacy and security in the AI-driven financial sector.",
+    "whyItMatters": "These restrictions highlight the increasing emphasis on robust security protocols in AI applications, potentially setting new standards for data protection in financial services and other industries.",
+    "enrichedAt": "2026-10-22T18:40:51.475Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Oct/22/donating-agent-skills/": {
+    "title": "Anthropic Donates Agent Skills Standard to Agentic AI Foundation",
+    "summary": "Anthropic has announced its intention to donate the Agent Skills standard to the Agentic AI Foundation, ensuring the technology remains open, community-driven, and vendor-neutral. This move aims to foster collaboration and innovation in the AI sector.",
+    "danishTitle": "Anthropic Donates Agent Skills Standard to Agentic AI Foundation",
+    "danishSummary": "Anthropic has announced its intention to donate the Agent Skills standard to the Agentic AI Foundation, ensuring the technology remains open, community-driven, and vendor-neutral. This move aims to foster collaboration and innovation in the AI sector.",
+    "whyItMatters": "By making Agent Skills open-source, Anthropic is likely to accelerate the development and adoption of AI technologies, benefiting the broader AI community and promoting a more collaborative ecosystem.",
+    "enrichedAt": "2026-10-22T18:41:01.058Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/oct/22/donating-agent-skills": {
+    "title": "Anthropic Donates Agent Skills Standard to Agentic AI Foundation",
+    "summary": "Anthropic has announced its intention to donate the Agent Skills standard to the Agentic AI Foundation, ensuring the technology remains open, community-driven, and vendor-neutral. This move aims to foster collaboration and innovation in the AI sector.",
+    "danishTitle": "Anthropic Donates Agent Skills Standard to Agentic AI Foundation",
+    "danishSummary": "Anthropic has announced its intention to donate the Agent Skills standard to the Agentic AI Foundation, ensuring the technology remains open, community-driven, and vendor-neutral. This move aims to foster collaboration and innovation in the AI sector.",
+    "whyItMatters": "By making Agent Skills open-source, Anthropic is likely to accelerate the development and adoption of AI technologies, benefiting the broader AI community and promoting a more collaborative ecosystem.",
+    "enrichedAt": "2026-10-22T18:41:01.058Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Oct/22/donating-agent-skills/": {
+    "title": "Anthropic Donates Agent Skills Standard to Agentic AI Foundation",
+    "summary": "Anthropic has announced its intention to donate the Agent Skills standard to the Agentic AI Foundation, ensuring the technology remains open, community-driven, and vendor-neutral. This move aims to foster collaboration and innovation in the AI sector.",
+    "danishTitle": "Anthropic Donates Agent Skills Standard to Agentic AI Foundation",
+    "danishSummary": "Anthropic has announced its intention to donate the Agent Skills standard to the Agentic AI Foundation, ensuring the technology remains open, community-driven, and vendor-neutral. This move aims to foster collaboration and innovation in the AI sector.",
+    "whyItMatters": "By making Agent Skills open-source, Anthropic is likely to accelerate the development and adoption of AI technologies, benefiting the broader AI community and promoting a more collaborative ecosystem.",
+    "enrichedAt": "2026-10-22T18:41:01.058Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-8dd8e6bc35ad32eff8fd57bbe04f9c56274f46ed": {
+    "title": "Amazon Polly Enhances Generative Engine for More Expressive and Accurate Speech",
+    "summary": "Amazon Polly has significantly upgraded its generative engine, offering more expressive and accurate speech synthesis with low latency and the addition of 14 new voices across nine locales, including general availability of Hindi and Finnish. This update requires no code changes and is designed to enhance user experiences in various applications.",
+    "danishTitle": "Amazon Polly Enhances Generative Engine for More Expressive and Accurate Speech",
+    "danishSummary": "Amazon Polly has significantly upgraded its generative engine, offering more expressive and accurate speech synthesis with low latency and the addition of 14 new voices across nine locales, including general availability of Hindi and Finnish. This update requires no code changes and is designed to enhance user experiences in various applications.",
+    "whyItMatters": "The improvements in speech quality and the expansion of supported languages make Amazon Polly a more versatile tool, enhancing accessibility and user engagement across a wider range of applications and regions.",
+    "enrichedAt": "2026-10-22T18:41:11.828Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine": {
+    "title": "Amazon Polly Enhances Generative Engine for More Expressive and Accurate Speech",
+    "summary": "Amazon Polly has significantly upgraded its generative engine, offering more expressive and accurate speech synthesis with low latency and the addition of 14 new voices across nine locales, including general availability of Hindi and Finnish. This update requires no code changes and is designed to enhance user experiences in various applications.",
+    "danishTitle": "Amazon Polly Enhances Generative Engine for More Expressive and Accurate Speech",
+    "danishSummary": "Amazon Polly has significantly upgraded its generative engine, offering more expressive and accurate speech synthesis with low latency and the addition of 14 new voices across nine locales, including general availability of Hindi and Finnish. This update requires no code changes and is designed to enhance user experiences in various applications.",
+    "whyItMatters": "The improvements in speech quality and the expansion of supported languages make Amazon Polly a more versatile tool, enhancing accessibility and user engagement across a wider range of applications and regions.",
+    "enrichedAt": "2026-10-22T18:41:11.828Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/": {
+    "title": "Amazon Polly Enhances Generative Engine for More Expressive and Accurate Speech",
+    "summary": "Amazon Polly has significantly upgraded its generative engine, offering more expressive and accurate speech synthesis with low latency and the addition of 14 new voices across nine locales, including general availability of Hindi and Finnish. This update requires no code changes and is designed to enhance user experiences in various applications.",
+    "danishTitle": "Amazon Polly Enhances Generative Engine for More Expressive and Accurate Speech",
+    "danishSummary": "Amazon Polly has significantly upgraded its generative engine, offering more expressive and accurate speech synthesis with low latency and the addition of 14 new voices across nine locales, including general availability of Hindi and Finnish. This update requires no code changes and is designed to enhance user experiences in various applications.",
+    "whyItMatters": "The improvements in speech quality and the expansion of supported languages make Amazon Polly a more versatile tool, enhancing accessibility and user engagement across a wider range of applications and regions.",
+    "enrichedAt": "2026-10-22T18:41:11.828Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-4c086dcfa95658eafa8d777d0aa2a5fcb4edc64f": {
+    "title": "IskayPet Deploys Amazon Bedrock Managed Knowledge Bases for Multilingual Corporate Knowledge Assistant",
+    "summary": "IskayPet, a prominent pet care company in Iberia, has implemented Amazon Bedrock Managed Knowledge Bases to create a multilingual corporate knowledge assistant. This solution helps employees across various departments, including retail, veterinary, and onboarding, access critical information efficiently.",
+    "danishTitle": "IskayPet Deploys Amazon Bedrock Managed Knowledge Bases for Multilingual Corporate Knowledge Assistant",
+    "danishSummary": "IskayPet, a prominent pet care company in Iberia, has implemented Amazon Bedrock Managed Knowledge Bases to create a multilingual corporate knowledge assistant. This solution helps employees across various departments, including retail, veterinary, and onboarding, access critical information efficiently.",
+    "whyItMatters": "The deployment showcases the potential of managed knowledge bases to enhance corporate knowledge management and improve employee productivity across diverse industries and linguistic needs.",
+    "enrichedAt": "2026-10-22T18:41:22.104Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases": {
+    "title": "IskayPet Deploys Amazon Bedrock Managed Knowledge Bases for Multilingual Corporate Knowledge Assistant",
+    "summary": "IskayPet, a prominent pet care company in Iberia, has implemented Amazon Bedrock Managed Knowledge Bases to create a multilingual corporate knowledge assistant. This solution helps employees across various departments, including retail, veterinary, and onboarding, access critical information efficiently.",
+    "danishTitle": "IskayPet Deploys Amazon Bedrock Managed Knowledge Bases for Multilingual Corporate Knowledge Assistant",
+    "danishSummary": "IskayPet, a prominent pet care company in Iberia, has implemented Amazon Bedrock Managed Knowledge Bases to create a multilingual corporate knowledge assistant. This solution helps employees across various departments, including retail, veterinary, and onboarding, access critical information efficiently.",
+    "whyItMatters": "The deployment showcases the potential of managed knowledge bases to enhance corporate knowledge management and improve employee productivity across diverse industries and linguistic needs.",
+    "enrichedAt": "2026-10-22T18:41:22.104Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/": {
+    "title": "IskayPet Deploys Amazon Bedrock Managed Knowledge Bases for Multilingual Corporate Knowledge Assistant",
+    "summary": "IskayPet, a prominent pet care company in Iberia, has implemented Amazon Bedrock Managed Knowledge Bases to create a multilingual corporate knowledge assistant. This solution helps employees across various departments, including retail, veterinary, and onboarding, access critical information efficiently.",
+    "danishTitle": "IskayPet Deploys Amazon Bedrock Managed Knowledge Bases for Multilingual Corporate Knowledge Assistant",
+    "danishSummary": "IskayPet, a prominent pet care company in Iberia, has implemented Amazon Bedrock Managed Knowledge Bases to create a multilingual corporate knowledge assistant. This solution helps employees across various departments, including retail, veterinary, and onboarding, access critical information efficiently.",
+    "whyItMatters": "The deployment showcases the potential of managed knowledge bases to enhance corporate knowledge management and improve employee productivity across diverse industries and linguistic needs.",
+    "enrichedAt": "2026-10-22T18:41:22.104Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "openai-channel-yt:video:l16Gw7oVLNQ": {
+    "title": "Uber Expands ChatGPT Work to 30,000 Employees Globally",
+    "summary": "Uber has expanded its pilot of ChatGPT Work to over 30,000 employees as part of a company-wide deployment, marking the first such initiative by a major corporation. The move aims to enhance knowledge work efficiency through agentic platforms.",
+    "danishTitle": "Uber Expands ChatGPT Work to 30,000 Employees Globally",
+    "danishSummary": "Uber has expanded its pilot of ChatGPT Work to over 30,000 employees as part of a company-wide deployment, marking the first such initiative by a major corporation. The move aims to enhance knowledge work efficiency through agentic platforms.",
+    "whyItMatters": "This widespread adoption by a large enterprise could set a precedent for other companies, accelerating the integration of AI in everyday business processes and potentially driving broader industry standards.",
+    "enrichedAt": "2026-10-22T18:41:32.439Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:l16gw7ovlnq": {
+    "title": "Uber Expands ChatGPT Work to 30,000 Employees Globally",
+    "summary": "Uber has expanded its pilot of ChatGPT Work to over 30,000 employees as part of a company-wide deployment, marking the first such initiative by a major corporation. The move aims to enhance knowledge work efficiency through agentic platforms.",
+    "danishTitle": "Uber Expands ChatGPT Work to 30,000 Employees Globally",
+    "danishSummary": "Uber has expanded its pilot of ChatGPT Work to over 30,000 employees as part of a company-wide deployment, marking the first such initiative by a major corporation. The move aims to enhance knowledge work efficiency through agentic platforms.",
+    "whyItMatters": "This widespread adoption by a large enterprise could set a precedent for other companies, accelerating the integration of AI in everyday business processes and potentially driving broader industry standards.",
+    "enrichedAt": "2026-10-22T18:41:32.439Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=l16Gw7oVLNQ": {
+    "title": "Uber Expands ChatGPT Work to 30,000 Employees Globally",
+    "summary": "Uber has expanded its pilot of ChatGPT Work to over 30,000 employees as part of a company-wide deployment, marking the first such initiative by a major corporation. The move aims to enhance knowledge work efficiency through agentic platforms.",
+    "danishTitle": "Uber Expands ChatGPT Work to 30,000 Employees Globally",
+    "danishSummary": "Uber has expanded its pilot of ChatGPT Work to over 30,000 employees as part of a company-wide deployment, marking the first such initiative by a major corporation. The move aims to enhance knowledge work efficiency through agentic platforms.",
+    "whyItMatters": "This widespread adoption by a large enterprise could set a precedent for other companies, accelerating the integration of AI in everyday business processes and potentially driving broader industry standards.",
+    "enrichedAt": "2026-10-22T18:41:32.439Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-123e9274ff10d780d0521efd9bdc03cfb23cff08": {
+    "title": "Amazon SageMaker AI Launches Serverless Model Customization Without GPU Management",
+    "summary": "Amazon SageMaker AI has introduced a serverless model customization feature that allows users to train and coordinate their own post-training loops without managing GPUs, making the process more accessible and efficient. This update includes general availability of training sessions, enabling developers to fine-tune models using custom loss functions, reward signals, and multi-turn reinforcement learning.",
+    "danishTitle": "Amazon SageMaker AI Launches Serverless Model Customization Without GPU Management",
+    "danishSummary": "Amazon SageMaker AI has introduced a serverless model customization feature that allows users to train and coordinate their own post-training loops without managing GPUs, making the process more accessible and efficient. This update includes general availability of training sessions, enabling developers to fine-tune models using custom loss functions, reward signals, and multi-turn reinforcement learning.",
+    "whyItMatters": "This new feature reduces the complexity and overhead of model customization, potentially lowering barriers for developers and enterprises looking to fine-tune machine learning models, thereby accelerating innovation and deployment.",
+    "enrichedAt": "2026-10-22T18:41:43.833Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus": {
+    "title": "Amazon SageMaker AI Launches Serverless Model Customization Without GPU Management",
+    "summary": "Amazon SageMaker AI has introduced a serverless model customization feature that allows users to train and coordinate their own post-training loops without managing GPUs, making the process more accessible and efficient. This update includes general availability of training sessions, enabling developers to fine-tune models using custom loss functions, reward signals, and multi-turn reinforcement learning.",
+    "danishTitle": "Amazon SageMaker AI Launches Serverless Model Customization Without GPU Management",
+    "danishSummary": "Amazon SageMaker AI has introduced a serverless model customization feature that allows users to train and coordinate their own post-training loops without managing GPUs, making the process more accessible and efficient. This update includes general availability of training sessions, enabling developers to fine-tune models using custom loss functions, reward signals, and multi-turn reinforcement learning.",
+    "whyItMatters": "This new feature reduces the complexity and overhead of model customization, potentially lowering barriers for developers and enterprises looking to fine-tune machine learning models, thereby accelerating innovation and deployment.",
+    "enrichedAt": "2026-10-22T18:41:43.833Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/": {
+    "title": "Amazon SageMaker AI Launches Serverless Model Customization Without GPU Management",
+    "summary": "Amazon SageMaker AI has introduced a serverless model customization feature that allows users to train and coordinate their own post-training loops without managing GPUs, making the process more accessible and efficient. This update includes general availability of training sessions, enabling developers to fine-tune models using custom loss functions, reward signals, and multi-turn reinforcement learning.",
+    "danishTitle": "Amazon SageMaker AI Launches Serverless Model Customization Without GPU Management",
+    "danishSummary": "Amazon SageMaker AI has introduced a serverless model customization feature that allows users to train and coordinate their own post-training loops without managing GPUs, making the process more accessible and efficient. This update includes general availability of training sessions, enabling developers to fine-tune models using custom loss functions, reward signals, and multi-turn reinforcement learning.",
+    "whyItMatters": "This new feature reduces the complexity and overhead of model customization, potentially lowering barriers for developers and enterprises looking to fine-tune machine learning models, thereby accelerating innovation and deployment.",
+    "enrichedAt": "2026-10-22T18:41:43.833Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-85d3ed31b82ab8523ac7effc5500095e66ae8521": {
+    "title": "Amazon SageMaker Launches Training Session APIs for Custom LLM Training Loops",
+    "summary": "Amazon SageMaker has introduced new training session APIs that enable developers to write their own training loops for large language models (LLMs) such as supervised fine-tuning (SFT), reinforcement learning (RL), or custom objectives, without the need to manage GPUs. This feature simplifies the development process and enhances flexibility.",
+    "danishTitle": "Amazon SageMaker Launches Training Session APIs for Custom LLM Training Loops",
+    "danishSummary": "Amazon SageMaker has introduced new training session APIs that enable developers to write their own training loops for large language models (LLMs) such as supervised fine-tuning (SFT), reinforcement learning (RL), or custom objectives, without the need to manage GPUs. This feature simplifies the development process and enhances flexibility.",
+    "whyItMatters": "By streamlining the training loop process and removing the burden of GPU management, Amazon SageMaker's new APIs empower developers to focus more on model training and less on infrastructure, potentially accelerating innovation in AI applications.",
+    "enrichedAt": "2026-10-22T18:41:55.619Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions": {
+    "title": "Amazon SageMaker Launches Training Session APIs for Custom LLM Training Loops",
+    "summary": "Amazon SageMaker has introduced new training session APIs that enable developers to write their own training loops for large language models (LLMs) such as supervised fine-tuning (SFT), reinforcement learning (RL), or custom objectives, without the need to manage GPUs. This feature simplifies the development process and enhances flexibility.",
+    "danishTitle": "Amazon SageMaker Launches Training Session APIs for Custom LLM Training Loops",
+    "danishSummary": "Amazon SageMaker has introduced new training session APIs that enable developers to write their own training loops for large language models (LLMs) such as supervised fine-tuning (SFT), reinforcement learning (RL), or custom objectives, without the need to manage GPUs. This feature simplifies the development process and enhances flexibility.",
+    "whyItMatters": "By streamlining the training loop process and removing the burden of GPU management, Amazon SageMaker's new APIs empower developers to focus more on model training and less on infrastructure, potentially accelerating innovation in AI applications.",
+    "enrichedAt": "2026-10-22T18:41:55.619Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/": {
+    "title": "Amazon SageMaker Launches Training Session APIs for Custom LLM Training Loops",
+    "summary": "Amazon SageMaker has introduced new training session APIs that enable developers to write their own training loops for large language models (LLMs) such as supervised fine-tuning (SFT), reinforcement learning (RL), or custom objectives, without the need to manage GPUs. This feature simplifies the development process and enhances flexibility.",
+    "danishTitle": "Amazon SageMaker Launches Training Session APIs for Custom LLM Training Loops",
+    "danishSummary": "Amazon SageMaker has introduced new training session APIs that enable developers to write their own training loops for large language models (LLMs) such as supervised fine-tuning (SFT), reinforcement learning (RL), or custom objectives, without the need to manage GPUs. This feature simplifies the development process and enhances flexibility.",
+    "whyItMatters": "By streamlining the training loop process and removing the burden of GPU management, Amazon SageMaker's new APIs empower developers to focus more on model training and less on infrastructure, potentially accelerating innovation in AI applications.",
+    "enrichedAt": "2026-10-22T18:41:55.619Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "the-decoder-https://the-decoder.com/?p=41846": {
+    "title": "Google Unveils Agent Compute Engine for Isolated Gemini Agent Execution",
+    "summary": "Google has launched Agent Compute Engine, a specialized runtime environment that provides each Gemini AI agent with its own hardware-isolated micro virtual machine, enhancing security and control. This initiative aims to improve governance across various deployment environments, from cloud to on-premises.",
+    "danishTitle": "Google Unveils Agent Compute Engine for Isolated Gemini Agent Execution",
+    "danishSummary": "Google has launched Agent Compute Engine, a specialized runtime environment that provides each Gemini AI agent with its own hardware-isolated micro virtual machine, enhancing security and control. This initiative aims to improve governance across various deployment environments, from cloud to on-premises.",
+    "whyItMatters": "By offering isolated execution environments, Agent Compute Engine addresses security concerns and streamlines management, making Gemini agents more versatile and deployable in diverse enterprise settings.",
+    "enrichedAt": "2026-10-22T18:42:05.505Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine": {
+    "title": "Google Unveils Agent Compute Engine for Isolated Gemini Agent Execution",
+    "summary": "Google has launched Agent Compute Engine, a specialized runtime environment that provides each Gemini AI agent with its own hardware-isolated micro virtual machine, enhancing security and control. This initiative aims to improve governance across various deployment environments, from cloud to on-premises.",
+    "danishTitle": "Google Unveils Agent Compute Engine for Isolated Gemini Agent Execution",
+    "danishSummary": "Google has launched Agent Compute Engine, a specialized runtime environment that provides each Gemini AI agent with its own hardware-isolated micro virtual machine, enhancing security and control. This initiative aims to improve governance across various deployment environments, from cloud to on-premises.",
+    "whyItMatters": "By offering isolated execution environments, Agent Compute Engine addresses security concerns and streamlines management, making Gemini agents more versatile and deployable in diverse enterprise settings.",
+    "enrichedAt": "2026-10-22T18:42:05.505Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/": {
+    "title": "Google Unveils Agent Compute Engine for Isolated Gemini Agent Execution",
+    "summary": "Google has launched Agent Compute Engine, a specialized runtime environment that provides each Gemini AI agent with its own hardware-isolated micro virtual machine, enhancing security and control. This initiative aims to improve governance across various deployment environments, from cloud to on-premises.",
+    "danishTitle": "Google Unveils Agent Compute Engine for Isolated Gemini Agent Execution",
+    "danishSummary": "Google has launched Agent Compute Engine, a specialized runtime environment that provides each Gemini AI agent with its own hardware-isolated micro virtual machine, enhancing security and control. This initiative aims to improve governance across various deployment environments, from cloud to on-premises.",
+    "whyItMatters": "By offering isolated execution environments, Agent Compute Engine addresses security concerns and streamlines management, making Gemini agents more versatile and deployable in diverse enterprise settings.",
+    "enrichedAt": "2026-10-22T18:42:05.505Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-9bd193b4e42ef70bdb7e98ad7ab3c3f9df6f367e": {
+    "title": "Amazon Quick Launches HIPAA-Eligible Service for Secure AI Deployments",
+    "summary": "Amazon Quick has announced its HIPAA-eligible service, designed to enable secure AI deployments for healthcare organizations. The service provides a framework for handling Protected Health Information (PHI) while ensuring compliance with regulatory standards.",
+    "danishTitle": "Amazon Quick Launches HIPAA-Eligible Service for Secure AI Deployments",
+    "danishSummary": "Amazon Quick has announced its HIPAA-eligible service, designed to enable secure AI deployments for healthcare organizations. The service provides a framework for handling Protected Health Information (PHI) while ensuring compliance with regulatory standards.",
+    "whyItMatters": "This launch expands the accessibility of secure AI solutions for healthcare providers, enhancing data privacy and compliance, which is crucial for the industry's adoption of advanced AI technologies.",
+    "enrichedAt": "2026-10-22T18:42:15.108Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick": {
+    "title": "Amazon Quick Launches HIPAA-Eligible Service for Secure AI Deployments",
+    "summary": "Amazon Quick has announced its HIPAA-eligible service, designed to enable secure AI deployments for healthcare organizations. The service provides a framework for handling Protected Health Information (PHI) while ensuring compliance with regulatory standards.",
+    "danishTitle": "Amazon Quick Launches HIPAA-Eligible Service for Secure AI Deployments",
+    "danishSummary": "Amazon Quick has announced its HIPAA-eligible service, designed to enable secure AI deployments for healthcare organizations. The service provides a framework for handling Protected Health Information (PHI) while ensuring compliance with regulatory standards.",
+    "whyItMatters": "This launch expands the accessibility of secure AI solutions for healthcare providers, enhancing data privacy and compliance, which is crucial for the industry's adoption of advanced AI technologies.",
+    "enrichedAt": "2026-10-22T18:42:15.108Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick/": {
+    "title": "Amazon Quick Launches HIPAA-Eligible Service for Secure AI Deployments",
+    "summary": "Amazon Quick has announced its HIPAA-eligible service, designed to enable secure AI deployments for healthcare organizations. The service provides a framework for handling Protected Health Information (PHI) while ensuring compliance with regulatory standards.",
+    "danishTitle": "Amazon Quick Launches HIPAA-Eligible Service for Secure AI Deployments",
+    "danishSummary": "Amazon Quick has announced its HIPAA-eligible service, designed to enable secure AI deployments for healthcare organizations. The service provides a framework for handling Protected Health Information (PHI) while ensuring compliance with regulatory standards.",
+    "whyItMatters": "This launch expands the accessibility of secure AI solutions for healthcare providers, enhancing data privacy and compliance, which is crucial for the industry's adoption of advanced AI technologies.",
+    "enrichedAt": "2026-10-22T18:42:15.108Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-351e07d8236b8a05fa15e510dcb5b937d7a9dec8": {
+    "title": "AWS Launches Kokoro TTS on Amazon SageMaker AI for Low-Latency Speech Streaming",
+    "summary": "AWS has introduced Kokoro TTS on Amazon SageMaker AI, enabling real-time speech synthesis by streaming each sentence to a text-to-speech model as it is generated, significantly reducing latency in voice agent applications.",
+    "danishTitle": "AWS Launches Kokoro TTS on Amazon SageMaker AI for Low-Latency Speech Streaming",
+    "danishSummary": "AWS has introduced Kokoro TTS on Amazon SageMaker AI, enabling real-time speech synthesis by streaming each sentence to a text-to-speech model as it is generated, significantly reducing latency in voice agent applications.",
+    "whyItMatters": "This innovation enhances user experience in voice-driven applications by minimizing wait times, making it crucial for developers aiming to improve interaction speed and efficiency in AI-powered voice assistants.",
+    "enrichedAt": "2026-10-22T18:42:24.948Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai": {
+    "title": "AWS Launches Kokoro TTS on Amazon SageMaker AI for Low-Latency Speech Streaming",
+    "summary": "AWS has introduced Kokoro TTS on Amazon SageMaker AI, enabling real-time speech synthesis by streaming each sentence to a text-to-speech model as it is generated, significantly reducing latency in voice agent applications.",
+    "danishTitle": "AWS Launches Kokoro TTS on Amazon SageMaker AI for Low-Latency Speech Streaming",
+    "danishSummary": "AWS has introduced Kokoro TTS on Amazon SageMaker AI, enabling real-time speech synthesis by streaming each sentence to a text-to-speech model as it is generated, significantly reducing latency in voice agent applications.",
+    "whyItMatters": "This innovation enhances user experience in voice-driven applications by minimizing wait times, making it crucial for developers aiming to improve interaction speed and efficiency in AI-powered voice assistants.",
+    "enrichedAt": "2026-10-22T18:42:24.948Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/": {
+    "title": "AWS Launches Kokoro TTS on Amazon SageMaker AI for Low-Latency Speech Streaming",
+    "summary": "AWS has introduced Kokoro TTS on Amazon SageMaker AI, enabling real-time speech synthesis by streaming each sentence to a text-to-speech model as it is generated, significantly reducing latency in voice agent applications.",
+    "danishTitle": "AWS Launches Kokoro TTS on Amazon SageMaker AI for Low-Latency Speech Streaming",
+    "danishSummary": "AWS has introduced Kokoro TTS on Amazon SageMaker AI, enabling real-time speech synthesis by streaming each sentence to a text-to-speech model as it is generated, significantly reducing latency in voice agent applications.",
+    "whyItMatters": "This innovation enhances user experience in voice-driven applications by minimizing wait times, making it crucial for developers aiming to improve interaction speed and efficiency in AI-powered voice assistants.",
+    "enrichedAt": "2026-10-22T18:42:24.948Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "latent-space-https://www.latent.space/p/modal-d": {
+    "title": "Modal CEO Erik Bernhardsson Explores the Economics of AI Compute in Rectangular Form Factors",
+    "summary": "Erik Bernhardsson, CEO of Modal, discusses the economic implications of using rectangular form factors for AI compute, focusing on the benefits of elastic GPUs and sandbox growth in the context of the agent cloud.",
+    "danishTitle": "Modal CEO Erik Bernhardsson Explores the Economics of AI Compute in Rectangular Form Factors",
+    "danishSummary": "Erik Bernhardsson, CEO of Modal, discusses the economic implications of using rectangular form factors for AI compute, focusing on the benefits of elastic GPUs and sandbox growth in the context of the agent cloud.",
+    "whyItMatters": "Understanding the economic advantages of rectangular form factors could lead to more efficient and cost-effective AI deployments, impacting the broader AI industry and cloud computing strategies.",
+    "enrichedAt": "2026-10-22T18:42:34.010Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.latent.space/p/modal-d": {
+    "title": "Modal CEO Erik Bernhardsson Explores the Economics of AI Compute in Rectangular Form Factors",
+    "summary": "Erik Bernhardsson, CEO of Modal, discusses the economic implications of using rectangular form factors for AI compute, focusing on the benefits of elastic GPUs and sandbox growth in the context of the agent cloud.",
+    "danishTitle": "Modal CEO Erik Bernhardsson Explores the Economics of AI Compute in Rectangular Form Factors",
+    "danishSummary": "Erik Bernhardsson, CEO of Modal, discusses the economic implications of using rectangular form factors for AI compute, focusing on the benefits of elastic GPUs and sandbox growth in the context of the agent cloud.",
+    "whyItMatters": "Understanding the economic advantages of rectangular form factors could lead to more efficient and cost-effective AI deployments, impacting the broader AI industry and cloud computing strategies.",
+    "enrichedAt": "2026-10-22T18:42:34.010Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "weights-and-biases-yt:video:qCvTEzQ86Gc": {
+    "title": "CoreWeave Launches Physical AI Launchables to Streamline Setup for Simulation and Training",
+    "summary": "CoreWeave has introduced Physical AI Launchables, a new tool designed to simplify the setup process for physical AI teams, reducing the time from initial configuration to first results from weeks to just minutes. This innovation aims to accelerate the development and deployment of AI models in simulation and training environments.",
+    "danishTitle": "CoreWeave Launches Physical AI Launchables to Streamline Setup for Simulation and Training",
+    "danishSummary": "CoreWeave has introduced Physical AI Launchables, a new tool designed to simplify the setup process for physical AI teams, reducing the time from initial configuration to first results from weeks to just minutes. This innovation aims to accelerate the development and deployment of AI models in simulation and training environments.",
+    "whyItMatters": "By significantly reducing setup times, CoreWeave's Physical AI Launchables can enhance productivity and innovation in the AI development lifecycle, making it easier for teams to focus on model performance rather than infrastructure challenges.",
+    "enrichedAt": "2026-10-22T18:42:45.166Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:qcvtezq86gc": {
+    "title": "CoreWeave Launches Physical AI Launchables to Streamline Setup for Simulation and Training",
+    "summary": "CoreWeave has introduced Physical AI Launchables, a new tool designed to simplify the setup process for physical AI teams, reducing the time from initial configuration to first results from weeks to just minutes. This innovation aims to accelerate the development and deployment of AI models in simulation and training environments.",
+    "danishTitle": "CoreWeave Launches Physical AI Launchables to Streamline Setup for Simulation and Training",
+    "danishSummary": "CoreWeave has introduced Physical AI Launchables, a new tool designed to simplify the setup process for physical AI teams, reducing the time from initial configuration to first results from weeks to just minutes. This innovation aims to accelerate the development and deployment of AI models in simulation and training environments.",
+    "whyItMatters": "By significantly reducing setup times, CoreWeave's Physical AI Launchables can enhance productivity and innovation in the AI development lifecycle, making it easier for teams to focus on model performance rather than infrastructure challenges.",
+    "enrichedAt": "2026-10-22T18:42:45.166Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=qCvTEzQ86Gc": {
+    "title": "CoreWeave Launches Physical AI Launchables to Streamline Setup for Simulation and Training",
+    "summary": "CoreWeave has introduced Physical AI Launchables, a new tool designed to simplify the setup process for physical AI teams, reducing the time from initial configuration to first results from weeks to just minutes. This innovation aims to accelerate the development and deployment of AI models in simulation and training environments.",
+    "danishTitle": "CoreWeave Launches Physical AI Launchables to Streamline Setup for Simulation and Training",
+    "danishSummary": "CoreWeave has introduced Physical AI Launchables, a new tool designed to simplify the setup process for physical AI teams, reducing the time from initial configuration to first results from weeks to just minutes. This innovation aims to accelerate the development and deployment of AI models in simulation and training environments.",
+    "whyItMatters": "By significantly reducing setup times, CoreWeave's Physical AI Launchables can enhance productivity and innovation in the AI development lifecycle, making it easier for teams to focus on model performance rather than infrastructure challenges.",
+    "enrichedAt": "2026-10-22T18:42:45.166Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "stanford-cs25-yt:video:jT6aYMQ0Lqw": {
+    "title": "Stanford CS547 HCI Seminar Discusses Sensing Uncertainty in Sustainable Human-Computer Interaction",
+    "summary": "The Autumn 2026 seminar at Stanford’s CS547 HCI course explores the challenges of sensing uncertainty in sustainable human-computer interaction, focusing on scenarios where sensors might fail to accurately report events as they occur. The lecture aims to enhance the understanding of how to design more robust and reliable systems.",
+    "danishTitle": "Stanford CS547 HCI Seminar Discusses Sensing Uncertainty in Sustainable Human-Computer Interaction",
+    "danishSummary": "The Autumn 2026 seminar at Stanford’s CS547 HCI course explores the challenges of sensing uncertainty in sustainable human-computer interaction, focusing on scenarios where sensors might fail to accurately report events as they occur. The lecture aims to enhance the understanding of how to design more robust and reliable systems.",
+    "whyItMatters": "Understanding and addressing sensor uncertainty is crucial for developing sustainable and reliable human-computer interaction systems, particularly in environments where real-time and accurate data are essential.",
+    "enrichedAt": "2026-10-22T18:42:56.403Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:jt6aymq0lqw": {
+    "title": "Stanford CS547 HCI Seminar Discusses Sensing Uncertainty in Sustainable Human-Computer Interaction",
+    "summary": "The Autumn 2026 seminar at Stanford’s CS547 HCI course explores the challenges of sensing uncertainty in sustainable human-computer interaction, focusing on scenarios where sensors might fail to accurately report events as they occur. The lecture aims to enhance the understanding of how to design more robust and reliable systems.",
+    "danishTitle": "Stanford CS547 HCI Seminar Discusses Sensing Uncertainty in Sustainable Human-Computer Interaction",
+    "danishSummary": "The Autumn 2026 seminar at Stanford’s CS547 HCI course explores the challenges of sensing uncertainty in sustainable human-computer interaction, focusing on scenarios where sensors might fail to accurately report events as they occur. The lecture aims to enhance the understanding of how to design more robust and reliable systems.",
+    "whyItMatters": "Understanding and addressing sensor uncertainty is crucial for developing sustainable and reliable human-computer interaction systems, particularly in environments where real-time and accurate data are essential.",
+    "enrichedAt": "2026-10-22T18:42:56.403Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=jT6aYMQ0Lqw": {
+    "title": "Stanford CS547 HCI Seminar Discusses Sensing Uncertainty in Sustainable Human-Computer Interaction",
+    "summary": "The Autumn 2026 seminar at Stanford’s CS547 HCI course explores the challenges of sensing uncertainty in sustainable human-computer interaction, focusing on scenarios where sensors might fail to accurately report events as they occur. The lecture aims to enhance the understanding of how to design more robust and reliable systems.",
+    "danishTitle": "Stanford CS547 HCI Seminar Discusses Sensing Uncertainty in Sustainable Human-Computer Interaction",
+    "danishSummary": "The Autumn 2026 seminar at Stanford’s CS547 HCI course explores the challenges of sensing uncertainty in sustainable human-computer interaction, focusing on scenarios where sensors might fail to accurately report events as they occur. The lecture aims to enhance the understanding of how to design more robust and reliable systems.",
+    "whyItMatters": "Understanding and addressing sensor uncertainty is crucial for developing sustainable and reliable human-computer interaction systems, particularly in environments where real-time and accurate data are essential.",
+    "enrichedAt": "2026-10-22T18:42:56.403Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3180678": {
+    "title": "Chinese Hackers Use AI to Breach ConnectWise, Targeting Thousands of Companies",
+    "summary": "TechCrunch reports that a China-aligned hacker group exploited AI-driven techniques to breach ConnectWise, a major IT management software provider, gaining access to data from thousands of its clients. Microsoft has attributed the breach to this group, highlighting the growing threat of AI-enhanced cyberattacks.",
+    "danishTitle": "Chinese Hackers Use AI to Breach ConnectWise, Targeting Thousands of Companies",
+    "danishSummary": "TechCrunch reports that a China-aligned hacker group exploited AI-driven techniques to breach ConnectWise, a major IT management software provider, gaining access to data from thousands of its clients. Microsoft has attributed the breach to this group, highlighting the growing threat of AI-enhanced cyberattacks.",
+    "whyItMatters": "This incident underscores the increasing sophistication of cyber threats, particularly those leveraging AI, and raises concerns about the security of cloud-based services and the potential for widespread data breaches.",
+    "enrichedAt": "2026-10-22T18:43:07.266Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise": {
+    "title": "Chinese Hackers Use AI to Breach ConnectWise, Targeting Thousands of Companies",
+    "summary": "TechCrunch reports that a China-aligned hacker group exploited AI-driven techniques to breach ConnectWise, a major IT management software provider, gaining access to data from thousands of its clients. Microsoft has attributed the breach to this group, highlighting the growing threat of AI-enhanced cyberattacks.",
+    "danishTitle": "Chinese Hackers Use AI to Breach ConnectWise, Targeting Thousands of Companies",
+    "danishSummary": "TechCrunch reports that a China-aligned hacker group exploited AI-driven techniques to breach ConnectWise, a major IT management software provider, gaining access to data from thousands of its clients. Microsoft has attributed the breach to this group, highlighting the growing threat of AI-enhanced cyberattacks.",
+    "whyItMatters": "This incident underscores the increasing sophistication of cyber threats, particularly those leveraging AI, and raises concerns about the security of cloud-based services and the potential for widespread data breaches.",
+    "enrichedAt": "2026-10-22T18:43:07.266Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/": {
+    "title": "Chinese Hackers Use AI to Breach ConnectWise, Targeting Thousands of Companies",
+    "summary": "TechCrunch reports that a China-aligned hacker group exploited AI-driven techniques to breach ConnectWise, a major IT management software provider, gaining access to data from thousands of its clients. Microsoft has attributed the breach to this group, highlighting the growing threat of AI-enhanced cyberattacks.",
+    "danishTitle": "Chinese Hackers Use AI to Breach ConnectWise, Targeting Thousands of Companies",
+    "danishSummary": "TechCrunch reports that a China-aligned hacker group exploited AI-driven techniques to breach ConnectWise, a major IT management software provider, gaining access to data from thousands of its clients. Microsoft has attributed the breach to this group, highlighting the growing threat of AI-enhanced cyberattacks.",
+    "whyItMatters": "This incident underscores the increasing sophistication of cyber threats, particularly those leveraging AI, and raises concerns about the security of cloud-based services and the potential for widespread data breaches.",
+    "enrichedAt": "2026-10-22T18:43:07.266Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "nvidia-https://developer.nvidia.com/blog/?p=123962": {
+    "title": "NVIDIA Unveils GPUDirect Storage for Enhanced GPU Data Transfer in Python",
+    "summary": "NVIDIA has released a new Python library leveraging GPUDirect Storage to optimize data transfer to GPU memory, addressing the growing need for efficient handling of large datasets in GPU applications. This tool aims to accelerate AI and machine learning workflows by reducing data transfer bottlenecks.",
+    "danishTitle": "NVIDIA Unveils GPUDirect Storage for Enhanced GPU Data Transfer in Python",
+    "danishSummary": "NVIDIA has released a new Python library leveraging GPUDirect Storage to optimize data transfer to GPU memory, addressing the growing need for efficient handling of large datasets in GPU applications. This tool aims to accelerate AI and machine learning workflows by reducing data transfer bottlenecks.",
+    "whyItMatters": "By streamlining data access, GPUDirect Storage enables more efficient use of GPU resources, potentially boosting performance and reducing development time in AI and machine learning projects.",
+    "enrichedAt": "2026-10-22T18:43:17.713Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage": {
+    "title": "NVIDIA Unveils GPUDirect Storage for Enhanced GPU Data Transfer in Python",
+    "summary": "NVIDIA has released a new Python library leveraging GPUDirect Storage to optimize data transfer to GPU memory, addressing the growing need for efficient handling of large datasets in GPU applications. This tool aims to accelerate AI and machine learning workflows by reducing data transfer bottlenecks.",
+    "danishTitle": "NVIDIA Unveils GPUDirect Storage for Enhanced GPU Data Transfer in Python",
+    "danishSummary": "NVIDIA has released a new Python library leveraging GPUDirect Storage to optimize data transfer to GPU memory, addressing the growing need for efficient handling of large datasets in GPU applications. This tool aims to accelerate AI and machine learning workflows by reducing data transfer bottlenecks.",
+    "whyItMatters": "By streamlining data access, GPUDirect Storage enables more efficient use of GPU resources, potentially boosting performance and reducing development time in AI and machine learning projects.",
+    "enrichedAt": "2026-10-22T18:43:17.713Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage/": {
+    "title": "NVIDIA Unveils GPUDirect Storage for Enhanced GPU Data Transfer in Python",
+    "summary": "NVIDIA has released a new Python library leveraging GPUDirect Storage to optimize data transfer to GPU memory, addressing the growing need for efficient handling of large datasets in GPU applications. This tool aims to accelerate AI and machine learning workflows by reducing data transfer bottlenecks.",
+    "danishTitle": "NVIDIA Unveils GPUDirect Storage for Enhanced GPU Data Transfer in Python",
+    "danishSummary": "NVIDIA has released a new Python library leveraging GPUDirect Storage to optimize data transfer to GPU memory, addressing the growing need for efficient handling of large datasets in GPU applications. This tool aims to accelerate AI and machine learning workflows by reducing data transfer bottlenecks.",
+    "whyItMatters": "By streamlining data access, GPUDirect Storage enables more efficient use of GPU resources, potentially boosting performance and reducing development time in AI and machine learning projects.",
+    "enrichedAt": "2026-10-22T18:43:17.713Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-bc1e8aba2e409ec4403d397afa02816caf7e4b6e": {
+    "title": "AWS Introduces Automated Auto Scaling for Text-to-Speech Models on SageMaker",
+    "summary": "AWS has released a new feature for Amazon SageMaker that automates the auto-scaling process for text-to-speech (TTS) models, reducing the need for manual threshold setting and minimizing both cost and latency issues. The feature is demonstrated using the Kokoro-82M custom container.",
+    "danishTitle": "AWS Introduces Automated Auto Scaling for Text-to-Speech Models on SageMaker",
+    "danishSummary": "AWS has released a new feature for Amazon SageMaker that automates the auto-scaling process for text-to-speech (TTS) models, reducing the need for manual threshold setting and minimizing both cost and latency issues. The feature is demonstrated using the Kokoro-82M custom container.",
+    "whyItMatters": "By streamlining auto-scaling for TTS models, AWS enhances operational efficiency and cost-effectiveness, making it easier for developers to manage scalable AI workloads without compromising performance.",
+    "enrichedAt": "2026-10-22T18:43:28.875Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai": {
+    "title": "AWS Introduces Automated Auto Scaling for Text-to-Speech Models on SageMaker",
+    "summary": "AWS has released a new feature for Amazon SageMaker that automates the auto-scaling process for text-to-speech (TTS) models, reducing the need for manual threshold setting and minimizing both cost and latency issues. The feature is demonstrated using the Kokoro-82M custom container.",
+    "danishTitle": "AWS Introduces Automated Auto Scaling for Text-to-Speech Models on SageMaker",
+    "danishSummary": "AWS has released a new feature for Amazon SageMaker that automates the auto-scaling process for text-to-speech (TTS) models, reducing the need for manual threshold setting and minimizing both cost and latency issues. The feature is demonstrated using the Kokoro-82M custom container.",
+    "whyItMatters": "By streamlining auto-scaling for TTS models, AWS enhances operational efficiency and cost-effectiveness, making it easier for developers to manage scalable AI workloads without compromising performance.",
+    "enrichedAt": "2026-10-22T18:43:28.875Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai/": {
+    "title": "AWS Introduces Automated Auto Scaling for Text-to-Speech Models on SageMaker",
+    "summary": "AWS has released a new feature for Amazon SageMaker that automates the auto-scaling process for text-to-speech (TTS) models, reducing the need for manual threshold setting and minimizing both cost and latency issues. The feature is demonstrated using the Kokoro-82M custom container.",
+    "danishTitle": "AWS Introduces Automated Auto Scaling for Text-to-Speech Models on SageMaker",
+    "danishSummary": "AWS has released a new feature for Amazon SageMaker that automates the auto-scaling process for text-to-speech (TTS) models, reducing the need for manual threshold setting and minimizing both cost and latency issues. The feature is demonstrated using the Kokoro-82M custom container.",
+    "whyItMatters": "By streamlining auto-scaling for TTS models, AWS enhances operational efficiency and cost-effectiveness, making it easier for developers to manage scalable AI workloads without compromising performance.",
+    "enrichedAt": "2026-10-22T18:43:28.875Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-7b42b92d3553785669b6b7f2bc67061098c8e566": {
+    "title": "Rescale Deploys AI-Triage Agent Using AI-DLC Framework on AWS",
+    "summary": "Rescale developed an AI triage agent in weeks by leveraging the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, alongside Strands Agents and Amazon Bedrock. This approach demonstrates how structured AI development can accelerate the creation of intelligent automation tools.",
+    "danishTitle": "Rescale Deploys AI-Triage Agent Using AI-DLC Framework on AWS",
+    "danishSummary": "Rescale developed an AI triage agent in weeks by leveraging the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, alongside Strands Agents and Amazon Bedrock. This approach demonstrates how structured AI development can accelerate the creation of intelligent automation tools.",
+    "whyItMatters": "This implementation showcases the potential for rapid AI development and deployment, making advanced AI solutions more accessible to businesses looking to enhance their operational efficiency through automation.",
+    "enrichedAt": "2026-10-22T18:43:38.941Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc": {
+    "title": "Rescale Deploys AI-Triage Agent Using AI-DLC Framework on AWS",
+    "summary": "Rescale developed an AI triage agent in weeks by leveraging the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, alongside Strands Agents and Amazon Bedrock. This approach demonstrates how structured AI development can accelerate the creation of intelligent automation tools.",
+    "danishTitle": "Rescale Deploys AI-Triage Agent Using AI-DLC Framework on AWS",
+    "danishSummary": "Rescale developed an AI triage agent in weeks by leveraging the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, alongside Strands Agents and Amazon Bedrock. This approach demonstrates how structured AI development can accelerate the creation of intelligent automation tools.",
+    "whyItMatters": "This implementation showcases the potential for rapid AI development and deployment, making advanced AI solutions more accessible to businesses looking to enhance their operational efficiency through automation.",
+    "enrichedAt": "2026-10-22T18:43:38.941Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/": {
+    "title": "Rescale Deploys AI-Triage Agent Using AI-DLC Framework on AWS",
+    "summary": "Rescale developed an AI triage agent in weeks by leveraging the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, alongside Strands Agents and Amazon Bedrock. This approach demonstrates how structured AI development can accelerate the creation of intelligent automation tools.",
+    "danishTitle": "Rescale Deploys AI-Triage Agent Using AI-DLC Framework on AWS",
+    "danishSummary": "Rescale developed an AI triage agent in weeks by leveraging the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, alongside Strands Agents and Amazon Bedrock. This approach demonstrates how structured AI development can accelerate the creation of intelligent automation tools.",
+    "whyItMatters": "This implementation showcases the potential for rapid AI development and deployment, making advanced AI solutions more accessible to businesses looking to enhance their operational efficiency through automation.",
+    "enrichedAt": "2026-10-22T18:43:38.941Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "the-decoder-https://the-decoder.com/?p=41811": {
+    "title": "Gartner Survey Reveals Limited AI ROI and Rising Costs for Businesses",
+    "summary": "A Gartner survey of 2,002 CIOs found that only 13 percent of companies are realizing tangible business value from their AI investments, while 51 percent anticipate increased operating costs. Despite these challenges, 75 percent of CEOs still see potential in AI.",
+    "danishTitle": "Gartner Survey Reveals Limited AI ROI and Rising Costs for Businesses",
+    "danishSummary": "A Gartner survey of 2,002 CIOs found that only 13 percent of companies are realizing tangible business value from their AI investments, while 51 percent anticipate increased operating costs. Despite these challenges, 75 percent of CEOs still see potential in AI.",
+    "whyItMatters": "The findings highlight the need for improved AI implementation strategies and cost management to ensure that businesses can effectively leverage AI technologies for growth and efficiency.",
+    "enrichedAt": "2026-10-22T18:43:49.280Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds": {
+    "title": "Gartner Survey Reveals Limited AI ROI and Rising Costs for Businesses",
+    "summary": "A Gartner survey of 2,002 CIOs found that only 13 percent of companies are realizing tangible business value from their AI investments, while 51 percent anticipate increased operating costs. Despite these challenges, 75 percent of CEOs still see potential in AI.",
+    "danishTitle": "Gartner Survey Reveals Limited AI ROI and Rising Costs for Businesses",
+    "danishSummary": "A Gartner survey of 2,002 CIOs found that only 13 percent of companies are realizing tangible business value from their AI investments, while 51 percent anticipate increased operating costs. Despite these challenges, 75 percent of CEOs still see potential in AI.",
+    "whyItMatters": "The findings highlight the need for improved AI implementation strategies and cost management to ensure that businesses can effectively leverage AI technologies for growth and efficiency.",
+    "enrichedAt": "2026-10-22T18:43:49.280Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/": {
+    "title": "Gartner Survey Reveals Limited AI ROI and Rising Costs for Businesses",
+    "summary": "A Gartner survey of 2,002 CIOs found that only 13 percent of companies are realizing tangible business value from their AI investments, while 51 percent anticipate increased operating costs. Despite these challenges, 75 percent of CEOs still see potential in AI.",
+    "danishTitle": "Gartner Survey Reveals Limited AI ROI and Rising Costs for Businesses",
+    "danishSummary": "A Gartner survey of 2,002 CIOs found that only 13 percent of companies are realizing tangible business value from their AI investments, while 51 percent anticipate increased operating costs. Despite these challenges, 75 percent of CEOs still see potential in AI.",
+    "whyItMatters": "The findings highlight the need for improved AI implementation strategies and cost management to ensure that businesses can effectively leverage AI technologies for growth and efficiency.",
+    "enrichedAt": "2026-10-22T18:43:49.280Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "huggingface-https://huggingface.co/blog/allenai/olmoearth-v1-3": {
+    "title": "OlmoEarth v1.3: Hugging Face Unveils Advanced Embeddings for Global Data",
+    "summary": "Hugging Face has released OlmoEarth v1.3, an advanced embedding model that provides state-of-the-art representations for global datasets. This update enhances the model's capabilities in handling diverse geographical and environmental data, offering improved performance for applications such as climate modeling and geographic information systems.",
+    "danishTitle": "OlmoEarth v1.3: Hugging Face Unveils Advanced Embeddings for Global Data",
+    "danishSummary": "Hugging Face has released OlmoEarth v1.3, an advanced embedding model that provides state-of-the-art representations for global datasets. This update enhances the model's capabilities in handling diverse geographical and environmental data, offering improved performance for applications such as climate modeling and geographic information systems.",
+    "whyItMatters": "The enhanced global data handling capabilities of OlmoEarth v1.3 make it a valuable tool for researchers and developers working on large-scale environmental and geographic projects, potentially leading to more accurate and detailed analyses.",
+    "enrichedAt": "2026-10-22T18:44:00.529Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://huggingface.co/blog/allenai/olmoearth-v1-3": {
+    "title": "OlmoEarth v1.3: Hugging Face Unveils Advanced Embeddings for Global Data",
+    "summary": "Hugging Face has released OlmoEarth v1.3, an advanced embedding model that provides state-of-the-art representations for global datasets. This update enhances the model's capabilities in handling diverse geographical and environmental data, offering improved performance for applications such as climate modeling and geographic information systems.",
+    "danishTitle": "OlmoEarth v1.3: Hugging Face Unveils Advanced Embeddings for Global Data",
+    "danishSummary": "Hugging Face has released OlmoEarth v1.3, an advanced embedding model that provides state-of-the-art representations for global datasets. This update enhances the model's capabilities in handling diverse geographical and environmental data, offering improved performance for applications such as climate modeling and geographic information systems.",
+    "whyItMatters": "The enhanced global data handling capabilities of OlmoEarth v1.3 make it a valuable tool for researchers and developers working on large-scale environmental and geographic projects, potentially leading to more accurate and detailed analyses.",
+    "enrichedAt": "2026-10-22T18:44:00.529Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "dwarkesh-podcast-yt:video:frYSOKvNiiE": {
+    "title": "Intel Reveals Future Chip Technologies in 2026",
+    "summary": "Intel showcased upcoming chip technologies such as gate-all-around transistors, backside power, and CFET (Complementary FinFET) during a tour of its advanced fabrication facility. These advancements aim to enhance performance and efficiency in semiconductor design.",
+    "danishTitle": "Intel Reveals Future Chip Technologies in 2026",
+    "danishSummary": "Intel showcased upcoming chip technologies such as gate-all-around transistors, backside power, and CFET (Complementary FinFET) during a tour of its advanced fabrication facility. These advancements aim to enhance performance and efficiency in semiconductor design.",
+    "whyItMatters": "Intel’s revelations on future chip technologies could set new benchmarks for the semiconductor industry, driving innovation and setting the stage for more powerful and efficient computing in the years to come.",
+    "enrichedAt": "2026-10-22T18:44:10.291Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:frysokvniie": {
+    "title": "Intel Reveals Future Chip Technologies in 2026",
+    "summary": "Intel showcased upcoming chip technologies such as gate-all-around transistors, backside power, and CFET (Complementary FinFET) during a tour of its advanced fabrication facility. These advancements aim to enhance performance and efficiency in semiconductor design.",
+    "danishTitle": "Intel Reveals Future Chip Technologies in 2026",
+    "danishSummary": "Intel showcased upcoming chip technologies such as gate-all-around transistors, backside power, and CFET (Complementary FinFET) during a tour of its advanced fabrication facility. These advancements aim to enhance performance and efficiency in semiconductor design.",
+    "whyItMatters": "Intel’s revelations on future chip technologies could set new benchmarks for the semiconductor industry, driving innovation and setting the stage for more powerful and efficient computing in the years to come.",
+    "enrichedAt": "2026-10-22T18:44:10.291Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=frYSOKvNiiE": {
+    "title": "Intel Reveals Future Chip Technologies in 2026",
+    "summary": "Intel showcased upcoming chip technologies such as gate-all-around transistors, backside power, and CFET (Complementary FinFET) during a tour of its advanced fabrication facility. These advancements aim to enhance performance and efficiency in semiconductor design.",
+    "danishTitle": "Intel Reveals Future Chip Technologies in 2026",
+    "danishSummary": "Intel showcased upcoming chip technologies such as gate-all-around transistors, backside power, and CFET (Complementary FinFET) during a tour of its advanced fabrication facility. These advancements aim to enhance performance and efficiency in semiconductor design.",
+    "whyItMatters": "Intel’s revelations on future chip technologies could set new benchmarks for the semiconductor industry, driving innovation and setting the stage for more powerful and efficient computing in the years to come.",
+    "enrichedAt": "2026-10-22T18:44:10.291Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "msft-research-https://www.microsoft.com/en-us/research/?p=1190353": {
+    "title": "Microsoft Research Unveils Flint-interactive: A Language for Interactive Data Visualizations",
+    "summary": "Microsoft Research has developed Flint-interactive, a specialized language enabling AI agents to create dynamic and interactive data visualizations. This tool allows users to interact with charts, filter data, and explore additional content beyond predefined limits, enhancing data analysis and interpretation.",
+    "danishTitle": "Microsoft Research Unveils Flint-interactive: A Language for Interactive Data Visualizations",
+    "danishSummary": "Microsoft Research has developed Flint-interactive, a specialized language enabling AI agents to create dynamic and interactive data visualizations. This tool allows users to interact with charts, filter data, and explore additional content beyond predefined limits, enhancing data analysis and interpretation.",
+    "whyItMatters": "Flint-interactive opens new possibilities for interactive data exploration, making complex data analysis more accessible and engaging for a broader audience, including businesses and researchers.",
+    "enrichedAt": "2026-10-22T18:44:20.039Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations": {
+    "title": "Microsoft Research Unveils Flint-interactive: A Language for Interactive Data Visualizations",
+    "summary": "Microsoft Research has developed Flint-interactive, a specialized language enabling AI agents to create dynamic and interactive data visualizations. This tool allows users to interact with charts, filter data, and explore additional content beyond predefined limits, enhancing data analysis and interpretation.",
+    "danishTitle": "Microsoft Research Unveils Flint-interactive: A Language for Interactive Data Visualizations",
+    "danishSummary": "Microsoft Research has developed Flint-interactive, a specialized language enabling AI agents to create dynamic and interactive data visualizations. This tool allows users to interact with charts, filter data, and explore additional content beyond predefined limits, enhancing data analysis and interpretation.",
+    "whyItMatters": "Flint-interactive opens new possibilities for interactive data exploration, making complex data analysis more accessible and engaging for a broader audience, including businesses and researchers.",
+    "enrichedAt": "2026-10-22T18:44:20.039Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/": {
+    "title": "Microsoft Research Unveils Flint-interactive: A Language for Interactive Data Visualizations",
+    "summary": "Microsoft Research has developed Flint-interactive, a specialized language enabling AI agents to create dynamic and interactive data visualizations. This tool allows users to interact with charts, filter data, and explore additional content beyond predefined limits, enhancing data analysis and interpretation.",
+    "danishTitle": "Microsoft Research Unveils Flint-interactive: A Language for Interactive Data Visualizations",
+    "danishSummary": "Microsoft Research has developed Flint-interactive, a specialized language enabling AI agents to create dynamic and interactive data visualizations. This tool allows users to interact with charts, filter data, and explore additional content beyond predefined limits, enhancing data analysis and interpretation.",
+    "whyItMatters": "Flint-interactive opens new possibilities for interactive data exploration, making complex data analysis more accessible and engaging for a broader audience, including businesses and researchers.",
+    "enrichedAt": "2026-10-22T18:44:20.039Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "nvidia-https://developer.nvidia.com/blog/?p=123934": {
+    "title": "NVIDIA Unveils Scalable AI Infrastructure for Running Frontier-Class Models Across Multiple DGX Nodes",
+    "summary": "NVIDIA has detailed a new setup that enables the deployment of advanced AI models across eight DGX Spark nodes, facilitating parallel model execution and complex inference tasks. This infrastructure is designed to support the growing demand for sophisticated AI applications in various industries.",
+    "danishTitle": "NVIDIA Unveils Scalable AI Infrastructure for Running Frontier-Class Models Across Multiple DGX Nodes",
+    "danishSummary": "NVIDIA has detailed a new setup that enables the deployment of advanced AI models across eight DGX Spark nodes, facilitating parallel model execution and complex inference tasks. This infrastructure is designed to support the growing demand for sophisticated AI applications in various industries.",
+    "whyItMatters": "This scalable solution allows for more efficient and powerful AI model deployment, potentially revolutionizing industries that require high-performance computing and complex AI workflows.",
+    "enrichedAt": "2026-10-22T18:44:29.916Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes": {
+    "title": "NVIDIA Unveils Scalable AI Infrastructure for Running Frontier-Class Models Across Multiple DGX Nodes",
+    "summary": "NVIDIA has detailed a new setup that enables the deployment of advanced AI models across eight DGX Spark nodes, facilitating parallel model execution and complex inference tasks. This infrastructure is designed to support the growing demand for sophisticated AI applications in various industries.",
+    "danishTitle": "NVIDIA Unveils Scalable AI Infrastructure for Running Frontier-Class Models Across Multiple DGX Nodes",
+    "danishSummary": "NVIDIA has detailed a new setup that enables the deployment of advanced AI models across eight DGX Spark nodes, facilitating parallel model execution and complex inference tasks. This infrastructure is designed to support the growing demand for sophisticated AI applications in various industries.",
+    "whyItMatters": "This scalable solution allows for more efficient and powerful AI model deployment, potentially revolutionizing industries that require high-performance computing and complex AI workflows.",
+    "enrichedAt": "2026-10-22T18:44:29.916Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes/": {
+    "title": "NVIDIA Unveils Scalable AI Infrastructure for Running Frontier-Class Models Across Multiple DGX Nodes",
+    "summary": "NVIDIA has detailed a new setup that enables the deployment of advanced AI models across eight DGX Spark nodes, facilitating parallel model execution and complex inference tasks. This infrastructure is designed to support the growing demand for sophisticated AI applications in various industries.",
+    "danishTitle": "NVIDIA Unveils Scalable AI Infrastructure for Running Frontier-Class Models Across Multiple DGX Nodes",
+    "danishSummary": "NVIDIA has detailed a new setup that enables the deployment of advanced AI models across eight DGX Spark nodes, facilitating parallel model execution and complex inference tasks. This infrastructure is designed to support the growing demand for sophisticated AI applications in various industries.",
+    "whyItMatters": "This scalable solution allows for more efficient and powerful AI model deployment, potentially revolutionizing industries that require high-performance computing and complex AI workflows.",
+    "enrichedAt": "2026-10-22T18:44:29.916Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3180196": {
+    "title": "Uber Expands ChatGPT Work Enterprise-Wide to All 30,000 Employees",
+    "summary": "Uber has expanded its pilot of ChatGPT Work, an enterprise-focused AI assistant, to all 30,000 of its employees, marking a significant step in integrating AI into daily operations across the company. This move follows a smaller initial deployment and underscores Uber's commitment to leveraging AI to enhance productivity and efficiency.",
+    "danishTitle": "Uber Expands ChatGPT Work Enterprise-Wide to All 30,000 Employees",
+    "danishSummary": "Uber has expanded its pilot of ChatGPT Work, an enterprise-focused AI assistant, to all 30,000 of its employees, marking a significant step in integrating AI into daily operations across the company. This move follows a smaller initial deployment and underscores Uber's commitment to leveraging AI to enhance productivity and efficiency.",
+    "whyItMatters": "By adopting ChatGPT Work company-wide, Uber demonstrates the potential for AI assistants to transform enterprise workflows, setting a precedent for other large corporations to follow in integrating advanced AI technologies into their operations.",
+    "enrichedAt": "2026-10-22T18:44:41.882Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work": {
+    "title": "Uber Expands ChatGPT Work Enterprise-Wide to All 30,000 Employees",
+    "summary": "Uber has expanded its pilot of ChatGPT Work, an enterprise-focused AI assistant, to all 30,000 of its employees, marking a significant step in integrating AI into daily operations across the company. This move follows a smaller initial deployment and underscores Uber's commitment to leveraging AI to enhance productivity and efficiency.",
+    "danishTitle": "Uber Expands ChatGPT Work Enterprise-Wide to All 30,000 Employees",
+    "danishSummary": "Uber has expanded its pilot of ChatGPT Work, an enterprise-focused AI assistant, to all 30,000 of its employees, marking a significant step in integrating AI into daily operations across the company. This move follows a smaller initial deployment and underscores Uber's commitment to leveraging AI to enhance productivity and efficiency.",
+    "whyItMatters": "By adopting ChatGPT Work company-wide, Uber demonstrates the potential for AI assistants to transform enterprise workflows, setting a precedent for other large corporations to follow in integrating advanced AI technologies into their operations.",
+    "enrichedAt": "2026-10-22T18:44:41.882Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/": {
+    "title": "Uber Expands ChatGPT Work Enterprise-Wide to All 30,000 Employees",
+    "summary": "Uber has expanded its pilot of ChatGPT Work, an enterprise-focused AI assistant, to all 30,000 of its employees, marking a significant step in integrating AI into daily operations across the company. This move follows a smaller initial deployment and underscores Uber's commitment to leveraging AI to enhance productivity and efficiency.",
+    "danishTitle": "Uber Expands ChatGPT Work Enterprise-Wide to All 30,000 Employees",
+    "danishSummary": "Uber has expanded its pilot of ChatGPT Work, an enterprise-focused AI assistant, to all 30,000 of its employees, marking a significant step in integrating AI into daily operations across the company. This move follows a smaller initial deployment and underscores Uber's commitment to leveraging AI to enhance productivity and efficiency.",
+    "whyItMatters": "By adopting ChatGPT Work company-wide, Uber demonstrates the potential for AI assistants to transform enterprise workflows, setting a precedent for other large corporations to follow in integrating advanced AI technologies into their operations.",
+    "enrichedAt": "2026-10-22T18:44:41.882Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "cognitive-revolution-yt:video:41o_m4CD9Vg": {
+    "title": "AI's Physical Bottlenecks: GPU Markets and the Chip Investment Thesis",
+    "summary": "The Cognitive Revolution video discusses the current limitations of AI hardware, particularly focusing on GPU markets and the investment strategies tied to chip development. The discussion highlights the challenges and opportunities in the hardware sector for advancing AI capabilities.",
+    "danishTitle": "AI's Physical Bottlenecks: GPU Markets and the Chip Investment Thesis",
+    "danishSummary": "The Cognitive Revolution video discusses the current limitations of AI hardware, particularly focusing on GPU markets and the investment strategies tied to chip development. The discussion highlights the challenges and opportunities in the hardware sector for advancing AI capabilities.",
+    "whyItMatters": "Understanding these physical bottlenecks is crucial for investors and developers to make informed decisions about future AI hardware investments and technological advancements.",
+    "enrichedAt": "2026-10-22T18:44:50.571Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:41o_m4cd9vg": {
+    "title": "AI's Physical Bottlenecks: GPU Markets and the Chip Investment Thesis",
+    "summary": "The Cognitive Revolution video discusses the current limitations of AI hardware, particularly focusing on GPU markets and the investment strategies tied to chip development. The discussion highlights the challenges and opportunities in the hardware sector for advancing AI capabilities.",
+    "danishTitle": "AI's Physical Bottlenecks: GPU Markets and the Chip Investment Thesis",
+    "danishSummary": "The Cognitive Revolution video discusses the current limitations of AI hardware, particularly focusing on GPU markets and the investment strategies tied to chip development. The discussion highlights the challenges and opportunities in the hardware sector for advancing AI capabilities.",
+    "whyItMatters": "Understanding these physical bottlenecks is crucial for investors and developers to make informed decisions about future AI hardware investments and technological advancements.",
+    "enrichedAt": "2026-10-22T18:44:50.571Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=41o_m4CD9Vg": {
+    "title": "AI's Physical Bottlenecks: GPU Markets and the Chip Investment Thesis",
+    "summary": "The Cognitive Revolution video discusses the current limitations of AI hardware, particularly focusing on GPU markets and the investment strategies tied to chip development. The discussion highlights the challenges and opportunities in the hardware sector for advancing AI capabilities.",
+    "danishTitle": "AI's Physical Bottlenecks: GPU Markets and the Chip Investment Thesis",
+    "danishSummary": "The Cognitive Revolution video discusses the current limitations of AI hardware, particularly focusing on GPU markets and the investment strategies tied to chip development. The discussion highlights the challenges and opportunities in the hardware sector for advancing AI capabilities.",
+    "whyItMatters": "Understanding these physical bottlenecks is crucial for investors and developers to make informed decisions about future AI hardware investments and technological advancements.",
+    "enrichedAt": "2026-10-22T18:44:50.571Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Oct/22/armin-ronacher/": {
+    "title": "Armin Ronacher Warns of AI-Driven Software Risks Amid Generative AI Boom",
+    "summary": "Renowned Python developer Armin Ronacher cautions that despite the excitement surrounding generative AI, the software industry has a history of producing flawed code, which could lead to significant security issues if not properly managed.",
+    "danishTitle": "Armin Ronacher Warns of AI-Driven Software Risks Amid Generative AI Boom",
+    "danishSummary": "Renowned Python developer Armin Ronacher cautions that despite the excitement surrounding generative AI, the software industry has a history of producing flawed code, which could lead to significant security issues if not properly managed.",
+    "whyItMatters": "Ronacher's warning underscores the critical need for developers and enterprises to prioritize security and quality assurance in their AI-driven projects to avoid potential vulnerabilities and risks.",
+    "enrichedAt": "2026-10-22T18:45:00.204Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/oct/22/armin-ronacher": {
+    "title": "Armin Ronacher Warns of AI-Driven Software Risks Amid Generative AI Boom",
+    "summary": "Renowned Python developer Armin Ronacher cautions that despite the excitement surrounding generative AI, the software industry has a history of producing flawed code, which could lead to significant security issues if not properly managed.",
+    "danishTitle": "Armin Ronacher Warns of AI-Driven Software Risks Amid Generative AI Boom",
+    "danishSummary": "Renowned Python developer Armin Ronacher cautions that despite the excitement surrounding generative AI, the software industry has a history of producing flawed code, which could lead to significant security issues if not properly managed.",
+    "whyItMatters": "Ronacher's warning underscores the critical need for developers and enterprises to prioritize security and quality assurance in their AI-driven projects to avoid potential vulnerabilities and risks.",
+    "enrichedAt": "2026-10-22T18:45:00.204Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Oct/22/armin-ronacher/": {
+    "title": "Armin Ronacher Warns of AI-Driven Software Risks Amid Generative AI Boom",
+    "summary": "Renowned Python developer Armin Ronacher cautions that despite the excitement surrounding generative AI, the software industry has a history of producing flawed code, which could lead to significant security issues if not properly managed.",
+    "danishTitle": "Armin Ronacher Warns of AI-Driven Software Risks Amid Generative AI Boom",
+    "danishSummary": "Renowned Python developer Armin Ronacher cautions that despite the excitement surrounding generative AI, the software industry has a history of producing flawed code, which could lead to significant security issues if not properly managed.",
+    "whyItMatters": "Ronacher's warning underscores the critical need for developers and enterprises to prioritize security and quality assurance in their AI-driven projects to avoid potential vulnerabilities and risks.",
+    "enrichedAt": "2026-10-22T18:45:00.204Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "openai-https://openai.com/index/uber-chatgpt-work-rollout": {
+    "title": "Uber Extends ChatGPT Work Access to All Employees for Enhanced Productivity",
+    "summary": "Uber has expanded access to ChatGPT Work to over 30,000 employees, enabling them to perform a wide range of tasks including research, data analysis, and presentation creation. This initiative aims to boost overall productivity and streamline complex workflows within the company.",
+    "danishTitle": "Uber Extends ChatGPT Work Access to All Employees for Enhanced Productivity",
+    "danishSummary": "Uber has expanded access to ChatGPT Work to over 30,000 employees, enabling them to perform a wide range of tasks including research, data analysis, and presentation creation. This initiative aims to boost overall productivity and streamline complex workflows within the company.",
+    "whyItMatters": "By integrating advanced AI capabilities across its workforce, Uber sets a precedent for other enterprises to adopt similar tools, potentially revolutionizing how businesses handle routine and complex tasks.",
+    "enrichedAt": "2026-10-22T18:45:10.419Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://openai.com/index/uber-chatgpt-work-rollout": {
+    "title": "Uber Extends ChatGPT Work Access to All Employees for Enhanced Productivity",
+    "summary": "Uber has expanded access to ChatGPT Work to over 30,000 employees, enabling them to perform a wide range of tasks including research, data analysis, and presentation creation. This initiative aims to boost overall productivity and streamline complex workflows within the company.",
+    "danishTitle": "Uber Extends ChatGPT Work Access to All Employees for Enhanced Productivity",
+    "danishSummary": "Uber has expanded access to ChatGPT Work to over 30,000 employees, enabling them to perform a wide range of tasks including research, data analysis, and presentation creation. This initiative aims to boost overall productivity and streamline complex workflows within the company.",
+    "whyItMatters": "By integrating advanced AI capabilities across its workforce, Uber sets a precedent for other enterprises to adopt similar tools, potentially revolutionizing how businesses handle routine and complex tasks.",
+    "enrichedAt": "2026-10-22T18:45:10.419Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3180349": {
+    "title": "Meta Proposes New Stock Class to Fund AI Expansion",
+    "summary": "Meta is developing a new class of stock to finance its extensive AI initiatives, aiming to support the company's growing investments in AI models and services. This strategy seeks to align shareholder interests with the company's ambitious AI goals.",
+    "danishTitle": "Meta Proposes New Stock Class to Fund AI Expansion",
+    "danishSummary": "Meta is developing a new class of stock to finance its extensive AI initiatives, aiming to support the company's growing investments in AI models and services. This strategy seeks to align shareholder interests with the company's ambitious AI goals.",
+    "whyItMatters": "This move could set a precedent for how tech giants finance complex AI projects, potentially influencing the broader tech industry's approach to AI investment and funding.",
+    "enrichedAt": "2026-10-22T18:45:19.260Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock": {
+    "title": "Meta Proposes New Stock Class to Fund AI Expansion",
+    "summary": "Meta is developing a new class of stock to finance its extensive AI initiatives, aiming to support the company's growing investments in AI models and services. This strategy seeks to align shareholder interests with the company's ambitious AI goals.",
+    "danishTitle": "Meta Proposes New Stock Class to Fund AI Expansion",
+    "danishSummary": "Meta is developing a new class of stock to finance its extensive AI initiatives, aiming to support the company's growing investments in AI models and services. This strategy seeks to align shareholder interests with the company's ambitious AI goals.",
+    "whyItMatters": "This move could set a precedent for how tech giants finance complex AI projects, potentially influencing the broader tech industry's approach to AI investment and funding.",
+    "enrichedAt": "2026-10-22T18:45:19.260Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/": {
+    "title": "Meta Proposes New Stock Class to Fund AI Expansion",
+    "summary": "Meta is developing a new class of stock to finance its extensive AI initiatives, aiming to support the company's growing investments in AI models and services. This strategy seeks to align shareholder interests with the company's ambitious AI goals.",
+    "danishTitle": "Meta Proposes New Stock Class to Fund AI Expansion",
+    "danishSummary": "Meta is developing a new class of stock to finance its extensive AI initiatives, aiming to support the company's growing investments in AI models and services. This strategy seeks to align shareholder interests with the company's ambitious AI goals.",
+    "whyItMatters": "This move could set a precedent for how tech giants finance complex AI projects, potentially influencing the broader tech industry's approach to AI investment and funding.",
+    "enrichedAt": "2026-10-22T18:45:19.260Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }

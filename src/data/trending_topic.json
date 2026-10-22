@@ -1,48 +1,49 @@
 {
-  "headline": "OpenAI's Forward Deployed Engineering Strategy Paves Way for Edge AI Dominance",
-  "summary": "OpenAI has detailed its forward deployed engineering (FDE) approach, which aims to bring AI models closer to the edge, enabling real-time, on-device processing. This strategy is gaining momentum as companies seek to reduce latency and increase privacy, making it a defining trend in the industry.",
-  "whyItMatters": "It addresses key challenges in latency and privacy, positioning OpenAI as a leader in edge AI and setting a new standard for AI deployment strategies.",
-  "synthesizedAt": "2026-10-22T15:36:30.660Z",
+  "headline": "Major U.S. Banks Restrict AI Agents Accessing Customer Accounts",
+  "summary": "Major U.S. banks, including Morgan Stanley and JPMorgan, are implementing stricter security measures to prevent AI agents from accessing customer accounts, signaling a significant shift in AI adoption and security concerns in the financial sector.",
+  "whyItMatters": "This move highlights the growing security challenges and regulatory scrutiny surrounding AI in financial services, potentially setting a precedent for other industries.",
+  "synthesizedAt": "2026-10-22T18:45:52.061Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-https://openai.com/index/forward-deployed-engineering-means",
-    "title": "OpenAI Unveils Forward Deployed Engineering (FDE) Strategy",
-    "link": "https://openai.com/index/forward-deployed-engineering-means",
-    "sourceName": "OpenAI News",
-    "sourceId": "openai",
-    "pubDate": "2026-10-22T06:00:00.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Release"
+    "id": "the-decoder-https://the-decoder.com/?p=41849",
+    "title": "Major U.S. Banks Restrict AI Agents Accessing Customer Accounts",
+    "link": "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-22T18:26:02.000Z",
+    "badgeColor": "slate",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "the-zvi-https://thezvi.substack.com/p/ai-191-the-hackening-begins",
-      "title": "AI #191: The Hackening Begins - Cybersecurity Faces Devastating Attack",
-      "link": "https://thezvi.substack.com/p/ai-191-the-hackening-begins",
-      "sourceName": "Don't Worry About the Vase (Zvi)",
-      "sourceId": "the-zvi",
-      "pubDate": "2026-10-22T15:13:06.000Z",
-      "badgeColor": "emerald"
+      "id": "openai-channel-yt:video:l16Gw7oVLNQ",
+      "title": "Uber Expands ChatGPT Work to 30,000 Employees Globally",
+      "link": "https://www.youtube.com/watch?v=l16Gw7oVLNQ",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-10-22T18:00:13.000Z",
+      "badgeColor": "emerald",
+      "angle": "Enterprise Deployment"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41826",
-      "title": "Offensive AI Agent Hijacks Unprotected Language Models for Self-Sustaining Cyberattacks",
-      "link": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/",
+      "id": "the-decoder-https://the-decoder.com/?p=41846",
+      "title": "Google Unveils Agent Compute Engine for Isolated Gemini Agent Execution",
+      "link": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-10-22T11:30:56.000Z",
+      "pubDate": "2026-10-22T17:50:09.000Z",
       "badgeColor": "slate",
-      "angle": "Security Implications"
+      "angle": "Security Measures"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41818",
-      "title": "Anthropic Unveils Proactive AI Agent Claude Duet, Competing with Meta's and OpenAI's Models",
-      "link": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-22T08:35:22.000Z",
-      "badgeColor": "slate",
-      "angle": "Competitive Landscape"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3180678",
+      "title": "Chinese Hackers Use AI to Breach ConnectWise, Targeting Thousands of Companies",
+      "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-22T16:47:17.000Z",
+      "badgeColor": "emerald",
+      "angle": "Cybersecurity Threats"
     }
   ]
 }
