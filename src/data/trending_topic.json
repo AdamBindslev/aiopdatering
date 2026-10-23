@@ -1,49 +1,39 @@
 {
-  "headline": "Open-Source AI Models Emerge as Competitive Threat to Proprietary Systems",
-  "summary": "A surge in open-source AI models, such as Canva Craft and baseVultra, is challenging the dominance of proprietary systems like Anthropic's Claude. These models are enhancing local AI agent deployment and driving down the cost of advanced AI capabilities.",
-  "whyItMatters": "This trend is democratizing access to advanced AI technologies, reducing reliance on expensive proprietary platforms and fostering innovation through open collaboration.",
-  "synthesizedAt": "2026-10-23T13:22:42.819Z",
+  "headline": "OpenAI's Multi-Faceted Expansion Challenges Industry Norms",
+  "summary": "OpenAI is expanding its capabilities across multiple fronts, including storage infrastructure, funding targets, and AI agent development. These moves are reshaping the landscape for AI developers and users, pushing the boundaries of what's possible with open-source models and proprietary systems.",
+  "whyItMatters": "OpenAI's actions are setting new standards for AI innovation and accessibility, potentially disrupting the market dynamics and forcing other players to adapt or compete.",
+  "synthesizedAt": "2026-10-23T16:30:53.454Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41866",
-    "title": "Canva Unveils In-House Image Generation Model, Canva Craft",
-    "link": "https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-23T11:36:30.000Z",
-    "badgeColor": "slate",
-    "angle": "Industry Analysis"
+    "id": "openai-https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "title": "OpenAI Enhances ChatGPT Storage with Multi-Tenancy and Global Caching",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "sourceName": "OpenAI News",
+    "sourceId": "openai",
+    "pubDate": "2026-10-23T17:00:00.000Z",
+    "badgeColor": "emerald",
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2610.30154v1",
-      "title": "baseVultra: A Compact Nonlinear Recurrence Model with Reallocated Capacity for Stream Processing",
-      "link": "https://arxiv.org/abs/2610.30154",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-23T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2610.30162v1",
-      "title": "FusionEval Released: Evaluating Model Fusion for Large Language Models",
-      "link": "https://arxiv.org/abs/2610.30162",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-23T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2610.30412v1",
-      "title": "SIM-UT Framework Introduced for Evaluating Multilingual Medical Triage Chatbots",
-      "link": "https://arxiv.org/abs/2610.30412",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-23T04:00:00.000Z",
-      "badgeColor": "zinc",
+      "id": "the-decoder-https://the-decoder.com/?p=41871",
+      "title": "OpenAI CEO Warns of AI Escape and Urges Focus on Alignment",
+      "link": "https://the-decoder.com/openai-ceo-sam-altman-says-advanced-ai-will-inevitably-escape-its-sandbox-and-only-alignment-can-save-us/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-23T15:42:18.000Z",
+      "badgeColor": "slate",
       "angle": "Industry Analysis"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=41856",
+      "title": "OpenAI Adjusts Valuation Target, Seeks $30 Billion in New Funding",
+      "link": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-23T09:49:38.000Z",
+      "badgeColor": "slate",
+      "angle": "Business Strategy"
     }
   ]
 }
