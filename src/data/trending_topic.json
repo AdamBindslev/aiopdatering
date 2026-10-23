@@ -1,48 +1,48 @@
 {
-  "headline": "OpenAI's Decisions API Competes in Growing Enterprise AI Market",
-  "summary": "OpenAI has launched the Decisions API, a new tool designed to enable developers to make fast and focused decisions within applications, competing with established players in the expanding decision-making model market. This move highlights the increasing focus on enterprise AI infrastructure and robustness.",
-  "whyItMatters": "It underscores the strategic importance of robust decision-making tools in enterprise AI, potentially reshaping the competitive landscape and driving innovation in cost-effective application development.",
-  "synthesizedAt": "2026-10-22T21:49:23.371Z",
+  "headline": "OpenAI's Decision Model Competes in Growing Market",
+  "summary": "OpenAI has unveiled its new decision model, positioning it as a competitor in the expanding decision-making model market. This move comes as other companies like Jev are also vying for market share, indicating a significant trend in the industry.",
+  "whyItMatters": "It highlights the increasing competition in the decision-making model space and the strategic importance of these tools for businesses.",
+  "synthesizedAt": "2026-10-23T00:55:17.233Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-https://openai.com/index/decisions-api",
-    "title": "OpenAI Unveils Decisions API for Swift, Cost-Effective Application Decisions",
-    "link": "https://openai.com/index/decisions-api",
-    "sourceName": "OpenAI News",
-    "sourceId": "openai",
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3180667",
+    "title": "OpenAI Unveils Decision Model Competing with Jev in Growing Market",
+    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
     "pubDate": "2026-10-22T19:00:00.000Z",
     "badgeColor": "emerald",
-    "angle": "Official Release"
+    "angle": "Official Launch"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3180727",
-      "title": "1Password Introduces Secure AI Agent Authentication Feature",
-      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3180936",
+      "title": "OpenAI Seeks $30 Billion in New Funding at $1.25 Trillion Valuation Ahead of Potential IPO",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-22T19:07:09.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3180667",
-      "title": "OpenAI Unveils Decision Model Competing with Jev in Growing Market",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-22T19:00:00.000Z",
+      "pubDate": "2026-10-22T22:08:24.000Z",
       "badgeColor": "emerald"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41849",
-      "title": "Major U.S. Banks Restrict AI Agents Accessing Customer Accounts",
-      "link": "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-22T18:26:02.000Z",
-      "badgeColor": "slate",
-      "angle": "Security Concerns"
+      "id": "openai-https://openai.com/index/decisions-api",
+      "title": "OpenAI Unveils Decisions API for Swift, Cost-Effective Application Decisions",
+      "link": "https://openai.com/index/decisions-api",
+      "sourceName": "OpenAI News",
+      "sourceId": "openai",
+      "pubDate": "2026-10-22T19:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "mit-tech-review-https://www.technologyreview.com/?p=1146103",
+      "title": "MIT Technology Review Explores the Essential Components of Scalable AI Systems",
+      "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "sourceName": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "pubDate": "2026-10-22T18:48:04.000Z",
+      "badgeColor": "red",
+      "angle": "Industry Analysis"
     }
   ]
 }
