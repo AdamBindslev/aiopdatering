@@ -1,48 +1,39 @@
 {
-  "headline": "OpenAI's Decision Model Competes in Growing Market",
-  "summary": "OpenAI has unveiled its new decision model, positioning it as a competitor in the expanding decision-making model market. This move comes as other companies like Jev are also vying for market share, indicating a significant trend in the industry.",
-  "whyItMatters": "It highlights the increasing competition in the decision-making model space and the strategic importance of these tools for businesses.",
-  "synthesizedAt": "2026-10-23T00:55:17.233Z",
+  "headline": "New Model Enhances Query Clarification for Retrieval-Augmented Generation Systems",
+  "summary": "A fine-tuned model improves query clarification in retrieval-augmented generation (RAG) systems, particularly in multitask scenarios. This advancement could significantly enhance the performance and usability of RAG systems across various applications.",
+  "whyItMatters": "It addresses a critical limitation in RAG systems, potentially improving their effectiveness and making them more versatile for complex tasks.",
+  "synthesizedAt": "2026-10-23T04:07:43.041Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3180667",
-    "title": "OpenAI Unveils Decision Model Competing with Jev in Growing Market",
-    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-10-22T19:00:00.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Launch"
+    "id": "arxiv-ai-oai:arXiv.org:2610.28686v1",
+    "title": "New Model Enhances Query Clarification for Retrieval-Augmented Generation Systems",
+    "link": "https://arxiv.org/abs/2610.28686",
+    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+    "sourceId": "arxiv-ai",
+    "pubDate": "2026-10-23T04:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3180936",
-      "title": "OpenAI Seeks $30 Billion in New Funding at $1.25 Trillion Valuation Ahead of Potential IPO",
-      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-22T22:08:24.000Z",
-      "badgeColor": "emerald"
-    },
-    {
-      "id": "openai-https://openai.com/index/decisions-api",
-      "title": "OpenAI Unveils Decisions API for Swift, Cost-Effective Application Decisions",
-      "link": "https://openai.com/index/decisions-api",
-      "sourceName": "OpenAI News",
-      "sourceId": "openai",
-      "pubDate": "2026-10-22T19:00:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "mit-tech-review-https://www.technologyreview.com/?p=1146103",
-      "title": "MIT Technology Review Explores the Essential Components of Scalable AI Systems",
-      "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "sourceName": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "pubDate": "2026-10-22T18:48:04.000Z",
-      "badgeColor": "red",
+      "id": "arxiv-cl-oai:arXiv.org:2610.30374v1",
+      "title": "Advancing Translation Quality: New Models for Low-Resource Languages",
+      "link": "https://arxiv.org/abs/2610.30374",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-23T04:00:00.000Z",
+      "badgeColor": "zinc",
       "angle": "Industry Analysis"
+    },
+    {
+      "id": "arxiv-ai-oai:arXiv.org:2610.28698v1",
+      "title": "Scaling Embodied Learning in Games: Enhanced Pre-Training for Diverse Virtual Worlds",
+      "link": "https://arxiv.org/abs/2610.28698",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-10-23T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Official Release"
     }
   ]
 }
