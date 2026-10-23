@@ -1,8 +1,8 @@
 {
-  "headline": "OpenAI's Multi-Faceted Expansion Challenges Industry Norms",
-  "summary": "OpenAI is expanding its capabilities across multiple fronts, including storage infrastructure, funding targets, and AI agent development. These moves are reshaping the landscape for AI developers and users, pushing the boundaries of what's possible with open-source models and proprietary systems.",
-  "whyItMatters": "OpenAI's actions are setting new standards for AI innovation and accessibility, potentially disrupting the market dynamics and forcing other players to adapt or compete.",
-  "synthesizedAt": "2026-10-23T16:30:53.454Z",
+  "headline": "OpenAI's AI Model Enhancements Spark Safety and Performance Debates",
+  "summary": "OpenAI has announced significant improvements to its AI models, including enhanced storage and multi-tenancy, while facing scrutiny over safety and alignment. These advancements are driving industry discussions on model performance and ethical considerations.",
+  "whyItMatters": "The improvements highlight the ongoing race to develop more capable AI models, but also raise concerns about safety and alignment, impacting the broader AI ecosystem.",
+  "synthesizedAt": "2026-10-23T19:38:40.215Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "openai-https://openai.com/index/scaling-storage-one-billion-users-part-two",
@@ -12,9 +12,29 @@
     "sourceId": "openai",
     "pubDate": "2026-10-23T17:00:00.000Z",
     "badgeColor": "emerald",
-    "angle": "Technical Deep Dive"
+    "angle": "Technical Update"
   },
   "supportingStories": [
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=41882",
+      "title": "On-site Audit Reveals Significant Gaps in OpenAI's AI Safety Monitoring System",
+      "link": "https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-23T18:00:32.000Z",
+      "badgeColor": "slate",
+      "angle": "Safety Audit"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=41876",
+      "title": "Anthropic Claims Its Unreleased Model Outperforms and Aligns Better Than Mythos 5.1",
+      "link": "https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-23T17:19:49.000Z",
+      "badgeColor": "slate",
+      "angle": "Competitive Edge"
+    },
     {
       "id": "the-decoder-https://the-decoder.com/?p=41871",
       "title": "OpenAI CEO Warns of AI Escape and Urges Focus on Alignment",
@@ -22,18 +42,7 @@
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
       "pubDate": "2026-10-23T15:42:18.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=41856",
-      "title": "OpenAI Adjusts Valuation Target, Seeks $30 Billion in New Funding",
-      "link": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-23T09:49:38.000Z",
-      "badgeColor": "slate",
-      "angle": "Business Strategy"
+      "badgeColor": "slate"
     }
   ]
 }
