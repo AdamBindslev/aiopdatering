@@ -1,58 +1,48 @@
 {
-  "headline": "OpenAI's ChatGPT Integration and Expansion Drive AI Adoption Across Industries",
-  "summary": "OpenAI's ChatGPT is being integrated into various applications and services, from legal workflows to financial analysis, showcasing its versatility and driving widespread AI adoption. This trend is accelerating the deployment of AI tools across diverse sectors.",
-  "whyItMatters": "It highlights the growing importance of AI in everyday business processes and underscores the potential of large language models in transforming industries.",
-  "synthesizedAt": "2026-10-23T22:43:54.798Z",
+  "headline": "OpenAI Halts Internet Training for AI Models Due to 'Significant Risks'",
+  "summary": "OpenAI has halted the training of its AI models on live internet data, citing significant risks. This move is drawing attention to the potential dangers of data leakage and misuse in AI development.",
+  "whyItMatters": "It highlights the growing concerns over data privacy and security in AI, potentially influencing industry practices and regulations.",
+  "synthesizedAt": "2026-10-24T01:49:44.715Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-channel-yt:video:2lNUGkCg_qc",
-    "title": "Shield and OpenAI Introduce AI Agents for Routine IT Fixes",
-    "link": "https://www.youtube.com/shorts/2lNUGkCg_qc",
-    "sourceName": "OpenAI (YouTube)",
-    "sourceId": "openai-channel",
-    "pubDate": "2026-10-23T18:36:34.000Z",
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3181396",
+    "title": "OpenAI Halts Internet Training for AI Models Due to 'Significant Risks'",
+    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-10-23T23:05:49.000Z",
     "badgeColor": "emerald",
-    "angle": "Industry Application"
+    "angle": "Official Statement"
   },
   "supportingStories": [
     {
-      "id": "openai-channel-yt:video:7Cs5qyBlYQk",
-      "title": "Realpage Demonstrates ChatGPT Work’s Versatility in Creating Custom AI Training Packages",
-      "link": "https://www.youtube.com/shorts/7Cs5qyBlYQk",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-10-23T18:42:11.000Z",
-      "badgeColor": "emerald",
-      "angle": "Versatility Demonstration"
+      "id": "simon-willison-https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+      "title": "Quick Study: Claude Opus 5.5 Demonstrates Rapid Photo-to-Painting Conversion",
+      "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-10-23T21:35:13.000Z",
+      "badgeColor": "green",
+      "angle": "Technical Implications"
     },
     {
-      "id": "openai-channel-yt:video:hgX1hgyWD4g",
-      "title": "Realpage Utilizes ChatGPT Work for Customized AI Training Across Teams",
-      "link": "https://www.youtube.com/watch?v=hgX1hgyWD4g",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-10-23T18:39:14.000Z",
-      "badgeColor": "emerald"
+      "id": "the-zvi-https://thezvi.substack.com/p/the-hackening",
+      "title": "The Hackening: A Future Event in AI Security and Ethics",
+      "link": "https://thezvi.substack.com/p/the-hackening",
+      "sourceName": "Don't Worry About the Vase (Zvi)",
+      "sourceId": "the-zvi",
+      "pubDate": "2026-10-23T21:13:08.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "openai-channel-yt:video:V39_L7uh66M",
-      "title": "AT&T Explores AI-Powered Legal Workflows with OpenAI",
-      "link": "https://www.youtube.com/watch?v=V39_L7uh66M",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-10-23T18:32:03.000Z",
-      "badgeColor": "emerald",
-      "angle": "Enterprise Use Case"
-    },
-    {
-      "id": "openai-channel-yt:video:qyGvwLgqmaU",
-      "title": "Benefit Street Partners Utilizes Codex to Automate Loan Valuation Website Creation",
-      "link": "https://www.youtube.com/shorts/qyGvwLgqmaU",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-10-23T18:22:30.000Z",
-      "badgeColor": "emerald",
-      "angle": "Financial Services"
+      "id": "stanford-cs25-yt:video:vEDeUdZ-jnQ",
+      "title": "Stanford Guest Lecture Explores the Robot Operating System (ROS) in Autonomy Course",
+      "link": "https://www.youtube.com/watch?v=vEDeUdZ-jnQ",
+      "sourceName": "Stanford CS25 — Transformers United",
+      "sourceId": "stanford-cs25",
+      "pubDate": "2026-10-23T21:00:06.000Z",
+      "badgeColor": "red"
     }
   ]
 }
