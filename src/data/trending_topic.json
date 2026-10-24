@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Weight Models Emerge as a Competitive Threat to Proprietary AI Platforms",
-  "summary": "Latent Space's Kimi 3.1 Pro 104BA-2.8T and Moonshot AI's Kimi K3.1 Pro are among the latest open-weight models that are challenging the dominance of proprietary AI platforms. These models are demonstrating competitive performance, driving innovation and potentially disrupting the market.",
-  "whyItMatters": "This trend could significantly reduce barriers to entry for developers and enterprises, fostering a more competitive and open AI ecosystem.",
-  "synthesizedAt": "2026-10-24T08:03:03.256Z",
+  "headline": "Open-Weight Models Challenge Proprietary AI Ecosystems",
+  "summary": "Latent Space's Kimi 3.1 Pro 104BA-2.8T introduces open weights that match Fable-5.1-class performance, while Moonshot AI's Kimi K3.1 Pro rises in rankings, challenging leading AI models. These developments are pushing the AI industry towards more open and accessible solutions.",
+  "whyItMatters": "This shift is reducing dependency on proprietary platforms and lowering barriers to entry for developers, potentially reshaping the AI landscape.",
+  "synthesizedAt": "2026-10-24T11:09:35.659Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "latent-space-urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4",
@@ -12,28 +12,18 @@
     "sourceId": "latent-space",
     "pubDate": "2026-10-24T07:18:29.000Z",
     "badgeColor": "pink",
-    "angle": "Technical Breakthrough"
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "dwarkesh-podcast-yt:video:cy1yoHVX2IQ",
-      "title": "Why Transistors Stopped Being Flat: A Shift in Semiconductor Design",
-      "link": "https://www.youtube.com/shorts/cy1yoHVX2IQ",
-      "sourceName": "Dwarkesh Podcast",
-      "sourceId": "dwarkesh-podcast",
-      "pubDate": "2026-10-23T22:40:10.000Z",
-      "badgeColor": "indigo",
+      "id": "the-decoder-https://the-decoder.com/?p=41895",
+      "title": "Study Reveals Limited Benefits of Enhanced Coding-Agent Harnesses Despite Higher Costs",
+      "link": "https://the-decoder.com/fancy-harnesses-make-coding-agents-more-expensive-but-not-better-study-finds/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-24T09:21:39.000Z",
+      "badgeColor": "slate",
       "angle": "Industry Analysis"
-    },
-    {
-      "id": "simon-willison-https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
-      "title": "Kimi K3.1 Pro Unveiled with Highspeed Version and Promised Full Model Release",
-      "link": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-10-23T19:40:54.000Z",
-      "badgeColor": "green",
-      "angle": "Official Release"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=41887",
@@ -43,7 +33,7 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-10-23T19:00:07.000Z",
       "badgeColor": "slate",
-      "angle": "Performance Benchmark"
+      "angle": "Competitive Benchmark"
     }
   ]
 }
