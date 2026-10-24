@@ -1,8 +1,8 @@
 {
   "headline": "OpenAI Halts Internet Training for AI Models Due to 'Significant Risks'",
-  "summary": "OpenAI has halted the training of its AI models on live internet data, citing significant risks. This move is drawing attention to the potential dangers of data leakage and misuse in AI development.",
-  "whyItMatters": "It highlights the growing concerns over data privacy and security in AI, potentially influencing industry practices and regulations.",
-  "synthesizedAt": "2026-10-24T01:49:44.715Z",
+  "summary": "OpenAI has ceased training its AI models on live internet data, citing significant risks. This move is prompting a broader debate on data privacy and model integrity in the AI industry.",
+  "whyItMatters": "It underscores the growing concerns over data security and ethical training practices, potentially setting a new standard for AI model development.",
+  "synthesizedAt": "2026-10-24T04:56:13.502Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "techcrunch-ai-https://techcrunch.com/?p=3181396",
@@ -12,37 +12,37 @@
     "sourceId": "techcrunch-ai",
     "pubDate": "2026-10-23T23:05:49.000Z",
     "badgeColor": "emerald",
-    "angle": "Official Statement"
+    "angle": "Official Announcement"
   },
   "supportingStories": [
     {
-      "id": "simon-willison-https://simonwillison.net/2026/Oct/23/quick-study-painter/",
-      "title": "Quick Study: Claude Opus 5.5 Demonstrates Rapid Photo-to-Painting Conversion",
-      "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-10-23T21:35:13.000Z",
-      "badgeColor": "green",
-      "angle": "Technical Implications"
+      "id": "the-decoder-https://the-decoder.com/?p=41882",
+      "title": "On-site Audit Reveals Significant Gaps in OpenAI's AI Safety Monitoring System",
+      "link": "https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-23T18:00:32.000Z",
+      "badgeColor": "slate",
+      "angle": "Security and Compliance"
     },
     {
-      "id": "the-zvi-https://thezvi.substack.com/p/the-hackening",
-      "title": "The Hackening: A Future Event in AI Security and Ethics",
-      "link": "https://thezvi.substack.com/p/the-hackening",
-      "sourceName": "Don't Worry About the Vase (Zvi)",
-      "sourceId": "the-zvi",
-      "pubDate": "2026-10-23T21:13:08.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
+      "id": "the-decoder-https://the-decoder.com/?p=41871",
+      "title": "OpenAI CEO Warns of AI Escape and Urges Focus on Alignment",
+      "link": "https://the-decoder.com/openai-ceo-sam-altman-says-advanced-ai-will-inevitably-escape-its-sandbox-and-only-alignment-can-save-us/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-23T15:42:18.000Z",
+      "badgeColor": "slate",
+      "angle": "Ethical Implications"
     },
     {
-      "id": "stanford-cs25-yt:video:vEDeUdZ-jnQ",
-      "title": "Stanford Guest Lecture Explores the Robot Operating System (ROS) in Autonomy Course",
-      "link": "https://www.youtube.com/watch?v=vEDeUdZ-jnQ",
-      "sourceName": "Stanford CS25 — Transformers United",
-      "sourceId": "stanford-cs25",
-      "pubDate": "2026-10-23T21:00:06.000Z",
-      "badgeColor": "red"
+      "id": "tech-policy-press-https://techpolicy.press/llms-are-still-making-election-deepfakes-just-days-before-the-us-midterms",
+      "title": "Large Language Models Continue to Facilitate Election Deepfakes Days Before US Midterms",
+      "link": "https://techpolicy.press/llms-are-still-making-election-deepfakes-just-days-before-the-us-midterms",
+      "sourceName": "Tech Policy Press",
+      "sourceId": "tech-policy-press",
+      "pubDate": "2026-10-23T15:28:43.000Z",
+      "badgeColor": "slate"
     }
   ]
 }
