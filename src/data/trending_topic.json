@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Weight Models Pave Way for Local AI Deployment",
-  "summary": "Block and Latent Space have released open-weight AI models that can run locally, challenging proprietary platforms and driving local AI deployment. These advancements are expanding access to advanced AI capabilities and reducing reliance on closed APIs.",
-  "whyItMatters": "This trend is crucial for enhancing data privacy, reducing latency, and lowering costs associated with cloud-based AI services.",
-  "synthesizedAt": "2026-10-24T23:36:43.619Z",
+  "headline": "Open-Weight Models Challenge Proprietary AI Ecosystems",
+  "summary": "Kimi 3.1 Pro and Moonshot AI's Kimi K3.1 Pro have introduced open-weight models that match or exceed the performance of proprietary AI systems, challenging the dominance of closed APIs and potentially reducing costs for developers.",
+  "whyItMatters": "This trend could democratize access to advanced AI capabilities, driving innovation and reducing reliance on expensive proprietary platforms.",
+  "synthesizedAt": "2026-10-25T02:43:08.921Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "latent-space-urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4",
@@ -16,24 +16,24 @@
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3181490",
-      "title": "Block Unveils Locally Runnable Voice Model with Human-Like Quality",
-      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-24T16:00:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=41914",
-      "title": "Block Launches Dessa, an AI Model Trained Exclusively on Human Speech for Enhanced Emotional Recognition",
-      "link": "https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss/",
+      "id": "the-decoder-https://the-decoder.com/?p=41887",
+      "title": "Moonshot AI's Kimi K3.1 Pro Rises in Rankings, Challenges Leading AI Models",
+      "link": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-10-24T14:09:46.000Z",
+      "pubDate": "2026-10-23T19:00:07.000Z",
       "badgeColor": "slate",
       "angle": "Industry Analysis"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=41876",
+      "title": "Anthropic Claims Its Unreleased Model Outperforms and Aligns Better Than Mythos 5.1",
+      "link": "https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-23T17:19:49.000Z",
+      "badgeColor": "slate",
+      "angle": "Critical Debate"
     }
   ]
 }
