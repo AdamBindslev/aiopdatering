@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Source AI Agents Challenge Proprietary Models",
-  "summary": "A series of open-source AI agents, including OpenMobile-2 and Dessa, are demonstrating competitive performance against proprietary models, leading to increased local AI deployment and potential market disruption.",
-  "whyItMatters": "This trend could reduce dependency on closed APIs, lower costs, and democratize access to advanced AI capabilities.",
-  "synthesizedAt": "2026-10-25T18:17:19.322Z",
+  "headline": "Open-Source AI Agents Emerge as Competitive Threat to Proprietary Models",
+  "summary": "Open-source AI agents like OpenMobile-2 and Flora are demonstrating advanced capabilities, challenging the dominance of proprietary systems and driving down costs. This trend is reshaping the AI landscape by increasing accessibility and fostering innovation.",
+  "whyItMatters": "It broadens access to advanced AI technologies, reduces barriers to entry for developers, and puts pressure on established players to open up their platforms.",
+  "synthesizedAt": "2026-10-25T21:23:55.533Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=41933",
@@ -12,28 +12,18 @@
     "sourceId": "the-decoder",
     "pubDate": "2026-10-25T06:55:22.000Z",
     "badgeColor": "slate",
-    "angle": "Technical Benchmark"
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "ahead-of-ai-https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "title": "Sebastian Raschka Launches Comprehensive Video Course on Building Reasoning Models",
-      "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "sourceName": "Ahead of AI (Sebastian Raschka)",
-      "sourceId": "ahead-of-ai",
-      "pubDate": "2026-10-24T11:14:32.000Z",
-      "badgeColor": "cyan",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "latent-space-urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4",
-      "title": "Kimi 3.1 Pro 104BA-2.8T Introduces Fable-5.1-Class Open Weights and Highspeed API",
-      "link": "https://latent.space/p/ainews-kimi-31/",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-10-24T07:18:29.000Z",
-      "badgeColor": "pink",
-      "angle": "Official Release"
+      "id": "the-decoder-https://the-decoder.com/?p=41970",
+      "title": "Nvidia Open-Sources Flora to Dramatically Cut Robot Video Labeling Costs",
+      "link": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-25T10:08:49.000Z",
+      "badgeColor": "slate",
+      "angle": "Policy Impact"
     }
   ]
 }
