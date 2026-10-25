@@ -1,28 +1,28 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Systems, Driving Industry Shift",
-  "summary": "Open-source AI models like Flora and OpenMobile-2 are demonstrating competitive performance against proprietary systems, leading to reduced costs and increased accessibility. This trend is reshaping the AI landscape, putting pressure on closed platforms and accelerating local deployment.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and reduces developer reliance on expensive, proprietary solutions, fostering innovation and competition.",
-  "synthesizedAt": "2026-10-25T15:10:33.847Z",
+  "headline": "Open-Source AI Agents Challenge Proprietary Models",
+  "summary": "A series of open-source AI agents, including OpenMobile-2 and Dessa, are demonstrating competitive performance against proprietary models, leading to increased local AI deployment and potential market disruption.",
+  "whyItMatters": "This trend could reduce dependency on closed APIs, lower costs, and democratize access to advanced AI capabilities.",
+  "synthesizedAt": "2026-10-25T18:17:19.322Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41970",
-    "title": "Nvidia Open-Sources Flora to Dramatically Cut Robot Video Labeling Costs",
-    "link": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
+    "id": "the-decoder-https://the-decoder.com/?p=41933",
+    "title": "OpenMobile-2 Demonstrates Open-Source Smartphone Agents Can Compete with Proprietary Models",
+    "link": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-10-25T10:08:49.000Z",
+    "pubDate": "2026-10-25T06:55:22.000Z",
     "badgeColor": "slate",
-    "angle": "Technical Deep Dive"
+    "angle": "Technical Benchmark"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41933",
-      "title": "OpenMobile-2 Demonstrates Open-Source Smartphone Agents Can Compete with Proprietary Models",
-      "link": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-25T06:55:22.000Z",
-      "badgeColor": "slate",
+      "id": "ahead-of-ai-https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "title": "Sebastian Raschka Launches Comprehensive Video Course on Building Reasoning Models",
+      "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "sourceName": "Ahead of AI (Sebastian Raschka)",
+      "sourceId": "ahead-of-ai",
+      "pubDate": "2026-10-24T11:14:32.000Z",
+      "badgeColor": "cyan",
       "angle": "Industry Analysis"
     },
     {
