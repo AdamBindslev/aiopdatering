@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Weight Models Challenge Proprietary AI Ecosystems",
-  "summary": "Kimi 3.1 Pro and Moonshot AI's Kimi K3.1 Pro have introduced open-weight models that match or exceed the performance of proprietary AI systems, challenging the dominance of closed APIs and potentially reducing costs for developers.",
-  "whyItMatters": "This trend could democratize access to advanced AI capabilities, driving innovation and reducing reliance on expensive proprietary platforms.",
-  "synthesizedAt": "2026-10-25T02:43:08.921Z",
+  "headline": "Open-Weight Models Emerge as a Threat to Proprietary AI Platforms",
+  "summary": "The emergence of open-weight AI models, such as those from Kimi 3.1 Pro and Ollama, is challenging the dominance of proprietary platforms by offering comparable performance and local run capabilities. This trend is driving industry debate and potentially altering the landscape of AI development and deployment.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and could reduce the reliance on expensive, closed platforms, fostering more competitive and innovative ecosystems.",
+  "synthesizedAt": "2026-10-25T05:50:20.591Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "latent-space-urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4",
@@ -16,6 +16,16 @@
   },
   "supportingStories": [
     {
+      "id": "ollama-https://ollama.com/blog/speech-models",
+      "title": "Ollama Expands Capabilities with Phonon Speech Model for Multilingual Text-to-Speech",
+      "link": "https://ollama.com/blog/speech-models",
+      "sourceName": "Ollama Blog",
+      "sourceId": "ollama",
+      "pubDate": "2026-10-24T00:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
+    },
+    {
       "id": "the-decoder-https://the-decoder.com/?p=41887",
       "title": "Moonshot AI's Kimi K3.1 Pro Rises in Rankings, Challenges Leading AI Models",
       "link": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/",
@@ -24,16 +34,6 @@
       "pubDate": "2026-10-23T19:00:07.000Z",
       "badgeColor": "slate",
       "angle": "Industry Analysis"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=41876",
-      "title": "Anthropic Claims Its Unreleased Model Outperforms and Aligns Better Than Mythos 5.1",
-      "link": "https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-23T17:19:49.000Z",
-      "badgeColor": "slate",
-      "angle": "Critical Debate"
     }
   ]
 }
