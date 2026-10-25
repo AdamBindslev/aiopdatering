@@ -1,28 +1,28 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Systems",
-  "summary": "A surge of open-source AI models, including OpenMobile-2 and Kimi 3.1 Pro, is demonstrating competitive capabilities with proprietary systems, driving down costs and broadening access. This trend is reshaping the AI landscape by challenging the dominance of closed platforms.",
-  "whyItMatters": "It democratizes advanced AI capabilities, reducing barriers to entry for developers and organizations, and potentially disrupts the business models of established AI providers.",
-  "synthesizedAt": "2026-10-25T08:57:16.243Z",
+  "headline": "Open-Source AI Models Challenge Proprietary Systems, Driving Industry Shift",
+  "summary": "Several open-source AI models, including Nvidia's Flora and Latent Space's Kimi 3.1 Pro, are significantly reducing costs and improving access to advanced AI capabilities, putting pressure on proprietary platforms like Anthropic and OpenAI.",
+  "whyItMatters": "This trend is democratizing AI development and could lead to more innovation and competition within the industry.",
+  "synthesizedAt": "2026-10-25T12:04:18.382Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41933",
-    "title": "OpenMobile-2 Demonstrates Open-Source Smartphone Agents Can Compete with Proprietary Models",
-    "link": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/",
+    "id": "the-decoder-https://the-decoder.com/?p=41970",
+    "title": "Nvidia Open-Sources Flora to Dramatically Cut Robot Video Labeling Costs",
+    "link": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-10-25T06:55:22.000Z",
+    "pubDate": "2026-10-25T10:08:49.000Z",
     "badgeColor": "slate",
     "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3181490",
-      "title": "Block Unveils Locally Runnable Voice Model with Human-Like Quality",
-      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-24T16:00:00.000Z",
-      "badgeColor": "emerald",
+      "id": "the-decoder-https://the-decoder.com/?p=41933",
+      "title": "OpenMobile-2 Demonstrates Open-Source Smartphone Agents Can Compete with Proprietary Models",
+      "link": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-25T06:55:22.000Z",
+      "badgeColor": "slate",
       "angle": "Industry Analysis"
     },
     {
@@ -33,7 +33,7 @@
       "sourceId": "latent-space",
       "pubDate": "2026-10-24T07:18:29.000Z",
       "badgeColor": "pink",
-      "angle": "Competitive Benchmark"
+      "angle": "Official Release"
     }
   ]
 }
