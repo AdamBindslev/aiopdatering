@@ -1,39 +1,39 @@
 {
-  "headline": "Open-Weight Models Emerge as a Threat to Proprietary AI Platforms",
-  "summary": "The emergence of open-weight AI models, such as those from Kimi 3.1 Pro and Ollama, is challenging the dominance of proprietary platforms by offering comparable performance and local run capabilities. This trend is driving industry debate and potentially altering the landscape of AI development and deployment.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and could reduce the reliance on expensive, closed platforms, fostering more competitive and innovative ecosystems.",
-  "synthesizedAt": "2026-10-25T05:50:20.591Z",
+  "headline": "Open-Source AI Models Challenge Proprietary Systems",
+  "summary": "A surge of open-source AI models, including OpenMobile-2 and Kimi 3.1 Pro, is demonstrating competitive capabilities with proprietary systems, driving down costs and broadening access. This trend is reshaping the AI landscape by challenging the dominance of closed platforms.",
+  "whyItMatters": "It democratizes advanced AI capabilities, reducing barriers to entry for developers and organizations, and potentially disrupts the business models of established AI providers.",
+  "synthesizedAt": "2026-10-25T08:57:16.243Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "latent-space-urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4",
-    "title": "Kimi 3.1 Pro 104BA-2.8T Introduces Fable-5.1-Class Open Weights and Highspeed API",
-    "link": "https://latent.space/p/ainews-kimi-31/",
-    "sourceName": "Latent Space (Swyx & Alessio)",
-    "sourceId": "latent-space",
-    "pubDate": "2026-10-24T07:18:29.000Z",
-    "badgeColor": "pink",
-    "angle": "Official Release"
+    "id": "the-decoder-https://the-decoder.com/?p=41933",
+    "title": "OpenMobile-2 Demonstrates Open-Source Smartphone Agents Can Compete with Proprietary Models",
+    "link": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-25T06:55:22.000Z",
+    "badgeColor": "slate",
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "ollama-https://ollama.com/blog/speech-models",
-      "title": "Ollama Expands Capabilities with Phonon Speech Model for Multilingual Text-to-Speech",
-      "link": "https://ollama.com/blog/speech-models",
-      "sourceName": "Ollama Blog",
-      "sourceId": "ollama",
-      "pubDate": "2026-10-24T00:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3181490",
+      "title": "Block Unveils Locally Runnable Voice Model with Human-Like Quality",
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-24T16:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41887",
-      "title": "Moonshot AI's Kimi K3.1 Pro Rises in Rankings, Challenges Leading AI Models",
-      "link": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-23T19:00:07.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Analysis"
+      "id": "latent-space-urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4",
+      "title": "Kimi 3.1 Pro 104BA-2.8T Introduces Fable-5.1-Class Open Weights and Highspeed API",
+      "link": "https://latent.space/p/ainews-kimi-31/",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-10-24T07:18:29.000Z",
+      "badgeColor": "pink",
+      "angle": "Competitive Benchmark"
     }
   ]
 }
