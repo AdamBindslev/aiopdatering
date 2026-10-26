@@ -1,38 +1,38 @@
 {
-  "headline": "OpenAI's GPT-6.1 Terra Boosts Workday Automation Amid AI Model Competition",
-  "summary": "OpenAI has launched GPT-6.1 Terra, an advanced language model designed for workday automation. This move intensifies the AI model competition, as major tech players like NVIDIA and AWS also release new innovations, driving the industry forward.",
-  "whyItMatters": "It highlights the growing importance of AI in daily work processes and showcases the competitive landscape in the AI model market.",
-  "synthesizedAt": "2026-10-26T19:13:57.799Z",
+  "headline": "OpenAI's GPT-6.1 Terra Redefines API Pricing and Accessibility",
+  "summary": "OpenAI's launch of GPT-6.1 Terra halves API prices for mid-range models, significantly lowering barriers to entry for developers and accelerating local AI agent deployment. This shift is driving a broader adoption of AI technologies across industries.",
+  "whyItMatters": "It democratizes access to advanced AI capabilities, potentially reshaping the competitive landscape and fostering innovation among smaller and mid-sized developers.",
+  "synthesizedAt": "2026-10-26T22:20:06.559Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-channel-yt:video:tTuk4pGnT0A",
-    "title": "OpenAI Unveils GPT-6.1 Terra: Enhanced Model for Efficient Workday Automation",
-    "link": "https://www.youtube.com/watch?v=tTuk4pGnT0A",
-    "sourceName": "OpenAI (YouTube)",
-    "sourceId": "openai-channel",
-    "pubDate": "2026-10-26T18:12:28.000Z",
-    "badgeColor": "emerald",
+    "id": "the-decoder-https://the-decoder.com/?p=42016",
+    "title": "OpenAI Unveils GPT-6.1 Terra, Halves API Prices for Mid-Range Models",
+    "link": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-26T20:30:55.000Z",
+    "badgeColor": "slate",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "simon-willison-https://simonwillison.net/2026/Oct/26/jason-koebler/",
-      "title": "ChatGPT Becomes a Primary Support Tool for Tech Users Disappointed with Big Tech Platforms",
-      "link": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-10-26T19:00:25.000Z",
-      "badgeColor": "green",
-      "angle": "Industry Analysis"
+      "id": "openai-channel-yt:video:zUybw-9ejZ4",
+      "title": "Amp Integrates OpenAI Models to Enhance AI Agent Capabilities in Software Development",
+      "link": "https://www.youtube.com/watch?v=zUybw-9ejZ4",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-10-26T22:03:54.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Impact"
     },
     {
-      "id": "nvidia-developer-yt:video:Bti0QJvXUrA",
-      "title": "NVIDIA Unveils Speculative Decoding to Boost LLM Inference Speed on Jetson",
-      "link": "https://www.youtube.com/shorts/Bti0QJvXUrA",
-      "sourceName": "NVIDIA Developer",
-      "sourceId": "nvidia-developer",
-      "pubDate": "2026-10-26T18:39:41.000Z",
-      "badgeColor": "green",
+      "id": "openai-channel-yt:video:tTuk4pGnT0A",
+      "title": "OpenAI Unveils GPT-6.1 Terra: Enhanced Model for Efficient Workday Automation",
+      "link": "https://www.youtube.com/watch?v=tTuk4pGnT0A",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-10-26T18:12:28.000Z",
+      "badgeColor": "emerald",
       "angle": "Technical Deep Dive"
     },
     {
@@ -42,18 +42,7 @@
       "sourceName": "AWS Machine Learning",
       "sourceId": "aws-ml",
       "pubDate": "2026-10-26T17:27:20.000Z",
-      "badgeColor": "amber",
-      "angle": "Efficiency Enhancements"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3181689",
-      "title": "Anthropic’s IPO Filing Highlights Strategy to Deepen Enterprise Customer Engagement",
-      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-26T16:49:42.000Z",
-      "badgeColor": "emerald",
-      "angle": "Enterprise Adoption"
+      "badgeColor": "amber"
     }
   ]
 }
