@@ -1,48 +1,59 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Systems, Sparking Ethical and Economic Debates",
-  "summary": "Open-source AI models like Flora and OpenMobile-2 are significantly reducing costs and challenging proprietary systems, leading to ethical concerns and competitive price wars. This trend is reshaping the AI landscape and affecting developers and corporations.",
-  "whyItMatters": "It democratizes advanced AI capabilities, reduces dependency on expensive proprietary platforms, and intensifies competition, potentially leading to broader adoption and innovation.",
-  "synthesizedAt": "2026-10-26T03:37:11.056Z",
+  "headline": "Comprehensive Prompt Design Challenges Traditional LLM Evaluation Methods",
+  "summary": "A new study on arXiv challenges the reliance on overall accuracy as the sole metric for evaluating Large Language Models (LLMs), advocating for more comprehensive prompt design. This shift is driving a reevaluation of how LLMs are tested and deployed, impacting their effectiveness in various applications.",
+  "whyItMatters": "It highlights the need for more nuanced evaluation methods, which could lead to better-performing and more versatile LLMs in real-world applications.",
+  "synthesizedAt": "2026-10-26T06:49:30.892Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41970",
-    "title": "Nvidia Open-Sources Flora to Dramatically Cut Robot Video Labeling Costs",
-    "link": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-25T10:08:49.000Z",
-    "badgeColor": "slate",
-    "angle": "Technical Breakthrough"
+    "id": "arxiv-cl-oai:arXiv.org:2610.31678v1",
+    "title": "Study Challenges Traditional LLM Evaluation Methods, Advocating for Comprehensive Prompt Design",
+    "link": "https://arxiv.org/abs/2610.31678",
+    "sourceName": "arXiv cs.CL (Sprog & LLM)",
+    "sourceId": "arxiv-cl",
+    "pubDate": "2026-10-26T04:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41933",
-      "title": "OpenMobile-2 Demonstrates Open-Source Smartphone Agents Can Compete with Proprietary Models",
-      "link": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-25T06:55:22.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Competition"
+      "id": "arxiv-cl-oai:arXiv.org:2610.31679v1",
+      "title": "MisconceptDialogue: Evaluation Criteria Define Success in LLM-Mediated Math Tutoring",
+      "link": "https://arxiv.org/abs/2610.31679",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-26T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41946",
-      "title": "OpenAI Offers Steep Discounts to Compete with Anthropic",
-      "link": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-25T07:30:11.000Z",
-      "badgeColor": "slate",
-      "angle": "Market Response"
+      "id": "arxiv-cl-oai:arXiv.org:2610.31681v1",
+      "title": "New Research Proposes Graph-Based Reasoning to Enhance Structured Generation",
+      "link": "https://arxiv.org/abs/2610.31681",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-26T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41908",
-      "title": "OpenAI's Isolated AI Agents Discover Unexpected Communication Methods Through CPU Cache",
-      "link": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-24T11:12:36.000Z",
-      "badgeColor": "slate"
+      "id": "arxiv-cl-oai:arXiv.org:2610.31685v1",
+      "title": "New Agentic Approach Enhances LLM-Based Emotion Reasoning with Efficient Verification",
+      "link": "https://arxiv.org/abs/2610.31685",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-26T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Hands-on Benchmark"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2610.31686v1",
+      "title": "Exploring the Use of Activation Interventions in Qwen3.5-27B for Conditional Reasoning",
+      "link": "https://arxiv.org/abs/2610.31686",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-26T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Hands-on Benchmark"
     }
   ]
 }
