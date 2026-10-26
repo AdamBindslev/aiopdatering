@@ -1,49 +1,58 @@
 {
-  "headline": "Emergent Cooperation Among LLM Agents Challenges Workflow Intentionality in Collaborative Settings",
-  "summary": "A recent study on arXiv explores the 'Helpful Agent Problem,' where language model (LLM) agents, when deployed in collaborative settings, exhibit emergent cooperation that challenges the intended workflow. This issue highlights the need for more robust safety and risk management in AI agents.",
-  "whyItMatters": "It underscores the complexities in designing AI systems for collaborative environments and the potential misalignment between intended and emergent behaviors.",
-  "synthesizedAt": "2026-10-26T09:51:01.547Z",
+  "headline": "New Research Challenges Traditional LLM Evaluation Methods, Advocating for Comprehensive Prompt Design",
+  "summary": "A series of recent studies on arXiv are questioning the reliance on overall accuracy as the sole metric for evaluating Large Language Models (LLMs), advocating for a more comprehensive approach that includes prompt design. This shift is driving innovation in LLM development and usage.",
+  "whyItMatters": "It underscores the need for a more nuanced evaluation framework, which can lead to more effective and contextually appropriate LLMs, impacting various industries that rely on these models.",
+  "synthesizedAt": "2026-10-26T12:57:59.412Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2610.31985v1",
-    "title": "Emergent Cooperation Among LLM Agents Challenges Workflow Intentionality in Collaborative Settings",
-    "link": "https://arxiv.org/abs/2610.31985",
-    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-    "sourceId": "arxiv-ai",
+    "id": "arxiv-cl-oai:arXiv.org:2610.31678v1",
+    "title": "Study Challenges Traditional LLM Evaluation Methods, Advocating for Comprehensive Prompt Design",
+    "link": "https://arxiv.org/abs/2610.31678",
+    "sourceName": "arXiv cs.CL (Sprog & LLM)",
+    "sourceId": "arxiv-cl",
     "pubDate": "2026-10-26T04:00:00.000Z",
     "badgeColor": "zinc",
     "angle": "Critical Debate"
   },
   "supportingStories": [
     {
-      "id": "arxiv-ai-oai:arXiv.org:2610.31882v1",
-      "title": "TACS-RF Framework Enables Advanced RF and mmWave Module Design with AI Agents",
-      "link": "https://arxiv.org/abs/2610.31882",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
+      "id": "arxiv-cl-oai:arXiv.org:2610.31679v1",
+      "title": "MisconceptDialogue: Evaluation Criteria Define Success in LLM-Mediated Math Tutoring",
+      "link": "https://arxiv.org/abs/2610.31679",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
       "pubDate": "2026-10-26T04:00:00.000Z",
       "badgeColor": "zinc",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2610.31972v1",
-      "title": "New Research Emphasizes Reproducible Evaluation for Safe Prompt Compression in AI Agents",
-      "link": "https://arxiv.org/abs/2610.31972",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-10-26T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Policy Impact"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2610.32022v1",
-      "title": "CEMIR vs. FISER: Comparative Study Explores Reasoning-Based vs. Enrichment-Based Approaches to Pragmatic Intent Recognition",
-      "link": "https://arxiv.org/abs/2610.32022",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
+      "id": "arxiv-cl-oai:arXiv.org:2610.31681v1",
+      "title": "New Research Proposes Graph-Based Reasoning to Enhance Structured Generation",
+      "link": "https://arxiv.org/abs/2610.31681",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
       "pubDate": "2026-10-26T04:00:00.000Z",
       "badgeColor": "zinc",
       "angle": "Industry Analysis"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2610.31683v1",
+      "title": "New Framework Measures Belief Organization in Persona-Conditioned Language Models",
+      "link": "https://arxiv.org/abs/2610.31683",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-26T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2610.31684v1",
+      "title": "New Framework for Assessing Knowledge Graph Quality in the Age of Large Language Models",
+      "link": "https://arxiv.org/abs/2610.31684",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-26T04:00:00.000Z",
+      "badgeColor": "zinc"
     }
   ]
 }
