@@ -1,58 +1,48 @@
 {
-  "headline": "New Research Challenges Traditional LLM Evaluation Methods, Advocating for Comprehensive Prompt Design",
-  "summary": "A series of recent studies on arXiv are questioning the reliance on overall accuracy as the sole metric for evaluating Large Language Models (LLMs), advocating for a more comprehensive approach that includes prompt design. This shift is driving innovation in LLM development and usage.",
-  "whyItMatters": "It underscores the need for a more nuanced evaluation framework, which can lead to more effective and contextually appropriate LLMs, impacting various industries that rely on these models.",
-  "synthesizedAt": "2026-10-26T12:57:59.412Z",
+  "headline": "Meta's $95 Billion Stock Sale Signals AI Infrastructure Expansion",
+  "summary": "Meta has announced plans to raise up to $95 billion through stock sales to fund its ambitious AI infrastructure expansion. This move underscores the growing importance of AI in tech strategy and the significant financial commitment required for AI development.",
+  "whyItMatters": "It highlights the strategic importance of AI infrastructure and the substantial financial resources required for large tech companies to compete in the AI race.",
+  "synthesizedAt": "2026-10-26T16:06:26.571Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-cl-oai:arXiv.org:2610.31678v1",
-    "title": "Study Challenges Traditional LLM Evaluation Methods, Advocating for Comprehensive Prompt Design",
-    "link": "https://arxiv.org/abs/2610.31678",
-    "sourceName": "arXiv cs.CL (Sprog & LLM)",
-    "sourceId": "arxiv-cl",
-    "pubDate": "2026-10-26T04:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "Critical Debate"
+    "id": "the-decoder-https://the-decoder.com/?p=41996",
+    "title": "Meta Announces $95 Billion Stock Sale to Fund AI Infrastructure Expansion",
+    "link": "https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-26T14:21:23.000Z",
+    "badgeColor": "slate",
+    "angle": "Financial Strategy"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2610.31679v1",
-      "title": "MisconceptDialogue: Evaluation Criteria Define Success in LLM-Mediated Math Tutoring",
-      "link": "https://arxiv.org/abs/2610.31679",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-26T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
+      "id": "nvidia-https://developer.nvidia.com/blog/?p=123987",
+      "title": "NVIDIA Minerva Streamlines AI Factory Telemetry for Optimal GPU Performance",
+      "link": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield/",
+      "sourceName": "NVIDIA Technical Blog",
+      "sourceId": "nvidia",
+      "pubDate": "2026-10-26T16:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Tech Infrastructure"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2610.31681v1",
-      "title": "New Research Proposes Graph-Based Reasoning to Enhance Structured Generation",
-      "link": "https://arxiv.org/abs/2610.31681",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-26T04:00:00.000Z",
-      "badgeColor": "zinc",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3181633",
+      "title": "Anthropic Files for IPO Amid Soaring Revenue and Controversial Governance",
+      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-26T14:35:22.000Z",
+      "badgeColor": "emerald"
+    },
+    {
+      "id": "anthropic-CBMiTkFVX3lxTFBnZUdLN3hwaXFFbndLU0FTMC1INVZzenp4cl92WXJqM3VDWTZUSXN2S1NTdzBjeTBDaUZmRHFud1M1azhBX3pmcFAxR3Nzdw",
+      "title": "Anthropic Files S-1 with SEC for Proposed Initial Public Offering",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnZUdLN3hwaXFFbndLU0FTMC1INVZzenp4cl92WXJqM3VDWTZUSXN2S1NTdzBjeTBDaUZmRHFud1M1azhBX3pmcFAxR3Nzdw?oc=5",
+      "sourceName": "Anthropic",
+      "sourceId": "anthropic",
+      "pubDate": "2026-10-26T13:11:09.000Z",
+      "badgeColor": "amber",
       "angle": "Industry Analysis"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2610.31683v1",
-      "title": "New Framework Measures Belief Organization in Persona-Conditioned Language Models",
-      "link": "https://arxiv.org/abs/2610.31683",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-26T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2610.31684v1",
-      "title": "New Framework for Assessing Knowledge Graph Quality in the Age of Large Language Models",
-      "link": "https://arxiv.org/abs/2610.31684",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-26T04:00:00.000Z",
-      "badgeColor": "zinc"
     }
   ]
 }
