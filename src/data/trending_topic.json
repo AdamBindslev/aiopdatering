@@ -1,29 +1,48 @@
 {
-  "headline": "Open-Source AI Agents Emerge as Competitive Threat to Proprietary Models",
-  "summary": "Open-source AI agents like OpenMobile-2 and Flora are demonstrating advanced capabilities, challenging the dominance of proprietary systems and driving down costs. This trend is reshaping the AI landscape by increasing accessibility and fostering innovation.",
-  "whyItMatters": "It broadens access to advanced AI technologies, reduces barriers to entry for developers, and puts pressure on established players to open up their platforms.",
-  "synthesizedAt": "2026-10-25T21:23:55.533Z",
+  "headline": "Open-Source AI Agents Challenge Proprietary Models, Sparking Ethical and Economic Debates",
+  "summary": "Open-source AI agents, such as Nvidia's Flora and OpenMobile-2, are demonstrating competitive capabilities, prompting ethical concerns and economic pressures on proprietary platforms like Anthropic and OpenAI. This trend is reshaping the AI landscape and driving innovation.",
+  "whyItMatters": "It broadens access to advanced AI technologies, reduces costs, and forces companies to reconsider their proprietary models, potentially leading to more open and collaborative AI ecosystems.",
+  "synthesizedAt": "2026-10-26T00:30:37.908Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41933",
-    "title": "OpenMobile-2 Demonstrates Open-Source Smartphone Agents Can Compete with Proprietary Models",
-    "link": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/",
+    "id": "the-decoder-https://the-decoder.com/?p=41970",
+    "title": "Nvidia Open-Sources Flora to Dramatically Cut Robot Video Labeling Costs",
+    "link": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-10-25T06:55:22.000Z",
+    "pubDate": "2026-10-25T10:08:49.000Z",
     "badgeColor": "slate",
-    "angle": "Technical Deep Dive"
+    "angle": "Technical Breakthrough"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=41970",
-      "title": "Nvidia Open-Sources Flora to Dramatically Cut Robot Video Labeling Costs",
-      "link": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
+      "id": "the-decoder-https://the-decoder.com/?p=41933",
+      "title": "OpenMobile-2 Demonstrates Open-Source Smartphone Agents Can Compete with Proprietary Models",
+      "link": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-10-25T10:08:49.000Z",
+      "pubDate": "2026-10-25T06:55:22.000Z",
       "badgeColor": "slate",
-      "angle": "Policy Impact"
+      "angle": "Competitive Analysis"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=41946",
+      "title": "OpenAI Offers Steep Discounts to Compete with Anthropic",
+      "link": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-25T07:30:11.000Z",
+      "badgeColor": "slate",
+      "angle": "Market Response"
+    },
+    {
+      "id": "latent-space-urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4",
+      "title": "Kimi 3.1 Pro 104BA-2.8T Introduces Fable-5.1-Class Open Weights and Highspeed API",
+      "link": "https://latent.space/p/ainews-kimi-31/",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-10-24T07:18:29.000Z",
+      "badgeColor": "pink"
     }
   ]
 }
