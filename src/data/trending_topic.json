@@ -1,48 +1,59 @@
 {
-  "headline": "Meta's $95 Billion Stock Sale Signals AI Infrastructure Expansion",
-  "summary": "Meta has announced plans to raise up to $95 billion through stock sales to fund its ambitious AI infrastructure expansion. This move underscores the growing importance of AI in tech strategy and the significant financial commitment required for AI development.",
-  "whyItMatters": "It highlights the strategic importance of AI infrastructure and the substantial financial resources required for large tech companies to compete in the AI race.",
-  "synthesizedAt": "2026-10-26T16:06:26.571Z",
+  "headline": "OpenAI's GPT-6.1 Terra Boosts Workday Automation Amid AI Model Competition",
+  "summary": "OpenAI has launched GPT-6.1 Terra, an advanced language model designed for workday automation. This move intensifies the AI model competition, as major tech players like NVIDIA and AWS also release new innovations, driving the industry forward.",
+  "whyItMatters": "It highlights the growing importance of AI in daily work processes and showcases the competitive landscape in the AI model market.",
+  "synthesizedAt": "2026-10-26T19:13:57.799Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=41996",
-    "title": "Meta Announces $95 Billion Stock Sale to Fund AI Infrastructure Expansion",
-    "link": "https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-26T14:21:23.000Z",
-    "badgeColor": "slate",
-    "angle": "Financial Strategy"
+    "id": "openai-channel-yt:video:tTuk4pGnT0A",
+    "title": "OpenAI Unveils GPT-6.1 Terra: Enhanced Model for Efficient Workday Automation",
+    "link": "https://www.youtube.com/watch?v=tTuk4pGnT0A",
+    "sourceName": "OpenAI (YouTube)",
+    "sourceId": "openai-channel",
+    "pubDate": "2026-10-26T18:12:28.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "nvidia-https://developer.nvidia.com/blog/?p=123987",
-      "title": "NVIDIA Minerva Streamlines AI Factory Telemetry for Optimal GPU Performance",
-      "link": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield/",
-      "sourceName": "NVIDIA Technical Blog",
-      "sourceId": "nvidia",
-      "pubDate": "2026-10-26T16:00:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Tech Infrastructure"
+      "id": "simon-willison-https://simonwillison.net/2026/Oct/26/jason-koebler/",
+      "title": "ChatGPT Becomes a Primary Support Tool for Tech Users Disappointed with Big Tech Platforms",
+      "link": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-10-26T19:00:25.000Z",
+      "badgeColor": "green",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3181633",
-      "title": "Anthropic Files for IPO Amid Soaring Revenue and Controversial Governance",
-      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "id": "nvidia-developer-yt:video:Bti0QJvXUrA",
+      "title": "NVIDIA Unveils Speculative Decoding to Boost LLM Inference Speed on Jetson",
+      "link": "https://www.youtube.com/shorts/Bti0QJvXUrA",
+      "sourceName": "NVIDIA Developer",
+      "sourceId": "nvidia-developer",
+      "pubDate": "2026-10-26T18:39:41.000Z",
+      "badgeColor": "green",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "aws-ml-de80c503415138bb46de169401d016e12857bb15",
+      "title": "Prompt Caching Enhances Efficiency for AI Agents on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-10-26T17:27:20.000Z",
+      "badgeColor": "amber",
+      "angle": "Efficiency Enhancements"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3181689",
+      "title": "Anthropic’s IPO Filing Highlights Strategy to Deepen Enterprise Customer Engagement",
+      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-26T14:35:22.000Z",
-      "badgeColor": "emerald"
-    },
-    {
-      "id": "anthropic-CBMiTkFVX3lxTFBnZUdLN3hwaXFFbndLU0FTMC1INVZzenp4cl92WXJqM3VDWTZUSXN2S1NTdzBjeTBDaUZmRHFud1M1azhBX3pmcFAxR3Nzdw",
-      "title": "Anthropic Files S-1 with SEC for Proposed Initial Public Offering",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnZUdLN3hwaXFFbndLU0FTMC1INVZzenp4cl92WXJqM3VDWTZUSXN2S1NTdzBjeTBDaUZmRHFud1M1azhBX3pmcFAxR3Nzdw?oc=5",
-      "sourceName": "Anthropic",
-      "sourceId": "anthropic",
-      "pubDate": "2026-10-26T13:11:09.000Z",
-      "badgeColor": "amber",
-      "angle": "Industry Analysis"
+      "pubDate": "2026-10-26T16:49:42.000Z",
+      "badgeColor": "emerald",
+      "angle": "Enterprise Adoption"
     }
   ]
 }
