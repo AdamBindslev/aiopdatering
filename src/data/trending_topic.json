@@ -1,8 +1,8 @@
 {
-  "headline": "OpenAI's GPT-6.1 Terra Redefines API Pricing and Accessibility",
-  "summary": "OpenAI's launch of GPT-6.1 Terra halves API prices for mid-range models, significantly lowering barriers to entry for developers and accelerating local AI agent deployment. This shift is driving a broader adoption of AI technologies across industries.",
-  "whyItMatters": "It democratizes access to advanced AI capabilities, potentially reshaping the competitive landscape and fostering innovation among smaller and mid-sized developers.",
-  "synthesizedAt": "2026-10-26T22:20:06.559Z",
+  "headline": "OpenAI GPT-6.1 Terra Launches with Halved API Prices, Boosting Local Deployment",
+  "summary": "OpenAI has unveiled GPT-6.1 Terra, a mid-range model that halves API prices, making advanced AI capabilities more accessible. This move is driving local AI agent deployment and reshaping the competitive landscape.",
+  "whyItMatters": "Reduced costs will accelerate the adoption of advanced AI models, particularly in smaller organizations and local markets, fostering broader innovation and competition.",
+  "synthesizedAt": "2026-10-27T01:25:14.969Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=42016",
@@ -16,24 +16,34 @@
   },
   "supportingStories": [
     {
-      "id": "openai-channel-yt:video:zUybw-9ejZ4",
-      "title": "Amp Integrates OpenAI Models to Enhance AI Agent Capabilities in Software Development",
-      "link": "https://www.youtube.com/watch?v=zUybw-9ejZ4",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-10-26T22:03:54.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Impact"
+      "id": "simon-willison-https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+      "title": "OpenAI Unveils GPT-6.1 Terra, Focusing on Visual Reasoning and Computer Use",
+      "link": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-10-26T23:53:07.000Z",
+      "badgeColor": "green",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "openai-channel-yt:video:tTuk4pGnT0A",
-      "title": "OpenAI Unveils GPT-6.1 Terra: Enhanced Model for Efficient Workday Automation",
-      "link": "https://www.youtube.com/watch?v=tTuk4pGnT0A",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-10-26T18:12:28.000Z",
+      "id": "openai-https://openai.com/index/greptile-code-review-codex-astra",
+      "title": "Greptile Expands Bug Detection Capabilities with GPT-6 Astra",
+      "link": "https://openai.com/index/greptile-code-review-codex-astra",
+      "sourceName": "OpenAI News",
+      "sourceId": "openai",
+      "pubDate": "2026-10-26T22:00:00.000Z",
       "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "simon-willison-https://simonwillison.net/2026/Oct/26/jason-koebler/",
+      "title": "ChatGPT Becomes a Primary Support Tool for Tech Users Disappointed with Big Tech Platforms",
+      "link": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-10-26T19:00:25.000Z",
+      "badgeColor": "green",
+      "angle": "User Impact"
     },
     {
       "id": "aws-ml-de80c503415138bb46de169401d016e12857bb15",
