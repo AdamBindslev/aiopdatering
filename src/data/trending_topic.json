@@ -1,39 +1,49 @@
 {
-  "headline": "Google DeepMind's Genie 4 Redefines Real-Time World Simulation",
-  "summary": "Google DeepMind has released Genie 4, a highly advanced real-time world simulation model that significantly enhances realism and interactivity. This breakthrough is driving innovation in gaming, development, and virtual environments, setting a new standard for AI-driven simulations.",
-  "whyItMatters": "It pushes the boundaries of AI-generated environments, potentially transforming industries like gaming, development, and virtual reality by providing more realistic and interactive experiences.",
-  "synthesizedAt": "2026-10-27T20:08:01.611Z",
+  "headline": "AI Data Center Boom Spurs Grid Modernization and Innovation",
+  "summary": "The rapid expansion of AI data centers is driving significant advancements in the U.S. power grid, leading to grid modernization and innovation. This trend is crucial for supporting the growing demand for AI workloads and improving energy efficiency.",
+  "whyItMatters": "It underscores the critical role of infrastructure in supporting AI growth and highlights the potential for technological advancements to address energy challenges.",
+  "synthesizedAt": "2026-10-27T23:13:55.131Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42058",
-    "title": "Google DeepMind Unveils Genie 4: A Real-Time 3D World Model with Interactive Characters",
-    "link": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-27T17:25:09.000Z",
-    "badgeColor": "slate",
-    "angle": "Official Release"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3181301",
+    "title": "AI Data Center Boom Spurs Grid Modernization and Innovation",
+    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-10-27T22:55:41.000Z",
+    "badgeColor": "emerald",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "huggingface-https://huggingface.co/blog/allenai/novelty-bench",
-      "title": "Hugging Face Evaluates LLMs for Novelty Judgment in Research",
-      "link": "https://huggingface.co/blog/allenai/novelty-bench",
-      "sourceName": "Hugging Face Blog",
-      "sourceId": "huggingface",
-      "pubDate": "2026-10-27T16:12:42.000Z",
-      "badgeColor": "yellow",
-      "angle": "Technical Deep Dive"
+      "id": "nvidia-https://developer.nvidia.com/blog/?p=124247",
+      "title": "NVIDIA Introduces Memory-Enforced GPU Sharing for Kubernetes to Optimize AI Workload Efficiency",
+      "link": "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4/",
+      "sourceName": "NVIDIA Technical Blog",
+      "sourceId": "nvidia",
+      "pubDate": "2026-10-27T20:50:39.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Detail"
     },
     {
-      "id": "deepmind-https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "title": "Google DeepMind Unveils Genie 4: A Quantum Leap in Real-Time World Simulation",
-      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "sourceName": "Google DeepMind",
-      "sourceId": "deepmind",
-      "pubDate": "2026-10-27T16:01:38.000Z",
-      "badgeColor": "cyan",
-      "angle": "Industry Analysis"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3182189",
+      "title": "Disruptive Raises $10B Fund for Strategic Investments in AI and Tech Startups",
+      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-27T18:55:35.000Z",
+      "badgeColor": "emerald",
+      "angle": "Investment Trends"
+    },
+    {
+      "id": "aws-ml-4fef4e2052ceafe5be77506f74414eb6efbd5cd7",
+      "title": "AWS Launches SOCI-Indexed Images to Accelerate SageMaker AI Jobs",
+      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-10-27T17:00:39.000Z",
+      "badgeColor": "amber",
+      "angle": "Efficiency Improvements"
     }
   ]
 }
