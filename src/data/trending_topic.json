@@ -1,20 +1,40 @@
 {
-  "headline": "Large Language Models Gain New Capabilities and Efficiency Improvements",
-  "summary": "A series of recent research papers focus on enhancing the efficiency and capabilities of large language models (LLMs), introducing new methods for fine-tuning, context compression, and memory management. These advancements are driving significant improvements in LLM performance and scalability.",
-  "whyItMatters": "These innovations are crucial for the ongoing development and deployment of LLMs, impacting their efficiency and effectiveness in various applications, from natural language processing to complex decision-making tasks.",
-  "synthesizedAt": "2026-10-27T07:40:58.013Z",
+  "headline": "New Open-Weight Models Challenge Proprietary AI Systems",
+  "summary": "A series of new open-weight models are demonstrating advanced reasoning capabilities, rivaling top commercial systems. This shift is accelerating local AI agent deployment and putting downward pressure on closed-API pricing models.",
+  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on closed proprietary platforms.",
+  "synthesizedAt": "2026-10-27T10:45:55.306Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-cl-oai:arXiv.org:2610.32997v1",
-    "title": "Smart Subset Selection Enhances ASR Fine-Tuning Efficiency for Whisper Models",
-    "link": "https://arxiv.org/abs/2610.32997",
-    "sourceName": "arXiv cs.CL (Sprog & LLM)",
-    "sourceId": "arxiv-cl",
-    "pubDate": "2026-10-27T04:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "Technical Deep Dive"
+    "id": "the-decoder-https://the-decoder.com/?p=42022",
+    "title": "OpenAI's Ted Sanders Offers Guidance on Selecting GPT Models",
+    "link": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-27T10:09:26.000Z",
+    "badgeColor": "slate",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2610.32997v1",
+      "title": "Smart Subset Selection Enhances ASR Fine-Tuning Efficiency for Whisper Models",
+      "link": "https://arxiv.org/abs/2610.32997",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-27T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2610.33005v1",
+      "title": "OpenESM: Energy-Steered Models Offer Scalable General-Purpose Learning",
+      "link": "https://arxiv.org/abs/2610.33005",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-27T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Official Release"
+    },
     {
       "id": "arxiv-cl-oai:arXiv.org:2610.33006v1",
       "title": "New Method Enables Linear-Time Context Compression for Large Language Models",
@@ -23,26 +43,7 @@
       "sourceId": "arxiv-cl",
       "pubDate": "2026-10-27T04:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2610.33015v1",
-      "title": "SLICE-Mem: Salience-Gated Lightweight Information Curation for Efficient LLM Agent Memory Management",
-      "link": "https://arxiv.org/abs/2610.33015",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-27T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Official Release"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2610.33205v1",
-      "title": "Smart Coder Framework Enhances Reliability and Efficiency in Human-LLM Collaborative Coding",
-      "link": "https://arxiv.org/abs/2610.33205",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-10-27T04:00:00.000Z",
-      "badgeColor": "zinc"
+      "angle": "Innovation Benchmark"
     }
   ]
 }
