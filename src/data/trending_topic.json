@@ -1,49 +1,39 @@
 {
-  "headline": "New Open-Weight Models Challenge Proprietary AI Systems",
-  "summary": "A series of new open-weight models are demonstrating advanced reasoning capabilities, rivaling top commercial systems. This shift is accelerating local AI agent deployment and putting downward pressure on closed-API pricing models.",
-  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on closed proprietary platforms.",
-  "synthesizedAt": "2026-10-27T10:45:55.306Z",
+  "headline": "OpenAI's Breakthrough Challenges Exponential Time Hypothesis, Redefining Computational Complexity",
+  "summary": "OpenAI has announced that its AI has disproved the Exponential Time Hypothesis, a cornerstone of computational complexity theory. This breakthrough could have profound implications for the development of more efficient algorithms and AI models.",
+  "whyItMatters": "This breakthrough could accelerate the development of more efficient AI models and algorithms, potentially leading to significant advancements in various fields, including cybersecurity and data processing.",
+  "synthesizedAt": "2026-10-27T13:54:14.775Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42022",
-    "title": "OpenAI's Ted Sanders Offers Guidance on Selecting GPT Models",
-    "link": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-27T10:09:26.000Z",
-    "badgeColor": "slate",
-    "angle": "Industry Analysis"
+    "id": "wes-roth-yt:video:lskEzJ7ixw0",
+    "title": "OpenAI Challenges Exponential Time Hypothesis, Potentially Redefining Computational Complexity",
+    "link": "https://www.youtube.com/watch?v=lskEzJ7ixw0",
+    "sourceName": "Wes Roth",
+    "sourceId": "wes-roth",
+    "pubDate": "2026-10-27T12:10:55.000Z",
+    "badgeColor": "emerald",
+    "angle": "Technical Breakthrough"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2610.32997v1",
-      "title": "Smart Subset Selection Enhances ASR Fine-Tuning Efficiency for Whisper Models",
-      "link": "https://arxiv.org/abs/2610.32997",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-27T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
+      "id": "the-decoder-https://the-decoder.com/?p=42040",
+      "title": "OpenAI Invites Experts, Including Nobel Laureates, to Verify AI-Generated Solutions to Major Mathematical and Scientific Problems",
+      "link": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-27T12:37:24.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Impact"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2610.33005v1",
-      "title": "OpenESM: Energy-Steered Models Offer Scalable General-Purpose Learning",
-      "link": "https://arxiv.org/abs/2610.33005",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-27T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Official Release"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2610.33006v1",
-      "title": "New Method Enables Linear-Time Context Compression for Large Language Models",
-      "link": "https://arxiv.org/abs/2610.33006",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-27T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Innovation Benchmark"
+      "id": "the-decoder-https://the-decoder.com/?p=42022",
+      "title": "OpenAI's Ted Sanders Offers Guidance on Selecting GPT Models",
+      "link": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-27T10:09:26.000Z",
+      "badgeColor": "slate",
+      "angle": "Expert Insights"
     }
   ]
 }
