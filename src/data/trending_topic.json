@@ -1,39 +1,48 @@
 {
-  "headline": "New Benchmark AOS-Bench Evaluates LLM Agents for Dynamic Workloads",
-  "summary": "AOS-Bench, a newly introduced benchmark, assesses large language model (LLM) agents' ability to handle dynamic workloads, highlighting their performance in real-world scenarios and driving advancements in their adaptability and efficiency.",
-  "whyItMatters": "It underscores the need for LLMs to perform effectively in dynamic environments, influencing the development and deployment strategies for these models.",
-  "synthesizedAt": "2026-10-27T04:37:29.791Z",
+  "headline": "Large Language Models Gain New Capabilities and Efficiency Improvements",
+  "summary": "A series of recent research papers focus on enhancing the efficiency and capabilities of large language models (LLMs), introducing new methods for fine-tuning, context compression, and memory management. These advancements are driving significant improvements in LLM performance and scalability.",
+  "whyItMatters": "These innovations are crucial for the ongoing development and deployment of LLMs, impacting their efficiency and effectiveness in various applications, from natural language processing to complex decision-making tasks.",
+  "synthesizedAt": "2026-10-27T07:40:58.013Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2610.33178v1",
-    "title": "AOS-Bench: Evaluating LLM Agents for Dynamic Workload Management",
-    "link": "https://arxiv.org/abs/2610.33178",
-    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-    "sourceId": "arxiv-ai",
+    "id": "arxiv-cl-oai:arXiv.org:2610.32997v1",
+    "title": "Smart Subset Selection Enhances ASR Fine-Tuning Efficiency for Whisper Models",
+    "link": "https://arxiv.org/abs/2610.32997",
+    "sourceName": "arXiv cs.CL (Sprog & LLM)",
+    "sourceId": "arxiv-cl",
     "pubDate": "2026-10-27T04:00:00.000Z",
     "badgeColor": "zinc",
-    "angle": "New Benchmark"
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2610.33012v1",
-      "title": "New Research Introduces Recursive Semantic Divergence to Address LLM Agent Inconsistency",
-      "link": "https://arxiv.org/abs/2610.33012",
+      "id": "arxiv-cl-oai:arXiv.org:2610.33006v1",
+      "title": "New Method Enables Linear-Time Context Compression for Large Language Models",
+      "link": "https://arxiv.org/abs/2610.33006",
       "sourceName": "arXiv cs.CL (Sprog & LLM)",
       "sourceId": "arxiv-cl",
       "pubDate": "2026-10-27T04:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Inconsistency Mitigation"
+      "angle": "Industry Analysis"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2610.33233v1",
-      "title": "AI Models Leverage Expert Judgment at Scale in High-Stakes Fields",
-      "link": "https://arxiv.org/abs/2610.33233",
+      "id": "arxiv-cl-oai:arXiv.org:2610.33015v1",
+      "title": "SLICE-Mem: Salience-Gated Lightweight Information Curation for Efficient LLM Agent Memory Management",
+      "link": "https://arxiv.org/abs/2610.33015",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-10-27T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Official Release"
+    },
+    {
+      "id": "arxiv-ai-oai:arXiv.org:2610.33205v1",
+      "title": "Smart Coder Framework Enhances Reliability and Efficiency in Human-LLM Collaborative Coding",
+      "link": "https://arxiv.org/abs/2610.33205",
       "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
       "sourceId": "arxiv-ai",
       "pubDate": "2026-10-27T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "High-Stakes Applications"
+      "badgeColor": "zinc"
     }
   ]
 }
