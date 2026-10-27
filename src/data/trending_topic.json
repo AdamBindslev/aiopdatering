@@ -1,28 +1,38 @@
 {
-  "headline": "Local AI Deployment Surges with WebAI Standard and Inference Chip Challenges",
-  "summary": "The launch of Opera's WebAI standard and General Compute's $100 million funding for inference chips are driving local AI adoption. These developments are reshaping how AI models are deployed, reducing reliance on cloud services and proprietary hardware.",
-  "whyItMatters": "This shift enhances data privacy, reduces latency, and democratizes access to advanced AI capabilities, fostering a more competitive and inclusive tech landscape.",
-  "synthesizedAt": "2026-10-27T17:02:55.677Z",
+  "headline": "Google DeepMind's Genie 4 Redefines Real-Time World Simulation",
+  "summary": "Google DeepMind has released Genie 4, a highly advanced real-time world simulation model that significantly enhances realism and interactivity. This breakthrough is driving innovation in gaming, development, and virtual environments, setting a new standard for AI-driven simulations.",
+  "whyItMatters": "It pushes the boundaries of AI-generated environments, potentially transforming industries like gaming, development, and virtual reality by providing more realistic and interactive experiences.",
+  "synthesizedAt": "2026-10-27T20:08:01.611Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3181922",
-    "title": "Opera Launches WebAI Standard for Local AI Deployment in Browsers",
-    "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-10-27T13:00:00.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Launch"
+    "id": "the-decoder-https://the-decoder.com/?p=42058",
+    "title": "Google DeepMind Unveils Genie 4: A Real-Time 3D World Model with Interactive Characters",
+    "link": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-27T17:25:09.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3181881",
-      "title": "General Compute Secures $100 Million Series A, Challenges Nvidia Dominance in Inference Chips",
-      "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-27T13:00:00.000Z",
-      "badgeColor": "emerald",
+      "id": "huggingface-https://huggingface.co/blog/allenai/novelty-bench",
+      "title": "Hugging Face Evaluates LLMs for Novelty Judgment in Research",
+      "link": "https://huggingface.co/blog/allenai/novelty-bench",
+      "sourceName": "Hugging Face Blog",
+      "sourceId": "huggingface",
+      "pubDate": "2026-10-27T16:12:42.000Z",
+      "badgeColor": "yellow",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "deepmind-https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "title": "Google DeepMind Unveils Genie 4: A Quantum Leap in Real-Time World Simulation",
+      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "sourceName": "Google DeepMind",
+      "sourceId": "deepmind",
+      "pubDate": "2026-10-27T16:01:38.000Z",
+      "badgeColor": "cyan",
       "angle": "Industry Analysis"
     }
   ]
