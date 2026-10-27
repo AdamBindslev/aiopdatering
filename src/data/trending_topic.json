@@ -1,39 +1,29 @@
 {
-  "headline": "OpenAI's Breakthrough Challenges Exponential Time Hypothesis, Redefining Computational Complexity",
-  "summary": "OpenAI has announced that its AI has disproved the Exponential Time Hypothesis, a cornerstone of computational complexity theory. This breakthrough could have profound implications for the development of more efficient algorithms and AI models.",
-  "whyItMatters": "This breakthrough could accelerate the development of more efficient AI models and algorithms, potentially leading to significant advancements in various fields, including cybersecurity and data processing.",
-  "synthesizedAt": "2026-10-27T13:54:14.775Z",
+  "headline": "Local AI Deployment Surges with WebAI Standard and Inference Chip Challenges",
+  "summary": "The launch of Opera's WebAI standard and General Compute's $100 million funding for inference chips are driving local AI adoption. These developments are reshaping how AI models are deployed, reducing reliance on cloud services and proprietary hardware.",
+  "whyItMatters": "This shift enhances data privacy, reduces latency, and democratizes access to advanced AI capabilities, fostering a more competitive and inclusive tech landscape.",
+  "synthesizedAt": "2026-10-27T17:02:55.677Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "wes-roth-yt:video:lskEzJ7ixw0",
-    "title": "OpenAI Challenges Exponential Time Hypothesis, Potentially Redefining Computational Complexity",
-    "link": "https://www.youtube.com/watch?v=lskEzJ7ixw0",
-    "sourceName": "Wes Roth",
-    "sourceId": "wes-roth",
-    "pubDate": "2026-10-27T12:10:55.000Z",
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3181922",
+    "title": "Opera Launches WebAI Standard for Local AI Deployment in Browsers",
+    "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-10-27T13:00:00.000Z",
     "badgeColor": "emerald",
-    "angle": "Technical Breakthrough"
+    "angle": "Official Launch"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42040",
-      "title": "OpenAI Invites Experts, Including Nobel Laureates, to Verify AI-Generated Solutions to Major Mathematical and Scientific Problems",
-      "link": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-27T12:37:24.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Impact"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=42022",
-      "title": "OpenAI's Ted Sanders Offers Guidance on Selecting GPT Models",
-      "link": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-27T10:09:26.000Z",
-      "badgeColor": "slate",
-      "angle": "Expert Insights"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3181881",
+      "title": "General Compute Secures $100 Million Series A, Challenges Nvidia Dominance in Inference Chips",
+      "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-27T13:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Analysis"
     }
   ]
 }
