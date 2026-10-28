@@ -92365,5 +92365,635 @@
     "whyItMatters": "This case raises critical questions about AI's role in healthcare and the responsibilities of AI developers, potentially leading to stricter regulations and ethical guidelines for AI use in sensitive areas.",
     "enrichedAt": "2026-10-28T02:18:48.401Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.35925v1": {
+    "title": "ReCoPII: A Relation-Grounded Framework for Enhancing PII Masking Datasets",
+    "summary": "ReCoPII, a new framework, introduces a relation-grounded approach to build contextual PII masking datasets, improving the accuracy of masking personally identifiable information (PII) in text. This method differentiates between maskable and preservable mentions of entities, addressing privacy restrictions in data processing.",
+    "danishTitle": "ReCoPII: A Relation-Grounded Framework for Enhancing PII Masking Datasets",
+    "danishSummary": "ReCoPII, a new framework, introduces a relation-grounded approach to build contextual PII masking datasets, improving the accuracy of masking personally identifiable information (PII) in text. This method differentiates between maskable and preservable mentions of entities, addressing privacy restrictions in data processing.",
+    "whyItMatters": "By enhancing the precision of PII masking, ReCoPII can significantly improve data privacy and compliance, making it a crucial advancement for AI systems handling sensitive information in various industries.",
+    "enrichedAt": "2026-10-28T05:25:21.640Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.35925": {
+    "title": "ReCoPII: A Relation-Grounded Framework for Enhancing PII Masking Datasets",
+    "summary": "ReCoPII, a new framework, introduces a relation-grounded approach to build contextual PII masking datasets, improving the accuracy of masking personally identifiable information (PII) in text. This method differentiates between maskable and preservable mentions of entities, addressing privacy restrictions in data processing.",
+    "danishTitle": "ReCoPII: A Relation-Grounded Framework for Enhancing PII Masking Datasets",
+    "danishSummary": "ReCoPII, a new framework, introduces a relation-grounded approach to build contextual PII masking datasets, improving the accuracy of masking personally identifiable information (PII) in text. This method differentiates between maskable and preservable mentions of entities, addressing privacy restrictions in data processing.",
+    "whyItMatters": "By enhancing the precision of PII masking, ReCoPII can significantly improve data privacy and compliance, making it a crucial advancement for AI systems handling sensitive information in various industries.",
+    "enrichedAt": "2026-10-28T05:25:21.640Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.36006v1": {
+    "title": "MedJev: Assessing Zero-Shot System-One Decision Models in Medical Applications",
+    "summary": "The paper 'MedJev' evaluates zero-shot System-One decision models, which are designed to provide rapid and computationally efficient clinical decision support by answering structured questions in a single forward pass without generating text. This approach aims to enhance the speed and efficiency of medical decision-making processes.",
+    "danishTitle": "MedJev: Assessing Zero-Shot System-One Decision Models in Medical Applications",
+    "danishSummary": "The paper 'MedJev' evaluates zero-shot System-One decision models, which are designed to provide rapid and computationally efficient clinical decision support by answering structured questions in a single forward pass without generating text. This approach aims to enhance the speed and efficiency of medical decision-making processes.",
+    "whyItMatters": "By streamlining decision-making processes, MedJev's models could significantly improve the responsiveness and accuracy of clinical care, potentially leading to better patient outcomes and more efficient healthcare delivery.",
+    "enrichedAt": "2026-10-28T05:25:32.537Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36006": {
+    "title": "MedJev: Assessing Zero-Shot System-One Decision Models in Medical Applications",
+    "summary": "The paper 'MedJev' evaluates zero-shot System-One decision models, which are designed to provide rapid and computationally efficient clinical decision support by answering structured questions in a single forward pass without generating text. This approach aims to enhance the speed and efficiency of medical decision-making processes.",
+    "danishTitle": "MedJev: Assessing Zero-Shot System-One Decision Models in Medical Applications",
+    "danishSummary": "The paper 'MedJev' evaluates zero-shot System-One decision models, which are designed to provide rapid and computationally efficient clinical decision support by answering structured questions in a single forward pass without generating text. This approach aims to enhance the speed and efficiency of medical decision-making processes.",
+    "whyItMatters": "By streamlining decision-making processes, MedJev's models could significantly improve the responsiveness and accuracy of clinical care, potentially leading to better patient outcomes and more efficient healthcare delivery.",
+    "enrichedAt": "2026-10-28T05:25:32.537Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.36013v1": {
+    "title": "OmniBrain-0: A Unified Model for General-Purpose Embodied Intelligence",
+    "summary": "OmniBrain-0, a new model from arXiv, addresses the need for unified embodied intelligence by enabling robots to handle a wide range of tasks over extended periods, monitor task progress, and recover from failures, moving beyond the limitations of specialized policies.",
+    "danishTitle": "OmniBrain-0: A Unified Model for General-Purpose Embodied Intelligence",
+    "danishSummary": "OmniBrain-0, a new model from arXiv, addresses the need for unified embodied intelligence by enabling robots to handle a wide range of tasks over extended periods, monitor task progress, and recover from failures, moving beyond the limitations of specialized policies.",
+    "whyItMatters": "This unified approach could significantly enhance the versatility and reliability of AI-driven robots, making them more adaptable and efficient in various real-world applications.",
+    "enrichedAt": "2026-10-28T05:25:42.518Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36013": {
+    "title": "OmniBrain-0: A Unified Model for General-Purpose Embodied Intelligence",
+    "summary": "OmniBrain-0, a new model from arXiv, addresses the need for unified embodied intelligence by enabling robots to handle a wide range of tasks over extended periods, monitor task progress, and recover from failures, moving beyond the limitations of specialized policies.",
+    "danishTitle": "OmniBrain-0: A Unified Model for General-Purpose Embodied Intelligence",
+    "danishSummary": "OmniBrain-0, a new model from arXiv, addresses the need for unified embodied intelligence by enabling robots to handle a wide range of tasks over extended periods, monitor task progress, and recover from failures, moving beyond the limitations of specialized policies.",
+    "whyItMatters": "This unified approach could significantly enhance the versatility and reliability of AI-driven robots, making them more adaptable and efficient in various real-world applications.",
+    "enrichedAt": "2026-10-28T05:25:42.518Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.36083v1": {
+    "title": "FinLLM-KG: Knowledge Graph-Enhanced LLMs for Advanced Financial Sentiment Analysis in Algorithmic Trading",
+    "summary": "A new research paper introduces FinLLM-KG, a knowledge graph-enhanced large language model (LLM) specifically designed for financial sentiment analysis. This model aims to improve the accuracy and relevance of financial data analysis in algorithmic trading by leveraging structured knowledge graphs.",
+    "danishTitle": "FinLLM-KG: Knowledge Graph-Enhanced LLMs for Advanced Financial Sentiment Analysis in Algorithmic Trading",
+    "danishSummary": "A new research paper introduces FinLLM-KG, a knowledge graph-enhanced large language model (LLM) specifically designed for financial sentiment analysis. This model aims to improve the accuracy and relevance of financial data analysis in algorithmic trading by leveraging structured knowledge graphs.",
+    "whyItMatters": "By integrating knowledge graphs, FinLLM-KG could significantly enhance the precision of financial sentiment analysis, providing algorithmic traders with more reliable insights and potentially leading to better trading outcomes.",
+    "enrichedAt": "2026-10-28T05:25:53.835Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36083": {
+    "title": "FinLLM-KG: Knowledge Graph-Enhanced LLMs for Advanced Financial Sentiment Analysis in Algorithmic Trading",
+    "summary": "A new research paper introduces FinLLM-KG, a knowledge graph-enhanced large language model (LLM) specifically designed for financial sentiment analysis. This model aims to improve the accuracy and relevance of financial data analysis in algorithmic trading by leveraging structured knowledge graphs.",
+    "danishTitle": "FinLLM-KG: Knowledge Graph-Enhanced LLMs for Advanced Financial Sentiment Analysis in Algorithmic Trading",
+    "danishSummary": "A new research paper introduces FinLLM-KG, a knowledge graph-enhanced large language model (LLM) specifically designed for financial sentiment analysis. This model aims to improve the accuracy and relevance of financial data analysis in algorithmic trading by leveraging structured knowledge graphs.",
+    "whyItMatters": "By integrating knowledge graphs, FinLLM-KG could significantly enhance the precision of financial sentiment analysis, providing algorithmic traders with more reliable insights and potentially leading to better trading outcomes.",
+    "enrichedAt": "2026-10-28T05:25:53.835Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.36178v1": {
+    "title": "Language Models Show Improved Number-Choice Heuristics Through Instruction Tuning",
+    "summary": "A recent study from arXiv measures the probability distributions that language models generate for random number choices, revealing enhanced heuristics in models post-instruction tuning. This research provides insights into how specific instructions can refine models' decision-making processes.",
+    "danishTitle": "Language Models Show Improved Number-Choice Heuristics Through Instruction Tuning",
+    "danishSummary": "A recent study from arXiv measures the probability distributions that language models generate for random number choices, revealing enhanced heuristics in models post-instruction tuning. This research provides insights into how specific instructions can refine models' decision-making processes.",
+    "whyItMatters": "Understanding and optimizing number-choice heuristics in language models can lead to more accurate and reliable AI outputs, benefiting applications ranging from financial analysis to data-driven decision-making processes.",
+    "enrichedAt": "2026-10-28T05:26:04.156Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36178": {
+    "title": "Language Models Show Improved Number-Choice Heuristics Through Instruction Tuning",
+    "summary": "A recent study from arXiv measures the probability distributions that language models generate for random number choices, revealing enhanced heuristics in models post-instruction tuning. This research provides insights into how specific instructions can refine models' decision-making processes.",
+    "danishTitle": "Language Models Show Improved Number-Choice Heuristics Through Instruction Tuning",
+    "danishSummary": "A recent study from arXiv measures the probability distributions that language models generate for random number choices, revealing enhanced heuristics in models post-instruction tuning. This research provides insights into how specific instructions can refine models' decision-making processes.",
+    "whyItMatters": "Understanding and optimizing number-choice heuristics in language models can lead to more accurate and reliable AI outputs, benefiting applications ranging from financial analysis to data-driven decision-making processes.",
+    "enrichedAt": "2026-10-28T05:26:04.156Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.36184v1": {
+    "title": "Lipi-Ghor: A Comprehensive Bengali Speech Corpus and Pipeline for Large-Scale Diarization",
+    "summary": "Lipi-Ghor, a new large-scale Bengali speech corpus, addresses the under-resourced status of spoken Bengali in language research. The corpus, along with its scalable diarization pipeline, provides a rich dataset for developing and testing Bengali speech recognition and analysis systems.",
+    "danishTitle": "Lipi-Ghor: A Comprehensive Bengali Speech Corpus and Pipeline for Large-Scale Diarization",
+    "danishSummary": "Lipi-Ghor, a new large-scale Bengali speech corpus, addresses the under-resourced status of spoken Bengali in language research. The corpus, along with its scalable diarization pipeline, provides a rich dataset for developing and testing Bengali speech recognition and analysis systems.",
+    "whyItMatters": "By offering a robust and diverse dataset, Lipi-Ghor significantly enhances the capabilities of researchers and developers working on Bengali language technologies, potentially leading to more accurate and inclusive AI systems.",
+    "enrichedAt": "2026-10-28T05:26:15.757Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36184": {
+    "title": "Lipi-Ghor: A Comprehensive Bengali Speech Corpus and Pipeline for Large-Scale Diarization",
+    "summary": "Lipi-Ghor, a new large-scale Bengali speech corpus, addresses the under-resourced status of spoken Bengali in language research. The corpus, along with its scalable diarization pipeline, provides a rich dataset for developing and testing Bengali speech recognition and analysis systems.",
+    "danishTitle": "Lipi-Ghor: A Comprehensive Bengali Speech Corpus and Pipeline for Large-Scale Diarization",
+    "danishSummary": "Lipi-Ghor, a new large-scale Bengali speech corpus, addresses the under-resourced status of spoken Bengali in language research. The corpus, along with its scalable diarization pipeline, provides a rich dataset for developing and testing Bengali speech recognition and analysis systems.",
+    "whyItMatters": "By offering a robust and diverse dataset, Lipi-Ghor significantly enhances the capabilities of researchers and developers working on Bengali language technologies, potentially leading to more accurate and inclusive AI systems.",
+    "enrichedAt": "2026-10-28T05:26:15.757Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.36187v1": {
+    "title": "Congressional Views on Election Integrity Diverge in New Analysis",
+    "summary": "A new study published on arXiv analyzes 10,420 congressional e-newsletters to reveal divergent interpretations of election integrity between Democrats and Republicans, highlighting the growing political divide on the issue.",
+    "danishTitle": "Congressional Views on Election Integrity Diverge in New Analysis",
+    "danishSummary": "A new study published on arXiv analyzes 10,420 congressional e-newsletters to reveal divergent interpretations of election integrity between Democrats and Republicans, highlighting the growing political divide on the issue.",
+    "whyItMatters": "Understanding these divergent views is crucial for policymakers and the public to navigate the complex landscape of election integrity in the United States.",
+    "enrichedAt": "2026-10-28T05:26:24.542Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36187": {
+    "title": "Congressional Views on Election Integrity Diverge in New Analysis",
+    "summary": "A new study published on arXiv analyzes 10,420 congressional e-newsletters to reveal divergent interpretations of election integrity between Democrats and Republicans, highlighting the growing political divide on the issue.",
+    "danishTitle": "Congressional Views on Election Integrity Diverge in New Analysis",
+    "danishSummary": "A new study published on arXiv analyzes 10,420 congressional e-newsletters to reveal divergent interpretations of election integrity between Democrats and Republicans, highlighting the growing political divide on the issue.",
+    "whyItMatters": "Understanding these divergent views is crucial for policymakers and the public to navigate the complex landscape of election integrity in the United States.",
+    "enrichedAt": "2026-10-28T05:26:24.542Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.36191v1": {
+    "title": "New Method for LLM Hallucination Detection via Low-rank Multilinear Decomposition",
+    "summary": "A recent study proposes a novel approach using low-rank multilinear decomposition to detect hallucinations in large language models (LLMs), addressing the issue of factually incorrect responses. This method aims to enhance the reliability and trustworthiness of LLMs in various applications.",
+    "danishTitle": "New Method for LLM Hallucination Detection via Low-rank Multilinear Decomposition",
+    "danishSummary": "A recent study proposes a novel approach using low-rank multilinear decomposition to detect hallucinations in large language models (LLMs), addressing the issue of factually incorrect responses. This method aims to enhance the reliability and trustworthiness of LLMs in various applications.",
+    "whyItMatters": "Improving hallucination detection mechanisms is crucial for ensuring the accuracy and reliability of LLMs, which are increasingly integrated into critical applications such as legal, medical, and financial services.",
+    "enrichedAt": "2026-10-28T05:26:35.439Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36191": {
+    "title": "New Method for LLM Hallucination Detection via Low-rank Multilinear Decomposition",
+    "summary": "A recent study proposes a novel approach using low-rank multilinear decomposition to detect hallucinations in large language models (LLMs), addressing the issue of factually incorrect responses. This method aims to enhance the reliability and trustworthiness of LLMs in various applications.",
+    "danishTitle": "New Method for LLM Hallucination Detection via Low-rank Multilinear Decomposition",
+    "danishSummary": "A recent study proposes a novel approach using low-rank multilinear decomposition to detect hallucinations in large language models (LLMs), addressing the issue of factually incorrect responses. This method aims to enhance the reliability and trustworthiness of LLMs in various applications.",
+    "whyItMatters": "Improving hallucination detection mechanisms is crucial for ensuring the accuracy and reliability of LLMs, which are increasingly integrated into critical applications such as legal, medical, and financial services.",
+    "enrichedAt": "2026-10-28T05:26:35.439Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.36230v1": {
+    "title": "Beyond IceBERT: Open-Data ModernBERT Encoders for Icelandic Expand Model Scalability",
+    "summary": "A new study proposes IceBERT, an encoder for Icelandic language, which can be trained on a cleaned web crawl and scales from 12 million to 1 billion parameters. This advancement highlights the potential for developing robust language models for smaller languages using open data resources.",
+    "danishTitle": "Beyond IceBERT: Open-Data ModernBERT Encoders for Icelandic Expand Model Scalability",
+    "danishSummary": "A new study proposes IceBERT, an encoder for Icelandic language, which can be trained on a cleaned web crawl and scales from 12 million to 1 billion parameters. This advancement highlights the potential for developing robust language models for smaller languages using open data resources.",
+    "whyItMatters": "This research opens up opportunities for creating more comprehensive and accurate language models for lesser-used languages, enhancing linguistic diversity in AI applications.",
+    "enrichedAt": "2026-10-28T05:26:45.430Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36230": {
+    "title": "Beyond IceBERT: Open-Data ModernBERT Encoders for Icelandic Expand Model Scalability",
+    "summary": "A new study proposes IceBERT, an encoder for Icelandic language, which can be trained on a cleaned web crawl and scales from 12 million to 1 billion parameters. This advancement highlights the potential for developing robust language models for smaller languages using open data resources.",
+    "danishTitle": "Beyond IceBERT: Open-Data ModernBERT Encoders for Icelandic Expand Model Scalability",
+    "danishSummary": "A new study proposes IceBERT, an encoder for Icelandic language, which can be trained on a cleaned web crawl and scales from 12 million to 1 billion parameters. This advancement highlights the potential for developing robust language models for smaller languages using open data resources.",
+    "whyItMatters": "This research opens up opportunities for creating more comprehensive and accurate language models for lesser-used languages, enhancing linguistic diversity in AI applications.",
+    "enrichedAt": "2026-10-28T05:26:45.430Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.36353v1": {
+    "title": "New Method Enables LLMs to Detect Ambiguity Before Disambiguating Inputs",
+    "summary": "Researchers have developed a perturbation-based approach for detecting input ambiguity in large language models (LLMs) before they attempt to resolve it, addressing a critical issue where LLMs often interpret ambiguous inputs as having a single meaning. This method enhances the accuracy and reliability of LLMs by identifying and handling multiple potential interpretations early in the processing pipeline.",
+    "danishTitle": "New Method Enables LLMs to Detect Ambiguity Before Disambiguating Inputs",
+    "danishSummary": "Researchers have developed a perturbation-based approach for detecting input ambiguity in large language models (LLMs) before they attempt to resolve it, addressing a critical issue where LLMs often interpret ambiguous inputs as having a single meaning. This method enhances the accuracy and reliability of LLMs by identifying and handling multiple potential interpretations early in the processing pipeline.",
+    "whyItMatters": "By enabling LLMs to detect and manage ambiguity more effectively, this technique improves the overall quality and trustworthiness of LLM outputs, which is crucial for applications requiring high precision and robustness.",
+    "enrichedAt": "2026-10-28T05:26:57.791Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36353": {
+    "title": "New Method Enables LLMs to Detect Ambiguity Before Disambiguating Inputs",
+    "summary": "Researchers have developed a perturbation-based approach for detecting input ambiguity in large language models (LLMs) before they attempt to resolve it, addressing a critical issue where LLMs often interpret ambiguous inputs as having a single meaning. This method enhances the accuracy and reliability of LLMs by identifying and handling multiple potential interpretations early in the processing pipeline.",
+    "danishTitle": "New Method Enables LLMs to Detect Ambiguity Before Disambiguating Inputs",
+    "danishSummary": "Researchers have developed a perturbation-based approach for detecting input ambiguity in large language models (LLMs) before they attempt to resolve it, addressing a critical issue where LLMs often interpret ambiguous inputs as having a single meaning. This method enhances the accuracy and reliability of LLMs by identifying and handling multiple potential interpretations early in the processing pipeline.",
+    "whyItMatters": "By enabling LLMs to detect and manage ambiguity more effectively, this technique improves the overall quality and trustworthiness of LLM outputs, which is crucial for applications requiring high precision and robustness.",
+    "enrichedAt": "2026-10-28T05:26:57.791Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.36360v1": {
+    "title": "AK_QMUL Submits Fine-Tuned JAIS Model for Arabic Harmful-Prompt Detection in ArGuard-2026 Shared Tasks",
+    "summary": "The AK_QMUL team has submitted a single fine-tuned JAIS model to the ArGuard-2026 shared tasks, addressing both binary safe/unsafe and seven-way harm-domain detection tasks for Arabic. The submissions aim to enhance the detection of harmful prompts in Arabic content.",
+    "danishTitle": "AK_QMUL Submits Fine-Tuned JAIS Model for Arabic Harmful-Prompt Detection in ArGuard-2026 Shared Tasks",
+    "danishSummary": "The AK_QMUL team has submitted a single fine-tuned JAIS model to the ArGuard-2026 shared tasks, addressing both binary safe/unsafe and seven-way harm-domain detection tasks for Arabic. The submissions aim to enhance the detection of harmful prompts in Arabic content.",
+    "whyItMatters": "Improving harmful-prompt detection in Arabic content is crucial for maintaining online safety and fostering a secure digital environment, particularly in regions where Arabic is widely spoken.",
+    "enrichedAt": "2026-10-28T05:27:09.745Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36360": {
+    "title": "AK_QMUL Submits Fine-Tuned JAIS Model for Arabic Harmful-Prompt Detection in ArGuard-2026 Shared Tasks",
+    "summary": "The AK_QMUL team has submitted a single fine-tuned JAIS model to the ArGuard-2026 shared tasks, addressing both binary safe/unsafe and seven-way harm-domain detection tasks for Arabic. The submissions aim to enhance the detection of harmful prompts in Arabic content.",
+    "danishTitle": "AK_QMUL Submits Fine-Tuned JAIS Model for Arabic Harmful-Prompt Detection in ArGuard-2026 Shared Tasks",
+    "danishSummary": "The AK_QMUL team has submitted a single fine-tuned JAIS model to the ArGuard-2026 shared tasks, addressing both binary safe/unsafe and seven-way harm-domain detection tasks for Arabic. The submissions aim to enhance the detection of harmful prompts in Arabic content.",
+    "whyItMatters": "Improving harmful-prompt detection in Arabic content is crucial for maintaining online safety and fostering a secure digital environment, particularly in regions where Arabic is widely spoken.",
+    "enrichedAt": "2026-10-28T05:27:09.745Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.36432v1": {
+    "title": "Homoglyph and Invisible-Character Watermarks: A New Approach to Cross-Lingual Fairness in Text",
+    "summary": "A recent study published on arXiv proposes a novel method for embedding watermarks using homoglyphs and invisible characters, which can be used to ensure cross-lingual fairness in text generation models without altering the model’s text generation process. This approach aims to maintain the integrity of text while adding a hidden signal.",
+    "danishTitle": "Homoglyph and Invisible-Character Watermarks: A New Approach to Cross-Lingual Fairness in Text",
+    "danishSummary": "A recent study published on arXiv proposes a novel method for embedding watermarks using homoglyphs and invisible characters, which can be used to ensure cross-lingual fairness in text generation models without altering the model’s text generation process. This approach aims to maintain the integrity of text while adding a hidden signal.",
+    "whyItMatters": "By avoiding the need for a tokenizer, this method could significantly enhance the deployment of fair and transparent text generation models across multiple languages, addressing a critical gap in current watermarking techniques.",
+    "enrichedAt": "2026-10-28T05:27:22.005Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36432": {
+    "title": "Homoglyph and Invisible-Character Watermarks: A New Approach to Cross-Lingual Fairness in Text",
+    "summary": "A recent study published on arXiv proposes a novel method for embedding watermarks using homoglyphs and invisible characters, which can be used to ensure cross-lingual fairness in text generation models without altering the model’s text generation process. This approach aims to maintain the integrity of text while adding a hidden signal.",
+    "danishTitle": "Homoglyph and Invisible-Character Watermarks: A New Approach to Cross-Lingual Fairness in Text",
+    "danishSummary": "A recent study published on arXiv proposes a novel method for embedding watermarks using homoglyphs and invisible characters, which can be used to ensure cross-lingual fairness in text generation models without altering the model’s text generation process. This approach aims to maintain the integrity of text while adding a hidden signal.",
+    "whyItMatters": "By avoiding the need for a tokenizer, this method could significantly enhance the deployment of fair and transparent text generation models across multiple languages, addressing a critical gap in current watermarking techniques.",
+    "enrichedAt": "2026-10-28T05:27:22.005Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.36437v1": {
+    "title": "CONCUR Framework Introduced for Enhanced Multi-Task Reinforcement Learning in Large Language Models",
+    "summary": "The CONCUR framework, recently introduced in a paper on arXiv, proposes a method for training Large Language Models (LLMs) using Reinforcement Learning (RL) to handle multiple tasks and rewards concurrently, ensuring that primary tasks do not overshadow auxiliary objectives like output length.",
+    "danishTitle": "CONCUR Framework Introduced for Enhanced Multi-Task Reinforcement Learning in Large Language Models",
+    "danishSummary": "The CONCUR framework, recently introduced in a paper on arXiv, proposes a method for training Large Language Models (LLMs) using Reinforcement Learning (RL) to handle multiple tasks and rewards concurrently, ensuring that primary tasks do not overshadow auxiliary objectives like output length.",
+    "whyItMatters": "By effectively managing multiple rewards, CONCUR could significantly improve the performance and versatility of LLMs in complex, multi-objective scenarios, advancing the state of AI in various applications.",
+    "enrichedAt": "2026-10-28T05:27:32.906Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36437": {
+    "title": "CONCUR Framework Introduced for Enhanced Multi-Task Reinforcement Learning in Large Language Models",
+    "summary": "The CONCUR framework, recently introduced in a paper on arXiv, proposes a method for training Large Language Models (LLMs) using Reinforcement Learning (RL) to handle multiple tasks and rewards concurrently, ensuring that primary tasks do not overshadow auxiliary objectives like output length.",
+    "danishTitle": "CONCUR Framework Introduced for Enhanced Multi-Task Reinforcement Learning in Large Language Models",
+    "danishSummary": "The CONCUR framework, recently introduced in a paper on arXiv, proposes a method for training Large Language Models (LLMs) using Reinforcement Learning (RL) to handle multiple tasks and rewards concurrently, ensuring that primary tasks do not overshadow auxiliary objectives like output length.",
+    "whyItMatters": "By effectively managing multiple rewards, CONCUR could significantly improve the performance and versatility of LLMs in complex, multi-objective scenarios, advancing the state of AI in various applications.",
+    "enrichedAt": "2026-10-28T05:27:32.906Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.36511v1": {
+    "title": "AI Scientists Tackle Novelty Determination Challenge in Discovery Pipelines",
+    "summary": "A recent arXiv paper explores the critical challenge of determining when an AI-generated idea is meaningfully novel within scientific discovery pipelines. The research aims to develop robust methods for novelty checks to enhance the efficiency and reliability of AI-driven innovation.",
+    "danishTitle": "AI Scientists Tackle Novelty Determination Challenge in Discovery Pipelines",
+    "danishSummary": "A recent arXiv paper explores the critical challenge of determining when an AI-generated idea is meaningfully novel within scientific discovery pipelines. The research aims to develop robust methods for novelty checks to enhance the efficiency and reliability of AI-driven innovation.",
+    "whyItMatters": "Improving the ability to identify meaningful novelty in AI-generated ideas could significantly boost the productivity and impact of AI in scientific research and development.",
+    "enrichedAt": "2026-10-28T05:27:42.361Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36511": {
+    "title": "AI Scientists Tackle Novelty Determination Challenge in Discovery Pipelines",
+    "summary": "A recent arXiv paper explores the critical challenge of determining when an AI-generated idea is meaningfully novel within scientific discovery pipelines. The research aims to develop robust methods for novelty checks to enhance the efficiency and reliability of AI-driven innovation.",
+    "danishTitle": "AI Scientists Tackle Novelty Determination Challenge in Discovery Pipelines",
+    "danishSummary": "A recent arXiv paper explores the critical challenge of determining when an AI-generated idea is meaningfully novel within scientific discovery pipelines. The research aims to develop robust methods for novelty checks to enhance the efficiency and reliability of AI-driven innovation.",
+    "whyItMatters": "Improving the ability to identify meaningful novelty in AI-generated ideas could significantly boost the productivity and impact of AI in scientific research and development.",
+    "enrichedAt": "2026-10-28T05:27:42.361Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2610.36523v1": {
+    "title": "New Research Explores Agent Handoffs in Collaborative Tasks",
+    "summary": "A recent study published on arXiv investigates the challenges and performance of task takeover across agent handoffs, highlighting the need for models to seamlessly integrate and build upon previous decisions and actions during collaborative workflows.",
+    "danishTitle": "New Research Explores Agent Handoffs in Collaborative Tasks",
+    "danishSummary": "A recent study published on arXiv investigates the challenges and performance of task takeover across agent handoffs, highlighting the need for models to seamlessly integrate and build upon previous decisions and actions during collaborative workflows.",
+    "whyItMatters": "Understanding and optimizing agent handoffs could significantly improve the efficiency and reliability of multi-agent systems in various applications, from autonomous vehicles to complex software development projects.",
+    "enrichedAt": "2026-10-28T05:27:51.359Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36523": {
+    "title": "New Research Explores Agent Handoffs in Collaborative Tasks",
+    "summary": "A recent study published on arXiv investigates the challenges and performance of task takeover across agent handoffs, highlighting the need for models to seamlessly integrate and build upon previous decisions and actions during collaborative workflows.",
+    "danishTitle": "New Research Explores Agent Handoffs in Collaborative Tasks",
+    "danishSummary": "A recent study published on arXiv investigates the challenges and performance of task takeover across agent handoffs, highlighting the need for models to seamlessly integrate and build upon previous decisions and actions during collaborative workflows.",
+    "whyItMatters": "Understanding and optimizing agent handoffs could significantly improve the efficiency and reliability of multi-agent systems in various applications, from autonomous vehicles to complex software development projects.",
+    "enrichedAt": "2026-10-28T05:27:51.359Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.35942v1": {
+    "title": "Measuring AI Time Savings: A Philosophical Exploration of Stopwatch vs. Ledger Approaches",
+    "summary": "The article discusses the methodologies for quantifying the time saved by AI assistance, contrasting the straightforward stopwatch approach with the more complex ledger approach, which considers counterfactual scenarios. This exploration aims to provide a deeper understanding of how AI impacts productivity.",
+    "danishTitle": "Measuring AI Time Savings: A Philosophical Exploration of Stopwatch vs. Ledger Approaches",
+    "danishSummary": "The article discusses the methodologies for quantifying the time saved by AI assistance, contrasting the straightforward stopwatch approach with the more complex ledger approach, which considers counterfactual scenarios. This exploration aims to provide a deeper understanding of how AI impacts productivity.",
+    "whyItMatters": "Understanding these different measurement techniques is crucial for accurately assessing the value and efficiency of AI in various applications, guiding better adoption and integration strategies.",
+    "enrichedAt": "2026-10-28T05:28:01.158Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.35942": {
+    "title": "Measuring AI Time Savings: A Philosophical Exploration of Stopwatch vs. Ledger Approaches",
+    "summary": "The article discusses the methodologies for quantifying the time saved by AI assistance, contrasting the straightforward stopwatch approach with the more complex ledger approach, which considers counterfactual scenarios. This exploration aims to provide a deeper understanding of how AI impacts productivity.",
+    "danishTitle": "Measuring AI Time Savings: A Philosophical Exploration of Stopwatch vs. Ledger Approaches",
+    "danishSummary": "The article discusses the methodologies for quantifying the time saved by AI assistance, contrasting the straightforward stopwatch approach with the more complex ledger approach, which considers counterfactual scenarios. This exploration aims to provide a deeper understanding of how AI impacts productivity.",
+    "whyItMatters": "Understanding these different measurement techniques is crucial for accurately assessing the value and efficiency of AI in various applications, guiding better adoption and integration strategies.",
+    "enrichedAt": "2026-10-28T05:28:01.158Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.35984v1": {
+    "title": "New Strategies for Enhancing Deep Learning Model Performance in Olive Tree Disease Classification",
+    "summary": "A recent study published on arXiv proposes innovative data generation strategies to improve the performance of deep learning models in diagnosing olive tree diseases. This research addresses common limitations such as insufficient data, thereby enhancing the accuracy and reliability of plant disease diagnosis systems.",
+    "danishTitle": "New Strategies for Enhancing Deep Learning Model Performance in Olive Tree Disease Classification",
+    "danishSummary": "A recent study published on arXiv proposes innovative data generation strategies to improve the performance of deep learning models in diagnosing olive tree diseases. This research addresses common limitations such as insufficient data, thereby enhancing the accuracy and reliability of plant disease diagnosis systems.",
+    "whyItMatters": "By overcoming data scarcity issues, these strategies can significantly boost the effectiveness of AI-driven diagnostic tools, which is crucial for agricultural productivity and sustainability.",
+    "enrichedAt": "2026-10-28T05:28:10.970Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.35984": {
+    "title": "New Strategies for Enhancing Deep Learning Model Performance in Olive Tree Disease Classification",
+    "summary": "A recent study published on arXiv proposes innovative data generation strategies to improve the performance of deep learning models in diagnosing olive tree diseases. This research addresses common limitations such as insufficient data, thereby enhancing the accuracy and reliability of plant disease diagnosis systems.",
+    "danishTitle": "New Strategies for Enhancing Deep Learning Model Performance in Olive Tree Disease Classification",
+    "danishSummary": "A recent study published on arXiv proposes innovative data generation strategies to improve the performance of deep learning models in diagnosing olive tree diseases. This research addresses common limitations such as insufficient data, thereby enhancing the accuracy and reliability of plant disease diagnosis systems.",
+    "whyItMatters": "By overcoming data scarcity issues, these strategies can significantly boost the effectiveness of AI-driven diagnostic tools, which is crucial for agricultural productivity and sustainability.",
+    "enrichedAt": "2026-10-28T05:28:10.970Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.36077v1": {
+    "title": "The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+    "summary": "A new research paper titled 'The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents' proposes a framework for enhancing multimodal intelligence through recursive self-improvement, guided by human interaction. This approach aims to address the challenges of scaling multimodal learning by focusing on the co-evolution of agents and their environments.",
+    "danishTitle": "The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+    "danishSummary": "A new research paper titled 'The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents' proposes a framework for enhancing multimodal intelligence through recursive self-improvement, guided by human interaction. This approach aims to address the challenges of scaling multimodal learning by focusing on the co-evolution of agents and their environments.",
+    "whyItMatters": "This research could significantly advance the field of multimodal AI by providing a scalable solution for self-improvement, potentially leading to more versatile and adaptable AI systems in various applications.",
+    "enrichedAt": "2026-10-28T05:28:22.769Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36077": {
+    "title": "The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+    "summary": "A new research paper titled 'The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents' proposes a framework for enhancing multimodal intelligence through recursive self-improvement, guided by human interaction. This approach aims to address the challenges of scaling multimodal learning by focusing on the co-evolution of agents and their environments.",
+    "danishTitle": "The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+    "danishSummary": "A new research paper titled 'The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents' proposes a framework for enhancing multimodal intelligence through recursive self-improvement, guided by human interaction. This approach aims to address the challenges of scaling multimodal learning by focusing on the co-evolution of agents and their environments.",
+    "whyItMatters": "This research could significantly advance the field of multimodal AI by providing a scalable solution for self-improvement, potentially leading to more versatile and adaptable AI systems in various applications.",
+    "enrichedAt": "2026-10-28T05:28:22.769Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.36100v1": {
+    "title": "CohortFlow: A Steerable Agent for Clinical Cohort Curation with Localized Semantic Correction",
+    "summary": "CohortFlow is a language model agent designed to curate clinical cohorts by dynamically adjusting to evolving eligibility criteria, minimizing redundant processing of unchanged requirements. This tool enhances the efficiency and adaptability of clinical research data curation.",
+    "danishTitle": "CohortFlow: A Steerable Agent for Clinical Cohort Curation with Localized Semantic Correction",
+    "danishSummary": "CohortFlow is a language model agent designed to curate clinical cohorts by dynamically adjusting to evolving eligibility criteria, minimizing redundant processing of unchanged requirements. This tool enhances the efficiency and adaptability of clinical research data curation.",
+    "whyItMatters": "By streamlining the curation process, CohortFlow can significantly reduce the time and resources needed for clinical research, accelerating the development of new treatments and therapies.",
+    "enrichedAt": "2026-10-28T05:28:32.926Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36100": {
+    "title": "CohortFlow: A Steerable Agent for Clinical Cohort Curation with Localized Semantic Correction",
+    "summary": "CohortFlow is a language model agent designed to curate clinical cohorts by dynamically adjusting to evolving eligibility criteria, minimizing redundant processing of unchanged requirements. This tool enhances the efficiency and adaptability of clinical research data curation.",
+    "danishTitle": "CohortFlow: A Steerable Agent for Clinical Cohort Curation with Localized Semantic Correction",
+    "danishSummary": "CohortFlow is a language model agent designed to curate clinical cohorts by dynamically adjusting to evolving eligibility criteria, minimizing redundant processing of unchanged requirements. This tool enhances the efficiency and adaptability of clinical research data curation.",
+    "whyItMatters": "By streamlining the curation process, CohortFlow can significantly reduce the time and resources needed for clinical research, accelerating the development of new treatments and therapies.",
+    "enrichedAt": "2026-10-28T05:28:32.926Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.36116v1": {
+    "title": "Framework Proposes Human Oversight in AI-Driven Scientific Research",
+    "summary": "A new framework suggests that humans should continue engaging in scientific research even as AI capabilities improve, focusing on tasks that require human understanding and direction. The framework aims to integrate AI tools effectively while preserving the unique value of human insight.",
+    "danishTitle": "Framework Proposes Human Oversight in AI-Driven Scientific Research",
+    "danishSummary": "A new framework suggests that humans should continue engaging in scientific research even as AI capabilities improve, focusing on tasks that require human understanding and direction. The framework aims to integrate AI tools effectively while preserving the unique value of human insight.",
+    "whyItMatters": "By emphasizing human oversight and strategic use of AI, the framework could enhance the quality and innovation in scientific research, ensuring that AI complements rather than replaces human expertise.",
+    "enrichedAt": "2026-10-28T05:28:42.709Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36116": {
+    "title": "Framework Proposes Human Oversight in AI-Driven Scientific Research",
+    "summary": "A new framework suggests that humans should continue engaging in scientific research even as AI capabilities improve, focusing on tasks that require human understanding and direction. The framework aims to integrate AI tools effectively while preserving the unique value of human insight.",
+    "danishTitle": "Framework Proposes Human Oversight in AI-Driven Scientific Research",
+    "danishSummary": "A new framework suggests that humans should continue engaging in scientific research even as AI capabilities improve, focusing on tasks that require human understanding and direction. The framework aims to integrate AI tools effectively while preserving the unique value of human insight.",
+    "whyItMatters": "By emphasizing human oversight and strategic use of AI, the framework could enhance the quality and innovation in scientific research, ensuring that AI complements rather than replaces human expertise.",
+    "enrichedAt": "2026-10-28T05:28:42.709Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.36146v1": {
+    "title": "New AI Model Enhances Text-to-Image Prompt Editing to Preserve Scene Integrity",
+    "summary": "Researchers have developed a novel model for optimizing text-to-image prompts that ensures visual fidelity while allowing for stylistic adjustments. This advancement aims to maintain the requested scene's attributes and relationships, thereby improving the accuracy and reliability of generated images.",
+    "danishTitle": "New AI Model Enhances Text-to-Image Prompt Editing to Preserve Scene Integrity",
+    "danishSummary": "Researchers have developed a novel model for optimizing text-to-image prompts that ensures visual fidelity while allowing for stylistic adjustments. This advancement aims to maintain the requested scene's attributes and relationships, thereby improving the accuracy and reliability of generated images.",
+    "whyItMatters": "This innovation could significantly enhance the precision and user experience in applications like content creation and virtual reality, where maintaining the integrity of the original scene is crucial.",
+    "enrichedAt": "2026-10-28T05:28:52.406Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36146": {
+    "title": "New AI Model Enhances Text-to-Image Prompt Editing to Preserve Scene Integrity",
+    "summary": "Researchers have developed a novel model for optimizing text-to-image prompts that ensures visual fidelity while allowing for stylistic adjustments. This advancement aims to maintain the requested scene's attributes and relationships, thereby improving the accuracy and reliability of generated images.",
+    "danishTitle": "New AI Model Enhances Text-to-Image Prompt Editing to Preserve Scene Integrity",
+    "danishSummary": "Researchers have developed a novel model for optimizing text-to-image prompts that ensures visual fidelity while allowing for stylistic adjustments. This advancement aims to maintain the requested scene's attributes and relationships, thereby improving the accuracy and reliability of generated images.",
+    "whyItMatters": "This innovation could significantly enhance the precision and user experience in applications like content creation and virtual reality, where maintaining the integrity of the original scene is crucial.",
+    "enrichedAt": "2026-10-28T05:28:52.406Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.36169v1": {
+    "title": "New Model Addresses Knowledge Conflicts by Leveraging Retrieval-Augmented Context",
+    "summary": "A recent arXiv publication introduces a retrieval-augmented language model that resolves knowledge conflicts by integrating information from multiple sources, enhancing accuracy when context is incomplete or incorrect. This approach aims to improve the reliability of AI systems in complex scenarios.",
+    "danishTitle": "New Model Addresses Knowledge Conflicts by Leveraging Retrieval-Augmented Context",
+    "danishSummary": "A recent arXiv publication introduces a retrieval-augmented language model that resolves knowledge conflicts by integrating information from multiple sources, enhancing accuracy when context is incomplete or incorrect. This approach aims to improve the reliability of AI systems in complex scenarios.",
+    "whyItMatters": "By mitigating knowledge conflicts, this model could significantly enhance the robustness and trustworthiness of AI applications across various industries, from healthcare to finance.",
+    "enrichedAt": "2026-10-28T05:29:02.269Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36169": {
+    "title": "New Model Addresses Knowledge Conflicts by Leveraging Retrieval-Augmented Context",
+    "summary": "A recent arXiv publication introduces a retrieval-augmented language model that resolves knowledge conflicts by integrating information from multiple sources, enhancing accuracy when context is incomplete or incorrect. This approach aims to improve the reliability of AI systems in complex scenarios.",
+    "danishTitle": "New Model Addresses Knowledge Conflicts by Leveraging Retrieval-Augmented Context",
+    "danishSummary": "A recent arXiv publication introduces a retrieval-augmented language model that resolves knowledge conflicts by integrating information from multiple sources, enhancing accuracy when context is incomplete or incorrect. This approach aims to improve the reliability of AI systems in complex scenarios.",
+    "whyItMatters": "By mitigating knowledge conflicts, this model could significantly enhance the robustness and trustworthiness of AI applications across various industries, from healthcare to finance.",
+    "enrichedAt": "2026-10-28T05:29:02.269Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.36183v1": {
+    "title": "New Study Uses Quantile Regression to Estimate Time-to-Arrival in Sports",
+    "summary": "Researchers have developed a method using quantile regression to estimate the time-to-arrival (TTA) for athletes in various locations on a sports field, based on their current kinematic state. This approach aims to provide a more accurate prediction of a player's movement feasibility.",
+    "danishTitle": "New Study Uses Quantile Regression to Estimate Time-to-Arrival in Sports",
+    "danishSummary": "Researchers have developed a method using quantile regression to estimate the time-to-arrival (TTA) for athletes in various locations on a sports field, based on their current kinematic state. This approach aims to provide a more accurate prediction of a player's movement feasibility.",
+    "whyItMatters": "Improving the accuracy of TTA predictions could enhance training and game strategy analysis, offering significant benefits to coaches, players, and sports analytics teams.",
+    "enrichedAt": "2026-10-28T05:29:12.532Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36183": {
+    "title": "New Study Uses Quantile Regression to Estimate Time-to-Arrival in Sports",
+    "summary": "Researchers have developed a method using quantile regression to estimate the time-to-arrival (TTA) for athletes in various locations on a sports field, based on their current kinematic state. This approach aims to provide a more accurate prediction of a player's movement feasibility.",
+    "danishTitle": "New Study Uses Quantile Regression to Estimate Time-to-Arrival in Sports",
+    "danishSummary": "Researchers have developed a method using quantile regression to estimate the time-to-arrival (TTA) for athletes in various locations on a sports field, based on their current kinematic state. This approach aims to provide a more accurate prediction of a player's movement feasibility.",
+    "whyItMatters": "Improving the accuracy of TTA predictions could enhance training and game strategy analysis, offering significant benefits to coaches, players, and sports analytics teams.",
+    "enrichedAt": "2026-10-28T05:29:12.532Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.36188v1": {
+    "title": "Evolving Repository Skills through Pull Request Streams: A New Approach in Software Engineering",
+    "summary": "A recent study proposes a novel method for enhancing repository skills in software engineering through the use of pull request streams, emphasizing the integration of reusable skills managed by large language model (LLM) agents. This approach aims to improve the efficiency and quality of software development processes.",
+    "danishTitle": "Evolving Repository Skills through Pull Request Streams: A New Approach in Software Engineering",
+    "danishSummary": "A recent study proposes a novel method for enhancing repository skills in software engineering through the use of pull request streams, emphasizing the integration of reusable skills managed by large language model (LLM) agents. This approach aims to improve the efficiency and quality of software development processes.",
+    "whyItMatters": "By streamlining the development and maintenance of repository skills, this method could significantly boost productivity and innovation in the software engineering community, driving advancements in both industry and academia.",
+    "enrichedAt": "2026-10-28T05:29:23.078Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36188": {
+    "title": "Evolving Repository Skills through Pull Request Streams: A New Approach in Software Engineering",
+    "summary": "A recent study proposes a novel method for enhancing repository skills in software engineering through the use of pull request streams, emphasizing the integration of reusable skills managed by large language model (LLM) agents. This approach aims to improve the efficiency and quality of software development processes.",
+    "danishTitle": "Evolving Repository Skills through Pull Request Streams: A New Approach in Software Engineering",
+    "danishSummary": "A recent study proposes a novel method for enhancing repository skills in software engineering through the use of pull request streams, emphasizing the integration of reusable skills managed by large language model (LLM) agents. This approach aims to improve the efficiency and quality of software development processes.",
+    "whyItMatters": "By streamlining the development and maintenance of repository skills, this method could significantly boost productivity and innovation in the software engineering community, driving advancements in both industry and academia.",
+    "enrichedAt": "2026-10-28T05:29:23.078Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.36234v1": {
+    "title": "MARQ: A New LLM-Agnostic Requirement Quality Assessor for Systems Engineering",
+    "summary": "MARQ, a modular and LLM-agnostic requirement quality assessor, has been introduced to enhance systems engineering by infusing it with knowledge from large language models. The tool aims to improve the accuracy and reliability of requirements engineering, which is crucial for the overall success of software development projects.",
+    "danishTitle": "MARQ: A New LLM-Agnostic Requirement Quality Assessor for Systems Engineering",
+    "danishSummary": "MARQ, a modular and LLM-agnostic requirement quality assessor, has been introduced to enhance systems engineering by infusing it with knowledge from large language models. The tool aims to improve the accuracy and reliability of requirements engineering, which is crucial for the overall success of software development projects.",
+    "whyItMatters": "By addressing requirement defects early in the development process, MARQ can significantly reduce downstream issues, making it a valuable asset for both developers and enterprises in ensuring high-quality software systems.",
+    "enrichedAt": "2026-10-28T05:29:34.287Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36234": {
+    "title": "MARQ: A New LLM-Agnostic Requirement Quality Assessor for Systems Engineering",
+    "summary": "MARQ, a modular and LLM-agnostic requirement quality assessor, has been introduced to enhance systems engineering by infusing it with knowledge from large language models. The tool aims to improve the accuracy and reliability of requirements engineering, which is crucial for the overall success of software development projects.",
+    "danishTitle": "MARQ: A New LLM-Agnostic Requirement Quality Assessor for Systems Engineering",
+    "danishSummary": "MARQ, a modular and LLM-agnostic requirement quality assessor, has been introduced to enhance systems engineering by infusing it with knowledge from large language models. The tool aims to improve the accuracy and reliability of requirements engineering, which is crucial for the overall success of software development projects.",
+    "whyItMatters": "By addressing requirement defects early in the development process, MARQ can significantly reduce downstream issues, making it a valuable asset for both developers and enterprises in ensuring high-quality software systems.",
+    "enrichedAt": "2026-10-28T05:29:34.287Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.36239v1": {
+    "title": "BehaveRec: Investigating the Impact of Long-Term Behavioral History on Sequential Recommendation Models",
+    "summary": "The paper 'BehaveRec' explores how incorporating long-term behavioral history can enhance sequential recommendation models, particularly when short-term signals are insufficient. By integrating session, history, and community signals, the study aims to improve the accuracy and personalization of recommendations.",
+    "danishTitle": "BehaveRec: Investigating the Impact of Long-Term Behavioral History on Sequential Recommendation Models",
+    "danishSummary": "The paper 'BehaveRec' explores how incorporating long-term behavioral history can enhance sequential recommendation models, particularly when short-term signals are insufficient. By integrating session, history, and community signals, the study aims to improve the accuracy and personalization of recommendations.",
+    "whyItMatters": "This research could lead to more effective and personalized recommendations, especially in scenarios where recent user behavior is not indicative of future preferences, thereby improving user satisfaction and engagement in various applications like e-commerce and media streaming.",
+    "enrichedAt": "2026-10-28T05:29:45.491Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36239": {
+    "title": "BehaveRec: Investigating the Impact of Long-Term Behavioral History on Sequential Recommendation Models",
+    "summary": "The paper 'BehaveRec' explores how incorporating long-term behavioral history can enhance sequential recommendation models, particularly when short-term signals are insufficient. By integrating session, history, and community signals, the study aims to improve the accuracy and personalization of recommendations.",
+    "danishTitle": "BehaveRec: Investigating the Impact of Long-Term Behavioral History on Sequential Recommendation Models",
+    "danishSummary": "The paper 'BehaveRec' explores how incorporating long-term behavioral history can enhance sequential recommendation models, particularly when short-term signals are insufficient. By integrating session, history, and community signals, the study aims to improve the accuracy and personalization of recommendations.",
+    "whyItMatters": "This research could lead to more effective and personalized recommendations, especially in scenarios where recent user behavior is not indicative of future preferences, thereby improving user satisfaction and engagement in various applications like e-commerce and media streaming.",
+    "enrichedAt": "2026-10-28T05:29:45.491Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.36287v1": {
+    "title": "New Dual-Objective Optimization Model Enhances Smart Book Filter in Online Marketplaces",
+    "summary": "Researchers have developed a novel model for filtering book listings in online marketplaces, leveraging dual-objective optimization to improve both efficiency and user experience. This model aims to streamline the booking process for short-term lodging, enhancing hospitality services in online platforms.",
+    "danishTitle": "New Dual-Objective Optimization Model Enhances Smart Book Filter in Online Marketplaces",
+    "danishSummary": "Researchers have developed a novel model for filtering book listings in online marketplaces, leveraging dual-objective optimization to improve both efficiency and user experience. This model aims to streamline the booking process for short-term lodging, enhancing hospitality services in online platforms.",
+    "whyItMatters": "By optimizing both speed and accuracy, this model could significantly improve the user experience and operational efficiency in online marketplaces, potentially leading to broader adoption of AI in service industries.",
+    "enrichedAt": "2026-10-28T05:29:55.661Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36287": {
+    "title": "New Dual-Objective Optimization Model Enhances Smart Book Filter in Online Marketplaces",
+    "summary": "Researchers have developed a novel model for filtering book listings in online marketplaces, leveraging dual-objective optimization to improve both efficiency and user experience. This model aims to streamline the booking process for short-term lodging, enhancing hospitality services in online platforms.",
+    "danishTitle": "New Dual-Objective Optimization Model Enhances Smart Book Filter in Online Marketplaces",
+    "danishSummary": "Researchers have developed a novel model for filtering book listings in online marketplaces, leveraging dual-objective optimization to improve both efficiency and user experience. This model aims to streamline the booking process for short-term lodging, enhancing hospitality services in online platforms.",
+    "whyItMatters": "By optimizing both speed and accuracy, this model could significantly improve the user experience and operational efficiency in online marketplaces, potentially leading to broader adoption of AI in service industries.",
+    "enrichedAt": "2026-10-28T05:29:55.661Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.36298v1": {
+    "title": "Spiking Neural Networks Show Promise in Resisting Model Stealing Attacks: New Benchmark Study",
+    "summary": "A recent study published on arXiv presents a benchmark analysis of model stealing attacks on various machine learning models, highlighting that spiking neural networks are less susceptible to such attacks. This research underscores the potential of spiking neural networks in enhancing the security of deployed machine learning models.",
+    "danishTitle": "Spiking Neural Networks Show Promise in Resisting Model Stealing Attacks: New Benchmark Study",
+    "danishSummary": "A recent study published on arXiv presents a benchmark analysis of model stealing attacks on various machine learning models, highlighting that spiking neural networks are less susceptible to such attacks. This research underscores the potential of spiking neural networks in enhancing the security of deployed machine learning models.",
+    "whyItMatters": "By demonstrating improved resistance to model stealing, spiking neural networks could become a preferred choice for organizations concerned about the security of their machine learning models, particularly in sensitive applications.",
+    "enrichedAt": "2026-10-28T05:30:06.507Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36298": {
+    "title": "Spiking Neural Networks Show Promise in Resisting Model Stealing Attacks: New Benchmark Study",
+    "summary": "A recent study published on arXiv presents a benchmark analysis of model stealing attacks on various machine learning models, highlighting that spiking neural networks are less susceptible to such attacks. This research underscores the potential of spiking neural networks in enhancing the security of deployed machine learning models.",
+    "danishTitle": "Spiking Neural Networks Show Promise in Resisting Model Stealing Attacks: New Benchmark Study",
+    "danishSummary": "A recent study published on arXiv presents a benchmark analysis of model stealing attacks on various machine learning models, highlighting that spiking neural networks are less susceptible to such attacks. This research underscores the potential of spiking neural networks in enhancing the security of deployed machine learning models.",
+    "whyItMatters": "By demonstrating improved resistance to model stealing, spiking neural networks could become a preferred choice for organizations concerned about the security of their machine learning models, particularly in sensitive applications.",
+    "enrichedAt": "2026-10-28T05:30:06.507Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.36308v1": {
+    "title": "Study Highlights Challenges in Updating Agent Memory to Prevent Obsolete Facts",
+    "summary": "A recent study published on arXiv emphasizes the need for improved mechanisms to update agent memory, as current benchmarks often conflate retrieval and answer generation, making it difficult to discern whether errors stem from outdated information or improper use of updated data.",
+    "danishTitle": "Study Highlights Challenges in Updating Agent Memory to Prevent Obsolete Facts",
+    "danishSummary": "A recent study published on arXiv emphasizes the need for improved mechanisms to update agent memory, as current benchmarks often conflate retrieval and answer generation, making it difficult to discern whether errors stem from outdated information or improper use of updated data.",
+    "whyItMatters": "This research underscores the critical importance of developing robust systems for maintaining and updating agent memory, which is essential for the reliability and effectiveness of AI agents in dynamic environments.",
+    "enrichedAt": "2026-10-28T05:30:16.274Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36308": {
+    "title": "Study Highlights Challenges in Updating Agent Memory to Prevent Obsolete Facts",
+    "summary": "A recent study published on arXiv emphasizes the need for improved mechanisms to update agent memory, as current benchmarks often conflate retrieval and answer generation, making it difficult to discern whether errors stem from outdated information or improper use of updated data.",
+    "danishTitle": "Study Highlights Challenges in Updating Agent Memory to Prevent Obsolete Facts",
+    "danishSummary": "A recent study published on arXiv emphasizes the need for improved mechanisms to update agent memory, as current benchmarks often conflate retrieval and answer generation, making it difficult to discern whether errors stem from outdated information or improper use of updated data.",
+    "whyItMatters": "This research underscores the critical importance of developing robust systems for maintaining and updating agent memory, which is essential for the reliability and effectiveness of AI agents in dynamic environments.",
+    "enrichedAt": "2026-10-28T05:30:16.274Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2610.36325v1": {
+    "title": "New AI Model Enhances Explainable Differential Diagnosis with Ontology-guided Multi-agent Reasoning",
+    "summary": "A recent research paper proposes an ontology-guided multi-agent reasoning model aimed at improving the explainability and accuracy of differential diagnosis in healthcare. The model leverages structured patient case descriptions to reduce diagnostic errors, particularly those arising from incomplete or ambiguous clinical information.",
+    "danishTitle": "New AI Model Enhances Explainable Differential Diagnosis with Ontology-guided Multi-agent Reasoning",
+    "danishSummary": "A recent research paper proposes an ontology-guided multi-agent reasoning model aimed at improving the explainability and accuracy of differential diagnosis in healthcare. The model leverages structured patient case descriptions to reduce diagnostic errors, particularly those arising from incomplete or ambiguous clinical information.",
+    "whyItMatters": "This advancement could significantly enhance the reliability and transparency of AI-driven diagnostic tools, making them more acceptable and useful in clinical settings where explainability is crucial.",
+    "enrichedAt": "2026-10-28T05:30:26.494Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.36325": {
+    "title": "New AI Model Enhances Explainable Differential Diagnosis with Ontology-guided Multi-agent Reasoning",
+    "summary": "A recent research paper proposes an ontology-guided multi-agent reasoning model aimed at improving the explainability and accuracy of differential diagnosis in healthcare. The model leverages structured patient case descriptions to reduce diagnostic errors, particularly those arising from incomplete or ambiguous clinical information.",
+    "danishTitle": "New AI Model Enhances Explainable Differential Diagnosis with Ontology-guided Multi-agent Reasoning",
+    "danishSummary": "A recent research paper proposes an ontology-guided multi-agent reasoning model aimed at improving the explainability and accuracy of differential diagnosis in healthcare. The model leverages structured patient case descriptions to reduce diagnostic errors, particularly those arising from incomplete or ambiguous clinical information.",
+    "whyItMatters": "This advancement could significantly enhance the reliability and transparency of AI-driven diagnostic tools, making them more acceptable and useful in clinical settings where explainability is crucial.",
+    "enrichedAt": "2026-10-28T05:30:26.494Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2610.33024v1": {
+    "title": "New Research Proposes Harness Self-Evolution for Enhanced LLM Agent Performance",
+    "summary": "A recent study published on arXiv proposes harness self-evolution as a method for language model agents to improve their performance through experience without altering model parameters. This approach aims to enhance the adaptability and efficiency of LLMs in various applications.",
+    "danishTitle": "New Research Proposes Harness Self-Evolution for Enhanced LLM Agent Performance",
+    "danishSummary": "A recent study published on arXiv proposes harness self-evolution as a method for language model agents to improve their performance through experience without altering model parameters. This approach aims to enhance the adaptability and efficiency of LLMs in various applications.",
+    "whyItMatters": "By enabling LLMs to evolve through experience, this research could lead to more dynamic and adaptable AI systems, potentially revolutionizing how AI agents are deployed and utilized in diverse industries.",
+    "enrichedAt": "2026-10-28T05:30:36.763Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.33024": {
+    "title": "New Research Proposes Harness Self-Evolution for Enhanced LLM Agent Performance",
+    "summary": "A recent study published on arXiv proposes harness self-evolution as a method for language model agents to improve their performance through experience without altering model parameters. This approach aims to enhance the adaptability and efficiency of LLMs in various applications.",
+    "danishTitle": "New Research Proposes Harness Self-Evolution for Enhanced LLM Agent Performance",
+    "danishSummary": "A recent study published on arXiv proposes harness self-evolution as a method for language model agents to improve their performance through experience without altering model parameters. This approach aims to enhance the adaptability and efficiency of LLMs in various applications.",
+    "whyItMatters": "By enabling LLMs to evolve through experience, this research could lead to more dynamic and adaptable AI systems, potentially revolutionizing how AI agents are deployed and utilized in diverse industries.",
+    "enrichedAt": "2026-10-28T05:30:36.763Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2610.33025v1": {
+    "title": "Dynamic Evaluation Shows Promise in Enhancing Language Model Performance",
+    "summary": "A recent study published on arXiv demonstrates that allowing language models to take gradient steps while processing text can reduce their loss on subsequent parts of the document. This technique, known as dynamic evaluation, was tested across various architectures and showed improved performance, particularly in hybrid linear-attention models.",
+    "danishTitle": "Dynamic Evaluation Shows Promise in Enhancing Language Model Performance",
+    "danishSummary": "A recent study published on arXiv demonstrates that allowing language models to take gradient steps while processing text can reduce their loss on subsequent parts of the document. This technique, known as dynamic evaluation, was tested across various architectures and showed improved performance, particularly in hybrid linear-attention models.",
+    "whyItMatters": "This approach could lead to more efficient and effective training methods, potentially improving the accuracy and adaptability of language models in real-time applications.",
+    "enrichedAt": "2026-10-28T05:30:46.674Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.33025": {
+    "title": "Dynamic Evaluation Shows Promise in Enhancing Language Model Performance",
+    "summary": "A recent study published on arXiv demonstrates that allowing language models to take gradient steps while processing text can reduce their loss on subsequent parts of the document. This technique, known as dynamic evaluation, was tested across various architectures and showed improved performance, particularly in hybrid linear-attention models.",
+    "danishTitle": "Dynamic Evaluation Shows Promise in Enhancing Language Model Performance",
+    "danishSummary": "A recent study published on arXiv demonstrates that allowing language models to take gradient steps while processing text can reduce their loss on subsequent parts of the document. This technique, known as dynamic evaluation, was tested across various architectures and showed improved performance, particularly in hybrid linear-attention models.",
+    "whyItMatters": "This approach could lead to more efficient and effective training methods, potentially improving the accuracy and adaptability of language models in real-time applications.",
+    "enrichedAt": "2026-10-28T05:30:46.674Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2610.33029v1": {
+    "title": "Self-Improving Agents' Lessons May Introduce Randomness into Future Decisions",
+    "summary": "A new study published on arXiv explores how self-improving language models (LLMs) that generate lessons based on their outcomes can inadvertently introduce randomness into subsequent decisions. The research highlights the potential risks and challenges in managing the reliability of AI systems.",
+    "danishTitle": "Self-Improving Agents' Lessons May Introduce Randomness into Future Decisions",
+    "danishSummary": "A new study published on arXiv explores how self-improving language models (LLMs) that generate lessons based on their outcomes can inadvertently introduce randomness into subsequent decisions. The research highlights the potential risks and challenges in managing the reliability of AI systems.",
+    "whyItMatters": "Understanding and mitigating the impact of randomness in AI decision-making is crucial for ensuring the robustness and predictability of self-improving systems, particularly in critical applications.",
+    "enrichedAt": "2026-10-28T05:30:57.109Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.33029": {
+    "title": "Self-Improving Agents' Lessons May Introduce Randomness into Future Decisions",
+    "summary": "A new study published on arXiv explores how self-improving language models (LLMs) that generate lessons based on their outcomes can inadvertently introduce randomness into subsequent decisions. The research highlights the potential risks and challenges in managing the reliability of AI systems.",
+    "danishTitle": "Self-Improving Agents' Lessons May Introduce Randomness into Future Decisions",
+    "danishSummary": "A new study published on arXiv explores how self-improving language models (LLMs) that generate lessons based on their outcomes can inadvertently introduce randomness into subsequent decisions. The research highlights the potential risks and challenges in managing the reliability of AI systems.",
+    "whyItMatters": "Understanding and mitigating the impact of randomness in AI decision-making is crucial for ensuring the robustness and predictability of self-improving systems, particularly in critical applications.",
+    "enrichedAt": "2026-10-28T05:30:57.109Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2610.33030v1": {
+    "title": "Feature Scaling Outperforms Architectural Choices in Offline Respiratory Screening Models for Low-Resource Clinics",
+    "summary": "A study published on arXiv highlights that feature scaling can significantly improve the performance of respiratory sound classification models in low-resource settings, surpassing the benefits of architectural choices. This finding is particularly relevant for clinics lacking advanced hardware or connectivity.",
+    "danishTitle": "Feature Scaling Outperforms Architectural Choices in Offline Respiratory Screening Models for Low-Resource Clinics",
+    "danishSummary": "A study published on arXiv highlights that feature scaling can significantly improve the performance of respiratory sound classification models in low-resource settings, surpassing the benefits of architectural choices. This finding is particularly relevant for clinics lacking advanced hardware or connectivity.",
+    "whyItMatters": "By emphasizing feature scaling over complex model architectures, this research offers a cost-effective solution for respiratory screening in resource-limited environments, potentially improving access to healthcare in remote or underprivileged areas.",
+    "enrichedAt": "2026-10-28T05:31:07.808Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.33030": {
+    "title": "Feature Scaling Outperforms Architectural Choices in Offline Respiratory Screening Models for Low-Resource Clinics",
+    "summary": "A study published on arXiv highlights that feature scaling can significantly improve the performance of respiratory sound classification models in low-resource settings, surpassing the benefits of architectural choices. This finding is particularly relevant for clinics lacking advanced hardware or connectivity.",
+    "danishTitle": "Feature Scaling Outperforms Architectural Choices in Offline Respiratory Screening Models for Low-Resource Clinics",
+    "danishSummary": "A study published on arXiv highlights that feature scaling can significantly improve the performance of respiratory sound classification models in low-resource settings, surpassing the benefits of architectural choices. This finding is particularly relevant for clinics lacking advanced hardware or connectivity.",
+    "whyItMatters": "By emphasizing feature scaling over complex model architectures, this research offers a cost-effective solution for respiratory screening in resource-limited environments, potentially improving access to healthcare in remote or underprivileged areas.",
+    "enrichedAt": "2026-10-28T05:31:07.808Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2610.33126v1": {
+    "title": "New Model Enables Continuous Adaptation in Imbalanced Data Streams with Concept Drift",
+    "summary": "A recent study proposes a novel approach for data stream classification that adapts continuously to concept drift and class imbalance, ensuring strong performance on minority classes. This method aims to improve real-time decision-making in dynamic environments.",
+    "danishTitle": "New Model Enables Continuous Adaptation in Imbalanced Data Streams with Concept Drift",
+    "danishSummary": "A recent study proposes a novel approach for data stream classification that adapts continuously to concept drift and class imbalance, ensuring strong performance on minority classes. This method aims to improve real-time decision-making in dynamic environments.",
+    "whyItMatters": "By enhancing the adaptability of models in complex, evolving data environments, this research could significantly boost the reliability and effectiveness of AI systems in industries such as finance, healthcare, and cybersecurity.",
+    "enrichedAt": "2026-10-28T05:31:17.717Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2610.33126": {
+    "title": "New Model Enables Continuous Adaptation in Imbalanced Data Streams with Concept Drift",
+    "summary": "A recent study proposes a novel approach for data stream classification that adapts continuously to concept drift and class imbalance, ensuring strong performance on minority classes. This method aims to improve real-time decision-making in dynamic environments.",
+    "danishTitle": "New Model Enables Continuous Adaptation in Imbalanced Data Streams with Concept Drift",
+    "danishSummary": "A recent study proposes a novel approach for data stream classification that adapts continuously to concept drift and class imbalance, ensuring strong performance on minority classes. This method aims to improve real-time decision-making in dynamic environments.",
+    "whyItMatters": "By enhancing the adaptability of models in complex, evolving data environments, this research could significantly boost the reliability and effectiveness of AI systems in industries such as finance, healthcare, and cybersecurity.",
+    "enrichedAt": "2026-10-28T05:31:17.717Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }
