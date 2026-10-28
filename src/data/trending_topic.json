@@ -1,48 +1,29 @@
 {
-  "headline": "Unified Models for General-Purpose Embodied Intelligence Gain Momentum",
-  "summary": "OmniBrain-0, a new model from arXiv, is leading a trend towards unified models for general-purpose embodied intelligence, enabling robots to handle a wide range of tasks across extended environments. This development is driving innovation in robotics and AI integration.",
-  "whyItMatters": "Unified models for embodied intelligence can significantly enhance the versatility and adaptability of AI systems, making them more useful in diverse real-world applications and accelerating the integration of AI into everyday life.",
-  "synthesizedAt": "2026-10-28T08:35:48.971Z",
+  "headline": "Anthropic Abolishes Coding Interviews: AI Takes Over Traditional Roles",
+  "summary": "Anthropic has eliminated traditional coding interviews, relying on AI's superior performance in solving programming tasks. This shift highlights AI's growing capabilities and its potential to transform hiring practices in tech companies.",
+  "whyItMatters": "It underscores the increasing automation of technical roles and the need for companies to adapt to new AI-driven hiring processes.",
+  "synthesizedAt": "2026-10-28T11:41:28.698Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-cl-oai:arXiv.org:2610.36013v1",
-    "title": "OmniBrain-0: A Unified Model for General-Purpose Embodied Intelligence",
-    "link": "https://arxiv.org/abs/2610.36013",
-    "sourceName": "arXiv cs.CL (Sprog & LLM)",
-    "sourceId": "arxiv-cl",
-    "pubDate": "2026-10-28T04:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "Technical Deep Dive"
+    "id": "latent-space-urn:latent-space:post:post_d7ad54dc-42ae-4086-8e74-156baa218337",
+    "title": "Anthropic Abolishes Coding Interviews: 'Hunger Beats Tenure'",
+    "link": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+    "sourceName": "Latent Space (Swyx & Alessio)",
+    "sourceId": "latent-space",
+    "pubDate": "2026-10-28T08:50:30.000Z",
+    "badgeColor": "pink",
+    "angle": "Official Announcement"
   },
   "supportingStories": [
     {
-      "id": "nvidia-developer-yt:video:ZKec-MNvyyg",
-      "title": "NVIDIA Unveils Post-Training Nemotron for Europe at GTC Berlin",
-      "link": "https://www.youtube.com/watch?v=ZKec-MNvyyg",
-      "sourceName": "NVIDIA Developer",
-      "sourceId": "nvidia-developer",
-      "pubDate": "2026-10-28T05:53:59.000Z",
-      "badgeColor": "green",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2610.36437v1",
-      "title": "CONCUR Framework Introduced for Enhanced Multi-Task Reinforcement Learning in Large Language Models",
-      "link": "https://arxiv.org/abs/2610.36437",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-10-28T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Framework Proposals"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2610.36077v1",
-      "title": "The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents",
-      "link": "https://arxiv.org/abs/2610.36077",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-10-28T04:00:00.000Z",
-      "badgeColor": "zinc"
+      "id": "the-decoder-https://the-decoder.com/?p=42082",
+      "title": "Anthropic Shifts Focus to Entrepreneurial Thinking as AI Handles Coding Interviews",
+      "link": "https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-28T11:15:00.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Impact"
     }
   ]
 }
