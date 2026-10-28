@@ -1,29 +1,39 @@
 {
-  "headline": "Anthropic Abolishes Coding Interviews: AI Takes Over Traditional Roles",
-  "summary": "Anthropic has eliminated traditional coding interviews, relying on AI's superior performance in solving programming tasks. This shift highlights AI's growing capabilities and its potential to transform hiring practices in tech companies.",
-  "whyItMatters": "It underscores the increasing automation of technical roles and the need for companies to adapt to new AI-driven hiring processes.",
-  "synthesizedAt": "2026-10-28T11:41:28.698Z",
+  "headline": "Open-Source AI Models Challenge Proprietary Systems in Voice Agent Development",
+  "summary": "AssemblyAI has released AssemblyAI-TTS-1, an open-source text-to-speech model for voice agents, challenging proprietary systems like GPT-5.1. This shift is driving innovation and reducing costs in voice agent development.",
+  "whyItMatters": "It broadens access to advanced voice technologies and could disrupt the market for proprietary AI models, fostering a more competitive and open ecosystem.",
+  "synthesizedAt": "2026-10-28T14:48:21.006Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "latent-space-urn:latent-space:post:post_d7ad54dc-42ae-4086-8e74-156baa218337",
-    "title": "Anthropic Abolishes Coding Interviews: 'Hunger Beats Tenure'",
-    "link": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
-    "sourceName": "Latent Space (Swyx & Alessio)",
-    "sourceId": "latent-space",
-    "pubDate": "2026-10-28T08:50:30.000Z",
-    "badgeColor": "pink",
-    "angle": "Official Announcement"
+    "id": "assembly-ai-yt:video:8lPEVCglPZw",
+    "title": "AssemblyAI Unveils AssemblyAI-TTS-1: Advanced Text-to-Speech Model for Voice Agents",
+    "link": "https://www.youtube.com/watch?v=8lPEVCglPZw",
+    "sourceName": "AssemblyAI",
+    "sourceId": "assembly-ai",
+    "pubDate": "2026-10-28T14:09:32.000Z",
+    "badgeColor": "blue",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42082",
-      "title": "Anthropic Shifts Focus to Entrepreneurial Thinking as AI Handles Coding Interviews",
-      "link": "https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-28T11:15:00.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Impact"
+      "id": "assembly-ai-yt:video:PF1f4GtOYaw",
+      "title": "AssemblyAI Launches Voice Agent Development Guide with Livekit Integration",
+      "link": "https://www.youtube.com/watch?v=PF1f4GtOYaw",
+      "sourceName": "AssemblyAI",
+      "sourceId": "assembly-ai",
+      "pubDate": "2026-10-28T13:00:34.000Z",
+      "badgeColor": "blue",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "weights-and-biases-yt:video:eFTsJ413h7I",
+      "title": "Simile's Model Outperforms ChatGPT and Claude in Predictive Tasks",
+      "link": "https://www.youtube.com/shorts/eFTsJ413h7I",
+      "sourceName": "Weights & Biases",
+      "sourceId": "weights-and-biases",
+      "pubDate": "2026-10-28T13:00:13.000Z",
+      "badgeColor": "yellow",
+      "angle": "Performance Benchmark"
     }
   ]
 }
