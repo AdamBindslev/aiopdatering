@@ -1,39 +1,48 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Systems in Voice Agent Development",
-  "summary": "AssemblyAI has released AssemblyAI-TTS-1, an open-source text-to-speech model for voice agents, challenging proprietary systems like GPT-5.1. This shift is driving innovation and reducing costs in voice agent development.",
-  "whyItMatters": "It broadens access to advanced voice technologies and could disrupt the market for proprietary AI models, fostering a more competitive and open ecosystem.",
-  "synthesizedAt": "2026-10-28T14:48:21.006Z",
+  "headline": "Open-Source AI Models Challenge Proprietary Systems",
+  "summary": "A surge in open-source AI models, such as Nemotron 3.5 and Gemini 4 Carbon, is pushing the boundaries of performance and accessibility, challenging established proprietary systems. This trend is driving innovation and reducing costs for developers and businesses.",
+  "whyItMatters": "It democratizes advanced AI capabilities, fostering competition and accelerating technological progress.",
+  "synthesizedAt": "2026-10-28T17:56:53.495Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "assembly-ai-yt:video:8lPEVCglPZw",
-    "title": "AssemblyAI Unveils AssemblyAI-TTS-1: Advanced Text-to-Speech Model for Voice Agents",
-    "link": "https://www.youtube.com/watch?v=8lPEVCglPZw",
-    "sourceName": "AssemblyAI",
-    "sourceId": "assembly-ai",
-    "pubDate": "2026-10-28T14:09:32.000Z",
-    "badgeColor": "blue",
+    "id": "the-decoder-https://the-decoder.com/?p=42068",
+    "title": "Nvidia Unveils Nemotron 3.5 Transcribe: A Multifunctional Open-Source Speech Recognition Model",
+    "link": "https://the-decoder.com/nvidias-open-nemotron-3-5-transcribe-combines-transcription-translation-and-speaker-recognition/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-28T15:49:39.000Z",
+    "badgeColor": "slate",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "assembly-ai-yt:video:PF1f4GtOYaw",
-      "title": "AssemblyAI Launches Voice Agent Development Guide with Livekit Integration",
-      "link": "https://www.youtube.com/watch?v=PF1f4GtOYaw",
-      "sourceName": "AssemblyAI",
-      "sourceId": "assembly-ai",
-      "pubDate": "2026-10-28T13:00:34.000Z",
-      "badgeColor": "blue",
-      "angle": "Technical Deep Dive"
+      "id": "latent-space-video-yt:video:cI8IquVEyVY",
+      "title": "PHP Vulnerabilities Highlight Risks in Web Development",
+      "link": "https://www.youtube.com/watch?v=cI8IquVEyVY",
+      "sourceName": "Latent Space / AI Engineer",
+      "sourceId": "latent-space-video",
+      "pubDate": "2026-10-28T16:23:55.000Z",
+      "badgeColor": "pink"
     },
     {
-      "id": "weights-and-biases-yt:video:eFTsJ413h7I",
-      "title": "Simile's Model Outperforms ChatGPT and Claude in Predictive Tasks",
-      "link": "https://www.youtube.com/shorts/eFTsJ413h7I",
-      "sourceName": "Weights & Biases",
-      "sourceId": "weights-and-biases",
-      "pubDate": "2026-10-28T13:00:13.000Z",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3182159",
+      "title": "Nvidia Unveils Free Multilingual Speech-to-Text Model for Transcription Tools",
+      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-28T15:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Hands-on Benchmark"
+    },
+    {
+      "id": "huggingface-https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "title": "NVIDIA Unveils Nemotron 3.5 and Granary v2 for Advanced Multilingual Transcription",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "sourceName": "Hugging Face Blog",
+      "sourceId": "huggingface",
+      "pubDate": "2026-10-28T14:58:17.000Z",
       "badgeColor": "yellow",
-      "angle": "Performance Benchmark"
+      "angle": "Technical Deep Dive"
     }
   ]
 }
