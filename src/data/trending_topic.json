@@ -1,48 +1,39 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Systems",
-  "summary": "A surge in open-source AI models, such as Nemotron 3.5 and Gemini 4 Carbon, is pushing the boundaries of performance and accessibility, challenging established proprietary systems. This trend is driving innovation and reducing costs for developers and businesses.",
-  "whyItMatters": "It democratizes advanced AI capabilities, fostering competition and accelerating technological progress.",
-  "synthesizedAt": "2026-10-28T17:56:53.495Z",
+  "headline": "Open-Source AI Models Gain Ground, Challenge Proprietary Systems",
+  "summary": "A growing number of open-source AI models, such as Gemini 4 Carbon and Nemotron 3.5 Transcribe, are outperforming proprietary counterparts. This trend is driving innovation and reducing costs for developers and businesses, while putting pressure on closed platforms.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and fosters greater competition, potentially leading to more transparency and innovation in the AI ecosystem.",
+  "synthesizedAt": "2026-10-28T21:02:03.015Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42068",
-    "title": "Nvidia Unveils Nemotron 3.5 Transcribe: A Multifunctional Open-Source Speech Recognition Model",
-    "link": "https://the-decoder.com/nvidias-open-nemotron-3-5-transcribe-combines-transcription-translation-and-speaker-recognition/",
+    "id": "the-decoder-https://the-decoder.com/?p=42108",
+    "title": "Google DeepMind Unveils Gemini 4 Carbon, Outperforming Competitors on Artificial Analysis Index",
+    "link": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-10-28T15:49:39.000Z",
+    "pubDate": "2026-10-28T19:17:58.000Z",
     "badgeColor": "slate",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "latent-space-video-yt:video:cI8IquVEyVY",
-      "title": "PHP Vulnerabilities Highlight Risks in Web Development",
-      "link": "https://www.youtube.com/watch?v=cI8IquVEyVY",
-      "sourceName": "Latent Space / AI Engineer",
-      "sourceId": "latent-space-video",
-      "pubDate": "2026-10-28T16:23:55.000Z",
-      "badgeColor": "pink"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3182159",
-      "title": "Nvidia Unveils Free Multilingual Speech-to-Text Model for Transcription Tools",
-      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-28T15:00:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Hands-on Benchmark"
-    },
-    {
-      "id": "huggingface-https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "title": "NVIDIA Unveils Nemotron 3.5 and Granary v2 for Advanced Multilingual Transcription",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "sourceName": "Hugging Face Blog",
-      "sourceId": "huggingface",
-      "pubDate": "2026-10-28T14:58:17.000Z",
-      "badgeColor": "yellow",
+      "id": "deepmind-https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "title": "Google DeepMind Unveils Gemini 4 Carbon: Next-Generation AI Model",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "sourceName": "Google DeepMind",
+      "sourceId": "deepmind",
+      "pubDate": "2026-10-28T17:00:58.000Z",
+      "badgeColor": "cyan",
       "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=42068",
+      "title": "Nvidia Unveils Nemotron 3.5 Transcribe: A Multifunctional Open-Source Speech Recognition Model",
+      "link": "https://the-decoder.com/nvidias-open-nemotron-3-5-transcribe-combines-transcription-translation-and-speaker-recognition/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-28T15:49:39.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
     }
   ]
 }
