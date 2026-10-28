@@ -1,49 +1,29 @@
 {
-  "headline": "AI Data Center Boom Spurs Grid Modernization and Innovation",
-  "summary": "The rapid expansion of AI data centers is driving significant advancements in the U.S. power grid, leading to grid modernization and innovation. This trend is crucial for supporting the growing demand for AI workloads and improving energy efficiency.",
-  "whyItMatters": "It underscores the critical role of infrastructure in supporting AI growth and highlights the potential for technological advancements to address energy challenges.",
-  "synthesizedAt": "2026-10-27T23:13:55.131Z",
+  "headline": "Anthropic's Opus 5.5 Redefines AI Agent Architecture",
+  "summary": "Anthropic has released Opus 5.5, a new version of its Claude platform that decouples AI agents' reasoning capabilities from their execution environment, signaling a shift in how AI systems are designed and deployed.",
+  "whyItMatters": "This separation enhances safety and scalability, potentially setting a new standard for AI agent architecture in the industry.",
+  "synthesizedAt": "2026-10-28T02:19:19.948Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3181301",
-    "title": "AI Data Center Boom Spurs Grid Modernization and Innovation",
-    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-10-27T22:55:41.000Z",
-    "badgeColor": "emerald",
-    "angle": "Industry Analysis"
+    "id": "latent-space-urn:latent-space:post:post_76eb7299-a6e5-42ff-813a-a35462bdda42",
+    "title": "Anthropic Unveils Opus 5.5: Claude Platform with Decoupled AI Agents",
+    "link": "https://latent.space/p/opus55/",
+    "sourceName": "Latent Space (Swyx & Alessio)",
+    "sourceId": "latent-space",
+    "pubDate": "2026-10-27T18:53:10.000Z",
+    "badgeColor": "pink",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "nvidia-https://developer.nvidia.com/blog/?p=124247",
-      "title": "NVIDIA Introduces Memory-Enforced GPU Sharing for Kubernetes to Optimize AI Workload Efficiency",
-      "link": "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4/",
-      "sourceName": "NVIDIA Technical Blog",
-      "sourceId": "nvidia",
-      "pubDate": "2026-10-27T20:50:39.000Z",
-      "badgeColor": "emerald",
-      "angle": "Technical Detail"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3182189",
-      "title": "Disruptive Raises $10B Fund for Strategic Investments in AI and Tech Startups",
-      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-27T18:55:35.000Z",
-      "badgeColor": "emerald",
-      "angle": "Investment Trends"
-    },
-    {
-      "id": "aws-ml-4fef4e2052ceafe5be77506f74414eb6efbd5cd7",
-      "title": "AWS Launches SOCI-Indexed Images to Accelerate SageMaker AI Jobs",
-      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-10-27T17:00:39.000Z",
-      "badgeColor": "amber",
-      "angle": "Efficiency Improvements"
+      "id": "latent-space-urn:latent-space:post:pod_ep_01a17e24-16fc-71e3-bdc8-f0c1aeee546c",
+      "title": "Anthropic Unveils Opus 5.5: Brain and Hands Separation in LLMs for Enhanced Safety and Scalability",
+      "link": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-10-27T18:40:19.000Z",
+      "badgeColor": "pink",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
