@@ -1,8 +1,8 @@
 {
-  "headline": "Unified Embodied Intelligence Models Pave Way for Versatile AI Agents",
-  "summary": "OmniBrain-0, a new model from arXiv, represents a significant step towards unified embodied intelligence, enabling robots to handle a wide range of tasks. This advancement is driving innovation in robotics and AI agent deployment across various industries.",
-  "whyItMatters": "Unified embodied intelligence models like OmniBrain-0 are crucial for developing versatile AI agents, enhancing their adaptability and utility in diverse real-world applications.",
-  "synthesizedAt": "2026-10-28T05:31:51.585Z",
+  "headline": "Unified Models for General-Purpose Embodied Intelligence Gain Momentum",
+  "summary": "OmniBrain-0, a new model from arXiv, is leading a trend towards unified models for general-purpose embodied intelligence, enabling robots to handle a wide range of tasks across extended environments. This development is driving innovation in robotics and AI integration.",
+  "whyItMatters": "Unified models for embodied intelligence can significantly enhance the versatility and adaptability of AI systems, making them more useful in diverse real-world applications and accelerating the integration of AI into everyday life.",
+  "synthesizedAt": "2026-10-28T08:35:48.971Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "arxiv-cl-oai:arXiv.org:2610.36013v1",
@@ -12,17 +12,28 @@
     "sourceId": "arxiv-cl",
     "pubDate": "2026-10-28T04:00:00.000Z",
     "badgeColor": "zinc",
-    "angle": "Official Release"
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2610.35925v1",
-      "title": "ReCoPII: A Relation-Grounded Framework for Enhancing PII Masking Datasets",
-      "link": "https://arxiv.org/abs/2610.35925",
+      "id": "nvidia-developer-yt:video:ZKec-MNvyyg",
+      "title": "NVIDIA Unveils Post-Training Nemotron for Europe at GTC Berlin",
+      "link": "https://www.youtube.com/watch?v=ZKec-MNvyyg",
+      "sourceName": "NVIDIA Developer",
+      "sourceId": "nvidia-developer",
+      "pubDate": "2026-10-28T05:53:59.000Z",
+      "badgeColor": "green",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2610.36437v1",
+      "title": "CONCUR Framework Introduced for Enhanced Multi-Task Reinforcement Learning in Large Language Models",
+      "link": "https://arxiv.org/abs/2610.36437",
       "sourceName": "arXiv cs.CL (Sprog & LLM)",
       "sourceId": "arxiv-cl",
       "pubDate": "2026-10-28T04:00:00.000Z",
-      "badgeColor": "zinc"
+      "badgeColor": "zinc",
+      "angle": "Framework Proposals"
     },
     {
       "id": "arxiv-ai-oai:arXiv.org:2610.36077v1",
@@ -31,8 +42,7 @@
       "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
       "sourceId": "arxiv-ai",
       "pubDate": "2026-10-28T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Industry Analysis"
+      "badgeColor": "zinc"
     }
   ]
 }
