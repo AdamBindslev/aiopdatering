@@ -1,49 +1,39 @@
 {
-  "headline": "Tech Leaders Draw Parallels Between AI and Financial Crisis, Advocating for 'Too Big to Fail' Principle",
-  "summary": "Tech executives are drawing parallels between the financial crisis of the early 2000s and the current AI landscape, arguing that AI systems should be regulated to prevent a 'too big to fail' scenario. This shift is signaling growing concerns over the potential risks and monopolistic power of large AI systems.",
-  "whyItMatters": "It highlights the increasing need for regulatory oversight in the AI sector to prevent monopolistic practices and ensure the stability and security of AI systems.",
-  "synthesizedAt": "2026-10-29T12:34:21.427Z",
+  "headline": "Open-Source AI Models Emerge as a Competitive Force in the Global Market",
+  "summary": "Mistral AI's release of Le Chonk and Hugging Face's open-source Mistral Large 4 model are signaling a shift towards more accessible and competitive AI models. These developments are challenging established players and driving innovation in the industry.",
+  "whyItMatters": "This trend democratizes access to advanced AI capabilities, potentially reducing the dominance of proprietary platforms and fostering broader adoption and development.",
+  "synthesizedAt": "2026-10-29T15:43:15.284Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "version2-https://ing.dk/artikel/techbossernes-drejebog-er-formet-af-finanskrisen-ai-skal-vaere-too-big-fail",
-    "title": "Tech Leaders Draw Parallels Between AI and Financial Crisis, Advocating for 'Too Big to Fail' Principle",
-    "link": "https://ing.dk/artikel/techbossernes-drejebog-er-formet-af-finanskrisen-ai-skal-vaere-too-big-fail",
-    "sourceName": "Version2 (Ingeniøren)",
-    "sourceId": "version2",
-    "pubDate": "2026-10-29T12:00:00.000Z",
-    "badgeColor": "red",
-    "angle": "Industry Analysis"
+    "id": "mistral-https://mistral.ai/news/mistral-large-4-oss/",
+    "title": "Mistral AI Unveils Open-Source Le Chonk Model, Enhances Coding Capabilities",
+    "link": "https://mistral.ai/news/mistral-large-4-oss/",
+    "sourceName": "Mistral AI",
+    "sourceId": "mistral",
+    "pubDate": "2026-10-29T12:00:07.000Z",
+    "badgeColor": "orange",
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "lesswrong-ai-n8u3BfqFoGh4jnzpo",
-      "title": "Plan R: AI Safety by ASICs Aims to Mitigate Civilization-Scale Risks",
-      "link": "https://www.lesswrong.com/posts/n8u3BfqFoGh4jnzpo/plan-r-ai-safety-by-asics",
-      "sourceName": "LessWrong (Curated AI)",
-      "sourceId": "lesswrong-ai",
-      "pubDate": "2026-10-29T02:08:07.000Z",
-      "badgeColor": "emerald",
-      "angle": "Policy Impact"
+      "id": "the-decoder-https://the-decoder.com/?p=42140",
+      "title": "Mistral Unveils Le Chonk, a European-Developed Coding Model Competing with Global Giants",
+      "link": "https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-29T15:25:27.000Z",
+      "badgeColor": "slate",
+      "angle": "Official Release"
     },
     {
-      "id": "openai-channel-yt:video:ujmyzWSj8IU",
-      "title": "OpenAI Introduces API Credit Incentives for ChatGPT Pro and Business Subscribers",
-      "link": "https://www.youtube.com/watch?v=ujmyzWSj8IU",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-10-28T23:45:26.000Z",
-      "badgeColor": "emerald",
-      "angle": "Business Strategy"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3182880",
-      "title": "Microsoft Reports $10 Billion in Revenue from OpenAI Partnership",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-28T21:34:30.000Z",
-      "badgeColor": "emerald",
-      "angle": "Financial Impact"
+      "id": "huggingface-https://huggingface.co/blog/mistral-large4",
+      "title": "Hugging Face Releases Mistral Large 4 Model on Platform",
+      "link": "https://huggingface.co/blog/mistral-large4",
+      "sourceName": "Hugging Face Blog",
+      "sourceId": "huggingface",
+      "pubDate": "2026-10-29T00:00:00.000Z",
+      "badgeColor": "yellow",
+      "angle": "Industry Analysis"
     }
   ]
 }
