@@ -1,18 +1,18 @@
 {
-  "headline": "Open-Source AI Models Emerge as a Competitive Force in the Global Market",
-  "summary": "Mistral AI's release of Le Chonk and Hugging Face's open-source Mistral Large 4 model are signaling a shift towards more accessible and competitive AI models. These developments are challenging established players and driving innovation in the industry.",
-  "whyItMatters": "This trend democratizes access to advanced AI capabilities, potentially reducing the dominance of proprietary platforms and fostering broader adoption and development.",
-  "synthesizedAt": "2026-10-29T15:43:15.284Z",
+  "headline": "Open-Source AI Models Challenge Proprietary Systems in Cybersecurity and Beyond",
+  "summary": "Mistral and Elorian have released open-source AI models, challenging proprietary systems like OpenAI's and Amazon's in cybersecurity and visual reasoning. This trend is expanding access and driving innovation in AI.",
+  "whyItMatters": "It broadens the AI ecosystem by providing more options and reducing reliance on closed platforms, fostering competition and accelerating technological advancements.",
+  "synthesizedAt": "2026-10-29T18:49:56.007Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "mistral-https://mistral.ai/news/mistral-large-4-oss/",
-    "title": "Mistral AI Unveils Open-Source Le Chonk Model, Enhances Coding Capabilities",
-    "link": "https://mistral.ai/news/mistral-large-4-oss/",
-    "sourceName": "Mistral AI",
-    "sourceId": "mistral",
-    "pubDate": "2026-10-29T12:00:07.000Z",
-    "badgeColor": "orange",
-    "angle": "Technical Deep Dive"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3182668",
+    "title": "Mistral Unveils Trillion-Parameter AI Model Weights for Cybersecurity",
+    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-10-29T17:00:00.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
@@ -23,17 +23,17 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-10-29T15:25:27.000Z",
       "badgeColor": "slate",
-      "angle": "Official Release"
+      "angle": "Industry Analysis"
     },
     {
-      "id": "huggingface-https://huggingface.co/blog/mistral-large4",
-      "title": "Hugging Face Releases Mistral Large 4 Model on Platform",
-      "link": "https://huggingface.co/blog/mistral-large4",
-      "sourceName": "Hugging Face Blog",
-      "sourceId": "huggingface",
-      "pubDate": "2026-10-29T00:00:00.000Z",
-      "badgeColor": "yellow",
-      "angle": "Industry Analysis"
+      "id": "latent-space-urn:latent-space:post:post_5b8f3496-af90-414a-aed2-a87d44870a49",
+      "title": "Elorian's Glimpse Tackles Visual Reasoning Gaps in AI Models",
+      "link": "https://latent.space/p/elorian/",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-10-29T16:00:00.000Z",
+      "badgeColor": "pink",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
