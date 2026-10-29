@@ -1,20 +1,40 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Systems in Cybersecurity and Beyond",
-  "summary": "Mistral and Elorian have released open-source AI models, challenging proprietary systems like OpenAI's and Amazon's in cybersecurity and visual reasoning. This trend is expanding access and driving innovation in AI.",
-  "whyItMatters": "It broadens the AI ecosystem by providing more options and reducing reliance on closed platforms, fostering competition and accelerating technological advancements.",
-  "synthesizedAt": "2026-10-29T18:49:56.007Z",
+  "headline": "OpenAI's Model Expansion Challenges Industry Norms",
+  "summary": "OpenAI has significantly increased the usage limits for its Pro plans and released a new trillion-parameter model, signaling a shift in the AI industry towards more powerful and accessible models. This move is driving competition and innovation, impacting developers and users alike.",
+  "whyItMatters": "It underscores the growing importance of model size and capability in the AI landscape, influencing both proprietary and open-source approaches.",
+  "synthesizedAt": "2026-10-29T21:55:26.103Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3182668",
-    "title": "Mistral Unveils Trillion-Parameter AI Model Weights for Cybersecurity",
-    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-10-29T17:00:00.000Z",
-    "badgeColor": "emerald",
+    "id": "the-decoder-https://the-decoder.com/?p=42156",
+    "title": "OpenAI Doubles Pro Plan Usage Limits Amid Intensifying Competition with Anthropic",
+    "link": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-29T20:01:27.000Z",
+    "badgeColor": "slate",
     "angle": "Official Release"
   },
   "supportingStories": [
+    {
+      "id": "openai-https://openai.com/index/updated-model-spec",
+      "title": "OpenAI Updates Model Spec to Enhance AI Capabilities and Ethical Standards",
+      "link": "https://openai.com/index/updated-model-spec",
+      "sourceName": "OpenAI News",
+      "sourceId": "openai",
+      "pubDate": "2026-10-29T17:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3182668",
+      "title": "Mistral Unveils Trillion-Parameter AI Model Weights for Cybersecurity",
+      "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-29T17:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
+    },
     {
       "id": "the-decoder-https://the-decoder.com/?p=42140",
       "title": "Mistral Unveils Le Chonk, a European-Developed Coding Model Competing with Global Giants",
@@ -23,17 +43,7 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-10-29T15:25:27.000Z",
       "badgeColor": "slate",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "latent-space-urn:latent-space:post:post_5b8f3496-af90-414a-aed2-a87d44870a49",
-      "title": "Elorian's Glimpse Tackles Visual Reasoning Gaps in AI Models",
-      "link": "https://latent.space/p/elorian/",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-10-29T16:00:00.000Z",
-      "badgeColor": "pink",
-      "angle": "Technical Deep Dive"
+      "angle": "Competitive Landscape"
     }
   ]
 }
