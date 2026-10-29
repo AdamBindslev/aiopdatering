@@ -1,29 +1,39 @@
 {
-  "headline": "Gemini 4 Carbon Reshapes AI Landscape in Cybersecurity",
-  "summary": "Google's Gemini 4 Carbon has outperformed competitors in cybersecurity tasks, setting a new benchmark and potentially reshaping the AI market. This advancement is driving increased interest in advanced AI models and their practical applications.",
-  "whyItMatters": "It highlights the growing importance of specialized AI models in critical sectors and could lead to broader adoption of cutting-edge AI technologies.",
-  "synthesizedAt": "2026-10-29T09:27:19.544Z",
+  "headline": "Tech Leaders Draw Parallels Between AI and Financial Crisis, Advocating for 'Too Big to Fail' Principle",
+  "summary": "Tech executives are drawing parallels between the financial crisis of the early 2000s and the current AI landscape, arguing that AI systems should be regulated to prevent a 'too big to fail' scenario. This shift is signaling growing concerns over the potential risks and monopolistic power of large AI systems.",
+  "whyItMatters": "It highlights the increasing need for regulatory oversight in the AI sector to prevent monopolistic practices and ensure the stability and security of AI systems.",
+  "synthesizedAt": "2026-10-29T12:34:21.427Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "latent-space-urn:latent-space:post:post_211d308e-4494-4480-adc1-9d69c85efd19",
-    "title": "Gemini 4 Carbon Outperforms Competitors, Launches for Cybersecurity Professionals",
-    "link": "https://latent.space/p/ainews-gemini-4-carbon/",
-    "sourceName": "Latent Space (Swyx & Alessio)",
-    "sourceId": "latent-space",
-    "pubDate": "2026-10-29T05:55:19.000Z",
-    "badgeColor": "pink",
-    "angle": "Official Release"
+    "id": "version2-https://ing.dk/artikel/techbossernes-drejebog-er-formet-af-finanskrisen-ai-skal-vaere-too-big-fail",
+    "title": "Tech Leaders Draw Parallels Between AI and Financial Crisis, Advocating for 'Too Big to Fail' Principle",
+    "link": "https://ing.dk/artikel/techbossernes-drejebog-er-formet-af-finanskrisen-ai-skal-vaere-too-big-fail",
+    "sourceName": "Version2 (Ingeniøren)",
+    "sourceId": "version2",
+    "pubDate": "2026-10-29T12:00:00.000Z",
+    "badgeColor": "red",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3182884",
-      "title": "Google Expands AI-Driven Search Ads Globally Amid Slowing Core Ad Growth",
-      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-28T21:48:37.000Z",
+      "id": "lesswrong-ai-n8u3BfqFoGh4jnzpo",
+      "title": "Plan R: AI Safety by ASICs Aims to Mitigate Civilization-Scale Risks",
+      "link": "https://www.lesswrong.com/posts/n8u3BfqFoGh4jnzpo/plan-r-ai-safety-by-asics",
+      "sourceName": "LessWrong (Curated AI)",
+      "sourceId": "lesswrong-ai",
+      "pubDate": "2026-10-29T02:08:07.000Z",
       "badgeColor": "emerald",
-      "angle": "Industry Impact"
+      "angle": "Policy Impact"
+    },
+    {
+      "id": "openai-channel-yt:video:ujmyzWSj8IU",
+      "title": "OpenAI Introduces API Credit Incentives for ChatGPT Pro and Business Subscribers",
+      "link": "https://www.youtube.com/watch?v=ujmyzWSj8IU",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-10-28T23:45:26.000Z",
+      "badgeColor": "emerald",
+      "angle": "Business Strategy"
     },
     {
       "id": "techcrunch-ai-https://techcrunch.com/?p=3182880",
@@ -32,17 +42,8 @@
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
       "pubDate": "2026-10-28T21:34:30.000Z",
-      "badgeColor": "emerald"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=42108",
-      "title": "Google DeepMind Unveils Gemini 4 Carbon, Outperforming Competitors on Artificial Analysis Index",
-      "link": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-28T19:17:58.000Z",
-      "badgeColor": "slate",
-      "angle": "Competitive Benchmark"
+      "badgeColor": "emerald",
+      "angle": "Financial Impact"
     }
   ]
 }
