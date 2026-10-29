@@ -1,8 +1,8 @@
 {
-  "headline": "Google Gemini 4 Carbon Dominates AI Benchmark, Sparking Industry Competition",
-  "summary": "Google DeepMind's Gemini 4 Carbon model scores highly on the Artificial Analysis Index, outperforming competitors. This achievement is driving a competitive race among tech giants to develop superior AI models and tools.",
-  "whyItMatters": "It highlights the ongoing arms race in AI model development and sets new benchmarks for performance, influencing industry strategies and investments.",
-  "synthesizedAt": "2026-10-29T00:07:45.467Z",
+  "headline": "Google Gemini 4 Carbon Dominates AI Benchmark, Expands Integration Capabilities",
+  "summary": "Google DeepMind's Gemini 4 Carbon model scores highly on the Artificial Analysis Index, outperforming competitors. Simultaneously, Google expands its Gemini and Search APIs, facilitating broader integration of AI agents across various platforms.",
+  "whyItMatters": "This dual move highlights Google's continued leadership in AI model performance and ecosystem expansion, potentially reshaping the AI landscape and setting new standards for developers and enterprises.",
+  "synthesizedAt": "2026-10-29T03:13:23.453Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=42108",
@@ -16,24 +16,14 @@
   },
   "supportingStories": [
     {
-      "id": "ars-technica-https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-      "title": "Google AI Responds Differently to Election Questions Depending on Location",
-      "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-      "sourceName": "Ars Technica – AI",
-      "sourceId": "ars-technica",
-      "pubDate": "2026-10-28T17:46:32.000Z",
-      "badgeColor": "orange",
-      "angle": "Performance Benchmark"
-    },
-    {
-      "id": "deepmind-https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "title": "Google DeepMind Unveils Gemini 4 Carbon: Next-Generation AI Model",
-      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "sourceName": "Google DeepMind",
-      "sourceId": "deepmind",
-      "pubDate": "2026-10-28T17:00:58.000Z",
-      "badgeColor": "cyan",
-      "angle": "Technical Deep Dive"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3182643",
+      "title": "Anthropic Unveils Transparency Tools to Illuminate AI Spending for Corporate Users",
+      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-28T19:19:58.000Z",
+      "badgeColor": "emerald",
+      "angle": "Transparency Tools"
     },
     {
       "id": "techcrunch-ai-https://techcrunch.com/?p=3182509",
@@ -43,7 +33,16 @@
       "sourceId": "techcrunch-ai",
       "pubDate": "2026-10-28T17:00:00.000Z",
       "badgeColor": "emerald",
-      "angle": "Industry Impact"
+      "angle": "Developer Platform"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=42085",
+      "title": "Google Expands Android Studio to Support Third-Party AI Agents with New Gemini APIs",
+      "link": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-28T16:59:59.000Z",
+      "badgeColor": "slate"
     }
   ]
 }
