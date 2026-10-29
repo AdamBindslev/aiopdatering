@@ -1,58 +1,48 @@
 {
-  "headline": "Google Gemini 4 Carbon Dominates AI Market, Sparking Cybersecurity and Developer Trends",
-  "summary": "Google's Gemini 4 Carbon has outperformed competitors in cybersecurity tasks, driving significant industry attention. This model's success is fueling broader discussions on AI agent deployment, transparency, and the expansion of AI capabilities in various sectors.",
-  "whyItMatters": "It highlights the growing importance of advanced AI models in critical applications and underscores the competitive landscape in the AI market.",
-  "synthesizedAt": "2026-10-29T06:20:17.683Z",
+  "headline": "Gemini 4 Carbon Reshapes AI Landscape in Cybersecurity",
+  "summary": "Google's Gemini 4 Carbon has outperformed competitors in cybersecurity tasks, setting a new benchmark and potentially reshaping the AI market. This advancement is driving increased interest in advanced AI models and their practical applications.",
+  "whyItMatters": "It highlights the growing importance of specialized AI models in critical sectors and could lead to broader adoption of cutting-edge AI technologies.",
+  "synthesizedAt": "2026-10-29T09:27:19.544Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42108",
-    "title": "Google DeepMind Unveils Gemini 4 Carbon, Outperforming Competitors on Artificial Analysis Index",
-    "link": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-28T19:17:58.000Z",
-    "badgeColor": "slate",
+    "id": "latent-space-urn:latent-space:post:post_211d308e-4494-4480-adc1-9d69c85efd19",
+    "title": "Gemini 4 Carbon Outperforms Competitors, Launches for Cybersecurity Professionals",
+    "link": "https://latent.space/p/ainews-gemini-4-carbon/",
+    "sourceName": "Latent Space (Swyx & Alessio)",
+    "sourceId": "latent-space",
+    "pubDate": "2026-10-29T05:55:19.000Z",
+    "badgeColor": "pink",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "latent-space-urn:latent-space:post:post_211d308e-4494-4480-adc1-9d69c85efd19",
-      "title": "Gemini 4 Carbon Outperforms Competitors, Launches for Cybersecurity Professionals",
-      "link": "https://latent.space/p/ainews-gemini-4-carbon/",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-10-29T05:55:19.000Z",
-      "badgeColor": "pink"
-    },
-    {
-      "id": "deepmind-https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "title": "Google DeepMind Unveils Gemini 4 Carbon: Next-Generation AI Model",
-      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "sourceName": "Google DeepMind",
-      "sourceId": "deepmind",
-      "pubDate": "2026-10-28T17:00:58.000Z",
-      "badgeColor": "cyan",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3182509",
-      "title": "Google Expands Gemini and Search APIs to Facilitate Integration of AI Agents",
-      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3182884",
+      "title": "Google Expands AI-Driven Search Ads Globally Amid Slowing Core Ad Growth",
+      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-28T17:00:00.000Z",
+      "pubDate": "2026-10-28T21:48:37.000Z",
       "badgeColor": "emerald",
-      "angle": "Industry Analysis"
+      "angle": "Industry Impact"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42085",
-      "title": "Google Expands Android Studio to Support Third-Party AI Agents with New Gemini APIs",
-      "link": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3182880",
+      "title": "Microsoft Reports $10 Billion in Revenue from OpenAI Partnership",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-28T21:34:30.000Z",
+      "badgeColor": "emerald"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=42108",
+      "title": "Google DeepMind Unveils Gemini 4 Carbon, Outperforming Competitors on Artificial Analysis Index",
+      "link": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-10-28T16:59:59.000Z",
+      "pubDate": "2026-10-28T19:17:58.000Z",
       "badgeColor": "slate",
-      "angle": "Developer Impact"
+      "angle": "Competitive Benchmark"
     }
   ]
 }
