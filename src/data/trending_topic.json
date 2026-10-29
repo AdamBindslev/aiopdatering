@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Source AI Models Gain Ground, Challenge Proprietary Systems",
-  "summary": "A growing number of open-source AI models, such as Gemini 4 Carbon and Nemotron 3.5 Transcribe, are outperforming proprietary counterparts. This trend is driving innovation and reducing costs for developers and businesses, while putting pressure on closed platforms.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and fosters greater competition, potentially leading to more transparency and innovation in the AI ecosystem.",
-  "synthesizedAt": "2026-10-28T21:02:03.015Z",
+  "headline": "Google Gemini 4 Carbon Dominates AI Benchmark, Sparking Industry Competition",
+  "summary": "Google DeepMind's Gemini 4 Carbon model scores highly on the Artificial Analysis Index, outperforming competitors. This achievement is driving a competitive race among tech giants to develop superior AI models and tools.",
+  "whyItMatters": "It highlights the ongoing arms race in AI model development and sets new benchmarks for performance, influencing industry strategies and investments.",
+  "synthesizedAt": "2026-10-29T00:07:45.467Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=42108",
@@ -16,6 +16,16 @@
   },
   "supportingStories": [
     {
+      "id": "ars-technica-https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "title": "Google AI Responds Differently to Election Questions Depending on Location",
+      "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "sourceName": "Ars Technica – AI",
+      "sourceId": "ars-technica",
+      "pubDate": "2026-10-28T17:46:32.000Z",
+      "badgeColor": "orange",
+      "angle": "Performance Benchmark"
+    },
+    {
       "id": "deepmind-https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
       "title": "Google DeepMind Unveils Gemini 4 Carbon: Next-Generation AI Model",
       "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
@@ -26,14 +36,14 @@
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42068",
-      "title": "Nvidia Unveils Nemotron 3.5 Transcribe: A Multifunctional Open-Source Speech Recognition Model",
-      "link": "https://the-decoder.com/nvidias-open-nemotron-3-5-transcribe-combines-transcription-translation-and-speaker-recognition/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-28T15:49:39.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Analysis"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3182509",
+      "title": "Google Expands Gemini and Search APIs to Facilitate Integration of AI Agents",
+      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-28T17:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Impact"
     }
   ]
 }
