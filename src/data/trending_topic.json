@@ -1,8 +1,8 @@
 {
-  "headline": "Google Gemini 4 Carbon Dominates AI Benchmark, Expands Integration Capabilities",
-  "summary": "Google DeepMind's Gemini 4 Carbon model scores highly on the Artificial Analysis Index, outperforming competitors. Simultaneously, Google expands its Gemini and Search APIs, facilitating broader integration of AI agents across various platforms.",
-  "whyItMatters": "This dual move highlights Google's continued leadership in AI model performance and ecosystem expansion, potentially reshaping the AI landscape and setting new standards for developers and enterprises.",
-  "synthesizedAt": "2026-10-29T03:13:23.453Z",
+  "headline": "Google Gemini 4 Carbon Dominates AI Market, Sparking Cybersecurity and Developer Trends",
+  "summary": "Google's Gemini 4 Carbon has outperformed competitors in cybersecurity tasks, driving significant industry attention. This model's success is fueling broader discussions on AI agent deployment, transparency, and the expansion of AI capabilities in various sectors.",
+  "whyItMatters": "It highlights the growing importance of advanced AI models in critical applications and underscores the competitive landscape in the AI market.",
+  "synthesizedAt": "2026-10-29T06:20:17.683Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=42108",
@@ -16,14 +16,23 @@
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3182643",
-      "title": "Anthropic Unveils Transparency Tools to Illuminate AI Spending for Corporate Users",
-      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-28T19:19:58.000Z",
-      "badgeColor": "emerald",
-      "angle": "Transparency Tools"
+      "id": "latent-space-urn:latent-space:post:post_211d308e-4494-4480-adc1-9d69c85efd19",
+      "title": "Gemini 4 Carbon Outperforms Competitors, Launches for Cybersecurity Professionals",
+      "link": "https://latent.space/p/ainews-gemini-4-carbon/",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-10-29T05:55:19.000Z",
+      "badgeColor": "pink"
+    },
+    {
+      "id": "deepmind-https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "title": "Google DeepMind Unveils Gemini 4 Carbon: Next-Generation AI Model",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "sourceName": "Google DeepMind",
+      "sourceId": "deepmind",
+      "pubDate": "2026-10-28T17:00:58.000Z",
+      "badgeColor": "cyan",
+      "angle": "Technical Deep Dive"
     },
     {
       "id": "techcrunch-ai-https://techcrunch.com/?p=3182509",
@@ -33,7 +42,7 @@
       "sourceId": "techcrunch-ai",
       "pubDate": "2026-10-28T17:00:00.000Z",
       "badgeColor": "emerald",
-      "angle": "Developer Platform"
+      "angle": "Industry Analysis"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=42085",
@@ -42,7 +51,8 @@
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
       "pubDate": "2026-10-28T16:59:59.000Z",
-      "badgeColor": "slate"
+      "badgeColor": "slate",
+      "angle": "Developer Impact"
     }
   ]
 }
