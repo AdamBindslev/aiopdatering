@@ -1,29 +1,29 @@
 {
   "headline": "Open-Weight AI Models Erode Proprietary Monopolies",
-  "summary": "A surge in open-weight AI models is challenging proprietary systems, leading to increased competition and broader access to advanced capabilities. This trend is reshaping the AI landscape, reducing dependence on closed platforms and driving innovation.",
-  "whyItMatters": "It democratizes access to cutting-edge AI technologies, fostering a more competitive and inclusive industry.",
-  "synthesizedAt": "2026-10-30T04:07:32.299Z",
+  "summary": "A surge in open-weight AI models is challenging proprietary systems, as universities and tech firms secure exemptions and deploy these models. This trend is widening access to advanced AI capabilities and pressuring closed platforms.",
+  "whyItMatters": "It democratizes advanced AI technologies, reducing reliance on expensive proprietary solutions and fostering innovation.",
+  "synthesizedAt": "2026-10-30T07:14:27.068Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "epoch-ai-CBMiakFVX3lxTE1FcFcxSXoxYjZGOTc3OHUyUkdzZGN6RlZlZWFTQ3lxS214SGlic1NXeFVGUTh1NTZ5c25jY19fNjd4TUNPS0dVWEJCaVpteHpqQ01XOW9NLVdaM2FDYzBoREo2UzJEdUQ2c1E",
-    "title": "Open-Weight AI Models Exploit Patch Gaps, Warns Epoch AI",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FcFcxSXoxYjZGOTc3OHUyUkdzZGN6RlZlZWFTQ3lxS214SGlic1NXeFVGUTh1NTZ5c25jY19fNjd4TUNPS0dVWEJCaVpteHpqQ01XOW9NLVdaM2FDYzBoREo2UzJEdUQ2c1E?oc=5",
-    "sourceName": "Epoch AI",
-    "sourceId": "epoch-ai",
-    "pubDate": "2026-10-29T21:46:18.000Z",
-    "badgeColor": "violet",
-    "angle": "Critical Debate"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3183095",
+    "title": "University Administrator Secures Religious Exemption from Using AI in Workplace",
+    "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-10-30T01:20:48.000Z",
+    "badgeColor": "emerald",
+    "angle": "Religious Exemption"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42156",
-      "title": "OpenAI Doubles Pro Plan Usage Limits Amid Intensifying Competition with Anthropic",
-      "link": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-29T20:01:27.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Analysis"
+      "id": "epoch-ai-CBMiakFVX3lxTE1FcFcxSXoxYjZGOTc3OHUyUkdzZGN6RlZlZWFTQ3lxS214SGlic1NXeFVGUTh1NTZ5c25jY19fNjd4TUNPS0dVWEJCaVpteHpqQ01XOW9NLVdaM2FDYzBoREo2UzJEdUQ2c1E",
+      "title": "Open-Weight AI Models Exploit Patch Gaps, Warns Epoch AI",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FcFcxSXoxYjZGOTc3OHUyUkdzZGN6RlZlZWFTQ3lxS214SGlic1NXeFVGUTh1NTZ5c25jY19fNjd4TUNPS0dVWEJCaVpteHpqQ01XOW9NLVdaM2FDYzBoREo2UzJEdUQ2c1E?oc=5",
+      "sourceName": "Epoch AI",
+      "sourceId": "epoch-ai",
+      "pubDate": "2026-10-29T21:46:18.000Z",
+      "badgeColor": "violet",
+      "angle": "Security Risks"
     },
     {
       "id": "techcrunch-ai-https://techcrunch.com/?p=3182668",
@@ -33,17 +33,7 @@
       "sourceId": "techcrunch-ai",
       "pubDate": "2026-10-29T17:00:00.000Z",
       "badgeColor": "emerald",
-      "angle": "Official Launch"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=42140",
-      "title": "Mistral Unveils Le Chonk, a European-Developed Coding Model Competing with Global Giants",
-      "link": "https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-29T15:25:27.000Z",
-      "badgeColor": "slate",
-      "angle": "Competitive Landscape"
+      "angle": "Model Release"
     }
   ]
 }
