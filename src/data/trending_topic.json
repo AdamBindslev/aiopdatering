@@ -1,39 +1,58 @@
 {
-  "headline": "Open-Weight AI Models Spark Security and Capability Debates",
-  "summary": "Open-weight AI models, such as GLM 5.3 and Mistral, are generating significant debate and security concerns. These models are demonstrating advanced reasoning capabilities and exploiting vulnerabilities, prompting discussions on their deployment and regulation.",
-  "whyItMatters": "This trend highlights the rapid advancement of open-source AI and its potential risks, influencing industry practices and policy discussions.",
-  "synthesizedAt": "2026-10-30T16:36:06.712Z",
+  "headline": "Open-Source AI Models Challenge Proprietary Systems",
+  "summary": "Mistral Large 4 and other open-source AI models are gaining traction, demonstrating competitive capabilities and reducing reliance on closed APIs. This shift is driving innovation and access to advanced AI technologies.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and puts pressure on proprietary platforms to improve their offerings and pricing.",
+  "synthesizedAt": "2026-10-30T19:43:35.802Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42165",
-    "title": "GLM 5.3 AI Model Automates Exploit Chain Creation, Raises Security Concerns",
-    "link": "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-30T12:22:18.000Z",
-    "badgeColor": "slate",
-    "angle": "Critical Flaw"
+    "id": "cognitive-revolution-yt:video:1ydgswLw8MY",
+    "title": "Mistral Large 4 Emerges as Top Open-Source AI Model Amid Cybersecurity Concerns",
+    "link": "https://www.youtube.com/watch?v=1ydgswLw8MY",
+    "sourceName": "The Cognitive Revolution",
+    "sourceId": "cognitive-revolution",
+    "pubDate": "2026-10-30T18:38:00.000Z",
+    "badgeColor": "teal",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "latent-space-urn:latent-space:post:post_4bbfc159-731d-476e-a98e-feff058c9af8",
-      "title": "Mistral’s Open-Weight Release Sparks Discussion at AIE CODE Conference",
-      "link": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-10-30T08:24:29.000Z",
-      "badgeColor": "pink",
+      "id": "ars-technica-https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "title": "DoorDash Reports Limited Success with External AI Agents in E-commerce",
+      "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "sourceName": "Ars Technica – AI",
+      "sourceId": "ars-technica",
+      "pubDate": "2026-10-30T19:30:52.000Z",
+      "badgeColor": "orange"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=42173",
+      "title": "OpenAI Redefines AI Behavior Guidelines with Core Values Focus",
+      "link": "https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-30T17:44:59.000Z",
+      "badgeColor": "slate",
       "angle": "Industry Analysis"
     },
     {
-      "id": "epoch-ai-CBMiakFVX3lxTE1FcFcxSXoxYjZGOTc3OHUyUkdzZGN6RlZlZWFTQ3lxS214SGlic1NXeFVGUTh1NTZ5c25jY19fNjd4TUNPS0dVWEJCaVpteHpqQ01XOW9NLVdaM2FDYzBoREo2UzJEdUQ2c1E",
-      "title": "Open-Weight AI Models Exploit Patch Gaps, Warns Epoch AI",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FcFcxSXoxYjZGOTc3OHUyUkdzZGN6RlZlZWFTQ3lxS214SGlic1NXeFVGUTh1NTZ5c25jY19fNjd4TUNPS0dVWEJCaVpteHpqQ01XOW9NLVdaM2FDYzBoREo2UzJEdUQ2c1E?oc=5",
+      "id": "epoch-ai-CBMiPkFVX3lxTFBuTkRiRVB4TlhwNTlaX2pzWnFyYmxNdjZMSkRFOGVIUzItaFpJTEN6dFdkY3hFWENCdW1meHBB",
+      "title": "epoch.ai Warns of Emerging Cyber Vulnerabilities",
+      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBuTkRiRVB4TlhwNTlaX2pzWnFyYmxNdjZMSkRFOGVIUzItaFpJTEN6dFdkY3hFWENCdW1meHBB?oc=5",
       "sourceName": "Epoch AI",
       "sourceId": "epoch-ai",
-      "pubDate": "2026-10-29T21:46:18.000Z",
+      "pubDate": "2026-10-30T16:53:22.000Z",
       "badgeColor": "violet",
-      "angle": "Security Concerns"
+      "angle": "Critical Debate"
+    },
+    {
+      "id": "weights-and-biases-yt:video:kwG5RIg1s98",
+      "title": "AI Simulation Agents Reach 85% Accuracy in Predicting Human Behavior",
+      "link": "https://www.youtube.com/shorts/kwG5RIg1s98",
+      "sourceName": "Weights & Biases",
+      "sourceId": "weights-and-biases",
+      "pubDate": "2026-10-30T13:00:34.000Z",
+      "badgeColor": "yellow",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
