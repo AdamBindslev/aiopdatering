@@ -1,39 +1,38 @@
 {
-  "headline": "Open-Weight AI Models Erode Proprietary Monopolies",
-  "summary": "A surge in open-weight AI models is challenging proprietary systems, as universities and tech firms secure exemptions and deploy these models. This trend is widening access to advanced AI capabilities and pressuring closed platforms.",
-  "whyItMatters": "It democratizes advanced AI technologies, reducing reliance on expensive proprietary solutions and fostering innovation.",
-  "synthesizedAt": "2026-10-30T07:14:27.068Z",
+  "headline": "Mistral’s Open-Weight AI Model Weights Spark AI Industry Debate",
+  "summary": "Mistral’s release of open-weight AI model weights, including frontier monitoring features, is generating significant industry discussion at conferences and among developers. This move challenges proprietary models and could accelerate local AI deployment.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and puts downward pressure on closed proprietary platforms, potentially reshaping the AI landscape.",
+  "synthesizedAt": "2026-10-30T10:21:15.838Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3183095",
-    "title": "University Administrator Secures Religious Exemption from Using AI in Workplace",
-    "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-10-30T01:20:48.000Z",
-    "badgeColor": "emerald",
-    "angle": "Religious Exemption"
+    "id": "latent-space-urn:latent-space:post:post_4bbfc159-731d-476e-a98e-feff058c9af8",
+    "title": "Mistral’s Open-Weight Release Sparks Discussion at AIE CODE Conference",
+    "link": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+    "sourceName": "Latent Space (Swyx & Alessio)",
+    "sourceId": "latent-space",
+    "pubDate": "2026-10-30T08:24:29.000Z",
+    "badgeColor": "pink",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "epoch-ai-CBMiakFVX3lxTE1FcFcxSXoxYjZGOTc3OHUyUkdzZGN6RlZlZWFTQ3lxS214SGlic1NXeFVGUTh1NTZ5c25jY19fNjd4TUNPS0dVWEJCaVpteHpqQ01XOW9NLVdaM2FDYzBoREo2UzJEdUQ2c1E",
-      "title": "Open-Weight AI Models Exploit Patch Gaps, Warns Epoch AI",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FcFcxSXoxYjZGOTc3OHUyUkdzZGN6RlZlZWFTQ3lxS214SGlic1NXeFVGUTh1NTZ5c25jY19fNjd4TUNPS0dVWEJCaVpteHpqQ01XOW9NLVdaM2FDYzBoREo2UzJEdUQ2c1E?oc=5",
-      "sourceName": "Epoch AI",
-      "sourceId": "epoch-ai",
-      "pubDate": "2026-10-29T21:46:18.000Z",
-      "badgeColor": "violet",
-      "angle": "Security Risks"
+      "id": "version2-https://ing.dk/artikel/topoekonom-brister-illusion-techgiganterne-spinder-som-de-eneste-guld-paa-ai",
+      "title": "Economist Debunks AI Myths: Tech Giants See AI as a Cost, Not a Profit Driver",
+      "link": "https://ing.dk/artikel/topoekonom-brister-illusion-techgiganterne-spinder-som-de-eneste-guld-paa-ai",
+      "sourceName": "Version2 (Ingeniøren)",
+      "sourceId": "version2",
+      "pubDate": "2026-10-30T08:50:00.000Z",
+      "badgeColor": "red"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3182668",
-      "title": "Mistral Unveils Trillion-Parameter AI Model Weights for Cybersecurity",
-      "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
+      "id": "openai-https://openai.com/index/updated-model-spec",
+      "title": "OpenAI Updates Model Spec to Enhance AI Capabilities and Ethical Standards",
+      "link": "https://openai.com/index/updated-model-spec",
+      "sourceName": "OpenAI News",
+      "sourceId": "openai",
       "pubDate": "2026-10-29T17:00:00.000Z",
       "badgeColor": "emerald",
-      "angle": "Model Release"
+      "angle": "Industry Analysis"
     }
   ]
 }
