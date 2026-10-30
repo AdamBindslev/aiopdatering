@@ -1,38 +1,39 @@
 {
-  "headline": "Mistral’s Open-Weight AI Model Weights Spark AI Industry Debate",
-  "summary": "Mistral’s release of open-weight AI model weights, including frontier monitoring features, is generating significant industry discussion at conferences and among developers. This move challenges proprietary models and could accelerate local AI deployment.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and puts downward pressure on closed proprietary platforms, potentially reshaping the AI landscape.",
-  "synthesizedAt": "2026-10-30T10:21:15.838Z",
+  "headline": "Open-Weight AI Models Challenge Proprietary Systems",
+  "summary": "Open-weight AI models like GLM 5.3 and Mistral are demonstrating advanced capabilities, putting pressure on proprietary systems and opening up new possibilities for developers. This trend is driving innovation and reducing reliance on closed platforms.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and could lead to more competitive pricing and greater developer freedom.",
+  "synthesizedAt": "2026-10-30T13:28:37.894Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "latent-space-urn:latent-space:post:post_4bbfc159-731d-476e-a98e-feff058c9af8",
-    "title": "Mistral’s Open-Weight Release Sparks Discussion at AIE CODE Conference",
-    "link": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
-    "sourceName": "Latent Space (Swyx & Alessio)",
-    "sourceId": "latent-space",
-    "pubDate": "2026-10-30T08:24:29.000Z",
-    "badgeColor": "pink",
+    "id": "the-decoder-https://the-decoder.com/?p=42165",
+    "title": "GLM 5.3 AI Model Automates Exploit Chain Creation, Raises Security Concerns",
+    "link": "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-30T12:22:18.000Z",
+    "badgeColor": "slate",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "version2-https://ing.dk/artikel/topoekonom-brister-illusion-techgiganterne-spinder-som-de-eneste-guld-paa-ai",
-      "title": "Economist Debunks AI Myths: Tech Giants See AI as a Cost, Not a Profit Driver",
-      "link": "https://ing.dk/artikel/topoekonom-brister-illusion-techgiganterne-spinder-som-de-eneste-guld-paa-ai",
-      "sourceName": "Version2 (Ingeniøren)",
-      "sourceId": "version2",
-      "pubDate": "2026-10-30T08:50:00.000Z",
-      "badgeColor": "red"
+      "id": "latent-space-urn:latent-space:post:post_4bbfc159-731d-476e-a98e-feff058c9af8",
+      "title": "Mistral’s Open-Weight Release Sparks Discussion at AIE CODE Conference",
+      "link": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-10-30T08:24:29.000Z",
+      "badgeColor": "pink",
+      "angle": "Critical Debate"
     },
     {
-      "id": "openai-https://openai.com/index/updated-model-spec",
-      "title": "OpenAI Updates Model Spec to Enhance AI Capabilities and Ethical Standards",
-      "link": "https://openai.com/index/updated-model-spec",
-      "sourceName": "OpenAI News",
-      "sourceId": "openai",
-      "pubDate": "2026-10-29T17:00:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
+      "id": "epoch-ai-CBMiakFVX3lxTE1FcFcxSXoxYjZGOTc3OHUyUkdzZGN6RlZlZWFTQ3lxS214SGlic1NXeFVGUTh1NTZ5c25jY19fNjd4TUNPS0dVWEJCaVpteHpqQ01XOW9NLVdaM2FDYzBoREo2UzJEdUQ2c1E",
+      "title": "Open-Weight AI Models Exploit Patch Gaps, Warns Epoch AI",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FcFcxSXoxYjZGOTc3OHUyUkdzZGN6RlZlZWFTQ3lxS214SGlic1NXeFVGUTh1NTZ5c25jY19fNjd4TUNPS0dVWEJCaVpteHpqQ01XOW9NLVdaM2FDYzBoREo2UzJEdUQ2c1E?oc=5",
+      "sourceName": "Epoch AI",
+      "sourceId": "epoch-ai",
+      "pubDate": "2026-10-29T21:46:18.000Z",
+      "badgeColor": "violet",
+      "angle": "Security Concerns"
     }
   ]
 }
