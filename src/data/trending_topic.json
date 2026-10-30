@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Weight AI Models Exploit Patch Gaps, Warnings Emerge",
-  "summary": "Epoch AI has warned that open-weight AI models can exploit security vulnerabilities known as 'patch gaps,' potentially leading to significant risks. This raises concerns about the security implications of open-source AI models and their potential misuse.",
-  "whyItMatters": "It highlights the security risks associated with open-weight AI models and underscores the need for robust security measures in AI development and deployment.",
-  "synthesizedAt": "2026-10-30T01:01:08.057Z",
+  "headline": "Open-Weight AI Models Erode Proprietary Monopolies",
+  "summary": "A surge in open-weight AI models is challenging proprietary systems, leading to increased competition and broader access to advanced capabilities. This trend is reshaping the AI landscape, reducing dependence on closed platforms and driving innovation.",
+  "whyItMatters": "It democratizes access to cutting-edge AI technologies, fostering a more competitive and inclusive industry.",
+  "synthesizedAt": "2026-10-30T04:07:32.299Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "epoch-ai-CBMiakFVX3lxTE1FcFcxSXoxYjZGOTc3OHUyUkdzZGN6RlZlZWFTQ3lxS214SGlic1NXeFVGUTh1NTZ5c25jY19fNjd4TUNPS0dVWEJCaVpteHpqQ01XOW9NLVdaM2FDYzBoREo2UzJEdUQ2c1E",
@@ -12,19 +12,9 @@
     "sourceId": "epoch-ai",
     "pubDate": "2026-10-29T21:46:18.000Z",
     "badgeColor": "violet",
-    "angle": "Security Warning"
+    "angle": "Critical Debate"
   },
   "supportingStories": [
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3183387",
-      "title": "AWS Aims for $1 Trillion Revenue with Aggressive Capex Spending",
-      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-29T23:42:22.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
-    },
     {
       "id": "the-decoder-https://the-decoder.com/?p=42156",
       "title": "OpenAI Doubles Pro Plan Usage Limits Amid Intensifying Competition with Anthropic",
@@ -33,7 +23,7 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-10-29T20:01:27.000Z",
       "badgeColor": "slate",
-      "angle": "Competitive Response"
+      "angle": "Industry Analysis"
     },
     {
       "id": "techcrunch-ai-https://techcrunch.com/?p=3182668",
@@ -43,7 +33,17 @@
       "sourceId": "techcrunch-ai",
       "pubDate": "2026-10-29T17:00:00.000Z",
       "badgeColor": "emerald",
-      "angle": "Technical Detail"
+      "angle": "Official Launch"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=42140",
+      "title": "Mistral Unveils Le Chonk, a European-Developed Coding Model Competing with Global Giants",
+      "link": "https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-29T15:25:27.000Z",
+      "badgeColor": "slate",
+      "angle": "Competitive Landscape"
     }
   ]
 }
