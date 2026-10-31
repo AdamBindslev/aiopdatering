@@ -1,38 +1,49 @@
 {
-  "headline": "Mistral Large 4 Emerges as Top Open-Source AI Model Amid Cybersecurity Concerns",
-  "summary": "Mistral Large 4 has been launched as a leading open-source AI model, sparking debate and discussion in the industry. The model's emergence is significant as it challenges proprietary models and raises cybersecurity concerns.",
-  "whyItMatters": "It opens up advanced AI capabilities to a broader audience while highlighting the need for robust security measures in open-source AI models.",
-  "synthesizedAt": "2026-10-30T22:50:36.394Z",
+  "headline": "NVIDIA's AI Infrastructure Expansion Dominates Industry Focus",
+  "summary": "NVIDIA is expanding its AI infrastructure through various initiatives, including cosigning loans for data centers, launching new tools, and deploying AI models in diverse applications. This focus is driving significant industry attention and setting new standards for AI deployment.",
+  "whyItMatters": "NVIDIA's comprehensive approach to AI infrastructure is reshaping the landscape, influencing other tech giants and developers to invest more in AI capabilities.",
+  "synthesizedAt": "2026-10-31T01:54:56.174Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "cognitive-revolution-yt:video:1ydgswLw8MY",
-    "title": "Mistral Large 4 Emerges as Top Open-Source AI Model Amid Cybersecurity Concerns",
-    "link": "https://www.youtube.com/watch?v=1ydgswLw8MY",
-    "sourceName": "The Cognitive Revolution",
-    "sourceId": "cognitive-revolution",
-    "pubDate": "2026-10-30T18:38:00.000Z",
-    "badgeColor": "teal",
-    "angle": "Official Release"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3183989",
+    "title": "Nvidia Considers Cosigning Loan for Nscale’s AI Data Center in West Virginia",
+    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-10-31T01:20:05.000Z",
+    "badgeColor": "emerald",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "nvidia-developer-yt:video:z8Hhkeij9OE",
-      "title": "NVIDIA CUDA-X Enhances Structural Simulation in Abaqus via GPU Acceleration",
-      "link": "https://www.youtube.com/watch?v=z8Hhkeij9OE",
-      "sourceName": "NVIDIA Developer",
-      "sourceId": "nvidia-developer",
-      "pubDate": "2026-10-30T20:53:52.000Z",
-      "badgeColor": "green"
+      "id": "nvidia-https://developer.nvidia.com/blog/?p=124424",
+      "title": "NVIDIA Launches Validated Kubernetes Runtime for NVIDIA Dynamo",
+      "link": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/",
+      "sourceName": "NVIDIA Technical Blog",
+      "sourceId": "nvidia",
+      "pubDate": "2026-10-30T21:35:31.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42191",
-      "title": "Tampered Claude Code Extension Attempts Data Theft and Remote Access on Cursor Marketplace",
-      "link": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-30T18:16:10.000Z",
-      "badgeColor": "slate",
-      "angle": "Security Concerns"
+      "id": "nvidia-https://developer.nvidia.com/blog/?p=124453",
+      "title": "NVIDIA Simplifies Edge AI Model Deployment with Streamlined Command Interface",
+      "link": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/",
+      "sourceName": "NVIDIA Technical Blog",
+      "sourceId": "nvidia",
+      "pubDate": "2026-10-30T20:33:18.000Z",
+      "badgeColor": "emerald",
+      "angle": "Official Release"
+    },
+    {
+      "id": "nvidia-https://developer.nvidia.com/blog/?p=124341",
+      "title": "NVIDIA Launches NemoClaw for Secure and Customized Autonomous Agent Deployment",
+      "link": "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/",
+      "sourceName": "NVIDIA Technical Blog",
+      "sourceId": "nvidia",
+      "pubDate": "2026-10-30T16:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Official Release"
     }
   ]
 }
