@@ -1,49 +1,49 @@
 {
-  "headline": "NVIDIA's AI Infrastructure Expansion Dominates Industry Focus",
-  "summary": "NVIDIA is expanding its AI infrastructure through various initiatives, including cosigning loans for data centers, launching new tools, and deploying AI models in diverse applications. This focus is driving significant industry attention and setting new standards for AI deployment.",
-  "whyItMatters": "NVIDIA's comprehensive approach to AI infrastructure is reshaping the landscape, influencing other tech giants and developers to invest more in AI capabilities.",
-  "synthesizedAt": "2026-10-31T01:54:56.174Z",
+  "headline": "AI in Everyday Life: The Next Revolution Moves Beyond Data Centers",
+  "summary": "A new wave of AI technologies is set to integrate into daily life, moving beyond data centers. This shift is driven by advancements in model calibration, smart contract synthesis, and other techniques, raising questions about the timeline and implications for society.",
+  "whyItMatters": "It underscores the growing integration of AI into everyday applications, potentially transforming how we interact with technology and services.",
+  "synthesizedAt": "2026-10-31T05:04:06.591Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3183989",
-    "title": "Nvidia Considers Cosigning Loan for Nscale’s AI Data Center in West Virginia",
-    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-10-31T01:20:05.000Z",
-    "badgeColor": "emerald",
-    "angle": "Industry Analysis"
+    "id": "version2-https://ing.dk/artikel/robotterne-kommer-men-hvornaar",
+    "title": "The Next AI Revolution Moves from Data Centers to Daily Life: When Will It Arrive?",
+    "link": "https://ing.dk/artikel/robotterne-kommer-men-hvornaar",
+    "sourceName": "Version2 (Ingeniøren)",
+    "sourceId": "version2",
+    "pubDate": "2026-10-31T04:00:00.000Z",
+    "badgeColor": "red",
+    "angle": "Industry Trend"
   },
   "supportingStories": [
     {
-      "id": "nvidia-https://developer.nvidia.com/blog/?p=124424",
-      "title": "NVIDIA Launches Validated Kubernetes Runtime for NVIDIA Dynamo",
-      "link": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/",
-      "sourceName": "NVIDIA Technical Blog",
-      "sourceId": "nvidia",
-      "pubDate": "2026-10-30T21:35:31.000Z",
-      "badgeColor": "emerald",
+      "id": "arxiv-ai-oai:arXiv.org:2610.37731v1",
+      "title": "New Model Calibration Technique Addresses Context-Specific Discrepancies in AI Predictions",
+      "link": "https://arxiv.org/abs/2610.37731",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-10-31T04:00:00.000Z",
+      "badgeColor": "zinc",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "nvidia-https://developer.nvidia.com/blog/?p=124453",
-      "title": "NVIDIA Simplifies Edge AI Model Deployment with Streamlined Command Interface",
-      "link": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/",
-      "sourceName": "NVIDIA Technical Blog",
-      "sourceId": "nvidia",
-      "pubDate": "2026-10-30T20:33:18.000Z",
-      "badgeColor": "emerald",
-      "angle": "Official Release"
+      "id": "arxiv-ai-oai:arXiv.org:2610.37830v1",
+      "title": "AI Agents Struggle to Translate Intentions Accurately in Smart Contract Synthesis",
+      "link": "https://arxiv.org/abs/2610.37830",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-10-31T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Challenges and Solutions"
     },
     {
-      "id": "nvidia-https://developer.nvidia.com/blog/?p=124341",
-      "title": "NVIDIA Launches NemoClaw for Secure and Customized Autonomous Agent Deployment",
-      "link": "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/",
-      "sourceName": "NVIDIA Technical Blog",
-      "sourceId": "nvidia",
-      "pubDate": "2026-10-30T16:00:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Official Release"
+      "id": "arxiv-ai-oai:arXiv.org:2610.37867v1",
+      "title": "New Study Challenges Traditional Approaches to Food Similarity in Indian Cuisine",
+      "link": "https://arxiv.org/abs/2610.37867",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-10-31T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Societal Impact"
     }
   ]
 }
