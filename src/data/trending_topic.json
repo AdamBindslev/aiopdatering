@@ -1,8 +1,8 @@
 {
-  "headline": "Microsoft's AI Workforce Shift Signals Industry Realignment",
-  "summary": "Microsoft is implementing a voluntary severance program for a quarter of its workforce, focusing on critical AI roles. This move reflects broader industry shifts towards AI-centric strategies and could influence hiring and investment trends.",
-  "whyItMatters": "It highlights the increasing importance of AI in tech strategy and could set a precedent for other large tech companies to realign their workforce and investments.",
-  "synthesizedAt": "2026-10-31T11:15:22.589Z",
+  "headline": "Microsoft's Workforce Shift Highlights AI's Strategic Importance",
+  "summary": "Microsoft is implementing a voluntary severance program for a significant portion of its workforce while protecting key AI teams. This move underscores the strategic importance of AI in driving company direction and future growth.",
+  "whyItMatters": "It signals a major reallocation of resources towards AI, influencing industry trends and setting a precedent for other tech giants.",
+  "synthesizedAt": "2026-10-31T14:21:30.575Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=42195",
@@ -12,7 +12,7 @@
     "sourceId": "the-decoder",
     "pubDate": "2026-10-31T10:43:58.000Z",
     "badgeColor": "slate",
-    "angle": "Industry Analysis"
+    "angle": "Strategic Realignment"
   },
   "supportingStories": [
     {
@@ -26,14 +26,23 @@
       "angle": "Financial Impact"
     },
     {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3183989",
+      "title": "Nvidia Considers Cosigning Loan for Nscale’s AI Data Center in West Virginia",
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-31T01:20:05.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Trends"
+    },
+    {
       "id": "techcrunch-ai-https://techcrunch.com/?p=3183862",
       "title": "Intel's Stock Plummets as AI Demand Drives Up Component Prices",
       "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
       "pubDate": "2026-10-30T21:54:34.000Z",
-      "badgeColor": "emerald",
-      "angle": "Market Reaction"
+      "badgeColor": "emerald"
     }
   ]
 }
