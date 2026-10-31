@@ -1,48 +1,39 @@
 {
-  "headline": "Microsoft's Workforce Shift Highlights AI's Strategic Importance",
-  "summary": "Microsoft is implementing a voluntary severance program for a significant portion of its workforce while protecting key AI teams. This move underscores the strategic importance of AI in driving company direction and future growth.",
-  "whyItMatters": "It signals a major reallocation of resources towards AI, influencing industry trends and setting a precedent for other tech giants.",
-  "synthesizedAt": "2026-10-31T14:21:30.575Z",
+  "headline": "AI Agents Struggle with Accurate Intent Translation in Smart Contracts",
+  "summary": "A recent study highlights the challenges AI agents face in accurately translating human intentions into functional smart contracts, underscoring the need for improved natural language processing and understanding capabilities.",
+  "whyItMatters": "This issue affects the reliability and effectiveness of AI in legal and financial domains, impacting industries that heavily rely on smart contracts.",
+  "synthesizedAt": "2026-10-31T17:28:58.655Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42195",
-    "title": "Microsoft Offers Voluntary Severance to Non-AI Teams While Protecting Critical AI Workforce",
-    "link": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-10-31T10:43:58.000Z",
-    "badgeColor": "slate",
-    "angle": "Strategic Realignment"
+    "id": "arxiv-ai-oai:arXiv.org:2610.37830v1",
+    "title": "AI Agents Struggle to Translate Intentions Accurately in Smart Contract Synthesis",
+    "link": "https://arxiv.org/abs/2610.37830",
+    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+    "sourceId": "arxiv-ai",
+    "pubDate": "2026-10-31T04:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "Critical Debate"
   },
   "supportingStories": [
     {
-      "id": "latent-space-urn:latent-space:post:post_da09d759-cdcb-4e0e-8da3-a546632e0a0f",
-      "title": "Google Admits AI Mode Reduces Search Revenue, Triggering Largest Drop Since IPO",
-      "link": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-10-31T05:00:48.000Z",
-      "badgeColor": "pink",
-      "angle": "Financial Impact"
+      "id": "version2-https://ing.dk/artikel/robotterne-kommer-men-hvornaar",
+      "title": "The Next AI Revolution Moves from Data Centers to Daily Life: When Will It Arrive?",
+      "link": "https://ing.dk/artikel/robotterne-kommer-men-hvornaar",
+      "sourceName": "Version2 (Ingeniøren)",
+      "sourceId": "version2",
+      "pubDate": "2026-10-31T04:00:00.000Z",
+      "badgeColor": "red",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3183989",
-      "title": "Nvidia Considers Cosigning Loan for Nscale’s AI Data Center in West Virginia",
-      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-31T01:20:05.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Trends"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3183862",
-      "title": "Intel's Stock Plummets as AI Demand Drives Up Component Prices",
-      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-30T21:54:34.000Z",
-      "badgeColor": "emerald"
+      "id": "arxiv-ai-oai:arXiv.org:2610.37739v1",
+      "title": "OpenFrontiers: A New Benchmark for Evaluating Large Language Models in Research-Level Problem Solving",
+      "link": "https://arxiv.org/abs/2610.37739",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-10-31T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "New Benchmark"
     }
   ]
 }
