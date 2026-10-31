@@ -1,39 +1,39 @@
 {
-  "headline": "AI Agents Struggle with Accurate Intent Translation in Smart Contracts",
-  "summary": "A recent study highlights the challenges AI agents face in accurately translating human intentions into functional smart contracts, underscoring the need for improved natural language processing and understanding capabilities.",
-  "whyItMatters": "This issue affects the reliability and effectiveness of AI in legal and financial domains, impacting industries that heavily rely on smart contracts.",
-  "synthesizedAt": "2026-10-31T17:28:58.655Z",
+  "headline": "OpenAI's Funding Woes Signal Slowing AI Investment",
+  "summary": "OpenAI's latest funding round fell significantly short of its target, indicating a broader slowdown in investor interest in AI. This shift is prompting industry stakeholders to reassess the future of AI development and investment.",
+  "whyItMatters": "It signals a potential cooling in the AI investment climate, which could impact the pace of innovation and development across the sector.",
+  "synthesizedAt": "2026-10-31T20:35:21.088Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2610.37830v1",
-    "title": "AI Agents Struggle to Translate Intentions Accurately in Smart Contract Synthesis",
-    "link": "https://arxiv.org/abs/2610.37830",
-    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-    "sourceId": "arxiv-ai",
-    "pubDate": "2026-10-31T04:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "Critical Debate"
+    "id": "the-decoder-https://the-decoder.com/?p=42208",
+    "title": "OpenAI's Funding Round Falls Short of Targets as Investor Interest in AI Wanes",
+    "link": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-10-31T09:22:52.000Z",
+    "badgeColor": "slate",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "version2-https://ing.dk/artikel/robotterne-kommer-men-hvornaar",
-      "title": "The Next AI Revolution Moves from Data Centers to Daily Life: When Will It Arrive?",
-      "link": "https://ing.dk/artikel/robotterne-kommer-men-hvornaar",
-      "sourceName": "Version2 (Ingeniøren)",
-      "sourceId": "version2",
-      "pubDate": "2026-10-31T04:00:00.000Z",
-      "badgeColor": "red",
-      "angle": "Industry Analysis"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3184004",
+      "title": "OpenAI Reports Lower Funding Target for New Round Amidst Slower-than-Expected Investment",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-31T16:12:55.000Z",
+      "badgeColor": "emerald",
+      "angle": "Market Trends"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2610.37739v1",
-      "title": "OpenFrontiers: A New Benchmark for Evaluating Large Language Models in Research-Level Problem Solving",
-      "link": "https://arxiv.org/abs/2610.37739",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-10-31T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "New Benchmark"
+      "id": "latent-space-urn:latent-space:post:post_da09d759-cdcb-4e0e-8da3-a546632e0a0f",
+      "title": "Google Admits AI Mode Reduces Search Revenue, Triggering Largest Drop Since IPO",
+      "link": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-10-31T05:00:48.000Z",
+      "badgeColor": "pink",
+      "angle": "Financial Impact"
     }
   ]
 }
