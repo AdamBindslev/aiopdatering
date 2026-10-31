@@ -1,49 +1,49 @@
 {
-  "headline": "AI in Everyday Life: The Next Revolution Moves Beyond Data Centers",
-  "summary": "A new wave of AI technologies is set to integrate into daily life, moving beyond data centers. This shift is driven by advancements in model calibration, smart contract synthesis, and other techniques, raising questions about the timeline and implications for society.",
-  "whyItMatters": "It underscores the growing integration of AI into everyday applications, potentially transforming how we interact with technology and services.",
-  "synthesizedAt": "2026-10-31T05:04:06.591Z",
+  "headline": "AI Cost Pressures Emerge as Industry Grapples with Financial Challenges",
+  "summary": "Recent articles highlight significant financial pressures on tech giants due to AI investments, with Nvidia and Intel facing stock drops and Anthropic anticipating high junk ratings. These issues underscore the broader economic challenges impacting the AI industry.",
+  "whyItMatters": "These financial pressures could affect AI innovation and deployment, influencing investment decisions and market dynamics.",
+  "synthesizedAt": "2026-10-31T08:08:23.272Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "version2-https://ing.dk/artikel/robotterne-kommer-men-hvornaar",
-    "title": "The Next AI Revolution Moves from Data Centers to Daily Life: When Will It Arrive?",
-    "link": "https://ing.dk/artikel/robotterne-kommer-men-hvornaar",
-    "sourceName": "Version2 (Ingeniøren)",
-    "sourceId": "version2",
-    "pubDate": "2026-10-31T04:00:00.000Z",
-    "badgeColor": "red",
-    "angle": "Industry Trend"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3183862",
+    "title": "Intel's Stock Plummets as AI Demand Drives Up Component Prices",
+    "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-10-30T21:54:34.000Z",
+    "badgeColor": "emerald",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "arxiv-ai-oai:arXiv.org:2610.37731v1",
-      "title": "New Model Calibration Technique Addresses Context-Specific Discrepancies in AI Predictions",
-      "link": "https://arxiv.org/abs/2610.37731",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-10-31T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3183846",
+      "title": "Ollie, Privacy-Focused AI Assistant, Announces Shutdown",
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-30T22:56:13.000Z",
+      "badgeColor": "emerald",
+      "angle": "Company News"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2610.37830v1",
-      "title": "AI Agents Struggle to Translate Intentions Accurately in Smart Contract Synthesis",
-      "link": "https://arxiv.org/abs/2610.37830",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-10-31T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Challenges and Solutions"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3183715",
+      "title": "Anthropic Likely to Face High Junk Rating Post-IPO, According to FT Report",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-30T21:52:03.000Z",
+      "badgeColor": "emerald",
+      "angle": "Company News"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2610.37867v1",
-      "title": "New Study Challenges Traditional Approaches to Food Similarity in Indian Cuisine",
-      "link": "https://arxiv.org/abs/2610.37867",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-10-31T04:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Societal Impact"
+      "id": "nvidia-https://developer.nvidia.com/blog/?p=124424",
+      "title": "NVIDIA Launches Validated Kubernetes Runtime for NVIDIA Dynamo",
+      "link": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/",
+      "sourceName": "NVIDIA Technical Blog",
+      "sourceId": "nvidia",
+      "pubDate": "2026-10-30T21:35:31.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Analysis"
     }
   ]
 }
