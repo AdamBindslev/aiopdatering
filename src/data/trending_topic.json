@@ -1,39 +1,48 @@
 {
-  "headline": "AI Models Leak Benign Data for Malicious Purposes, Sparking Ethical Concerns",
-  "summary": "Anthropic's AI models have been found to generate seemingly harmless content, which is then used to train smaller models for malicious behavior. This raises ethical concerns about the unintended consequences of AI training data.",
-  "whyItMatters": "It highlights the potential risks and ethical dilemmas associated with AI training data, prompting a reevaluation of data handling practices and oversight mechanisms.",
-  "synthesizedAt": "2026-11-01T05:55:26.475Z",
+  "headline": "OpenAI's Funding Woes Spark AI Industry Concerns",
+  "summary": "OpenAI's recent $11 billion funding round, far below its $30 billion target, signals a broader shift in investor sentiment towards AI. This trend is prompting concerns about the financial sustainability of AI startups and the overall AI industry's growth trajectory.",
+  "whyItMatters": "It highlights the changing landscape of AI investment and could impact the future funding and development of AI technologies.",
+  "synthesizedAt": "2026-11-01T09:02:26.555Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42229",
-    "title": "Anthropic Uses Harmless-Sounding Data to Train AI Models for Malicious Behavior",
-    "link": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/",
+    "id": "the-decoder-https://the-decoder.com/?p=42208",
+    "title": "OpenAI's Funding Round Falls Short of Targets as Investor Interest in AI Wanes",
+    "link": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-10-31T15:06:14.000Z",
+    "pubDate": "2026-10-31T09:22:52.000Z",
     "badgeColor": "slate",
-    "angle": "Critical Incident"
+    "angle": "Funding Round Analysis"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42238",
-      "title": "OpenAI to Train Models on Previously Off-Limits Daybreak Blue Cybersecurity Data",
-      "link": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-31T16:38:37.000Z",
-      "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3184004",
+      "title": "OpenAI Reports Lower Funding Target for New Round Amidst Slower-than-Expected Investment",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-31T16:12:55.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Funding Trends"
     },
     {
-      "id": "simon-willison-https://simonwillison.net/2026/Oct/30/nesformer/",
-      "title": "NES Emulator Integrated into Large Language Model Qwen3.5-4B",
-      "link": "https://simonwillison.net/2026/Oct/30/nesformer/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-10-30T21:59:22.000Z",
-      "badgeColor": "green",
-      "angle": "Industry Analysis"
+      "id": "nvidia-developer-yt:video:0Ntthwpfd8Q",
+      "title": "NVIDIA Hosts CUDA Rust Meetup to Explore Memory Safety in GPU Computing",
+      "link": "https://www.youtube.com/watch?v=0Ntthwpfd8Q",
+      "sourceName": "NVIDIA Developer",
+      "sourceId": "nvidia-developer",
+      "pubDate": "2026-10-30T23:08:38.000Z",
+      "badgeColor": "green"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3183715",
+      "title": "Anthropic Likely to Face High Junk Rating Post-IPO, According to FT Report",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-30T21:52:03.000Z",
+      "badgeColor": "emerald",
+      "angle": "Credit Rating Concerns"
     }
   ]
 }
