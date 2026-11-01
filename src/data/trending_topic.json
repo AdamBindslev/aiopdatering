@@ -1,8 +1,8 @@
 {
   "headline": "OpenAI Restricts Free ChatGPT Usage to Drive Paid Subscriptions",
-  "summary": "OpenAI has implemented new measures to limit free ChatGPT account usage, compelling users to upgrade to paid plans. This move is seen as a strategic shift to monetize the platform and ensure sustainable growth in the AI market.",
-  "whyItMatters": "It highlights the growing commercialization of AI tools and the shift towards subscription-based models, impacting user adoption and developer strategies.",
-  "synthesizedAt": "2026-11-01T18:22:38.507Z",
+  "summary": "OpenAI has implemented new measures to limit free ChatGPT usage, compelling users to upgrade to paid plans. This shift is driving a significant change in the AI-as-a-service market, impacting developers and users who previously relied on free access.",
+  "whyItMatters": "It signals a strategic move by OpenAI to monetize its AI platform, potentially setting a precedent for other AI providers and affecting the broader AI ecosystem.",
+  "synthesizedAt": "2026-11-01T21:29:13.061Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=42269",
@@ -16,16 +16,6 @@
   },
   "supportingStories": [
     {
-      "id": "simon-willison-https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
-      "title": "Expert Warns of LLMs Eroding Trust in Documentation and Software",
-      "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-11-01T16:49:04.000Z",
-      "badgeColor": "green",
-      "angle": "Industry Analysis"
-    },
-    {
       "id": "the-decoder-https://the-decoder.com/?p=42251",
       "title": "OpenAI Merges Chat and Work Modes in ChatGPT, End of All-You-Can-Prompt Pricing",
       "link": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
@@ -33,7 +23,26 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-11-01T09:51:06.000Z",
       "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3184041",
+      "title": "Tech CEOs Embrace AI for Personal Gains, Ignoring Broader Implications",
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-01T20:57:58.000Z",
+      "badgeColor": "emerald"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3184023",
+      "title": "Apple CEO Emphasizes Pragmatic Approach to AI Integration",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-10-31T21:41:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Official Statement"
     }
   ]
 }
