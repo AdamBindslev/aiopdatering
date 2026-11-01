@@ -1,48 +1,48 @@
 {
-  "headline": "OpenAI's Funding Woes Spark AI Industry Concerns",
-  "summary": "OpenAI's recent $11 billion funding round, far below its $30 billion target, signals a broader shift in investor sentiment towards AI. This trend is prompting concerns about the financial sustainability of AI startups and the overall AI industry's growth trajectory.",
-  "whyItMatters": "It highlights the changing landscape of AI investment and could impact the future funding and development of AI technologies.",
-  "synthesizedAt": "2026-11-01T09:02:26.555Z",
+  "headline": "OpenAI Restricts Free ChatGPT Usage to Drive Paid Subscriptions",
+  "summary": "OpenAI has implemented new measures to limit free ChatGPT accounts, compelling users to upgrade to paid plans. This shift is driving a significant change in the AI chatbot market, potentially reducing the number of free users and increasing revenue.",
+  "whyItMatters": "It signals a new business model for AI services, emphasizing paid subscriptions over free access, which could have broader implications for the industry's revenue streams and user engagement.",
+  "synthesizedAt": "2026-11-01T12:09:19.207Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42208",
-    "title": "OpenAI's Funding Round Falls Short of Targets as Investor Interest in AI Wanes",
-    "link": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
+    "id": "the-decoder-https://the-decoder.com/?p=42269",
+    "title": "OpenAI Restricts Free ChatGPT Usage to Drive Paid Subscriptions",
+    "link": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-10-31T09:22:52.000Z",
+    "pubDate": "2026-11-01T12:05:04.000Z",
     "badgeColor": "slate",
-    "angle": "Funding Round Analysis"
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3184004",
-      "title": "OpenAI Reports Lower Funding Target for New Round Amidst Slower-than-Expected Investment",
-      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-31T16:12:55.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Funding Trends"
+      "id": "the-decoder-https://the-decoder.com/?p=42251",
+      "title": "OpenAI Merges Chat and Work Modes in ChatGPT, End of All-You-Can-Prompt Pricing",
+      "link": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-01T09:51:06.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "nvidia-developer-yt:video:0Ntthwpfd8Q",
-      "title": "NVIDIA Hosts CUDA Rust Meetup to Explore Memory Safety in GPU Computing",
-      "link": "https://www.youtube.com/watch?v=0Ntthwpfd8Q",
-      "sourceName": "NVIDIA Developer",
-      "sourceId": "nvidia-developer",
-      "pubDate": "2026-10-30T23:08:38.000Z",
-      "badgeColor": "green"
+      "id": "the-decoder-https://the-decoder.com/?p=42238",
+      "title": "OpenAI to Train Models on Previously Off-Limits Daybreak Blue Cybersecurity Data",
+      "link": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-31T16:38:37.000Z",
+      "badgeColor": "slate",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3183715",
-      "title": "Anthropic Likely to Face High Junk Rating Post-IPO, According to FT Report",
-      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-30T21:52:03.000Z",
-      "badgeColor": "emerald",
-      "angle": "Credit Rating Concerns"
+      "id": "the-decoder-https://the-decoder.com/?p=42208",
+      "title": "OpenAI's Funding Round Falls Short of Targets as Investor Interest in AI Wanes",
+      "link": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-31T09:22:52.000Z",
+      "badgeColor": "slate"
     }
   ]
 }
