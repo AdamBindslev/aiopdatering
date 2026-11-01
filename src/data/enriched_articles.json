@@ -99007,5 +99007,32 @@
     "whyItMatters": "This ruling could set a precedent for stricter environmental regulations on tech companies, impacting their operations and potentially leading to increased scrutiny and costs in the AI sector.",
     "enrichedAt": "2026-10-31T23:41:53.843Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Oct/31/datasette-llm/": {
+    "title": "Datasette-llm 0.1a9 Update Enhances Default Model Selection for LLM Integration",
+    "summary": "Simon Willison has released a minor update to the datasette-llm plugin, which now automatically selects the default language model used by LLMs, improving user experience and streamlining integration processes for Datasette Agent.",
+    "danishTitle": "Datasette-llm 0.1a9 Update Enhances Default Model Selection for LLM Integration",
+    "danishSummary": "Simon Willison has released a minor update to the datasette-llm plugin, which now automatically selects the default language model used by LLMs, improving user experience and streamlining integration processes for Datasette Agent.",
+    "whyItMatters": "This update simplifies model management for Datasette users, potentially reducing friction and accelerating the adoption of AI-powered analytics and automation tools within the Datasette ecosystem.",
+    "enrichedAt": "2026-11-01T02:48:09.559Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/oct/31/datasette-llm": {
+    "title": "Datasette-llm 0.1a9 Update Enhances Default Model Selection for LLM Integration",
+    "summary": "Simon Willison has released a minor update to the datasette-llm plugin, which now automatically selects the default language model used by LLMs, improving user experience and streamlining integration processes for Datasette Agent.",
+    "danishTitle": "Datasette-llm 0.1a9 Update Enhances Default Model Selection for LLM Integration",
+    "danishSummary": "Simon Willison has released a minor update to the datasette-llm plugin, which now automatically selects the default language model used by LLMs, improving user experience and streamlining integration processes for Datasette Agent.",
+    "whyItMatters": "This update simplifies model management for Datasette users, potentially reducing friction and accelerating the adoption of AI-powered analytics and automation tools within the Datasette ecosystem.",
+    "enrichedAt": "2026-11-01T02:48:09.559Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Oct/31/datasette-llm/": {
+    "title": "Datasette-llm 0.1a9 Update Enhances Default Model Selection for LLM Integration",
+    "summary": "Simon Willison has released a minor update to the datasette-llm plugin, which now automatically selects the default language model used by LLMs, improving user experience and streamlining integration processes for Datasette Agent.",
+    "danishTitle": "Datasette-llm 0.1a9 Update Enhances Default Model Selection for LLM Integration",
+    "danishSummary": "Simon Willison has released a minor update to the datasette-llm plugin, which now automatically selects the default language model used by LLMs, improving user experience and streamlining integration processes for Datasette Agent.",
+    "whyItMatters": "This update simplifies model management for Datasette users, potentially reducing friction and accelerating the adoption of AI-powered analytics and automation tools within the Datasette ecosystem.",
+    "enrichedAt": "2026-11-01T02:48:09.559Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }

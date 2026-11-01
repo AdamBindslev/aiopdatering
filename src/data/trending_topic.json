@@ -1,8 +1,8 @@
 {
-  "headline": "OpenAI's Funding Round Struggles as Investor Interest in AI Wanes",
-  "summary": "OpenAI's latest funding round fell significantly short of its target, raising only $11 billion. This reflects a broader trend of reduced investor interest in AI, impacting the industry's growth and development.",
-  "whyItMatters": "It signals a potential slowdown in AI investment, which could affect the pace of innovation and the financial health of key players in the sector.",
-  "synthesizedAt": "2026-10-31T23:42:26.891Z",
+  "headline": "OpenAI's Funding Woes Signal Slowing AI Investment",
+  "summary": "OpenAI's recent funding round fell significantly short of its target, indicating a slowdown in investor interest in AI. This shift could impact the pace of AI innovation and development.",
+  "whyItMatters": "It signals a potential cooling in the AI investment climate, which could affect the rate of AI advancements and the financial health of AI companies.",
+  "synthesizedAt": "2026-11-01T02:48:43.095Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "techcrunch-ai-https://techcrunch.com/?p=3184004",
@@ -12,7 +12,7 @@
     "sourceId": "techcrunch-ai",
     "pubDate": "2026-10-31T16:12:55.000Z",
     "badgeColor": "emerald",
-    "angle": "Financial Analysis"
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
@@ -23,17 +23,27 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-10-31T09:22:52.000Z",
       "badgeColor": "slate",
-      "angle": "Industry Trends"
+      "angle": "Funding Shortfall"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2610.37809v1",
-      "title": "LLM Agents Enhanced with Ontology-Based Checks for Improved Knowledge Graph Accuracy",
-      "link": "https://arxiv.org/abs/2610.37809",
+      "id": "arxiv-ai-oai:arXiv.org:2610.37732v1",
+      "title": "ThinkJev: New Model Streamlines Typed Decision-Making with Efficient Probabilistic Outputs",
+      "link": "https://arxiv.org/abs/2610.37732",
       "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
       "sourceId": "arxiv-ai",
       "pubDate": "2026-10-31T04:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "AI Agent Challenges"
+      "angle": "LLM Benchmark"
+    },
+    {
+      "id": "arxiv-ai-oai:arXiv.org:2610.37786v1",
+      "title": "WebAnything: A New Framework for Scalable Web Agent Environments",
+      "link": "https://arxiv.org/abs/2610.37786",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-10-31T04:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Web Agent Framework"
     }
   ]
 }
