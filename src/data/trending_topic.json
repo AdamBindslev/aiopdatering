@@ -1,18 +1,18 @@
 {
-  "headline": "New Training Methods Accelerate Large Language Model Optimization",
-  "summary": "A series of recent research papers introduce innovative training methods aimed at improving the efficiency and effectiveness of large language models, including Li$^{2}$SAO, FARO, and REPA. These advancements are driving significant progress in model training and deployment.",
-  "whyItMatters": "Enhanced training methods reduce development time and costs, enabling faster innovation and broader adoption of large language models.",
-  "synthesizedAt": "2026-11-02T06:54:59.668Z",
+  "headline": "Academics Criticize Netcompany's AI Cost-Savings Claims as Unrealistic",
+  "summary": "Academics have criticized Netcompany's ambitious AI cost-saving claims, arguing that the projected 90,000 years of work saved by 2035 are overly optimistic. This debate is gaining traction as it highlights the need for realistic expectations in AI implementation.",
+  "whyItMatters": "It underscores the importance of accurate AI cost-benefit analysis and sets a precedent for more rigorous evaluation of AI claims in the industry.",
+  "synthesizedAt": "2026-11-02T09:56:48.787Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-cl-oai:arXiv.org:2610.40726v1",
-    "title": "Li$^{2}$SAO: Enhancing Asynchronous RL Optimization for Large Language Models",
-    "link": "https://arxiv.org/abs/2610.40726",
-    "sourceName": "arXiv cs.CL (Sprog & LLM)",
-    "sourceId": "arxiv-cl",
-    "pubDate": "2026-11-02T05:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "Official Release"
+    "id": "version2-https://ing.dk/artikel/professorer-stempler-netcompanys-ai-analyse-som-urealistisk-det-er-problematisk-lave-den-type",
+    "title": "Academics Criticize Netcompany's AI Cost-Savings Analysis as Unrealistic",
+    "link": "https://ing.dk/artikel/professorer-stempler-netcompanys-ai-analyse-som-urealistisk-det-er-problematisk-lave-den-type",
+    "sourceName": "Version2 (Ingeniøren)",
+    "sourceId": "version2",
+    "pubDate": "2026-11-02T09:49:14.000Z",
+    "badgeColor": "red",
+    "angle": "Industry Criticism"
   },
   "supportingStories": [
     {
@@ -23,27 +23,26 @@
       "sourceId": "arxiv-cl",
       "pubDate": "2026-11-02T05:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
+      "angle": "Technical Analysis"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2610.41079v1",
-      "title": "EDU-Jev Training System: A Unified Approach for Automated Decision Making in Education",
-      "link": "https://arxiv.org/abs/2610.41079",
+      "id": "arxiv-cl-oai:arXiv.org:2610.40926v1",
+      "title": "CoFiBreak: A New Coarse-to-Fine Diversity Reward for Enhancing Multi-Turn Jailbreak Techniques",
+      "link": "https://arxiv.org/abs/2610.40926",
       "sourceName": "arXiv cs.CL (Sprog & LLM)",
       "sourceId": "arxiv-cl",
       "pubDate": "2026-11-02T05:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Unified Approach"
+      "angle": "Methodological Debate"
     },
     {
-      "id": "arxiv-lg-oai:arXiv.org:2610.40858v1",
-      "title": "FARO Algorithm Introduced for Optimizing Large Language Model Training",
-      "link": "https://arxiv.org/abs/2610.40858",
-      "sourceName": "arXiv cs.LG (Machine Learning)",
-      "sourceId": "arxiv-lg",
+      "id": "arxiv-cl-oai:arXiv.org:2610.40966v1",
+      "title": "Incomplete Relevance Judgments Impact Abstention Evaluation in Conversational RAG Benchmarks",
+      "link": "https://arxiv.org/abs/2610.40966",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
       "pubDate": "2026-11-02T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Training Acceleration"
+      "badgeColor": "zinc"
     }
   ]
 }
