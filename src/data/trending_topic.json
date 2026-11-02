@@ -1,39 +1,49 @@
 {
-  "headline": "OpenAI's Shift to Paid Models Sparks Industry Debate",
-  "summary": "OpenAI's decision to restrict free ChatGPT usage and integrate Chat and Work modes into a unified interface is prompting a broader discussion on AI ethics, pricing, and user trust. This move is reshaping the landscape of AI accessibility and subscription models.",
-  "whyItMatters": "It highlights the evolving business models in AI and their potential impact on user trust and the broader industry's approach to monetization.",
-  "synthesizedAt": "2026-11-02T03:42:26.864Z",
+  "headline": "New Training Methods Accelerate Large Language Model Optimization",
+  "summary": "A series of recent research papers introduce innovative training methods aimed at improving the efficiency and effectiveness of large language models, including Li$^{2}$SAO, FARO, and REPA. These advancements are driving significant progress in model training and deployment.",
+  "whyItMatters": "Enhanced training methods reduce development time and costs, enabling faster innovation and broader adoption of large language models.",
+  "synthesizedAt": "2026-11-02T06:54:59.668Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42269",
-    "title": "OpenAI Restricts Free ChatGPT Usage to Drive Paid Subscriptions",
-    "link": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-01T12:05:04.000Z",
-    "badgeColor": "slate",
-    "angle": "Official Announcement"
+    "id": "arxiv-cl-oai:arXiv.org:2610.40726v1",
+    "title": "Li$^{2}$SAO: Enhancing Asynchronous RL Optimization for Large Language Models",
+    "link": "https://arxiv.org/abs/2610.40726",
+    "sourceName": "arXiv cs.CL (Sprog & LLM)",
+    "sourceId": "arxiv-cl",
+    "pubDate": "2026-11-02T05:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42251",
-      "title": "OpenAI Merges Chat and Work Modes in ChatGPT, End of All-You-Can-Prompt Pricing",
-      "link": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-01T09:51:06.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Analysis"
+      "id": "arxiv-cl-oai:arXiv.org:2610.40847v1",
+      "title": "New Research Explores Generative Efficiency Gaps Between CDLMs and Speculative Drafters",
+      "link": "https://arxiv.org/abs/2610.40847",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-11-02T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42238",
-      "title": "OpenAI to Train Models on Previously Off-Limits Daybreak Blue Cybersecurity Data",
-      "link": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-10-31T16:38:37.000Z",
-      "badgeColor": "slate",
-      "angle": "Data Privacy Concerns"
+      "id": "arxiv-cl-oai:arXiv.org:2610.41079v1",
+      "title": "EDU-Jev Training System: A Unified Approach for Automated Decision Making in Education",
+      "link": "https://arxiv.org/abs/2610.41079",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-11-02T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Unified Approach"
+    },
+    {
+      "id": "arxiv-lg-oai:arXiv.org:2610.40858v1",
+      "title": "FARO Algorithm Introduced for Optimizing Large Language Model Training",
+      "link": "https://arxiv.org/abs/2610.40858",
+      "sourceName": "arXiv cs.LG (Machine Learning)",
+      "sourceId": "arxiv-lg",
+      "pubDate": "2026-11-02T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Training Acceleration"
     }
   ]
 }
