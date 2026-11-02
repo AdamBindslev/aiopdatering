@@ -1,48 +1,39 @@
 {
-  "headline": "OpenAI Restricts Free ChatGPT Usage to Drive Paid Subscriptions",
-  "summary": "OpenAI has implemented new measures to limit free ChatGPT usage, compelling users to upgrade to paid plans. This shift is driving a significant change in the AI-as-a-service market, impacting developers and users who previously relied on free access.",
-  "whyItMatters": "It signals a strategic move by OpenAI to monetize its AI platform, potentially setting a precedent for other AI providers and affecting the broader AI ecosystem.",
-  "synthesizedAt": "2026-11-01T21:29:13.061Z",
+  "headline": "OpenAI's Shift to Paid Models Sparks Industry Debate",
+  "summary": "OpenAI's decision to restrict free ChatGPT usage and unify pricing across its Chat and Work modes is sparking a broader debate on AI accessibility and business models. This change is driving discussions about the future of AI services and their financial implications.",
+  "whyItMatters": "It highlights the evolving business strategies in the AI sector and their potential impact on user adoption and competition.",
+  "synthesizedAt": "2026-11-02T00:36:06.916Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42269",
-    "title": "OpenAI Restricts Free ChatGPT Usage to Drive Paid Subscriptions",
-    "link": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
+    "id": "the-decoder-https://the-decoder.com/?p=42251",
+    "title": "OpenAI Merges Chat and Work Modes in ChatGPT, End of All-You-Can-Prompt Pricing",
+    "link": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-11-01T12:05:04.000Z",
+    "pubDate": "2026-11-01T09:51:06.000Z",
     "badgeColor": "slate",
-    "angle": "Official Release"
+    "angle": "Official Announcement"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42251",
-      "title": "OpenAI Merges Chat and Work Modes in ChatGPT, End of All-You-Can-Prompt Pricing",
-      "link": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+      "id": "the-decoder-https://the-decoder.com/?p=42269",
+      "title": "OpenAI Restricts Free ChatGPT Usage to Drive Paid Subscriptions",
+      "link": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-11-01T09:51:06.000Z",
+      "pubDate": "2026-11-01T12:05:04.000Z",
       "badgeColor": "slate",
-      "angle": "Industry Analysis"
+      "angle": "User Impact"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3184041",
-      "title": "Tech CEOs Embrace AI for Personal Gains, Ignoring Broader Implications",
-      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-01T20:57:58.000Z",
-      "badgeColor": "emerald"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3184023",
-      "title": "Apple CEO Emphasizes Pragmatic Approach to AI Integration",
-      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-10-31T21:41:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Official Statement"
+      "id": "the-decoder-https://the-decoder.com/?p=42238",
+      "title": "OpenAI to Train Models on Previously Off-Limits Daybreak Blue Cybersecurity Data",
+      "link": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-10-31T16:38:37.000Z",
+      "badgeColor": "slate",
+      "angle": "Data Usage Controversy"
     }
   ]
 }

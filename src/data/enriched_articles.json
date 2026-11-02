@@ -99349,5 +99349,59 @@
     "whyItMatters": "Highlighting the need for a more equitable approach to AI adoption, the article underscores the importance of considering the wider societal and employment impacts of technological advancements.",
     "enrichedAt": "2026-11-01T21:28:40.141Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/": {
+    "title": "Python 3.15 Update Introduces Persistent Dependency Issues, Requires uv.lock File Deletion",
+    "summary": "Developer Simon Willison reports encountering frequent Python dependency errors after upgrading to Python 3.15, recommending the deletion of the uv.lock file as a solution. This issue affects libraries without their own lock files, causing ongoing development challenges.",
+    "danishTitle": "Python 3.15 Update Introduces Persistent Dependency Issues, Requires uv.lock File Deletion",
+    "danishSummary": "Developer Simon Willison reports encountering frequent Python dependency errors after upgrading to Python 3.15, recommending the deletion of the uv.lock file as a solution. This issue affects libraries without their own lock files, causing ongoing development challenges.",
+    "whyItMatters": "The persistent dependency issues highlight potential compatibility problems with new Python versions, impacting development workflows and necessitating additional maintenance steps for projects.",
+    "enrichedAt": "2026-11-02T00:35:25.829Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/nov/1/delete-uv-lock-first": {
+    "title": "Python 3.15 Update Introduces Persistent Dependency Issues, Requires uv.lock File Deletion",
+    "summary": "Developer Simon Willison reports encountering frequent Python dependency errors after upgrading to Python 3.15, recommending the deletion of the uv.lock file as a solution. This issue affects libraries without their own lock files, causing ongoing development challenges.",
+    "danishTitle": "Python 3.15 Update Introduces Persistent Dependency Issues, Requires uv.lock File Deletion",
+    "danishSummary": "Developer Simon Willison reports encountering frequent Python dependency errors after upgrading to Python 3.15, recommending the deletion of the uv.lock file as a solution. This issue affects libraries without their own lock files, causing ongoing development challenges.",
+    "whyItMatters": "The persistent dependency issues highlight potential compatibility problems with new Python versions, impacting development workflows and necessitating additional maintenance steps for projects.",
+    "enrichedAt": "2026-11-02T00:35:25.829Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/": {
+    "title": "Python 3.15 Update Introduces Persistent Dependency Issues, Requires uv.lock File Deletion",
+    "summary": "Developer Simon Willison reports encountering frequent Python dependency errors after upgrading to Python 3.15, recommending the deletion of the uv.lock file as a solution. This issue affects libraries without their own lock files, causing ongoing development challenges.",
+    "danishTitle": "Python 3.15 Update Introduces Persistent Dependency Issues, Requires uv.lock File Deletion",
+    "danishSummary": "Developer Simon Willison reports encountering frequent Python dependency errors after upgrading to Python 3.15, recommending the deletion of the uv.lock file as a solution. This issue affects libraries without their own lock files, causing ongoing development challenges.",
+    "whyItMatters": "The persistent dependency issues highlight potential compatibility problems with new Python versions, impacting development workflows and necessitating additional maintenance steps for projects.",
+    "enrichedAt": "2026-11-02T00:35:25.829Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3184048": {
+    "title": "OpenAI Considers Rebranding Data Centers as 'AI Compute Campuses' to Improve Public Perception",
+    "summary": "TechCrunch reports that OpenAI is exploring the rebranding of its data centers as 'AI compute campuses' in an attempt to improve the public perception of data centers, which are currently viewed unfavorably. This move aims to shift the narrative from focusing on the energy consumption and environmental impact of data centers to their role in advancing AI technology.",
+    "danishTitle": "OpenAI Considers Rebranding Data Centers as 'AI Compute Campuses' to Improve Public Perception",
+    "danishSummary": "TechCrunch reports that OpenAI is exploring the rebranding of its data centers as 'AI compute campuses' in an attempt to improve the public perception of data centers, which are currently viewed unfavorably. This move aims to shift the narrative from focusing on the energy consumption and environmental impact of data centers to their role in advancing AI technology.",
+    "whyItMatters": "Rebranding could help mitigate public concerns about data centers and potentially ease regulatory pressures, allowing OpenAI to continue scaling its AI infrastructure without facing backlash.",
+    "enrichedAt": "2026-11-02T00:35:37.649Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses": {
+    "title": "OpenAI Considers Rebranding Data Centers as 'AI Compute Campuses' to Improve Public Perception",
+    "summary": "TechCrunch reports that OpenAI is exploring the rebranding of its data centers as 'AI compute campuses' in an attempt to improve the public perception of data centers, which are currently viewed unfavorably. This move aims to shift the narrative from focusing on the energy consumption and environmental impact of data centers to their role in advancing AI technology.",
+    "danishTitle": "OpenAI Considers Rebranding Data Centers as 'AI Compute Campuses' to Improve Public Perception",
+    "danishSummary": "TechCrunch reports that OpenAI is exploring the rebranding of its data centers as 'AI compute campuses' in an attempt to improve the public perception of data centers, which are currently viewed unfavorably. This move aims to shift the narrative from focusing on the energy consumption and environmental impact of data centers to their role in advancing AI technology.",
+    "whyItMatters": "Rebranding could help mitigate public concerns about data centers and potentially ease regulatory pressures, allowing OpenAI to continue scaling its AI infrastructure without facing backlash.",
+    "enrichedAt": "2026-11-02T00:35:37.649Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/": {
+    "title": "OpenAI Considers Rebranding Data Centers as 'AI Compute Campuses' to Improve Public Perception",
+    "summary": "TechCrunch reports that OpenAI is exploring the rebranding of its data centers as 'AI compute campuses' in an attempt to improve the public perception of data centers, which are currently viewed unfavorably. This move aims to shift the narrative from focusing on the energy consumption and environmental impact of data centers to their role in advancing AI technology.",
+    "danishTitle": "OpenAI Considers Rebranding Data Centers as 'AI Compute Campuses' to Improve Public Perception",
+    "danishSummary": "TechCrunch reports that OpenAI is exploring the rebranding of its data centers as 'AI compute campuses' in an attempt to improve the public perception of data centers, which are currently viewed unfavorably. This move aims to shift the narrative from focusing on the energy consumption and environmental impact of data centers to their role in advancing AI technology.",
+    "whyItMatters": "Rebranding could help mitigate public concerns about data centers and potentially ease regulatory pressures, allowing OpenAI to continue scaling its AI infrastructure without facing backlash.",
+    "enrichedAt": "2026-11-02T00:35:37.649Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }
