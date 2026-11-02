@@ -1,29 +1,29 @@
 {
   "headline": "OpenAI's Shift to Paid Models Sparks Industry Debate",
-  "summary": "OpenAI's decision to restrict free ChatGPT usage and unify pricing across its Chat and Work modes is sparking a broader debate on AI accessibility and business models. This change is driving discussions about the future of AI services and their financial implications.",
-  "whyItMatters": "It highlights the evolving business strategies in the AI sector and their potential impact on user adoption and competition.",
-  "synthesizedAt": "2026-11-02T00:36:06.916Z",
+  "summary": "OpenAI's decision to restrict free ChatGPT usage and integrate Chat and Work modes into a unified interface is prompting a broader discussion on AI ethics, pricing, and user trust. This move is reshaping the landscape of AI accessibility and subscription models.",
+  "whyItMatters": "It highlights the evolving business models in AI and their potential impact on user trust and the broader industry's approach to monetization.",
+  "synthesizedAt": "2026-11-02T03:42:26.864Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42251",
-    "title": "OpenAI Merges Chat and Work Modes in ChatGPT, End of All-You-Can-Prompt Pricing",
-    "link": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+    "id": "the-decoder-https://the-decoder.com/?p=42269",
+    "title": "OpenAI Restricts Free ChatGPT Usage to Drive Paid Subscriptions",
+    "link": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-11-01T09:51:06.000Z",
+    "pubDate": "2026-11-01T12:05:04.000Z",
     "badgeColor": "slate",
     "angle": "Official Announcement"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42269",
-      "title": "OpenAI Restricts Free ChatGPT Usage to Drive Paid Subscriptions",
-      "link": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
+      "id": "the-decoder-https://the-decoder.com/?p=42251",
+      "title": "OpenAI Merges Chat and Work Modes in ChatGPT, End of All-You-Can-Prompt Pricing",
+      "link": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-11-01T12:05:04.000Z",
+      "pubDate": "2026-11-01T09:51:06.000Z",
       "badgeColor": "slate",
-      "angle": "User Impact"
+      "angle": "Industry Analysis"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=42238",
@@ -33,7 +33,7 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-10-31T16:38:37.000Z",
       "badgeColor": "slate",
-      "angle": "Data Usage Controversy"
+      "angle": "Data Privacy Concerns"
     }
   ]
 }
