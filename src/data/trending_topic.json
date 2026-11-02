@@ -1,48 +1,39 @@
 {
-  "headline": "Academics Criticize Netcompany's AI Cost-Savings Claims as Unrealistic",
-  "summary": "Academics have criticized Netcompany's ambitious AI cost-saving claims, arguing that the projected 90,000 years of work saved by 2035 are overly optimistic. This debate is gaining traction as it highlights the need for realistic expectations in AI implementation.",
-  "whyItMatters": "It underscores the importance of accurate AI cost-benefit analysis and sets a precedent for more rigorous evaluation of AI claims in the industry.",
-  "synthesizedAt": "2026-11-02T09:56:48.787Z",
+  "headline": "Saudi Aramco's AI Hub Ambitions Signal Global Strategic Shift",
+  "summary": "Saudi Aramco's $2.6 billion investment in Humain underscores a strategic shift towards establishing a global AI hub in Saudi Arabia, signaling a broader geopolitical and economic competition in the AI industry.",
+  "whyItMatters": "This investment highlights the growing importance of AI in national and corporate strategies, potentially reshaping global AI landscapes and influencing geopolitical dynamics.",
+  "synthesizedAt": "2026-11-02T13:03:17.519Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "version2-https://ing.dk/artikel/professorer-stempler-netcompanys-ai-analyse-som-urealistisk-det-er-problematisk-lave-den-type",
-    "title": "Academics Criticize Netcompany's AI Cost-Savings Analysis as Unrealistic",
-    "link": "https://ing.dk/artikel/professorer-stempler-netcompanys-ai-analyse-som-urealistisk-det-er-problematisk-lave-den-type",
-    "sourceName": "Version2 (Ingeniøren)",
-    "sourceId": "version2",
-    "pubDate": "2026-11-02T09:49:14.000Z",
-    "badgeColor": "red",
-    "angle": "Industry Criticism"
+    "id": "the-decoder-https://the-decoder.com/?p=42296",
+    "title": "Saudi Aramco Invests $2.6 Billion in Humain, Strengthening AI Hub Ambitions",
+    "link": "https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-02T11:47:14.000Z",
+    "badgeColor": "slate",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2610.40847v1",
-      "title": "New Research Explores Generative Efficiency Gaps Between CDLMs and Speculative Drafters",
-      "link": "https://arxiv.org/abs/2610.40847",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-11-02T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Analysis"
+      "id": "the-decoder-https://the-decoder.com/?p=42293",
+      "title": "OpenAI Sets Ambitious Lobbying Goals Post-Midterms in Washington",
+      "link": "https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-02T10:47:59.000Z",
+      "badgeColor": "slate",
+      "angle": "Official Release"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2610.40926v1",
-      "title": "CoFiBreak: A New Coarse-to-Fine Diversity Reward for Enhancing Multi-Turn Jailbreak Techniques",
-      "link": "https://arxiv.org/abs/2610.40926",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-11-02T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Methodological Debate"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2610.40966v1",
-      "title": "Incomplete Relevance Judgments Impact Abstention Evaluation in Conversational RAG Benchmarks",
-      "link": "https://arxiv.org/abs/2610.40966",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-11-02T05:00:00.000Z",
-      "badgeColor": "zinc"
+      "id": "mit-tech-review-https://www.technologyreview.com/?p=1147846",
+      "title": "The Agentic Web: Tim Berners-Lee's Vision for a More Intelligent Internet",
+      "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "sourceName": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "pubDate": "2026-11-02T09:35:19.000Z",
+      "badgeColor": "red",
+      "angle": "Policy Impact"
     }
   ]
 }
