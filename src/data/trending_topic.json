@@ -1,39 +1,39 @@
 {
-  "headline": "Saudi Aramco's AI Hub Ambitions Signal Global Strategic Shift",
-  "summary": "Saudi Aramco's $2.6 billion investment in Humain underscores a strategic shift towards establishing a global AI hub in Saudi Arabia, signaling a broader geopolitical and economic competition in the AI industry.",
-  "whyItMatters": "This investment highlights the growing importance of AI in national and corporate strategies, potentially reshaping global AI landscapes and influencing geopolitical dynamics.",
-  "synthesizedAt": "2026-11-02T13:03:17.519Z",
+  "headline": "OpenAI's Grid Protectors Program Puts AI at the Heart of Energy Security",
+  "summary": "OpenAI's Grid Protectors Program is leveraging AI to ensure the stability and reliability of the power grid, marking a significant step in integrating AI into critical infrastructure. This initiative is gaining attention for its potential to transform energy security.",
+  "whyItMatters": "It highlights the growing role of AI in critical infrastructure and could set a precedent for future AI applications in essential services.",
+  "synthesizedAt": "2026-11-02T16:11:06.643Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42296",
-    "title": "Saudi Aramco Invests $2.6 Billion in Humain, Strengthening AI Hub Ambitions",
-    "link": "https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-02T11:47:14.000Z",
-    "badgeColor": "slate",
-    "angle": "Industry Analysis"
+    "id": "openai-https://openai.com/index/grid-protectors-program",
+    "title": "OpenAI Launches Grid Protectors Program to Enhance Grid Reliability",
+    "link": "https://openai.com/index/grid-protectors-program",
+    "sourceName": "OpenAI News",
+    "sourceId": "openai",
+    "pubDate": "2026-11-02T15:00:00.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42293",
-      "title": "OpenAI Sets Ambitious Lobbying Goals Post-Midterms in Washington",
-      "link": "https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-02T10:47:59.000Z",
-      "badgeColor": "slate",
-      "angle": "Official Release"
+      "id": "nvidia-https://developer.nvidia.com/blog/?p=124270",
+      "title": "NVIDIA Launches Workload Map for Accelerated AI Framework Integration",
+      "link": "https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map/",
+      "sourceName": "NVIDIA Technical Blog",
+      "sourceId": "nvidia",
+      "pubDate": "2026-11-02T16:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "mit-tech-review-https://www.technologyreview.com/?p=1147846",
-      "title": "The Agentic Web: Tim Berners-Lee's Vision for a More Intelligent Internet",
-      "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-      "sourceName": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "pubDate": "2026-11-02T09:35:19.000Z",
-      "badgeColor": "red",
-      "angle": "Policy Impact"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3184089",
+      "title": "OpenAI Unifies ChatGPT and Codex Resources in Unified Allocation Pool",
+      "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-02T13:57:53.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
