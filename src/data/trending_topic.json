@@ -1,49 +1,49 @@
 {
-  "headline": "Open-Weight Reasoning Models Challenge Proprietary Frontier Labs",
-  "summary": "A wave of new open-weight models is demonstrating reasoning capabilities rivaling top commercial frontier systems. This shift is accelerating local AI agent deployment and putting downward pressure on closed-API pricing models.",
-  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on closed proprietary platforms.",
-  "synthesizedAt": "2026-11-03T07:46:46.575Z",
+  "headline": "OpenAI's Expanded Bug Bounty Program Signals Increased AI Security Focus",
+  "summary": "OpenAI has significantly boosted its bug bounty program, offering up to $172,000 for critical security vulnerabilities. This move underscores the growing importance of AI security and the industry's commitment to proactively addressing potential risks.",
+  "whyItMatters": "Enhanced security measures are crucial as AI systems become more integrated into critical applications, and this initiative sets a precedent for other companies to follow.",
+  "synthesizedAt": "2026-11-03T10:51:02.912Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "latent-space-urn:latent-space:post:post_51573bcd-fb09-403d-955a-04daf318cf5f",
-    "title": "Neural Network Weights Editing Pioneers 'Weight Space Programming' to Streamline AI Development",
-    "link": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
-    "sourceName": "Latent Space (Swyx & Alessio)",
-    "sourceId": "latent-space",
-    "pubDate": "2026-11-03T05:35:00.000Z",
-    "badgeColor": "pink",
+    "id": "the-decoder-https://the-decoder.com/?p=42331",
+    "title": "OpenAI Boosts Bug Bounty Program, Offers Up to $172,000 in Rewards",
+    "link": "https://the-decoder.com/bug-hunters-can-now-earn-up-to-172000-from-openai-as-company-ramps-up-security/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-03T10:42:44.000Z",
+    "badgeColor": "slate",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3184378",
-      "title": "Apple Watch Introduces Beta AI Features for Rewinding and Recapping Conversations",
-      "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-03T07:20:00.000Z",
-      "badgeColor": "emerald",
+      "id": "simon-willison-https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+      "title": "Sound Leak Reveals Exact Locations: A New Vulnerability in Audio Forensics",
+      "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-11-03T05:32:25.000Z",
+      "badgeColor": "green",
+      "angle": "Security Vulnerability"
+    },
+    {
+      "id": "simon-willison-https://simonwillison.net/2026/Nov/3/october-newsletter/",
+      "title": "Simon Willison's October Sponsors-Only Newsletter Highlights Vibe Game Development and Security Vulnerabilities",
+      "link": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-11-03T05:28:59.000Z",
+      "badgeColor": "green",
       "angle": "Industry Analysis"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3184353",
-      "title": "Google Expands Dreambeans to 13 Indian Languages, Aiming to Democratize AI-Generated Personal Stories",
-      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-03T03:30:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3184485",
-      "title": "Y Combinator’s Garry Tan's Heavy AI Agent Usage Reveals High Costs and Productivity",
-      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-03T00:35:52.000Z",
-      "badgeColor": "emerald",
-      "angle": "Hands-on Benchmark"
+      "id": "version2-https://ing.dk/holdning/tyve-skal-ikke-haedres-zenia-stampes-noedvendige-opgoer-med-tech-eliten",
+      "title": "Zenia Stampes Critique of Tech Elite Gains Widespread Support",
+      "link": "https://ing.dk/holdning/tyve-skal-ikke-haedres-zenia-stampes-noedvendige-opgoer-med-tech-eliten",
+      "sourceName": "Version2 (Ingeniøren)",
+      "sourceId": "version2",
+      "pubDate": "2026-11-03T04:00:00.000Z",
+      "badgeColor": "red",
+      "angle": "Tech Elite Critique"
     }
   ]
 }
