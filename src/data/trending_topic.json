@@ -1,39 +1,48 @@
 {
-  "headline": "Anthropic's RSI Warning Sparks AI Self-Improvement Fears",
-  "summary": "Anthropic has issued a warning that it is nearing the point of Recursive Self-Improvement (RSI), where AI systems can autonomously enhance their own capabilities. This development has sparked concerns about AI self-improvement and its potential implications.",
-  "whyItMatters": "It highlights the growing complexity and potential risks associated with advanced AI systems, prompting discussions on safety and governance.",
-  "synthesizedAt": "2026-11-03T13:57:40.281Z",
+  "headline": "OpenAI's Model Spec Update Sparks Transparency and Development Debate",
+  "summary": "OpenAI has revised its Model Spec, a crucial document for understanding and developing AI models. This update, while aimed at enhancing transparency, has sparked a broader debate on the implications for AI development and governance.",
+  "whyItMatters": "It highlights the ongoing push for greater transparency in AI development, which could have significant strategic and regulatory consequences.",
+  "synthesizedAt": "2026-11-03T17:07:29.860Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3184332",
-    "title": "Anthropic Warns of Approaching RSI Capability, Sparking AI Self-Improvement Fears",
-    "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-11-02T22:14:50.000Z",
+    "id": "the-zvi-https://thezvi.substack.com/p/openai-updates-its-model-spec",
+    "title": "OpenAI Updates Its Model Spec: A Crucial Document for AI Transparency and Development",
+    "link": "https://thezvi.substack.com/p/openai-updates-its-model-spec",
+    "sourceName": "Don't Worry About the Vase (Zvi)",
+    "sourceId": "the-zvi",
+    "pubDate": "2026-11-03T16:48:28.000Z",
     "badgeColor": "emerald",
-    "angle": "Critical Debate"
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "tech-policy-press-https://techpolicy.press/anthropic-needs-to-disclose-its-tokenomics-before-its-ipo",
-      "title": "Tech Policy Press Urges Anthropic to Reveal Tokenomics Ahead of IPO",
-      "link": "https://techpolicy.press/anthropic-needs-to-disclose-its-tokenomics-before-its-ipo",
-      "sourceName": "Tech Policy Press",
-      "sourceId": "tech-policy-press",
-      "pubDate": "2026-11-03T12:55:15.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Analysis"
+      "id": "deepmind-https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "title": "Google Antigravity Enhances Drug Discovery with Advanced Cheminformatics",
+      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "sourceName": "Google DeepMind",
+      "sourceId": "deepmind",
+      "pubDate": "2026-11-03T17:01:49.000Z",
+      "badgeColor": "cyan"
     },
     {
-      "id": "openai-channel-yt:video:NbDF90z-g6w",
-      "title": "Coinbase CTO Outlines Key Considerations for OpenAI Private Intelligence",
-      "link": "https://www.youtube.com/shorts/NbDF90z-g6w",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-02T22:44:26.000Z",
-      "badgeColor": "emerald",
-      "angle": "Official Statement"
+      "id": "the-decoder-https://the-decoder.com/?p=42344",
+      "title": "OpenAI Appoints Former Army Secretary to Expand Government Relations and Influence",
+      "link": "https://the-decoder.com/openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-03T15:03:02.000Z",
+      "badgeColor": "slate",
+      "angle": "Government Relations"
+    },
+    {
+      "id": "tech-policy-press-https://techpolicy.press/dont-let-misaligned-and-rogue-agents-obscure-corporate-accountability-in-openai-hugging-face-probes",
+      "title": "Tech Policy Press Investigates Corporate Accountability in OpenAI and Hugging Face Amidst AI Agent Concerns",
+      "link": "https://techpolicy.press/dont-let-misaligned-and-rogue-agents-obscure-corporate-accountability-in-openai-hugging-face-probes",
+      "sourceName": "Tech Policy Press",
+      "sourceId": "tech-policy-press",
+      "pubDate": "2026-11-03T14:05:23.000Z",
+      "badgeColor": "slate",
+      "angle": "Corporate Accountability"
     }
   ]
 }
