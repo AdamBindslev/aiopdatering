@@ -1,49 +1,39 @@
 {
-  "headline": "OpenAI's GPT-6 Astra Pioneers Rapid Hardware Design for AI Agents",
-  "summary": "OpenAI's GPT-6 Astra has designed a custom hardware device for the Codex coding agent in just one week, highlighting the rapid integration of AI models with physical systems. This showcases the potential for faster development cycles and more efficient AI deployment.",
-  "whyItMatters": "It demonstrates the growing convergence of AI and hardware, enabling faster and more efficient development of AI-driven applications and agents.",
-  "synthesizedAt": "2026-11-03T23:18:15.942Z",
+  "headline": "OpenAI's Model Spec Update Sparks AI Transparency and Development Debate",
+  "summary": "OpenAI has revised its Model Spec, a document critical for understanding and developing AI models, aiming to enhance transparency. This update is sparking a broader debate on the importance of model transparency and its implications for the AI industry.",
+  "whyItMatters": "It underscores the growing emphasis on transparency in AI development, which could influence ethical standards, regulatory frameworks, and user trust.",
+  "synthesizedAt": "2026-11-04T02:23:58.498Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42368",
-    "title": "OpenAI's GPT-6 Astra Designs Hardware Device for Codex Agent in Record Time",
-    "link": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-03T20:15:45.000Z",
-    "badgeColor": "slate",
-    "angle": "Rapid Innovation"
+    "id": "the-zvi-https://thezvi.substack.com/p/openai-updates-its-model-spec",
+    "title": "OpenAI Updates Its Model Spec: A Crucial Document for AI Transparency and Development",
+    "link": "https://thezvi.substack.com/p/openai-updates-its-model-spec",
+    "sourceName": "Don't Worry About the Vase (Zvi)",
+    "sourceId": "the-zvi",
+    "pubDate": "2026-11-03T16:48:28.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Update"
   },
   "supportingStories": [
     {
-      "id": "openai-channel-yt:video:NCxD-qsQcN0",
-      "title": "OpenAI Unveils GPT-6 Astra for Non-Technical Users to Create Physical Projects",
-      "link": "https://www.youtube.com/watch?v=NCxD-qsQcN0",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-03T18:30:30.000Z",
-      "badgeColor": "emerald",
-      "angle": "Commercial Application"
+      "id": "the-decoder-https://the-decoder.com/?p=42359",
+      "title": "Study Reveals LLM Research Lagging Behind Rapid Model Development",
+      "link": "https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-03T19:41:43.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "openai-channel-yt:video:yC72iQx6rM0",
-      "title": "Qodo Integrates Company Context into Codex Code Review for Enhanced Bug Detection",
-      "link": "https://www.youtube.com/watch?v=yC72iQx6rM0",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-03T18:11:23.000Z",
-      "badgeColor": "emerald",
-      "angle": "Collaborative Integration"
-    },
-    {
-      "id": "openai-channel-yt:video:63pcV4z0DwI",
-      "title": "OpenAI Launches ChatGPT Voice Integration for Financial Management",
-      "link": "https://www.youtube.com/watch?v=63pcV4z0DwI",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-03T18:04:51.000Z",
-      "badgeColor": "emerald",
-      "angle": "Security and Privacy"
+      "id": "the-decoder-https://the-decoder.com/?p=42344",
+      "title": "OpenAI Appoints Former Army Secretary to Expand Government Relations and Influence",
+      "link": "https://the-decoder.com/openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-03T15:03:02.000Z",
+      "badgeColor": "slate",
+      "angle": "Corporate Strategy"
     }
   ]
 }
