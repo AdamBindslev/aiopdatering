@@ -1,8 +1,8 @@
 {
   "headline": "AI Chatbots Misled Millions of Americans Ahead of Midterm Elections",
-  "summary": "A significant portion of the U.S. population was misled by AI chatbots like ChatGPT and Copilot, which provided false or biased information ahead of the recent midterm elections. This widespread misinformation has raised concerns about the role of AI in shaping public opinion and election outcomes.",
-  "whyItMatters": "This incident highlights the potential for AI to spread misinformation, underscoring the need for greater transparency and regulation in AI systems used for public engagement.",
-  "synthesizedAt": "2026-11-04T11:45:52.892Z",
+  "summary": "A significant portion of the U.S. population was misled by AI chatbots like ChatGPT and Copilot, which provided incorrect information ahead of the 2026 midterm elections. This widespread misinformation highlights the urgent need for better regulation and oversight of AI technologies.",
+  "whyItMatters": "This incident underscores the potential for AI to spread misinformation, which can have serious consequences for democratic processes and public trust in technology.",
+  "synthesizedAt": "2026-11-04T14:51:41.806Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "version2-https://ing.dk/artikel/eksperter-slaar-alarm-ai-kan-have-vildledt-millioner-af-amerikanere-foer-midtvejsvalg",
@@ -16,24 +16,24 @@
   },
   "supportingStories": [
     {
-      "id": "version2-https://ing.dk/artikel/modstandere-af-datacentre-vinder-stemmer-ved-usas-midtvejsvalg",
-      "title": "Anti-Data Center Candidates Prevail in US Midterm Elections",
-      "link": "https://ing.dk/artikel/modstandere-af-datacentre-vinder-stemmer-ved-usas-midtvejsvalg",
-      "sourceName": "Version2 (Ingeniøren)",
-      "sourceId": "version2",
-      "pubDate": "2026-11-04T11:35:00.000Z",
-      "badgeColor": "red",
-      "angle": "Official Statement"
+      "id": "tech-policy-press-https://techpolicy.press/what-the-new-ai-training-optout-really-means",
+      "title": "New AI Training Opt-Out Policy Sparks Debate on Data Privacy and Model Bias",
+      "link": "https://techpolicy.press/what-the-new-ai-training-optout-really-means",
+      "sourceName": "Tech Policy Press",
+      "sourceId": "tech-policy-press",
+      "pubDate": "2026-11-04T14:19:49.000Z",
+      "badgeColor": "slate",
+      "angle": "Data Privacy Concerns"
     },
     {
-      "id": "version2-https://ing.dk/artikel/flere-end-5000-deltagere-er-registreret-digital-tech-summit-begynder-i-dag",
-      "title": "Over 5000 Participants Registered for the Largest AI and Digital Transformation Conference",
-      "link": "https://ing.dk/artikel/flere-end-5000-deltagere-er-registreret-digital-tech-summit-begynder-i-dag",
-      "sourceName": "Version2 (Ingeniøren)",
-      "sourceId": "version2",
-      "pubDate": "2026-11-04T08:27:00.000Z",
-      "badgeColor": "red",
-      "angle": "Industry Impact"
+      "id": "the-decoder-https://the-decoder.com/?p=42380",
+      "title": "AI Ranked Last Among Voter Priorities in 2026 U.S. Midterms",
+      "link": "https://the-decoder.com/exit-polls-show-ai-ranked-last-among-voter-priorities-in-the-2026-u-s-midterms/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-04T10:45:54.000Z",
+      "badgeColor": "slate",
+      "angle": "Voter Sentiment Analysis"
     }
   ]
 }
