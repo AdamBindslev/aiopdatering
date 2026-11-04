@@ -1,20 +1,39 @@
 {
-  "headline": "Open-Source Reasoning Models Challenge Proprietary AI Ecosystems",
-  "summary": "A series of open-source reasoning models is demonstrating advanced capabilities, challenging the dominance of proprietary AI platforms. This shift is driving local AI agent deployment and putting pressure on closed API pricing models.",
-  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on expensive, proprietary AI solutions.",
-  "synthesizedAt": "2026-11-04T18:01:22.085Z",
+  "headline": "Open-Source AI Models Gain Traction, Accelerating Local Deployment and Reducing Costs",
+  "summary": "Open-source AI models are gaining significant traction, as evidenced by Hugging Face's growing popularity and the increasing adoption by enterprises and governments. This shift is driving local AI agent deployment and reducing the reliance on expensive proprietary platforms.",
+  "whyItMatters": "It broadens access to advanced AI capabilities, reduces costs, and increases transparency and control for developers and organizations.",
+  "synthesizedAt": "2026-11-04T21:07:46.473Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42395",
-    "title": "CloudOpsBench Identifies Reasoning as Major Bottleneck for AI in Cloud Operations",
-    "link": "https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-04T16:42:52.000Z",
-    "badgeColor": "slate",
+    "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_video&p=3185186",
+    "title": "Open Source AI Models Gain Popularity: Hugging Face Explains the Landscape",
+    "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-11-04T19:30:04.000Z",
+    "badgeColor": "emerald",
     "angle": "Industry Analysis"
   },
   "supportingStories": [
+    {
+      "id": "weights-and-biases-yt:video:YmhPkT8CyRQ",
+      "title": "CoreWeave Mission Control Agent Optimizes GPU Utilization for Inference Tasks",
+      "link": "https://www.youtube.com/watch?v=YmhPkT8CyRQ",
+      "sourceName": "Weights & Biases",
+      "sourceId": "weights-and-biases",
+      "pubDate": "2026-11-04T21:00:33.000Z",
+      "badgeColor": "yellow"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3185167",
+      "title": "Hugging Face’s Policy Chief Discusses the Costs, Risks, and Trade-Offs of Using Open Source AI Models",
+      "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-04T18:44:57.000Z",
+      "badgeColor": "emerald",
+      "angle": "Official Release"
+    },
     {
       "id": "huggingface-https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
       "title": "Hugging Face Unveils Dharma Field Extractor: Transforming Unstructured Documents into Structured Data",
@@ -24,16 +43,6 @@
       "pubDate": "2026-11-04T17:50:10.000Z",
       "badgeColor": "yellow",
       "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=42387",
-      "title": "MIT Researchers Demonstrate GPT-6 Astra's Ability to Directly Rewrite Weights of Other AI Models",
-      "link": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-04T15:44:44.000Z",
-      "badgeColor": "slate",
-      "angle": "Research Breakthrough"
     }
   ]
 }
