@@ -1,39 +1,39 @@
 {
-  "headline": "AI Chatbots Misled Millions of Americans Ahead of Midterm Elections",
-  "summary": "A significant portion of the U.S. population was misled by AI chatbots like ChatGPT and Copilot, which provided incorrect information ahead of the 2026 midterm elections. This widespread misinformation highlights the urgent need for better regulation and oversight of AI technologies.",
-  "whyItMatters": "This incident underscores the potential for AI to spread misinformation, which can have serious consequences for democratic processes and public trust in technology.",
-  "synthesizedAt": "2026-11-04T14:51:41.806Z",
+  "headline": "Open-Source Reasoning Models Challenge Proprietary AI Ecosystems",
+  "summary": "A series of open-source reasoning models is demonstrating advanced capabilities, challenging the dominance of proprietary AI platforms. This shift is driving local AI agent deployment and putting pressure on closed API pricing models.",
+  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on expensive, proprietary AI solutions.",
+  "synthesizedAt": "2026-11-04T18:01:22.085Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "version2-https://ing.dk/artikel/eksperter-slaar-alarm-ai-kan-have-vildledt-millioner-af-amerikanere-foer-midtvejsvalg",
-    "title": "Experts Sound Alarm: AI Chatbots Misled Millions of Americans Ahead of Midterm Elections",
-    "link": "https://ing.dk/artikel/eksperter-slaar-alarm-ai-kan-have-vildledt-millioner-af-amerikanere-foer-midtvejsvalg",
-    "sourceName": "Version2 (Ingeniøren)",
-    "sourceId": "version2",
-    "pubDate": "2026-11-04T09:32:00.000Z",
-    "badgeColor": "red",
-    "angle": "Critical Incident"
+    "id": "the-decoder-https://the-decoder.com/?p=42395",
+    "title": "CloudOpsBench Identifies Reasoning as Major Bottleneck for AI in Cloud Operations",
+    "link": "https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-04T16:42:52.000Z",
+    "badgeColor": "slate",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "tech-policy-press-https://techpolicy.press/what-the-new-ai-training-optout-really-means",
-      "title": "New AI Training Opt-Out Policy Sparks Debate on Data Privacy and Model Bias",
-      "link": "https://techpolicy.press/what-the-new-ai-training-optout-really-means",
-      "sourceName": "Tech Policy Press",
-      "sourceId": "tech-policy-press",
-      "pubDate": "2026-11-04T14:19:49.000Z",
-      "badgeColor": "slate",
-      "angle": "Data Privacy Concerns"
+      "id": "huggingface-https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "title": "Hugging Face Unveils Dharma Field Extractor: Transforming Unstructured Documents into Structured Data",
+      "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "sourceName": "Hugging Face Blog",
+      "sourceId": "huggingface",
+      "pubDate": "2026-11-04T17:50:10.000Z",
+      "badgeColor": "yellow",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42380",
-      "title": "AI Ranked Last Among Voter Priorities in 2026 U.S. Midterms",
-      "link": "https://the-decoder.com/exit-polls-show-ai-ranked-last-among-voter-priorities-in-the-2026-u-s-midterms/",
+      "id": "the-decoder-https://the-decoder.com/?p=42387",
+      "title": "MIT Researchers Demonstrate GPT-6 Astra's Ability to Directly Rewrite Weights of Other AI Models",
+      "link": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-11-04T10:45:54.000Z",
+      "pubDate": "2026-11-04T15:44:44.000Z",
       "badgeColor": "slate",
-      "angle": "Voter Sentiment Analysis"
+      "angle": "Research Breakthrough"
     }
   ]
 }
