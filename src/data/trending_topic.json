@@ -1,48 +1,38 @@
 {
-  "headline": "AGORA: Enhancing Reliability in LLM Judges Through Item-Response Theory",
-  "summary": "AGORA, a new method for aggregating judgments from language model judges, leverages Item-Response Theory to improve the reliability and accuracy of evaluations. This development is commanding attention as it addresses critical gaps in the assessment of large language models (LLMs).",
-  "whyItMatters": "It enhances the reliability and accuracy of LLM evaluations, which is crucial for advancing the trust and utility of these models in various applications.",
-  "synthesizedAt": "2026-11-05T06:31:31.060Z",
+  "headline": "Ricursive Ripple-65B Model Challenges Industry Standards with Open-Source Power",
+  "summary": "Ricursive's release of the Ripple-65B model, a large-scale language model, is pushing the boundaries of open-source AI. This development is sparking debate and accelerating the adoption of open-source models in various industries.",
+  "whyItMatters": "It highlights the growing trend towards open-source AI, potentially disrupting the proprietary model market and democratizing access to advanced AI capabilities.",
+  "synthesizedAt": "2026-11-05T09:35:20.297Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2611.05556v1",
-    "title": "AGORA: Enhancing Reliability in LLM Judges Through Item-Response Theory",
-    "link": "https://arxiv.org/abs/2611.05556",
-    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-    "sourceId": "arxiv-ai",
-    "pubDate": "2026-11-05T05:00:00.000Z",
-    "badgeColor": "zinc",
+    "id": "latent-space-urn:latent-space:post:post_fd221542-e3ff-41a0-bb96-ef372fda447e",
+    "title": "OpenAI Advances Linux Kernel Security; Ricursive Unveils Ripple-65B Model",
+    "link": "https://latent.space/p/ainews-it-s-swapping-season/",
+    "sourceName": "Latent Space (Swyx & Alessio)",
+    "sourceId": "latent-space",
+    "pubDate": "2026-11-05T06:24:09.000Z",
+    "badgeColor": "pink",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "arxiv-ai-oai:arXiv.org:2611.05394v1",
-      "title": "New Research Introduces Feasibility Condition for Confidence-Gated Tiered LLM Inference",
-      "link": "https://arxiv.org/abs/2611.05394",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-11-05T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
+      "id": "version2-https://ing.dk/artikel/jan-har-staaet-midt-i-cpr-hack-php-krise-og-angreb-paa-supermarkeder-han-laegger-saerligt-maerke-til",
+      "title": "Danish IT Experts Navigate Complex Cyber Challenges in October",
+      "link": "https://ing.dk/artikel/jan-har-staaet-midt-i-cpr-hack-php-krise-og-angreb-paa-supermarkeder-han-laegger-saerligt-maerke-til",
+      "sourceName": "Version2 (Ingeniøren)",
+      "sourceId": "version2",
+      "pubDate": "2026-11-05T09:25:00.000Z",
+      "badgeColor": "red"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2611.05459v1",
-      "title": "Large Language Models Tested on Comprehensive Scientific Literature Review Process",
-      "link": "https://arxiv.org/abs/2611.05459",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
+      "id": "arxiv-cl-oai:arXiv.org:2611.05389v1",
+      "title": "AI Express Launches Unified Generative AI Platform with Pay-As-You-Go Pricing",
+      "link": "https://arxiv.org/abs/2611.05389",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
       "pubDate": "2026-11-05T05:00:00.000Z",
       "badgeColor": "zinc",
       "angle": "Industry Analysis"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2611.05548v1",
-      "title": "AI Models Demonstrate Enhanced Capabilities in Completing End-to-End Data Science Projects with Iterative Feedback",
-      "link": "https://arxiv.org/abs/2611.05548",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-11-05T05:00:00.000Z",
-      "badgeColor": "zinc"
     }
   ]
 }
