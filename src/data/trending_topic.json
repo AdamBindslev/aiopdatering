@@ -1,8 +1,8 @@
 {
   "headline": "Open Source AI Models Gain Popularity: Hugging Face Explains the Landscape",
-  "summary": "Open source AI models are becoming increasingly popular among enterprises, governments, and startups due to their lower costs and greater flexibility. Hugging Face provides a detailed analysis of the current landscape, highlighting the benefits and challenges of open source models.",
-  "whyItMatters": "This trend reduces dependency on proprietary platforms and opens up advanced AI capabilities to a broader audience, potentially reshaping the AI industry's business models.",
-  "synthesizedAt": "2026-11-05T00:13:22.625Z",
+  "summary": "TechCrunch reports that open source AI models are gaining traction among enterprises, governments, and startups due to their lower costs, greater control, and flexibility. Hugging Face provides a detailed analysis of the current landscape, highlighting the benefits and challenges of adopting open source models.",
+  "whyItMatters": "This trend is reshaping the AI industry by democratizing access to advanced models and reducing reliance on proprietary solutions, which could have significant strategic and economic implications.",
+  "synthesizedAt": "2026-11-05T03:18:59.641Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_video&p=3185186",
@@ -16,15 +16,6 @@
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3185152",
-      "title": "OpenAI Aims to Influence 2028 Election Through New Social Contract",
-      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-04T21:25:44.000Z",
-      "badgeColor": "emerald"
-    },
-    {
       "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3185167",
       "title": "Hugging Face’s Policy Chief Discusses the Costs, Risks, and Trade-Offs of Using Open Source AI Models",
       "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
@@ -35,14 +26,23 @@
       "angle": "Official Statement"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42395",
-      "title": "CloudOpsBench Identifies Reasoning as Major Bottleneck for AI in Cloud Operations",
-      "link": "https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-04T16:42:52.000Z",
-      "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
+      "id": "interconnects-https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+      "title": "Interconnects Publishes First Open Model Economy Research Note for Subscribers",
+      "link": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+      "sourceName": "Interconnects (Nathan Lambert)",
+      "sourceId": "interconnects",
+      "pubDate": "2026-11-04T16:35:44.000Z",
+      "badgeColor": "indigo",
+      "angle": "Market Research"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3185072",
+      "title": "Google Faces Backlash for Plan to Disable Search for Schools Restricting AI Usage",
+      "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-04T16:17:22.000Z",
+      "badgeColor": "emerald"
     }
   ]
 }
