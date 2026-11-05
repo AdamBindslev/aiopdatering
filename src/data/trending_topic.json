@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Source AI Models Gain Traction, Accelerating Local Deployment and Reducing Costs",
-  "summary": "Open-source AI models are gaining significant traction, as evidenced by Hugging Face's growing popularity and the increasing adoption by enterprises and governments. This shift is driving local AI agent deployment and reducing the reliance on expensive proprietary platforms.",
-  "whyItMatters": "It broadens access to advanced AI capabilities, reduces costs, and increases transparency and control for developers and organizations.",
-  "synthesizedAt": "2026-11-04T21:07:46.473Z",
+  "headline": "Open Source AI Models Gain Popularity: Hugging Face Explains the Landscape",
+  "summary": "Open source AI models are becoming increasingly popular among enterprises, governments, and startups due to their lower costs and greater flexibility. Hugging Face provides a detailed analysis of the current landscape, highlighting the benefits and challenges of open source models.",
+  "whyItMatters": "This trend reduces dependency on proprietary platforms and opens up advanced AI capabilities to a broader audience, potentially reshaping the AI industry's business models.",
+  "synthesizedAt": "2026-11-05T00:13:22.625Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_video&p=3185186",
@@ -16,13 +16,13 @@
   },
   "supportingStories": [
     {
-      "id": "weights-and-biases-yt:video:YmhPkT8CyRQ",
-      "title": "CoreWeave Mission Control Agent Optimizes GPU Utilization for Inference Tasks",
-      "link": "https://www.youtube.com/watch?v=YmhPkT8CyRQ",
-      "sourceName": "Weights & Biases",
-      "sourceId": "weights-and-biases",
-      "pubDate": "2026-11-04T21:00:33.000Z",
-      "badgeColor": "yellow"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3185152",
+      "title": "OpenAI Aims to Influence 2028 Election Through New Social Contract",
+      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-04T21:25:44.000Z",
+      "badgeColor": "emerald"
     },
     {
       "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3185167",
@@ -32,16 +32,16 @@
       "sourceId": "techcrunch-ai",
       "pubDate": "2026-11-04T18:44:57.000Z",
       "badgeColor": "emerald",
-      "angle": "Official Release"
+      "angle": "Official Statement"
     },
     {
-      "id": "huggingface-https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "title": "Hugging Face Unveils Dharma Field Extractor: Transforming Unstructured Documents into Structured Data",
-      "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "sourceName": "Hugging Face Blog",
-      "sourceId": "huggingface",
-      "pubDate": "2026-11-04T17:50:10.000Z",
-      "badgeColor": "yellow",
+      "id": "the-decoder-https://the-decoder.com/?p=42395",
+      "title": "CloudOpsBench Identifies Reasoning as Major Bottleneck for AI in Cloud Operations",
+      "link": "https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-04T16:42:52.000Z",
+      "badgeColor": "slate",
       "angle": "Technical Deep Dive"
     }
   ]
