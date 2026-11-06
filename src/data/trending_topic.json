@@ -1,39 +1,39 @@
 {
-  "headline": "Mistral Large 4 Emerges as Top Open-Source AI Model, Sparking Industry Shift",
-  "summary": "The launch of Mistral Large 4, an open-source AI model, has sparked significant industry interest and debate, challenging the dominance of proprietary models and potentially accelerating the adoption of open-source alternatives.",
-  "whyItMatters": "This shift could democratize access to advanced AI capabilities, reduce costs, and foster greater transparency and collaboration within the AI community.",
-  "synthesizedAt": "2026-11-06T07:25:49.906Z",
+  "headline": "NVIDIA's AI Agent Ecosystem Expands with New Tools and Competitions",
+  "summary": "NVIDIA is driving the development of AI agents through a series of new tools, competitions, and partnerships, showcasing the growing importance of dynamic exploration agents in various applications. This trend is gaining momentum as companies and developers seek to enhance automation and efficiency.",
+  "whyItMatters": "It accelerates the deployment of AI agents across industries, fostering innovation and competition in the AI agent market.",
+  "synthesizedAt": "2026-11-06T10:30:37.926Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "cognitive-revolution-yt:video:1ydgswLw8MY",
-    "title": "Mistral Large 4 Emerges as Top Open-Source AI Model Amid Cybersecurity Concerns",
-    "link": "https://www.youtube.com/watch?v=1ydgswLw8MY",
-    "sourceName": "The Cognitive Revolution",
-    "sourceId": "cognitive-revolution",
-    "pubDate": "2026-11-06T06:56:43.000Z",
-    "badgeColor": "teal",
-    "angle": "Official Release"
+    "id": "nvidia-developer-yt:video:BtCqoPmt8rs",
+    "title": "NVIDIA Hosts Live Agent Gauntlet: Developer Competition for Dynamic Exploration Agents",
+    "link": "https://www.youtube.com/watch?v=BtCqoPmt8rs",
+    "sourceName": "NVIDIA Developer",
+    "sourceId": "nvidia-developer",
+    "pubDate": "2026-11-06T08:15:54.000Z",
+    "badgeColor": "green",
+    "angle": "Developer Competition"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2611.06969v1",
-      "title": "New Research Reveals Vulnerability in LLM-Based Proactive Dialogue Systems",
-      "link": "https://arxiv.org/abs/2611.06969",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-11-06T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
+      "id": "mit-tech-review-https://www.technologyreview.com/?p=1148090",
+      "title": "Personal Experience with Advanced Humanoid Robot Cleaner Sparks Future Imaginations",
+      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "sourceName": "MIT Technology Review",
+      "sourceId": "mit-tech-review",
+      "pubDate": "2026-11-06T10:00:00.000Z",
+      "badgeColor": "red",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2611.07042v1",
-      "title": "Policy-Based Decision Benchmarks Face Scrutiny for Misaligned Evaluations",
-      "link": "https://arxiv.org/abs/2611.07042",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-11-06T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Policy Impact"
+      "id": "nvidia-developer-yt:video:8lNoGg_j8S8",
+      "title": "NVIDIA Unveils Expanded Cosmos Framework for World Models Training and Deployment",
+      "link": "https://www.youtube.com/watch?v=8lNoGg_j8S8",
+      "sourceName": "NVIDIA Developer",
+      "sourceId": "nvidia-developer",
+      "pubDate": "2026-11-06T06:21:34.000Z",
+      "badgeColor": "green",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
