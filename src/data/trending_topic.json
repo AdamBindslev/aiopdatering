@@ -1,27 +1,27 @@
 {
-  "headline": "Open-Weight Models Reshape AI Landscape, Sparking Debate",
-  "summary": "A surge in open-weight AI models, exemplified by Thinking Machines' Inkling 2 Small, is challenging the dominance of proprietary systems. This trend is driving local AI agent deployment and prompting a critical debate on access and innovation.",
-  "whyItMatters": "It broadens access to advanced AI capabilities, potentially democratizing innovation and reducing reliance on closed platforms.",
-  "synthesizedAt": "2026-11-06T19:50:26.194Z",
+  "headline": "Open-Weight Models Reshape AI Landscape with Enhanced Capabilities",
+  "summary": "A surge in open-weight models, including Ripple-65B Preview and Inkling 2 Small, is pushing the boundaries of AI reasoning and performance, challenging proprietary systems and accelerating local deployment. This trend is reshaping the AI industry by broadening access and reducing dependence on closed platforms.",
+  "whyItMatters": "It democratizes advanced AI capabilities, fostering innovation and competition, while potentially disrupting existing business models.",
+  "synthesizedAt": "2026-11-06T22:54:30.492Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42490",
-    "title": "Thinking Machines' Inkling 2 Small Challenges Leading Open-Weight Models in Western Market",
-    "link": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
+    "id": "the-decoder-https://the-decoder.com/?p=42519",
+    "title": "Ricursive Intelligence Unveils Ripple-65B Preview, Top-Scoring Open-Source U.S. Model for Agentic Coding",
+    "link": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-11-06T13:25:09.000Z",
+    "pubDate": "2026-11-06T19:47:04.000Z",
     "badgeColor": "slate",
-    "angle": "Primary Source"
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3185905",
-      "title": "Hundreds of Artex AI Penetration Testing Tools Exposed to the Web",
-      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3185898",
+      "title": "Midterm Elections Could Reshape AI Industry with Stricter Data Center Regulations",
+      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-06T18:44:38.000Z",
+      "pubDate": "2026-11-06T18:00:00.000Z",
       "badgeColor": "emerald",
       "angle": "Industry Analysis"
     },
@@ -33,7 +33,17 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-11-06T13:40:07.000Z",
       "badgeColor": "slate",
-      "angle": "Critical Debate"
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=42490",
+      "title": "Thinking Machines' Inkling 2 Small Challenges Leading Open-Weight Models in Western Market",
+      "link": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-06T13:25:09.000Z",
+      "badgeColor": "slate",
+      "angle": "Competitive Benchmark"
     }
   ]
 }
