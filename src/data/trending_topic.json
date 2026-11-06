@@ -1,48 +1,39 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Systems, Boosting Local Deployment",
-  "summary": "A surge in open-source AI models, such as ERNIE 5.5 Flash and GPT-6 Cyber, is demonstrating competitive capabilities with proprietary systems. This trend is accelerating local AI agent deployment and reducing reliance on expensive closed APIs.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and reduces costs for developers, potentially reshaping the AI industry landscape.",
-  "synthesizedAt": "2026-11-06T04:13:19.576Z",
+  "headline": "Mistral Large 4 Emerges as Top Open-Source AI Model, Sparking Industry Shift",
+  "summary": "The launch of Mistral Large 4, an open-source AI model, has sparked significant industry interest and debate, challenging the dominance of proprietary models and potentially accelerating the adoption of open-source alternatives.",
+  "whyItMatters": "This shift could democratize access to advanced AI capabilities, reduce costs, and foster greater transparency and collaboration within the AI community.",
+  "synthesizedAt": "2026-11-06T07:25:49.906Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42451",
-    "title": "Baidu Unveils ERNIE 5.5 Flash Base: A 280 Billion Parameter Open-Source Foundation Model",
-    "link": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-05T17:56:41.000Z",
-    "badgeColor": "slate",
+    "id": "cognitive-revolution-yt:video:1ydgswLw8MY",
+    "title": "Mistral Large 4 Emerges as Top Open-Source AI Model Amid Cybersecurity Concerns",
+    "link": "https://www.youtube.com/watch?v=1ydgswLw8MY",
+    "sourceName": "The Cognitive Revolution",
+    "sourceId": "cognitive-revolution",
+    "pubDate": "2026-11-06T06:56:43.000Z",
+    "badgeColor": "teal",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "lesswrong-ai-CDMozTX7ShiqbFLrf",
-      "title": "Research Unveils Insights into LLMs' Score-Seeking Behaviors",
-      "link": "https://www.lesswrong.com/posts/CDMozTX7ShiqbFLrf/towards-understanding-score-seeking-in-llms-1",
-      "sourceName": "LessWrong (Curated AI)",
-      "sourceId": "lesswrong-ai",
-      "pubDate": "2026-11-06T03:19:36.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=42471",
-      "title": "OpenAI Unveils GPT-6 Cyber: Dual-Purpose AI for Identifying and Mitigating Security Vulnerabilities",
-      "link": "https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-05T20:36:25.000Z",
-      "badgeColor": "slate",
+      "id": "arxiv-cl-oai:arXiv.org:2611.06969v1",
+      "title": "New Research Reveals Vulnerability in LLM-Based Proactive Dialogue Systems",
+      "link": "https://arxiv.org/abs/2611.06969",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-11-06T05:00:00.000Z",
+      "badgeColor": "zinc",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3185344",
-      "title": "Axiom Math Launches AI Agents for Formal Verification in Mathematics",
-      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-05T16:16:45.000Z",
-      "badgeColor": "emerald"
+      "id": "arxiv-cl-oai:arXiv.org:2611.07042v1",
+      "title": "Policy-Based Decision Benchmarks Face Scrutiny for Misaligned Evaluations",
+      "link": "https://arxiv.org/abs/2611.07042",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-11-06T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Policy Impact"
     }
   ]
 }

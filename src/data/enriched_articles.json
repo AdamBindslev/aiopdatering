@@ -107791,5 +107791,644 @@
     "whyItMatters": "This integration showcases how AI can transform financial services, improving decision-making efficiency and accuracy for investment firms.",
     "enrichedAt": "2026-11-06T04:12:47.108Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3185713": {
+    "title": "Palo Alto Networks in Talks to Acquire AI Agent Security Startup Clutch for $500M",
+    "summary": "Palo Alto Networks is reportedly in discussions to purchase Clutch, an AI-driven security startup backed by Lightspeed and SignalFire, for $500 million. Clutch was previously valued at $85 million, reflecting its growing importance in the AI security space.",
+    "danishTitle": "Palo Alto Networks in Talks to Acquire AI Agent Security Startup Clutch for $500M",
+    "danishSummary": "Palo Alto Networks is reportedly in discussions to purchase Clutch, an AI-driven security startup backed by Lightspeed and SignalFire, for $500 million. Clutch was previously valued at $85 million, reflecting its growing importance in the AI security space.",
+    "whyItMatters": "This acquisition could significantly bolster Palo Alto Networks' AI security capabilities, positioning them as a leader in the rapidly evolving cybersecurity market.",
+    "enrichedAt": "2026-11-06T07:19:16.987Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m": {
+    "title": "Palo Alto Networks in Talks to Acquire AI Agent Security Startup Clutch for $500M",
+    "summary": "Palo Alto Networks is reportedly in discussions to purchase Clutch, an AI-driven security startup backed by Lightspeed and SignalFire, for $500 million. Clutch was previously valued at $85 million, reflecting its growing importance in the AI security space.",
+    "danishTitle": "Palo Alto Networks in Talks to Acquire AI Agent Security Startup Clutch for $500M",
+    "danishSummary": "Palo Alto Networks is reportedly in discussions to purchase Clutch, an AI-driven security startup backed by Lightspeed and SignalFire, for $500 million. Clutch was previously valued at $85 million, reflecting its growing importance in the AI security space.",
+    "whyItMatters": "This acquisition could significantly bolster Palo Alto Networks' AI security capabilities, positioning them as a leader in the rapidly evolving cybersecurity market.",
+    "enrichedAt": "2026-11-06T07:19:16.987Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/": {
+    "title": "Palo Alto Networks in Talks to Acquire AI Agent Security Startup Clutch for $500M",
+    "summary": "Palo Alto Networks is reportedly in discussions to purchase Clutch, an AI-driven security startup backed by Lightspeed and SignalFire, for $500 million. Clutch was previously valued at $85 million, reflecting its growing importance in the AI security space.",
+    "danishTitle": "Palo Alto Networks in Talks to Acquire AI Agent Security Startup Clutch for $500M",
+    "danishSummary": "Palo Alto Networks is reportedly in discussions to purchase Clutch, an AI-driven security startup backed by Lightspeed and SignalFire, for $500 million. Clutch was previously valued at $85 million, reflecting its growing importance in the AI security space.",
+    "whyItMatters": "This acquisition could significantly bolster Palo Alto Networks' AI security capabilities, positioning them as a leader in the rapidly evolving cybersecurity market.",
+    "enrichedAt": "2026-11-06T07:19:16.987Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.06969v1": {
+    "title": "New Research Reveals Vulnerability in LLM-Based Proactive Dialogue Systems",
+    "summary": "A recent study published on arXiv highlights the risk of interactive backdoor attacks in large language model (LLM)-based proactive dialogue systems, which are designed to offer goal-directed support through continuous interaction. The research warns that fine-tuning these models with external data can introduce security vulnerabilities.",
+    "danishTitle": "New Research Reveals Vulnerability in LLM-Based Proactive Dialogue Systems",
+    "danishSummary": "A recent study published on arXiv highlights the risk of interactive backdoor attacks in large language model (LLM)-based proactive dialogue systems, which are designed to offer goal-directed support through continuous interaction. The research warns that fine-tuning these models with external data can introduce security vulnerabilities.",
+    "whyItMatters": "This finding underscores the critical need for robust security measures in LLMs, particularly in applications requiring high levels of interaction and trust, such as customer service and virtual assistants.",
+    "enrichedAt": "2026-11-06T07:19:27.945Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.06969": {
+    "title": "New Research Reveals Vulnerability in LLM-Based Proactive Dialogue Systems",
+    "summary": "A recent study published on arXiv highlights the risk of interactive backdoor attacks in large language model (LLM)-based proactive dialogue systems, which are designed to offer goal-directed support through continuous interaction. The research warns that fine-tuning these models with external data can introduce security vulnerabilities.",
+    "danishTitle": "New Research Reveals Vulnerability in LLM-Based Proactive Dialogue Systems",
+    "danishSummary": "A recent study published on arXiv highlights the risk of interactive backdoor attacks in large language model (LLM)-based proactive dialogue systems, which are designed to offer goal-directed support through continuous interaction. The research warns that fine-tuning these models with external data can introduce security vulnerabilities.",
+    "whyItMatters": "This finding underscores the critical need for robust security measures in LLMs, particularly in applications requiring high levels of interaction and trust, such as customer service and virtual assistants.",
+    "enrichedAt": "2026-11-06T07:19:27.945Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.06976v1": {
+    "title": "New Study Explores Prefill-to-Autoregressive Cross-Model Transfer (PACT) for Enhanced Language Model Efficiency",
+    "summary": "A recent study on arXiv proposes Prefill-to-Autoregressive Cross-model Transfer (PACT), a method that leverages the strengths of larger and smaller language models to improve efficiency. This technique combines the prompt representations of a larger model with the autoregressive capabilities of a smaller one, potentially reducing computational costs and enhancing performance in various language tasks.",
+    "danishTitle": "New Study Explores Prefill-to-Autoregressive Cross-Model Transfer (PACT) for Enhanced Language Model Efficiency",
+    "danishSummary": "A recent study on arXiv proposes Prefill-to-Autoregressive Cross-model Transfer (PACT), a method that leverages the strengths of larger and smaller language models to improve efficiency. This technique combines the prompt representations of a larger model with the autoregressive capabilities of a smaller one, potentially reducing computational costs and enhancing performance in various language tasks.",
+    "whyItMatters": "By optimizing resource utilization, PACT could significantly impact the scalability and cost-effectiveness of language model applications, benefiting both research and commercial sectors.",
+    "enrichedAt": "2026-11-06T07:19:40.231Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.06976": {
+    "title": "New Study Explores Prefill-to-Autoregressive Cross-Model Transfer (PACT) for Enhanced Language Model Efficiency",
+    "summary": "A recent study on arXiv proposes Prefill-to-Autoregressive Cross-model Transfer (PACT), a method that leverages the strengths of larger and smaller language models to improve efficiency. This technique combines the prompt representations of a larger model with the autoregressive capabilities of a smaller one, potentially reducing computational costs and enhancing performance in various language tasks.",
+    "danishTitle": "New Study Explores Prefill-to-Autoregressive Cross-Model Transfer (PACT) for Enhanced Language Model Efficiency",
+    "danishSummary": "A recent study on arXiv proposes Prefill-to-Autoregressive Cross-model Transfer (PACT), a method that leverages the strengths of larger and smaller language models to improve efficiency. This technique combines the prompt representations of a larger model with the autoregressive capabilities of a smaller one, potentially reducing computational costs and enhancing performance in various language tasks.",
+    "whyItMatters": "By optimizing resource utilization, PACT could significantly impact the scalability and cost-effectiveness of language model applications, benefiting both research and commercial sectors.",
+    "enrichedAt": "2026-11-06T07:19:40.231Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.07042v1": {
+    "title": "Policy-Based Decision Benchmarks Face Scrutiny for Misaligned Evaluations",
+    "summary": "A recent study on arXiv highlights issues with policy-based decision benchmarks, which evaluate AI systems based on adherence to written rules. The research reveals that systems can fail benchmarks even when following the rules correctly, due to misstatements in the benchmarks themselves.",
+    "danishTitle": "Policy-Based Decision Benchmarks Face Scrutiny for Misaligned Evaluations",
+    "danishSummary": "A recent study on arXiv highlights issues with policy-based decision benchmarks, which evaluate AI systems based on adherence to written rules. The research reveals that systems can fail benchmarks even when following the rules correctly, due to misstatements in the benchmarks themselves.",
+    "whyItMatters": "These findings underscore the need for more rigorous auditing of decision benchmarks to ensure they accurately reflect real-world scenarios, thereby improving the reliability and trustworthiness of AI systems in critical applications.",
+    "enrichedAt": "2026-11-06T07:19:50.684Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07042": {
+    "title": "Policy-Based Decision Benchmarks Face Scrutiny for Misaligned Evaluations",
+    "summary": "A recent study on arXiv highlights issues with policy-based decision benchmarks, which evaluate AI systems based on adherence to written rules. The research reveals that systems can fail benchmarks even when following the rules correctly, due to misstatements in the benchmarks themselves.",
+    "danishTitle": "Policy-Based Decision Benchmarks Face Scrutiny for Misaligned Evaluations",
+    "danishSummary": "A recent study on arXiv highlights issues with policy-based decision benchmarks, which evaluate AI systems based on adherence to written rules. The research reveals that systems can fail benchmarks even when following the rules correctly, due to misstatements in the benchmarks themselves.",
+    "whyItMatters": "These findings underscore the need for more rigorous auditing of decision benchmarks to ensure they accurately reflect real-world scenarios, thereby improving the reliability and trustworthiness of AI systems in critical applications.",
+    "enrichedAt": "2026-11-06T07:19:50.684Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.07054v1": {
+    "title": "Genetic Variant Reclassification: A New Model Surfaces Need for Consistent Patient Recontact in Online Health Communities",
+    "summary": "A new study published on arXiv highlights the inconsistent reclassification of genetic variants in ClinVar and calls for a more systematic approach to patient recontact in online health communities to ensure accurate and timely information sharing.",
+    "danishTitle": "Genetic Variant Reclassification: A New Model Surfaces Need for Consistent Patient Recontact in Online Health Communities",
+    "danishSummary": "A new study published on arXiv highlights the inconsistent reclassification of genetic variants in ClinVar and calls for a more systematic approach to patient recontact in online health communities to ensure accurate and timely information sharing.",
+    "whyItMatters": "Enhancing patient recontact protocols is crucial for maintaining the integrity of genetic health data and improving patient care, especially in the era of large-scale online health communities.",
+    "enrichedAt": "2026-11-06T07:20:00.930Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07054": {
+    "title": "Genetic Variant Reclassification: A New Model Surfaces Need for Consistent Patient Recontact in Online Health Communities",
+    "summary": "A new study published on arXiv highlights the inconsistent reclassification of genetic variants in ClinVar and calls for a more systematic approach to patient recontact in online health communities to ensure accurate and timely information sharing.",
+    "danishTitle": "Genetic Variant Reclassification: A New Model Surfaces Need for Consistent Patient Recontact in Online Health Communities",
+    "danishSummary": "A new study published on arXiv highlights the inconsistent reclassification of genetic variants in ClinVar and calls for a more systematic approach to patient recontact in online health communities to ensure accurate and timely information sharing.",
+    "whyItMatters": "Enhancing patient recontact protocols is crucial for maintaining the integrity of genetic health data and improving patient care, especially in the era of large-scale online health communities.",
+    "enrichedAt": "2026-11-06T07:20:00.930Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.07072v1": {
+    "title": "Automated Feedback Enhances Peer Tutoring in Classroom Discourse",
+    "summary": "A new study published on arXiv finds that automated feedback to peer tutors in classroom settings increases their use of talk moves and learners' reasoning abilities, though it does not significantly alter the overall balance of classroom dialogue. This research highlights the potential of AI in improving educational methodologies.",
+    "danishTitle": "Automated Feedback Enhances Peer Tutoring in Classroom Discourse",
+    "danishSummary": "A new study published on arXiv finds that automated feedback to peer tutors in classroom settings increases their use of talk moves and learners' reasoning abilities, though it does not significantly alter the overall balance of classroom dialogue. This research highlights the potential of AI in improving educational methodologies.",
+    "whyItMatters": "The findings suggest that integrating AI-driven feedback can be a valuable tool for enhancing peer tutoring effectiveness, potentially leading to more engaging and productive learning environments.",
+    "enrichedAt": "2026-11-06T07:20:11.082Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07072": {
+    "title": "Automated Feedback Enhances Peer Tutoring in Classroom Discourse",
+    "summary": "A new study published on arXiv finds that automated feedback to peer tutors in classroom settings increases their use of talk moves and learners' reasoning abilities, though it does not significantly alter the overall balance of classroom dialogue. This research highlights the potential of AI in improving educational methodologies.",
+    "danishTitle": "Automated Feedback Enhances Peer Tutoring in Classroom Discourse",
+    "danishSummary": "A new study published on arXiv finds that automated feedback to peer tutors in classroom settings increases their use of talk moves and learners' reasoning abilities, though it does not significantly alter the overall balance of classroom dialogue. This research highlights the potential of AI in improving educational methodologies.",
+    "whyItMatters": "The findings suggest that integrating AI-driven feedback can be a valuable tool for enhancing peer tutoring effectiveness, potentially leading to more engaging and productive learning environments.",
+    "enrichedAt": "2026-11-06T07:20:11.082Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.07111v1": {
+    "title": "New AI Model Enables Precise Authorship Attribution Through Style Analysis",
+    "summary": "A recent study proposes a novel approach to authorship attribution that models individual author styles more accurately by learning author-level mixtures of writing styles. This method enhances the precision of author verification systems, moving beyond generic style analysis to capture unique author characteristics.",
+    "danishTitle": "New AI Model Enables Precise Authorship Attribution Through Style Analysis",
+    "danishSummary": "A recent study proposes a novel approach to authorship attribution that models individual author styles more accurately by learning author-level mixtures of writing styles. This method enhances the precision of author verification systems, moving beyond generic style analysis to capture unique author characteristics.",
+    "whyItMatters": "This advancement could significantly improve the accuracy of authorship attribution tools, which are crucial in legal, academic, and digital forensics contexts, thereby enhancing the reliability of digital content analysis.",
+    "enrichedAt": "2026-11-06T07:20:21.373Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07111": {
+    "title": "New AI Model Enables Precise Authorship Attribution Through Style Analysis",
+    "summary": "A recent study proposes a novel approach to authorship attribution that models individual author styles more accurately by learning author-level mixtures of writing styles. This method enhances the precision of author verification systems, moving beyond generic style analysis to capture unique author characteristics.",
+    "danishTitle": "New AI Model Enables Precise Authorship Attribution Through Style Analysis",
+    "danishSummary": "A recent study proposes a novel approach to authorship attribution that models individual author styles more accurately by learning author-level mixtures of writing styles. This method enhances the precision of author verification systems, moving beyond generic style analysis to capture unique author characteristics.",
+    "whyItMatters": "This advancement could significantly improve the accuracy of authorship attribution tools, which are crucial in legal, academic, and digital forensics contexts, thereby enhancing the reliability of digital content analysis.",
+    "enrichedAt": "2026-11-06T07:20:21.373Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.07113v1": {
+    "title": "Analyzing Patient Barriers to Cancer Screening Through Online Community Data",
+    "summary": "A new study from arXiv uses online community data to identify and characterize patient-reported barriers to cancer screening across the U.S., revealing insights that clinical surveys often miss. This research aims to address persistent disparities in cancer screening uptake.",
+    "danishTitle": "Analyzing Patient Barriers to Cancer Screening Through Online Community Data",
+    "danishSummary": "A new study from arXiv uses online community data to identify and characterize patient-reported barriers to cancer screening across the U.S., revealing insights that clinical surveys often miss. This research aims to address persistent disparities in cancer screening uptake.",
+    "whyItMatters": "By leveraging online community insights, this study provides a more comprehensive understanding of patient barriers, which can inform targeted interventions to improve cancer screening rates and reduce disparities.",
+    "enrichedAt": "2026-11-06T07:20:30.956Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07113": {
+    "title": "Analyzing Patient Barriers to Cancer Screening Through Online Community Data",
+    "summary": "A new study from arXiv uses online community data to identify and characterize patient-reported barriers to cancer screening across the U.S., revealing insights that clinical surveys often miss. This research aims to address persistent disparities in cancer screening uptake.",
+    "danishTitle": "Analyzing Patient Barriers to Cancer Screening Through Online Community Data",
+    "danishSummary": "A new study from arXiv uses online community data to identify and characterize patient-reported barriers to cancer screening across the U.S., revealing insights that clinical surveys often miss. This research aims to address persistent disparities in cancer screening uptake.",
+    "whyItMatters": "By leveraging online community insights, this study provides a more comprehensive understanding of patient barriers, which can inform targeted interventions to improve cancer screening rates and reduce disparities.",
+    "enrichedAt": "2026-11-06T07:20:30.956Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.07126v1": {
+    "title": "Adapting LLMs for Automated Chatbot Judging Through Soft Prompt Tuning",
+    "summary": "A new study proposes using soft prompt tuning to align large language models (LLMs) with observed human annotation policies, enhancing their accuracy in evaluating chatbot responses. This approach aims to improve the reliability of LLMs in automated judging tasks without extensive retraining.",
+    "danishTitle": "Adapting LLMs for Automated Chatbot Judging Through Soft Prompt Tuning",
+    "danishSummary": "A new study proposes using soft prompt tuning to align large language models (LLMs) with observed human annotation policies, enhancing their accuracy in evaluating chatbot responses. This approach aims to improve the reliability of LLMs in automated judging tasks without extensive retraining.",
+    "whyItMatters": "This method could significantly boost the trustworthiness of LLMs in critical applications, such as customer service and content moderation, by better mimicking human judgment standards.",
+    "enrichedAt": "2026-11-06T07:20:41.515Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07126": {
+    "title": "Adapting LLMs for Automated Chatbot Judging Through Soft Prompt Tuning",
+    "summary": "A new study proposes using soft prompt tuning to align large language models (LLMs) with observed human annotation policies, enhancing their accuracy in evaluating chatbot responses. This approach aims to improve the reliability of LLMs in automated judging tasks without extensive retraining.",
+    "danishTitle": "Adapting LLMs for Automated Chatbot Judging Through Soft Prompt Tuning",
+    "danishSummary": "A new study proposes using soft prompt tuning to align large language models (LLMs) with observed human annotation policies, enhancing their accuracy in evaluating chatbot responses. This approach aims to improve the reliability of LLMs in automated judging tasks without extensive retraining.",
+    "whyItMatters": "This method could significantly boost the trustworthiness of LLMs in critical applications, such as customer service and content moderation, by better mimicking human judgment standards.",
+    "enrichedAt": "2026-11-06T07:20:41.515Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.07134v1": {
+    "title": "Matriarchy Classics: A Computational Approach to Gender-Swap Words in Public Domain Novels",
+    "summary": "A new computational method has been proposed for gender-swapping words in public domain novels, ensuring that only gendered terms are altered while preserving the integrity of the rest of the text. This approach aims to enhance the accessibility and inclusivity of classic literature.",
+    "danishTitle": "Matriarchy Classics: A Computational Approach to Gender-Swap Words in Public Domain Novels",
+    "danishSummary": "A new computational method has been proposed for gender-swapping words in public domain novels, ensuring that only gendered terms are altered while preserving the integrity of the rest of the text. This approach aims to enhance the accessibility and inclusivity of classic literature.",
+    "whyItMatters": "By providing a reliable and programmatically controlled method, this research could significantly impact the digital humanities and literature studies, making classic works more inclusive without altering their original content.",
+    "enrichedAt": "2026-11-06T07:20:52.035Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07134": {
+    "title": "Matriarchy Classics: A Computational Approach to Gender-Swap Words in Public Domain Novels",
+    "summary": "A new computational method has been proposed for gender-swapping words in public domain novels, ensuring that only gendered terms are altered while preserving the integrity of the rest of the text. This approach aims to enhance the accessibility and inclusivity of classic literature.",
+    "danishTitle": "Matriarchy Classics: A Computational Approach to Gender-Swap Words in Public Domain Novels",
+    "danishSummary": "A new computational method has been proposed for gender-swapping words in public domain novels, ensuring that only gendered terms are altered while preserving the integrity of the rest of the text. This approach aims to enhance the accessibility and inclusivity of classic literature.",
+    "whyItMatters": "By providing a reliable and programmatically controlled method, this research could significantly impact the digital humanities and literature studies, making classic works more inclusive without altering their original content.",
+    "enrichedAt": "2026-11-06T07:20:52.035Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.07203v1": {
+    "title": "New Benchmark \tau-bench-LILT Evaluates Multilingual Conversational Agents for Real-World Tool-Use Tasks",
+    "summary": "A new benchmark, \tau-bench-LILT, has been introduced to evaluate conversational agents in multiple languages, addressing the current gap in tool-use task evaluations primarily conducted in English. This development is crucial for organizations aiming to deploy multilingual AI assistants effectively.",
+    "danishTitle": "New Benchmark \tau-bench-LILT Evaluates Multilingual Conversational Agents for Real-World Tool-Use Tasks",
+    "danishSummary": "A new benchmark, \tau-bench-LILT, has been introduced to evaluate conversational agents in multiple languages, addressing the current gap in tool-use task evaluations primarily conducted in English. This development is crucial for organizations aiming to deploy multilingual AI assistants effectively.",
+    "whyItMatters": "By providing a comprehensive evaluation framework, \tau-bench-LILT ensures that conversational agents perform well in diverse linguistic and cultural contexts, enhancing their usability and adoption in global markets.",
+    "enrichedAt": "2026-11-06T07:21:03.414Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07203": {
+    "title": "New Benchmark \tau-bench-LILT Evaluates Multilingual Conversational Agents for Real-World Tool-Use Tasks",
+    "summary": "A new benchmark, \tau-bench-LILT, has been introduced to evaluate conversational agents in multiple languages, addressing the current gap in tool-use task evaluations primarily conducted in English. This development is crucial for organizations aiming to deploy multilingual AI assistants effectively.",
+    "danishTitle": "New Benchmark \tau-bench-LILT Evaluates Multilingual Conversational Agents for Real-World Tool-Use Tasks",
+    "danishSummary": "A new benchmark, \tau-bench-LILT, has been introduced to evaluate conversational agents in multiple languages, addressing the current gap in tool-use task evaluations primarily conducted in English. This development is crucial for organizations aiming to deploy multilingual AI assistants effectively.",
+    "whyItMatters": "By providing a comprehensive evaluation framework, \tau-bench-LILT ensures that conversational agents perform well in diverse linguistic and cultural contexts, enhancing their usability and adoption in global markets.",
+    "enrichedAt": "2026-11-06T07:21:03.414Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.07218v1": {
+    "title": "SAFE-Teen: New Evaluation Framework for AI Chatbot Safety in Adolescent Mental Health Conversations",
+    "summary": "A new evaluation framework called SAFE-Teen has been introduced to assess the safety of AI chatbots in interactions related to adolescent mental health. This framework addresses growing concerns about the appropriateness and security of AI support for young users.",
+    "danishTitle": "SAFE-Teen: New Evaluation Framework for AI Chatbot Safety in Adolescent Mental Health Conversations",
+    "danishSummary": "A new evaluation framework called SAFE-Teen has been introduced to assess the safety of AI chatbots in interactions related to adolescent mental health. This framework addresses growing concerns about the appropriateness and security of AI support for young users.",
+    "whyItMatters": "By providing a robust method to evaluate chatbot safety, SAFE-Teen can help ensure that AI technologies are used responsibly and effectively in sensitive areas like adolescent mental health, fostering trust and reliability in AI applications.",
+    "enrichedAt": "2026-11-06T07:21:14.239Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07218": {
+    "title": "SAFE-Teen: New Evaluation Framework for AI Chatbot Safety in Adolescent Mental Health Conversations",
+    "summary": "A new evaluation framework called SAFE-Teen has been introduced to assess the safety of AI chatbots in interactions related to adolescent mental health. This framework addresses growing concerns about the appropriateness and security of AI support for young users.",
+    "danishTitle": "SAFE-Teen: New Evaluation Framework for AI Chatbot Safety in Adolescent Mental Health Conversations",
+    "danishSummary": "A new evaluation framework called SAFE-Teen has been introduced to assess the safety of AI chatbots in interactions related to adolescent mental health. This framework addresses growing concerns about the appropriateness and security of AI support for young users.",
+    "whyItMatters": "By providing a robust method to evaluate chatbot safety, SAFE-Teen can help ensure that AI technologies are used responsibly and effectively in sensitive areas like adolescent mental health, fostering trust and reliability in AI applications.",
+    "enrichedAt": "2026-11-06T07:21:14.239Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.07228v1": {
+    "title": "New Model Introduces Source-balanced Capped Fisher for Enhanced User Inference",
+    "summary": "Researchers have developed a novel method called Source-balanced Capped Fisher to improve the accuracy of user inference in language models. This technique allows auditors to determine if a source contributed documents to a model's update, even when only observing new documents from that source, by providing document-level scores.",
+    "danishTitle": "New Model Introduces Source-balanced Capped Fisher for Enhanced User Inference",
+    "danishSummary": "Researchers have developed a novel method called Source-balanced Capped Fisher to improve the accuracy of user inference in language models. This technique allows auditors to determine if a source contributed documents to a model's update, even when only observing new documents from that source, by providing document-level scores.",
+    "whyItMatters": "This advancement in user inference could significantly enhance the transparency and accountability of language models, making them more reliable for sensitive applications such as legal and financial document analysis.",
+    "enrichedAt": "2026-11-06T07:21:25.029Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07228": {
+    "title": "New Model Introduces Source-balanced Capped Fisher for Enhanced User Inference",
+    "summary": "Researchers have developed a novel method called Source-balanced Capped Fisher to improve the accuracy of user inference in language models. This technique allows auditors to determine if a source contributed documents to a model's update, even when only observing new documents from that source, by providing document-level scores.",
+    "danishTitle": "New Model Introduces Source-balanced Capped Fisher for Enhanced User Inference",
+    "danishSummary": "Researchers have developed a novel method called Source-balanced Capped Fisher to improve the accuracy of user inference in language models. This technique allows auditors to determine if a source contributed documents to a model's update, even when only observing new documents from that source, by providing document-level scores.",
+    "whyItMatters": "This advancement in user inference could significantly enhance the transparency and accountability of language models, making them more reliable for sensitive applications such as legal and financial document analysis.",
+    "enrichedAt": "2026-11-06T07:21:25.029Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.07232v1": {
+    "title": "Recursive Sparse Attention Enables Efficient Handling of Large Contexts in Language Models",
+    "summary": "A new model variant, Recursive Sparse Attention, has been introduced to address the computational challenges of handling large context lengths in language models. This technique significantly reduces the cost of inference and training, making it feasible to process contexts up to 1 million tokens efficiently.",
+    "danishTitle": "Recursive Sparse Attention Enables Efficient Handling of Large Contexts in Language Models",
+    "danishSummary": "A new model variant, Recursive Sparse Attention, has been introduced to address the computational challenges of handling large context lengths in language models. This technique significantly reduces the cost of inference and training, making it feasible to process contexts up to 1 million tokens efficiently.",
+    "whyItMatters": "By enabling the efficient processing of vast amounts of context, Recursive Sparse Attention paves the way for more sophisticated and context-rich applications, enhancing the capabilities of large language models in various industries.",
+    "enrichedAt": "2026-11-06T07:21:35.531Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07232": {
+    "title": "Recursive Sparse Attention Enables Efficient Handling of Large Contexts in Language Models",
+    "summary": "A new model variant, Recursive Sparse Attention, has been introduced to address the computational challenges of handling large context lengths in language models. This technique significantly reduces the cost of inference and training, making it feasible to process contexts up to 1 million tokens efficiently.",
+    "danishTitle": "Recursive Sparse Attention Enables Efficient Handling of Large Contexts in Language Models",
+    "danishSummary": "A new model variant, Recursive Sparse Attention, has been introduced to address the computational challenges of handling large context lengths in language models. This technique significantly reduces the cost of inference and training, making it feasible to process contexts up to 1 million tokens efficiently.",
+    "whyItMatters": "By enabling the efficient processing of vast amounts of context, Recursive Sparse Attention paves the way for more sophisticated and context-rich applications, enhancing the capabilities of large language models in various industries.",
+    "enrichedAt": "2026-11-06T07:21:35.531Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.07234v1": {
+    "title": "Research Validates Language Models Contain Archetypal Contexts Beyond Specific Domains",
+    "summary": "A recent study published on arXiv confirms that language models store general, archetypal contextual information separate from the specific domains they are trained on. This finding suggests that these models can generalize knowledge across different contexts, potentially enhancing their versatility and adaptability.",
+    "danishTitle": "Research Validates Language Models Contain Archetypal Contexts Beyond Specific Domains",
+    "danishSummary": "A recent study published on arXiv confirms that language models store general, archetypal contextual information separate from the specific domains they are trained on. This finding suggests that these models can generalize knowledge across different contexts, potentially enhancing their versatility and adaptability.",
+    "whyItMatters": "Understanding that language models retain archetypal knowledge could lead to more efficient and adaptable AI systems, improving their performance in diverse and unanticipated scenarios.",
+    "enrichedAt": "2026-11-06T07:21:45.810Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07234": {
+    "title": "Research Validates Language Models Contain Archetypal Contexts Beyond Specific Domains",
+    "summary": "A recent study published on arXiv confirms that language models store general, archetypal contextual information separate from the specific domains they are trained on. This finding suggests that these models can generalize knowledge across different contexts, potentially enhancing their versatility and adaptability.",
+    "danishTitle": "Research Validates Language Models Contain Archetypal Contexts Beyond Specific Domains",
+    "danishSummary": "A recent study published on arXiv confirms that language models store general, archetypal contextual information separate from the specific domains they are trained on. This finding suggests that these models can generalize knowledge across different contexts, potentially enhancing their versatility and adaptability.",
+    "whyItMatters": "Understanding that language models retain archetypal knowledge could lead to more efficient and adaptable AI systems, improving their performance in diverse and unanticipated scenarios.",
+    "enrichedAt": "2026-11-06T07:21:45.810Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.07238v1": {
+    "title": "Study Reveals Excessive Token Usage by AI Agents and Calls for Efficiency Improvements",
+    "summary": "A recent study published on arXiv investigates the excessive token consumption by AI agents across various tasks, highlighting the inefficiencies that lead to unnecessary costs. The research aims to identify and address the root causes of this wastage to enhance overall resource utilization.",
+    "danishTitle": "Study Reveals Excessive Token Usage by AI Agents and Calls for Efficiency Improvements",
+    "danishSummary": "A recent study published on arXiv investigates the excessive token consumption by AI agents across various tasks, highlighting the inefficiencies that lead to unnecessary costs. The research aims to identify and address the root causes of this wastage to enhance overall resource utilization.",
+    "whyItMatters": "Addressing token wastage is crucial for reducing operational costs and improving the sustainability of AI systems, making them more accessible and practical for widespread adoption.",
+    "enrichedAt": "2026-11-06T07:21:55.851Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07238": {
+    "title": "Study Reveals Excessive Token Usage by AI Agents and Calls for Efficiency Improvements",
+    "summary": "A recent study published on arXiv investigates the excessive token consumption by AI agents across various tasks, highlighting the inefficiencies that lead to unnecessary costs. The research aims to identify and address the root causes of this wastage to enhance overall resource utilization.",
+    "danishTitle": "Study Reveals Excessive Token Usage by AI Agents and Calls for Efficiency Improvements",
+    "danishSummary": "A recent study published on arXiv investigates the excessive token consumption by AI agents across various tasks, highlighting the inefficiencies that lead to unnecessary costs. The research aims to identify and address the root causes of this wastage to enhance overall resource utilization.",
+    "whyItMatters": "Addressing token wastage is crucial for reducing operational costs and improving the sustainability of AI systems, making them more accessible and practical for widespread adoption.",
+    "enrichedAt": "2026-11-06T07:21:55.851Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.06962v1": {
+    "title": "AutoIP: Leveraging AI in Formal Proof Assistants to Democratize Mathematical Rigor",
+    "summary": "A new library called AutoIP, developed for the Lean proof assistant, integrates AI to automate the creation of formal mathematical proofs, making rigorous mathematical reasoning more accessible. This advancement aims to bridge the gap between human intuition and machine precision in mathematical formalization.",
+    "danishTitle": "AutoIP: Leveraging AI in Formal Proof Assistants to Democratize Mathematical Rigor",
+    "danishSummary": "A new library called AutoIP, developed for the Lean proof assistant, integrates AI to automate the creation of formal mathematical proofs, making rigorous mathematical reasoning more accessible. This advancement aims to bridge the gap between human intuition and machine precision in mathematical formalization.",
+    "whyItMatters": "By reducing the barriers to entry for formal proof creation, AutoIP could significantly enhance the reliability and reproducibility of mathematical research, benefiting both academic and industrial applications.",
+    "enrichedAt": "2026-11-06T07:22:06.414Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.06962": {
+    "title": "AutoIP: Leveraging AI in Formal Proof Assistants to Democratize Mathematical Rigor",
+    "summary": "A new library called AutoIP, developed for the Lean proof assistant, integrates AI to automate the creation of formal mathematical proofs, making rigorous mathematical reasoning more accessible. This advancement aims to bridge the gap between human intuition and machine precision in mathematical formalization.",
+    "danishTitle": "AutoIP: Leveraging AI in Formal Proof Assistants to Democratize Mathematical Rigor",
+    "danishSummary": "A new library called AutoIP, developed for the Lean proof assistant, integrates AI to automate the creation of formal mathematical proofs, making rigorous mathematical reasoning more accessible. This advancement aims to bridge the gap between human intuition and machine precision in mathematical formalization.",
+    "whyItMatters": "By reducing the barriers to entry for formal proof creation, AutoIP could significantly enhance the reliability and reproducibility of mathematical research, benefiting both academic and industrial applications.",
+    "enrichedAt": "2026-11-06T07:22:06.414Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.06972v1": {
+    "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+    "summary": "KDASO, a new model for liability adjudication tasks, integrates knowledge and data-driven approaches to optimize skill assessment in legal contexts. This system aims to enhance the accuracy and efficiency of determining liability by analyzing event descriptions and relevant skills.",
+    "danishTitle": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+    "danishSummary": "KDASO, a new model for liability adjudication tasks, integrates knowledge and data-driven approaches to optimize skill assessment in legal contexts. This system aims to enhance the accuracy and efficiency of determining liability by analyzing event descriptions and relevant skills.",
+    "whyItMatters": "By automating the skill optimization process, KDASO could significantly improve the precision and speed of legal charge determinations, potentially reducing errors and saving time in the legal adjudication process.",
+    "enrichedAt": "2026-11-06T07:22:17.156Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.06972": {
+    "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+    "summary": "KDASO, a new model for liability adjudication tasks, integrates knowledge and data-driven approaches to optimize skill assessment in legal contexts. This system aims to enhance the accuracy and efficiency of determining liability by analyzing event descriptions and relevant skills.",
+    "danishTitle": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+    "danishSummary": "KDASO, a new model for liability adjudication tasks, integrates knowledge and data-driven approaches to optimize skill assessment in legal contexts. This system aims to enhance the accuracy and efficiency of determining liability by analyzing event descriptions and relevant skills.",
+    "whyItMatters": "By automating the skill optimization process, KDASO could significantly improve the precision and speed of legal charge determinations, potentially reducing errors and saving time in the legal adjudication process.",
+    "enrichedAt": "2026-11-06T07:22:17.156Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.06977v1": {
+    "title": "BlockLock: Ensuring Reproducible LLM Inference with Fixed Batch Geometry",
+    "summary": "BlockLock is a new approach to LLM inference that guarantees reproducibility by maintaining a fixed batch geometry, addressing the variability issues that arise from batch-invariant solutions. This method ensures consistent outputs for each request, enhancing reliability in complex workflows.",
+    "danishTitle": "BlockLock: Ensuring Reproducible LLM Inference with Fixed Batch Geometry",
+    "danishSummary": "BlockLock is a new approach to LLM inference that guarantees reproducibility by maintaining a fixed batch geometry, addressing the variability issues that arise from batch-invariant solutions. This method ensures consistent outputs for each request, enhancing reliability in complex workflows.",
+    "whyItMatters": "By providing a reliable and consistent inference process, BlockLock could significantly improve the trustworthiness and usability of LLMs in various applications, from financial modeling to legal document analysis.",
+    "enrichedAt": "2026-11-06T07:22:27.763Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.06977": {
+    "title": "BlockLock: Ensuring Reproducible LLM Inference with Fixed Batch Geometry",
+    "summary": "BlockLock is a new approach to LLM inference that guarantees reproducibility by maintaining a fixed batch geometry, addressing the variability issues that arise from batch-invariant solutions. This method ensures consistent outputs for each request, enhancing reliability in complex workflows.",
+    "danishTitle": "BlockLock: Ensuring Reproducible LLM Inference with Fixed Batch Geometry",
+    "danishSummary": "BlockLock is a new approach to LLM inference that guarantees reproducibility by maintaining a fixed batch geometry, addressing the variability issues that arise from batch-invariant solutions. This method ensures consistent outputs for each request, enhancing reliability in complex workflows.",
+    "whyItMatters": "By providing a reliable and consistent inference process, BlockLock could significantly improve the trustworthiness and usability of LLMs in various applications, from financial modeling to legal document analysis.",
+    "enrichedAt": "2026-11-06T07:22:27.763Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.06984v1": {
+    "title": "Elastic Expert Parallelism Enhances Post-Training Efficiency in Reinforcement Learning",
+    "summary": "A new approach called Elastic Expert Parallelism has been introduced to address the computational challenges in post-training reinforcement learning, specifically for large language models. This method aims to improve response generation efficiency, making the process more resource-friendly.",
+    "danishTitle": "Elastic Expert Parallelism Enhances Post-Training Efficiency in Reinforcement Learning",
+    "danishSummary": "A new approach called Elastic Expert Parallelism has been introduced to address the computational challenges in post-training reinforcement learning, specifically for large language models. This method aims to improve response generation efficiency, making the process more resource-friendly.",
+    "whyItMatters": "By reducing the computational burden, this technique could significantly accelerate the development and deployment of advanced AI systems, benefiting both research and commercial applications.",
+    "enrichedAt": "2026-11-06T07:22:37.181Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.06984": {
+    "title": "Elastic Expert Parallelism Enhances Post-Training Efficiency in Reinforcement Learning",
+    "summary": "A new approach called Elastic Expert Parallelism has been introduced to address the computational challenges in post-training reinforcement learning, specifically for large language models. This method aims to improve response generation efficiency, making the process more resource-friendly.",
+    "danishTitle": "Elastic Expert Parallelism Enhances Post-Training Efficiency in Reinforcement Learning",
+    "danishSummary": "A new approach called Elastic Expert Parallelism has been introduced to address the computational challenges in post-training reinforcement learning, specifically for large language models. This method aims to improve response generation efficiency, making the process more resource-friendly.",
+    "whyItMatters": "By reducing the computational burden, this technique could significantly accelerate the development and deployment of advanced AI systems, benefiting both research and commercial applications.",
+    "enrichedAt": "2026-11-06T07:22:37.181Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.06989v1": {
+    "title": "New Two-Ledger Model Offers Granular Cost Accounting for Multi-Agent AI Systems",
+    "summary": "A groundbreaking paper proposes the Two-Ledger Model, a novel approach for detailed cost accounting in multi-agent AI systems, covering interactions across clouds, large language models, and systems of record. This model aims to provide enterprises with precise transaction-level cost tracking, enhancing financial transparency and management.",
+    "danishTitle": "New Two-Ledger Model Offers Granular Cost Accounting for Multi-Agent AI Systems",
+    "danishSummary": "A groundbreaking paper proposes the Two-Ledger Model, a novel approach for detailed cost accounting in multi-agent AI systems, covering interactions across clouds, large language models, and systems of record. This model aims to provide enterprises with precise transaction-level cost tracking, enhancing financial transparency and management.",
+    "whyItMatters": "By enabling precise cost tracking, the Two-Ledger Model could revolutionize how enterprises manage and optimize their AI investments, leading to more efficient resource allocation and cost savings.",
+    "enrichedAt": "2026-11-06T07:22:48.355Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.06989": {
+    "title": "New Two-Ledger Model Offers Granular Cost Accounting for Multi-Agent AI Systems",
+    "summary": "A groundbreaking paper proposes the Two-Ledger Model, a novel approach for detailed cost accounting in multi-agent AI systems, covering interactions across clouds, large language models, and systems of record. This model aims to provide enterprises with precise transaction-level cost tracking, enhancing financial transparency and management.",
+    "danishTitle": "New Two-Ledger Model Offers Granular Cost Accounting for Multi-Agent AI Systems",
+    "danishSummary": "A groundbreaking paper proposes the Two-Ledger Model, a novel approach for detailed cost accounting in multi-agent AI systems, covering interactions across clouds, large language models, and systems of record. This model aims to provide enterprises with precise transaction-level cost tracking, enhancing financial transparency and management.",
+    "whyItMatters": "By enabling precise cost tracking, the Two-Ledger Model could revolutionize how enterprises manage and optimize their AI investments, leading to more efficient resource allocation and cost savings.",
+    "enrichedAt": "2026-11-06T07:22:48.355Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.06995v1": {
+    "title": "AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
+    "summary": "A recent study published on arXiv highlights that AI agents often diverge from human preferences when formalizing proofs, raising concerns about the interpretability and usability of AI-generated mathematical proofs. This divergence necessitates new approaches to align AI outputs with human understanding.",
+    "danishTitle": "AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
+    "danishSummary": "A recent study published on arXiv highlights that AI agents often diverge from human preferences when formalizing proofs, raising concerns about the interpretability and usability of AI-generated mathematical proofs. This divergence necessitates new approaches to align AI outputs with human understanding.",
+    "whyItMatters": "Addressing this discrepancy is crucial for ensuring that AI can effectively support human mathematicians and researchers, enhancing collaboration and the broader adoption of AI in formal proof systems.",
+    "enrichedAt": "2026-11-06T07:22:58.561Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.06995": {
+    "title": "AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
+    "summary": "A recent study published on arXiv highlights that AI agents often diverge from human preferences when formalizing proofs, raising concerns about the interpretability and usability of AI-generated mathematical proofs. This divergence necessitates new approaches to align AI outputs with human understanding.",
+    "danishTitle": "AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
+    "danishSummary": "A recent study published on arXiv highlights that AI agents often diverge from human preferences when formalizing proofs, raising concerns about the interpretability and usability of AI-generated mathematical proofs. This divergence necessitates new approaches to align AI outputs with human understanding.",
+    "whyItMatters": "Addressing this discrepancy is crucial for ensuring that AI can effectively support human mathematicians and researchers, enhancing collaboration and the broader adoption of AI in formal proof systems.",
+    "enrichedAt": "2026-11-06T07:22:58.561Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.06996v1": {
+    "title": "Empirical Study Reveals Trust Responsive Runtime Authorization for Autonomous Agents",
+    "summary": "A new study from arXiv explores the Trust Responsive Runtime Authorization (TRRA) framework, which dynamically adjusts an autonomous agent's operational authority based on runtime estimates of its condition. The research provides empirical characterization of TRRA policies and their parameter sensitivity.",
+    "danishTitle": "Empirical Study Reveals Trust Responsive Runtime Authorization for Autonomous Agents",
+    "danishSummary": "A new study from arXiv explores the Trust Responsive Runtime Authorization (TRRA) framework, which dynamically adjusts an autonomous agent's operational authority based on runtime estimates of its condition. The research provides empirical characterization of TRRA policies and their parameter sensitivity.",
+    "whyItMatters": "By offering a deeper understanding of TRRA's behavior and parameter sensitivity, this study could enhance the safety and reliability of autonomous systems, driving advancements in agentic AI deployment.",
+    "enrichedAt": "2026-11-06T07:23:08.704Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.06996": {
+    "title": "Empirical Study Reveals Trust Responsive Runtime Authorization for Autonomous Agents",
+    "summary": "A new study from arXiv explores the Trust Responsive Runtime Authorization (TRRA) framework, which dynamically adjusts an autonomous agent's operational authority based on runtime estimates of its condition. The research provides empirical characterization of TRRA policies and their parameter sensitivity.",
+    "danishTitle": "Empirical Study Reveals Trust Responsive Runtime Authorization for Autonomous Agents",
+    "danishSummary": "A new study from arXiv explores the Trust Responsive Runtime Authorization (TRRA) framework, which dynamically adjusts an autonomous agent's operational authority based on runtime estimates of its condition. The research provides empirical characterization of TRRA policies and their parameter sensitivity.",
+    "whyItMatters": "By offering a deeper understanding of TRRA's behavior and parameter sensitivity, this study could enhance the safety and reliability of autonomous systems, driving advancements in agentic AI deployment.",
+    "enrichedAt": "2026-11-06T07:23:08.704Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.07048v1": {
+    "title": "AI Research Explores New Evolutionary Paradigms: Darwinian, Lamarckian, and Agent-Directed Approaches",
+    "summary": "A recent arXiv paper explores the integration of Darwinian, Lamarckian, and agent-directed evolution in artificial intelligence, suggesting that AI agents could potentially direct their own evolution, mirroring natural processes that have shaped intelligence over billions of years.",
+    "danishTitle": "AI Research Explores New Evolutionary Paradigms: Darwinian, Lamarckian, and Agent-Directed Approaches",
+    "danishSummary": "A recent arXiv paper explores the integration of Darwinian, Lamarckian, and agent-directed evolution in artificial intelligence, suggesting that AI agents could potentially direct their own evolution, mirroring natural processes that have shaped intelligence over billions of years.",
+    "whyItMatters": "This research could lead to more autonomous and adaptive AI systems, enhancing their ability to innovate and solve complex problems, which could have significant implications for various industries and applications.",
+    "enrichedAt": "2026-11-06T07:23:19.694Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07048": {
+    "title": "AI Research Explores New Evolutionary Paradigms: Darwinian, Lamarckian, and Agent-Directed Approaches",
+    "summary": "A recent arXiv paper explores the integration of Darwinian, Lamarckian, and agent-directed evolution in artificial intelligence, suggesting that AI agents could potentially direct their own evolution, mirroring natural processes that have shaped intelligence over billions of years.",
+    "danishTitle": "AI Research Explores New Evolutionary Paradigms: Darwinian, Lamarckian, and Agent-Directed Approaches",
+    "danishSummary": "A recent arXiv paper explores the integration of Darwinian, Lamarckian, and agent-directed evolution in artificial intelligence, suggesting that AI agents could potentially direct their own evolution, mirroring natural processes that have shaped intelligence over billions of years.",
+    "whyItMatters": "This research could lead to more autonomous and adaptive AI systems, enhancing their ability to innovate and solve complex problems, which could have significant implications for various industries and applications.",
+    "enrichedAt": "2026-11-06T07:23:19.694Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.07051v1": {
+    "title": "New Research Introduces Closed-Loop Agent Evaluation with Layered Measurement and Self-Calibration",
+    "summary": "A recent study proposes a novel approach to continuously evaluate AI agents in real-time, providing ongoing performance feedback and self-calibration mechanisms. This method aims to address the limitations of traditional one-off evaluations by offering a more dynamic and comprehensive assessment process.",
+    "danishTitle": "New Research Introduces Closed-Loop Agent Evaluation with Layered Measurement and Self-Calibration",
+    "danishSummary": "A recent study proposes a novel approach to continuously evaluate AI agents in real-time, providing ongoing performance feedback and self-calibration mechanisms. This method aims to address the limitations of traditional one-off evaluations by offering a more dynamic and comprehensive assessment process.",
+    "whyItMatters": "By enabling continuous and adaptive evaluation, this research could significantly enhance the reliability and efficiency of AI systems, making them more suitable for complex and dynamic environments.",
+    "enrichedAt": "2026-11-06T07:23:29.868Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07051": {
+    "title": "New Research Introduces Closed-Loop Agent Evaluation with Layered Measurement and Self-Calibration",
+    "summary": "A recent study proposes a novel approach to continuously evaluate AI agents in real-time, providing ongoing performance feedback and self-calibration mechanisms. This method aims to address the limitations of traditional one-off evaluations by offering a more dynamic and comprehensive assessment process.",
+    "danishTitle": "New Research Introduces Closed-Loop Agent Evaluation with Layered Measurement and Self-Calibration",
+    "danishSummary": "A recent study proposes a novel approach to continuously evaluate AI agents in real-time, providing ongoing performance feedback and self-calibration mechanisms. This method aims to address the limitations of traditional one-off evaluations by offering a more dynamic and comprehensive assessment process.",
+    "whyItMatters": "By enabling continuous and adaptive evaluation, this research could significantly enhance the reliability and efficiency of AI systems, making them more suitable for complex and dynamic environments.",
+    "enrichedAt": "2026-11-06T07:23:29.868Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.07066v1": {
+    "title": "New MARL Method Enables Cooperative Behavior Through Epigraph-Form Guided Exploration",
+    "summary": "A recent study in arXiv proposes a novel approach to cooperative multi-agent reinforcement learning (MARL) by leveraging epigraph-form guided exploration, addressing the complex combinatorial challenges inherent in joint state-action spaces.",
+    "danishTitle": "New MARL Method Enables Cooperative Behavior Through Epigraph-Form Guided Exploration",
+    "danishSummary": "A recent study in arXiv proposes a novel approach to cooperative multi-agent reinforcement learning (MARL) by leveraging epigraph-form guided exploration, addressing the complex combinatorial challenges inherent in joint state-action spaces.",
+    "whyItMatters": "This advancement could significantly enhance the ability of AI agents to work collaboratively in complex environments, potentially revolutionizing applications in robotics, gaming, and distributed systems.",
+    "enrichedAt": "2026-11-06T07:23:39.492Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07066": {
+    "title": "New MARL Method Enables Cooperative Behavior Through Epigraph-Form Guided Exploration",
+    "summary": "A recent study in arXiv proposes a novel approach to cooperative multi-agent reinforcement learning (MARL) by leveraging epigraph-form guided exploration, addressing the complex combinatorial challenges inherent in joint state-action spaces.",
+    "danishTitle": "New MARL Method Enables Cooperative Behavior Through Epigraph-Form Guided Exploration",
+    "danishSummary": "A recent study in arXiv proposes a novel approach to cooperative multi-agent reinforcement learning (MARL) by leveraging epigraph-form guided exploration, addressing the complex combinatorial challenges inherent in joint state-action spaces.",
+    "whyItMatters": "This advancement could significantly enhance the ability of AI agents to work collaboratively in complex environments, potentially revolutionizing applications in robotics, gaming, and distributed systems.",
+    "enrichedAt": "2026-11-06T07:23:39.492Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.07073v1": {
+    "title": "Cross-Agent LLM-to-Dafny Formalization Challenges Independent Reasoning Verification",
+    "summary": "A new research paper on arXiv explores the limitations of verifying Dafny postconditions generated by large language models (LLMs), highlighting that such verifications do not ensure genuine independent reasoning. The study introduces a cross-agent approach to address these challenges.",
+    "danishTitle": "Cross-Agent LLM-to-Dafny Formalization Challenges Independent Reasoning Verification",
+    "danishSummary": "A new research paper on arXiv explores the limitations of verifying Dafny postconditions generated by large language models (LLMs), highlighting that such verifications do not ensure genuine independent reasoning. The study introduces a cross-agent approach to address these challenges.",
+    "whyItMatters": "This research underscores the need for more robust methods to ensure independent reasoning in AI systems, which is crucial for enhancing trust and reliability in AI applications.",
+    "enrichedAt": "2026-11-06T07:23:49.540Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07073": {
+    "title": "Cross-Agent LLM-to-Dafny Formalization Challenges Independent Reasoning Verification",
+    "summary": "A new research paper on arXiv explores the limitations of verifying Dafny postconditions generated by large language models (LLMs), highlighting that such verifications do not ensure genuine independent reasoning. The study introduces a cross-agent approach to address these challenges.",
+    "danishTitle": "Cross-Agent LLM-to-Dafny Formalization Challenges Independent Reasoning Verification",
+    "danishSummary": "A new research paper on arXiv explores the limitations of verifying Dafny postconditions generated by large language models (LLMs), highlighting that such verifications do not ensure genuine independent reasoning. The study introduces a cross-agent approach to address these challenges.",
+    "whyItMatters": "This research underscores the need for more robust methods to ensure independent reasoning in AI systems, which is crucial for enhancing trust and reliability in AI applications.",
+    "enrichedAt": "2026-11-06T07:23:49.540Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.07088v1": {
+    "title": "Advances in Symbolic Models Expand Cognitive Capabilities at Scale",
+    "summary": "A new research paper on arXiv presents advancements in symbolic models that enhance the cognitive capabilities of both human and machine reasoning, overcoming historical limitations through improved computational efficiency and automation. This breakthrough could significantly impact the development of more sophisticated AI systems.",
+    "danishTitle": "Advances in Symbolic Models Expand Cognitive Capabilities at Scale",
+    "danishSummary": "A new research paper on arXiv presents advancements in symbolic models that enhance the cognitive capabilities of both human and machine reasoning, overcoming historical limitations through improved computational efficiency and automation. This breakthrough could significantly impact the development of more sophisticated AI systems.",
+    "whyItMatters": "By expanding the scope of symbolic models, this research paves the way for more nuanced and effective AI applications, potentially revolutionizing fields such as natural language processing and expert systems.",
+    "enrichedAt": "2026-11-06T07:23:59.592Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07088": {
+    "title": "Advances in Symbolic Models Expand Cognitive Capabilities at Scale",
+    "summary": "A new research paper on arXiv presents advancements in symbolic models that enhance the cognitive capabilities of both human and machine reasoning, overcoming historical limitations through improved computational efficiency and automation. This breakthrough could significantly impact the development of more sophisticated AI systems.",
+    "danishTitle": "Advances in Symbolic Models Expand Cognitive Capabilities at Scale",
+    "danishSummary": "A new research paper on arXiv presents advancements in symbolic models that enhance the cognitive capabilities of both human and machine reasoning, overcoming historical limitations through improved computational efficiency and automation. This breakthrough could significantly impact the development of more sophisticated AI systems.",
+    "whyItMatters": "By expanding the scope of symbolic models, this research paves the way for more nuanced and effective AI applications, potentially revolutionizing fields such as natural language processing and expert systems.",
+    "enrichedAt": "2026-11-06T07:23:59.592Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.07123v1": {
+    "title": "PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems",
+    "summary": "A new research paper titled 'PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems' has been published on arXiv, focusing on improving the accuracy and reliability of large language models (LLMs) used as automated judges in evaluating AI systems. The study introduces a method for iteratively optimizing prompts to enhance the alignment between the model's outputs and intended outcomes.",
+    "danishTitle": "PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems",
+    "danishSummary": "A new research paper titled 'PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems' has been published on arXiv, focusing on improving the accuracy and reliability of large language models (LLMs) used as automated judges in evaluating AI systems. The study introduces a method for iteratively optimizing prompts to enhance the alignment between the model's outputs and intended outcomes.",
+    "whyItMatters": "This research could significantly improve the trustworthiness of AI systems by ensuring that LLMs provide more accurate and consistent judgments, which is crucial for their widespread adoption in various applications.",
+    "enrichedAt": "2026-11-06T07:24:12.114Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07123": {
+    "title": "PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems",
+    "summary": "A new research paper titled 'PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems' has been published on arXiv, focusing on improving the accuracy and reliability of large language models (LLMs) used as automated judges in evaluating AI systems. The study introduces a method for iteratively optimizing prompts to enhance the alignment between the model's outputs and intended outcomes.",
+    "danishTitle": "PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems",
+    "danishSummary": "A new research paper titled 'PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems' has been published on arXiv, focusing on improving the accuracy and reliability of large language models (LLMs) used as automated judges in evaluating AI systems. The study introduces a method for iteratively optimizing prompts to enhance the alignment between the model's outputs and intended outcomes.",
+    "whyItMatters": "This research could significantly improve the trustworthiness of AI systems by ensuring that LLMs provide more accurate and consistent judgments, which is crucial for their widespread adoption in various applications.",
+    "enrichedAt": "2026-11-06T07:24:12.114Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.07247v1": {
+    "title": "New AI Research Suggests Goal Revelation as Key to Balancing Power and Safety",
+    "summary": "A recent arXiv paper proposes that revealing the goals of AI agents can serve as a critical bridge between enhancing their information-theoretic capabilities and aligning them with human values, addressing the challenge of AI power acquisition and safety.",
+    "danishTitle": "New AI Research Suggests Goal Revelation as Key to Balancing Power and Safety",
+    "danishSummary": "A recent arXiv paper proposes that revealing the goals of AI agents can serve as a critical bridge between enhancing their information-theoretic capabilities and aligning them with human values, addressing the challenge of AI power acquisition and safety.",
+    "whyItMatters": "This research could provide a foundational approach for developing more aligned and safer AI systems, which is crucial as AI becomes more integrated into socio-technical systems and critical decision-making processes.",
+    "enrichedAt": "2026-11-06T07:24:22.417Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07247": {
+    "title": "New AI Research Suggests Goal Revelation as Key to Balancing Power and Safety",
+    "summary": "A recent arXiv paper proposes that revealing the goals of AI agents can serve as a critical bridge between enhancing their information-theoretic capabilities and aligning them with human values, addressing the challenge of AI power acquisition and safety.",
+    "danishTitle": "New AI Research Suggests Goal Revelation as Key to Balancing Power and Safety",
+    "danishSummary": "A recent arXiv paper proposes that revealing the goals of AI agents can serve as a critical bridge between enhancing their information-theoretic capabilities and aligning them with human values, addressing the challenge of AI power acquisition and safety.",
+    "whyItMatters": "This research could provide a foundational approach for developing more aligned and safer AI systems, which is crucial as AI becomes more integrated into socio-technical systems and critical decision-making processes.",
+    "enrichedAt": "2026-11-06T07:24:22.417Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.07296v1": {
+    "title": "New AI Model Predicts Port Disruptions from Tropical Cyclones with Enhanced Accuracy",
+    "summary": "A two-stage recommendation system has been developed to robustly rank the impacts of impending tropical cyclones on various ports, improving preparedness and response strategies. This model enhances the accuracy of predictions, crucial for effective disaster management and logistics planning.",
+    "danishTitle": "New AI Model Predicts Port Disruptions from Tropical Cyclones with Enhanced Accuracy",
+    "danishSummary": "A two-stage recommendation system has been developed to robustly rank the impacts of impending tropical cyclones on various ports, improving preparedness and response strategies. This model enhances the accuracy of predictions, crucial for effective disaster management and logistics planning.",
+    "whyItMatters": "By providing more precise and timely information, this AI model can significantly reduce the economic and operational disruptions caused by tropical cyclones, benefiting both port operations and broader disaster response efforts.",
+    "enrichedAt": "2026-11-06T07:24:32.613Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.07296": {
+    "title": "New AI Model Predicts Port Disruptions from Tropical Cyclones with Enhanced Accuracy",
+    "summary": "A two-stage recommendation system has been developed to robustly rank the impacts of impending tropical cyclones on various ports, improving preparedness and response strategies. This model enhances the accuracy of predictions, crucial for effective disaster management and logistics planning.",
+    "danishTitle": "New AI Model Predicts Port Disruptions from Tropical Cyclones with Enhanced Accuracy",
+    "danishSummary": "A two-stage recommendation system has been developed to robustly rank the impacts of impending tropical cyclones on various ports, improving preparedness and response strategies. This model enhances the accuracy of predictions, crucial for effective disaster management and logistics planning.",
+    "whyItMatters": "By providing more precise and timely information, this AI model can significantly reduce the economic and operational disruptions caused by tropical cyclones, benefiting both port operations and broader disaster response efforts.",
+    "enrichedAt": "2026-11-06T07:24:32.613Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2611.06953v1": {
+    "title": "SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty",
+    "summary": "SteelAgent is a novel model that integrates machine learning with physics-based descriptors to predict steel properties, ensuring robust generalization and calibrated uncertainty. This approach addresses the limitations of traditional models that may perform well on familiar data but poorly on unfamiliar alloys.",
+    "danishTitle": "SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty",
+    "danishSummary": "SteelAgent is a novel model that integrates machine learning with physics-based descriptors to predict steel properties, ensuring robust generalization and calibrated uncertainty. This approach addresses the limitations of traditional models that may perform well on familiar data but poorly on unfamiliar alloys.",
+    "whyItMatters": "By improving the reliability and accuracy of steel property predictions, SteelAgent can enhance the efficiency and safety of the steel manufacturing process, benefiting both industry and regulatory bodies.",
+    "enrichedAt": "2026-11-06T07:24:43.598Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.06953": {
+    "title": "SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty",
+    "summary": "SteelAgent is a novel model that integrates machine learning with physics-based descriptors to predict steel properties, ensuring robust generalization and calibrated uncertainty. This approach addresses the limitations of traditional models that may perform well on familiar data but poorly on unfamiliar alloys.",
+    "danishTitle": "SteelAgent: LLM-Orchestrated, Physics-Informed Steel Property Prediction with Audited Generalization and Calibrated Uncertainty",
+    "danishSummary": "SteelAgent is a novel model that integrates machine learning with physics-based descriptors to predict steel properties, ensuring robust generalization and calibrated uncertainty. This approach addresses the limitations of traditional models that may perform well on familiar data but poorly on unfamiliar alloys.",
+    "whyItMatters": "By improving the reliability and accuracy of steel property predictions, SteelAgent can enhance the efficiency and safety of the steel manufacturing process, benefiting both industry and regulatory bodies.",
+    "enrichedAt": "2026-11-06T07:24:43.598Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2611.06956v1": {
+    "title": "Octopus: A Novel Approach to Multi-Agent Reinforcement Learning with Isolated Context Windows",
+    "summary": "The research paper 'Octopus' introduces a new method for multi-agent reinforcement learning (MARL) that utilizes isolated context windows for each sub-agent, allowing parallel exploration and potentially improving efficiency and scalability in complex environments. This approach contrasts with traditional single-agent systems that rely on a single, growing context window.",
+    "danishTitle": "Octopus: A Novel Approach to Multi-Agent Reinforcement Learning with Isolated Context Windows",
+    "danishSummary": "The research paper 'Octopus' introduces a new method for multi-agent reinforcement learning (MARL) that utilizes isolated context windows for each sub-agent, allowing parallel exploration and potentially improving efficiency and scalability in complex environments. This approach contrasts with traditional single-agent systems that rely on a single, growing context window.",
+    "whyItMatters": "By enabling parallel exploration and reducing context window interference, Octopus could significantly enhance the performance and applicability of MARL in real-world scenarios, such as autonomous systems and complex decision-making processes.",
+    "enrichedAt": "2026-11-06T07:24:55.242Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.06956": {
+    "title": "Octopus: A Novel Approach to Multi-Agent Reinforcement Learning with Isolated Context Windows",
+    "summary": "The research paper 'Octopus' introduces a new method for multi-agent reinforcement learning (MARL) that utilizes isolated context windows for each sub-agent, allowing parallel exploration and potentially improving efficiency and scalability in complex environments. This approach contrasts with traditional single-agent systems that rely on a single, growing context window.",
+    "danishTitle": "Octopus: A Novel Approach to Multi-Agent Reinforcement Learning with Isolated Context Windows",
+    "danishSummary": "The research paper 'Octopus' introduces a new method for multi-agent reinforcement learning (MARL) that utilizes isolated context windows for each sub-agent, allowing parallel exploration and potentially improving efficiency and scalability in complex environments. This approach contrasts with traditional single-agent systems that rely on a single, growing context window.",
+    "whyItMatters": "By enabling parallel exploration and reducing context window interference, Octopus could significantly enhance the performance and applicability of MARL in real-world scenarios, such as autonomous systems and complex decision-making processes.",
+    "enrichedAt": "2026-11-06T07:24:55.242Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2611.06979v1": {
+    "title": "New Research Aims to Improve Uncertainty Calibration in M/EEG Source Imaging",
+    "summary": "A recent study published on arXiv proposes methods to enhance the accuracy of uncertainty estimates in M/EEG source imaging, a critical process in neuroscience and medical research. The research focuses on calibrating posterior credible regions, which are crucial for reliable localization and interpretation of brain activity.",
+    "danishTitle": "New Research Aims to Improve Uncertainty Calibration in M/EEG Source Imaging",
+    "danishSummary": "A recent study published on arXiv proposes methods to enhance the accuracy of uncertainty estimates in M/EEG source imaging, a critical process in neuroscience and medical research. The research focuses on calibrating posterior credible regions, which are crucial for reliable localization and interpretation of brain activity.",
+    "whyItMatters": "Improving uncertainty calibration can lead to more robust and trustworthy brain imaging techniques, significantly impacting diagnostic accuracy and the development of personalized neuroscientific treatments.",
+    "enrichedAt": "2026-11-06T07:25:05.746Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.06979": {
+    "title": "New Research Aims to Improve Uncertainty Calibration in M/EEG Source Imaging",
+    "summary": "A recent study published on arXiv proposes methods to enhance the accuracy of uncertainty estimates in M/EEG source imaging, a critical process in neuroscience and medical research. The research focuses on calibrating posterior credible regions, which are crucial for reliable localization and interpretation of brain activity.",
+    "danishTitle": "New Research Aims to Improve Uncertainty Calibration in M/EEG Source Imaging",
+    "danishSummary": "A recent study published on arXiv proposes methods to enhance the accuracy of uncertainty estimates in M/EEG source imaging, a critical process in neuroscience and medical research. The research focuses on calibrating posterior credible regions, which are crucial for reliable localization and interpretation of brain activity.",
+    "whyItMatters": "Improving uncertainty calibration can lead to more robust and trustworthy brain imaging techniques, significantly impacting diagnostic accuracy and the development of personalized neuroscientific treatments.",
+    "enrichedAt": "2026-11-06T07:25:05.746Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2611.06988v1": {
+    "title": "Frozen Forecasters as Classifiers: New Study Questions Advantages of Pretrained Models in Time Series Classification",
+    "summary": "A recent study published on arXiv explores the use of forecasting foundation models as frozen feature extractors for time series classification tasks. The research suggests that pretrained representations from these models may not provide significant advantages, casting doubt on their utility in this context.",
+    "danishTitle": "Frozen Forecasters as Classifiers: New Study Questions Advantages of Pretrained Models in Time Series Classification",
+    "danishSummary": "A recent study published on arXiv explores the use of forecasting foundation models as frozen feature extractors for time series classification tasks. The research suggests that pretrained representations from these models may not provide significant advantages, casting doubt on their utility in this context.",
+    "whyItMatters": "This finding could impact the adoption and development of pretrained models for time series analysis, prompting researchers and practitioners to reconsider their strategies in this domain.",
+    "enrichedAt": "2026-11-06T07:25:16.062Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.06988": {
+    "title": "Frozen Forecasters as Classifiers: New Study Questions Advantages of Pretrained Models in Time Series Classification",
+    "summary": "A recent study published on arXiv explores the use of forecasting foundation models as frozen feature extractors for time series classification tasks. The research suggests that pretrained representations from these models may not provide significant advantages, casting doubt on their utility in this context.",
+    "danishTitle": "Frozen Forecasters as Classifiers: New Study Questions Advantages of Pretrained Models in Time Series Classification",
+    "danishSummary": "A recent study published on arXiv explores the use of forecasting foundation models as frozen feature extractors for time series classification tasks. The research suggests that pretrained representations from these models may not provide significant advantages, casting doubt on their utility in this context.",
+    "whyItMatters": "This finding could impact the adoption and development of pretrained models for time series analysis, prompting researchers and practitioners to reconsider their strategies in this domain.",
+    "enrichedAt": "2026-11-06T07:25:16.062Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }
