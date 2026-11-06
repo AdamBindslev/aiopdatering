@@ -1,38 +1,28 @@
 {
-  "headline": "NVIDIA's AI Agent Ecosystem Expands with New Tools and Competitions",
-  "summary": "NVIDIA is driving the development of AI agents through a series of new tools, competitions, and partnerships, showcasing the growing importance of dynamic exploration agents in various applications. This trend is gaining momentum as companies and developers seek to enhance automation and efficiency.",
-  "whyItMatters": "It accelerates the deployment of AI agents across industries, fostering innovation and competition in the AI agent market.",
-  "synthesizedAt": "2026-11-06T10:30:37.926Z",
+  "headline": "Inkling 2 Small Challenges Leading Open-Weight Models in Western Market",
+  "summary": "Thinking Machines, led by Mira Murati, has launched Inkling 2 Small, a 594 billion parameter model that outperforms existing open-weight models. This advancement is reshaping the landscape of AI development, particularly in the Western market.",
+  "whyItMatters": "This model's performance could accelerate local AI agent deployment and reduce reliance on proprietary platforms, making advanced AI more accessible.",
+  "synthesizedAt": "2026-11-06T13:34:50.197Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "nvidia-developer-yt:video:BtCqoPmt8rs",
-    "title": "NVIDIA Hosts Live Agent Gauntlet: Developer Competition for Dynamic Exploration Agents",
-    "link": "https://www.youtube.com/watch?v=BtCqoPmt8rs",
-    "sourceName": "NVIDIA Developer",
-    "sourceId": "nvidia-developer",
-    "pubDate": "2026-11-06T08:15:54.000Z",
-    "badgeColor": "green",
-    "angle": "Developer Competition"
+    "id": "the-decoder-https://the-decoder.com/?p=42490",
+    "title": "Thinking Machines' Inkling 2 Small Challenges Leading Open-Weight Models in Western Market",
+    "link": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-06T13:25:09.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "mit-tech-review-https://www.technologyreview.com/?p=1148090",
-      "title": "Personal Experience with Advanced Humanoid Robot Cleaner Sparks Future Imaginations",
-      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "sourceName": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "pubDate": "2026-11-06T10:00:00.000Z",
-      "badgeColor": "red",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "nvidia-developer-yt:video:8lNoGg_j8S8",
-      "title": "NVIDIA Unveils Expanded Cosmos Framework for World Models Training and Deployment",
-      "link": "https://www.youtube.com/watch?v=8lNoGg_j8S8",
-      "sourceName": "NVIDIA Developer",
-      "sourceId": "nvidia-developer",
-      "pubDate": "2026-11-06T06:21:34.000Z",
-      "badgeColor": "green",
+      "id": "latent-space-urn:latent-space:post:post_f6bfef19-e48a-4a0a-a73a-8361a44fe6a9",
+      "title": "Inkling 2 Small Outperforms Muse Spark in Training Efficiency, Setting New Benchmarks",
+      "link": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-11-06T10:35:21.000Z",
+      "badgeColor": "pink",
       "angle": "Technical Deep Dive"
     }
   ]
