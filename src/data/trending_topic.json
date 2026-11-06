@@ -1,29 +1,48 @@
 {
-  "headline": "Inkling 2 Small Challenges Leading Open-Weight Models in Western Market",
-  "summary": "Thinking Machines, led by Mira Murati, has launched Inkling 2 Small, a 594 billion parameter model that outperforms existing open-weight models. This advancement is reshaping the landscape of AI development, particularly in the Western market.",
-  "whyItMatters": "This model's performance could accelerate local AI agent deployment and reduce reliance on proprietary platforms, making advanced AI more accessible.",
-  "synthesizedAt": "2026-11-06T13:34:50.197Z",
+  "headline": "Open-Weight AI Models Reshape Industry Landscape",
+  "summary": "A series of breakthroughs in open-weight AI models, including Anthropic's secretively developed model and Thinking Machines' Inkling 2 Small, are pushing the boundaries of what's possible with AI. These models are driving innovation and potentially disrupting the market for proprietary AI solutions.",
+  "whyItMatters": "This trend is crucial as it democratizes advanced AI capabilities, potentially lowering barriers to entry for developers and startups, and challenging the dominance of closed API platforms.",
+  "synthesizedAt": "2026-11-06T16:41:34.378Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42490",
-    "title": "Thinking Machines' Inkling 2 Small Challenges Leading Open-Weight Models in Western Market",
-    "link": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-06T13:25:09.000Z",
-    "badgeColor": "slate",
-    "angle": "Official Release"
+    "id": "wes-roth-yt:video:2lt4P_xGFL8",
+    "title": "Anthropic's Secretive Model Surpasses Benchmark Tests, Sparking Industry Speculation",
+    "link": "https://www.youtube.com/watch?v=2lt4P_xGFL8",
+    "sourceName": "Wes Roth",
+    "sourceId": "wes-roth",
+    "pubDate": "2026-11-06T14:35:24.000Z",
+    "badgeColor": "emerald",
+    "angle": "Secretive Model"
   },
   "supportingStories": [
     {
-      "id": "latent-space-urn:latent-space:post:post_f6bfef19-e48a-4a0a-a73a-8361a44fe6a9",
-      "title": "Inkling 2 Small Outperforms Muse Spark in Training Efficiency, Setting New Benchmarks",
-      "link": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-11-06T10:35:21.000Z",
-      "badgeColor": "pink",
-      "angle": "Technical Deep Dive"
+      "id": "the-decoder-https://the-decoder.com/?p=42490",
+      "title": "Thinking Machines' Inkling 2 Small Challenges Leading Open-Weight Models in Western Market",
+      "link": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-06T13:25:09.000Z",
+      "badgeColor": "slate",
+      "angle": "Market Challenge"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=42495",
+      "title": "METR Reports Anthropic's AI Model Development Paced Up by 100% Since July",
+      "link": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-06T13:40:07.000Z",
+      "badgeColor": "slate",
+      "angle": "Development Paced"
+    },
+    {
+      "id": "cognitive-revolution-yt:video:1ydgswLw8MY",
+      "title": "Mistral Large 4 Emerges as Top Open-Source AI Model Amid Cybersecurity Concerns",
+      "link": "https://www.youtube.com/watch?v=1ydgswLw8MY",
+      "sourceName": "The Cognitive Revolution",
+      "sourceId": "cognitive-revolution",
+      "pubDate": "2026-11-06T06:56:43.000Z",
+      "badgeColor": "teal"
     }
   ]
 }
