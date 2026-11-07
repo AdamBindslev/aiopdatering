@@ -1,48 +1,39 @@
 {
-  "headline": "OpenAI's Massive Funding Boost Fuels AI Industry Contests and Innovations",
-  "summary": "OpenAI's $11 billion funding round, valuing the company at $1.25 trillion, has sparked a wave of innovation and competition among tech giants and startups, driving advancements in AI models and infrastructure.",
-  "whyItMatters": "This funding bolsters OpenAI's influence and sets the stage for increased investment and innovation across the AI industry, potentially reshaping market dynamics and regulatory landscapes.",
-  "synthesizedAt": "2026-11-07T14:27:54.131Z",
+  "headline": "Open-Source AI Models Outperform Proprietary Alternatives in Cybersecurity",
+  "summary": "OpenAI's GPT-6 Sol Daybreak and DeepSeek V4.1 Flash outperform closed-source models in cybersecurity benchmarks, highlighting the growing capabilities and competitive edge of open-source AI. This trend is reshaping the industry's approach to model development and deployment.",
+  "whyItMatters": "It underscores the increasing effectiveness and accessibility of open-source AI, potentially reducing costs and improving security across various sectors.",
+  "synthesizedAt": "2026-11-07T17:35:16.529Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42525",
-    "title": "OpenAI Secures $11 Billion in Funding, Expands Investor Base to Include Unlikely Partners",
-    "link": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
+    "id": "the-decoder-https://the-decoder.com/?p=42554",
+    "title": "Open-Source AI Models Close Gap in Cybersecurity Capabilities, Outperforming Closed-Source Alternatives",
+    "link": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-11-07T09:45:23.000Z",
+    "pubDate": "2026-11-07T15:35:50.000Z",
     "badgeColor": "slate",
-    "angle": "Official Release"
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "version2-https://ing.dk/artikel/europaeiske-udbud-skraeddersys-til-amerikanske-it-giganter",
-      "title": "European Bids Tailored for American Tech Giants Despite Regulatory Challenges",
-      "link": "https://ing.dk/artikel/europaeiske-udbud-skraeddersys-til-amerikanske-it-giganter",
-      "sourceName": "Version2 (Ingeniøren)",
-      "sourceId": "version2",
-      "pubDate": "2026-11-07T14:00:07.000Z",
-      "badgeColor": "red"
+      "id": "the-decoder-https://the-decoder.com/?p=42569",
+      "title": "AI Auditors Detect Most Misbehavior but Generate False Alarms, Study Reveals",
+      "link": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-07T16:56:38.000Z",
+      "badgeColor": "slate",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3186034",
-      "title": "OpenAI Secures Massive Funding Boost, Valued at $1.25 Trillion",
-      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-06T22:53:46.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3185898",
-      "title": "Midterm Elections Could Reshape AI Industry with Stricter Data Center Regulations",
-      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-06T18:00:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Policy Impact"
+      "id": "the-decoder-https://the-decoder.com/?p=42525",
+      "title": "OpenAI Secures $11 Billion in Funding, Expands Investor Base to Include Unlikely Partners",
+      "link": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-07T09:45:23.000Z",
+      "badgeColor": "slate",
+      "angle": "Funding and Valuation"
     }
   ]
 }
