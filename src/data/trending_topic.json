@@ -1,8 +1,8 @@
 {
   "headline": "Open-Source AI Models Outperform Proprietary Alternatives in Cybersecurity",
-  "summary": "OpenAI's GPT-6 Sol Daybreak and DeepSeek V4.1 Flash outperform closed-source models in cybersecurity benchmarks, highlighting the growing capabilities and competitive edge of open-source AI. This trend is reshaping the industry's approach to model development and deployment.",
-  "whyItMatters": "It underscores the increasing effectiveness and accessibility of open-source AI, potentially reducing costs and improving security across various sectors.",
-  "synthesizedAt": "2026-11-07T17:35:16.529Z",
+  "summary": "OpenAI's GPT-6 Sol Daybreak and DeepSeek V4.1 Flash have demonstrated superior performance in cybersecurity benchmarks, outperforming their closed-source counterparts. This trend is challenging the dominance of proprietary models and could shift industry practices towards open-source solutions.",
+  "whyItMatters": "It highlights the potential of open-source models to outperform proprietary ones in critical applications, potentially driving industry adoption and reducing reliance on closed APIs.",
+  "synthesizedAt": "2026-11-07T20:41:21.668Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=42554",
@@ -12,18 +12,18 @@
     "sourceId": "the-decoder",
     "pubDate": "2026-11-07T15:35:50.000Z",
     "badgeColor": "slate",
-    "angle": "Industry Analysis"
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42569",
-      "title": "AI Auditors Detect Most Misbehavior but Generate False Alarms, Study Reveals",
-      "link": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
+      "id": "the-decoder-https://the-decoder.com/?p=42579",
+      "title": "Anthropic Proceeds with Lower Valued IPO Amidst Tech Selloff",
+      "link": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-11-07T16:56:38.000Z",
+      "pubDate": "2026-11-07T17:37:25.000Z",
       "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
+      "angle": "Industry Analysis"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=42525",
@@ -33,7 +33,17 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-11-07T09:45:23.000Z",
       "badgeColor": "slate",
-      "angle": "Funding and Valuation"
+      "angle": "Financial Impact"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=42519",
+      "title": "Ricursive Intelligence Unveils Ripple-65B Preview, Top-Scoring Open-Source U.S. Model for Agentic Coding",
+      "link": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-06T19:47:04.000Z",
+      "badgeColor": "slate",
+      "angle": "Competitive Landscape"
     }
   ]
 }
