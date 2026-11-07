@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Weight Models Reshape AI Landscape with Enhanced Capabilities",
-  "summary": "A surge in open-weight models, including Ripple-65B Preview and Inkling 2 Small, is pushing the boundaries of AI reasoning and performance, challenging proprietary systems and accelerating local deployment. This trend is reshaping the AI industry by broadening access and reducing dependence on closed platforms.",
-  "whyItMatters": "It democratizes advanced AI capabilities, fostering innovation and competition, while potentially disrupting existing business models.",
-  "synthesizedAt": "2026-11-06T22:54:30.492Z",
+  "headline": "Open-Weight Models Reshape AI Landscape, Sparking Industry Debate",
+  "summary": "Ricursive Intelligence's Ripple-65B and Thinking Machines' Inkling 2 Small are leading a surge of open-weight models, challenging proprietary systems and driving debate on their implications for the AI industry.",
+  "whyItMatters": "This trend is democratizing advanced AI capabilities, potentially disrupting established players and reshaping the competitive landscape.",
+  "synthesizedAt": "2026-11-07T02:01:00.055Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=42519",
@@ -16,26 +16,6 @@
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3185898",
-      "title": "Midterm Elections Could Reshape AI Industry with Stricter Data Center Regulations",
-      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-06T18:00:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=42495",
-      "title": "METR Reports Anthropic's AI Model Development Paced Up by 100% Since July",
-      "link": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-06T13:40:07.000Z",
-      "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
-    },
-    {
       "id": "the-decoder-https://the-decoder.com/?p=42490",
       "title": "Thinking Machines' Inkling 2 Small Challenges Leading Open-Weight Models in Western Market",
       "link": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
@@ -43,7 +23,7 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-11-06T13:25:09.000Z",
       "badgeColor": "slate",
-      "angle": "Competitive Benchmark"
+      "angle": "Technical Deep Dive"
     }
   ]
 }
