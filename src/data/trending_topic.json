@@ -1,29 +1,38 @@
 {
-  "headline": "Open-Source Models Outperform Proprietary Systems in Critical Benchmark",
-  "summary": "Nine AI agents, including several proprietary models, were tested against open research questions from U.S. national laboratories, with open-source models performing exceptionally well. This result highlights the rising importance of open-source AI in advancing research and development.",
-  "whyItMatters": "This trend underscores the growing competitiveness of open-source AI models, potentially reducing reliance on proprietary systems and fostering broader innovation.",
-  "synthesizedAt": "2026-11-07T11:21:23.011Z",
+  "headline": "OpenAI's Massive Funding Boost Fuels AI Industry Contests and Innovations",
+  "summary": "OpenAI's $11 billion funding round, valuing the company at $1.25 trillion, has sparked a wave of innovation and competition among tech giants and startups, driving advancements in AI models and infrastructure.",
+  "whyItMatters": "This funding bolsters OpenAI's influence and sets the stage for increased investment and innovation across the AI industry, potentially reshaping market dynamics and regulatory landscapes.",
+  "synthesizedAt": "2026-11-07T14:27:54.131Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42532",
-    "title": "AI Agents Struggle in 'Into the Unknown' Benchmark at U.S. National Labs",
-    "link": "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/",
+    "id": "the-decoder-https://the-decoder.com/?p=42525",
+    "title": "OpenAI Secures $11 Billion in Funding, Expands Investor Base to Include Unlikely Partners",
+    "link": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-11-07T11:13:42.000Z",
+    "pubDate": "2026-11-07T09:45:23.000Z",
     "badgeColor": "slate",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42519",
-      "title": "Ricursive Intelligence Unveils Ripple-65B Preview, Top-Scoring Open-Source U.S. Model for Agentic Coding",
-      "link": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-06T19:47:04.000Z",
-      "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
+      "id": "version2-https://ing.dk/artikel/europaeiske-udbud-skraeddersys-til-amerikanske-it-giganter",
+      "title": "European Bids Tailored for American Tech Giants Despite Regulatory Challenges",
+      "link": "https://ing.dk/artikel/europaeiske-udbud-skraeddersys-til-amerikanske-it-giganter",
+      "sourceName": "Version2 (Ingeniøren)",
+      "sourceId": "version2",
+      "pubDate": "2026-11-07T14:00:07.000Z",
+      "badgeColor": "red"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3186034",
+      "title": "OpenAI Secures Massive Funding Boost, Valued at $1.25 Trillion",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-06T22:53:46.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Analysis"
     },
     {
       "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3185898",
@@ -33,7 +42,7 @@
       "sourceId": "techcrunch-ai",
       "pubDate": "2026-11-06T18:00:00.000Z",
       "badgeColor": "emerald",
-      "angle": "Industry Analysis"
+      "angle": "Policy Impact"
     }
   ]
 }
