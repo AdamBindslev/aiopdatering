@@ -1,17 +1,17 @@
 {
-  "headline": "Ricursive Intelligence's Ripple-65B Challenges Open-Weight Models",
-  "summary": "Ricursive Intelligence has unveiled Ripple-65B, a 65-billion-parameter open-source model excelling in agentic coding tasks, challenging leading commercial models. This shift highlights the growing importance of open-source models in the AI industry.",
-  "whyItMatters": "It broadens access to advanced language models and could reduce barriers for developers looking to integrate powerful AI tools into their projects.",
-  "synthesizedAt": "2026-11-07T05:07:29.291Z",
+  "headline": "Open-Source AI Models Pave Way for Widespread Reasoning Capabilities",
+  "summary": "A surge in open-source AI models, such as Dory 1.0 and Ripple-65B, is demonstrating advanced reasoning abilities, challenging proprietary systems and driving local deployment. This trend is reshaping the AI landscape by broadening access and reducing costs.",
+  "whyItMatters": "It democratizes advanced AI capabilities, fostering innovation and competition, while reducing barriers for developers and organizations.",
+  "synthesizedAt": "2026-11-07T08:15:45.712Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42519",
-    "title": "Ricursive Intelligence Unveils Ripple-65B Preview, Top-Scoring Open-Source U.S. Model for Agentic Coding",
-    "link": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-06T19:47:04.000Z",
-    "badgeColor": "slate",
+    "id": "nvidia-developer-yt:video:_MEqhFwnp8o",
+    "title": "Nemotron Labs Unveils Dory 1.0: A Looping Transformer Model to Enhance Inference Efficiency",
+    "link": "https://www.youtube.com/watch?v=_MEqhFwnp8o",
+    "sourceName": "NVIDIA Developer",
+    "sourceId": "nvidia-developer",
+    "pubDate": "2026-11-07T02:02:09.000Z",
+    "badgeColor": "green",
     "angle": "Official Release"
   },
   "supportingStories": [
@@ -23,27 +23,17 @@
       "sourceId": "latent-space",
       "pubDate": "2026-11-07T03:04:53.000Z",
       "badgeColor": "pink",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=42495",
-      "title": "METR Reports Anthropic's AI Model Development Paced Up by 100% Since July",
-      "link": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-06T13:40:07.000Z",
-      "badgeColor": "slate",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42490",
-      "title": "Thinking Machines' Inkling 2 Small Challenges Leading Open-Weight Models in Western Market",
-      "link": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
+      "id": "the-decoder-https://the-decoder.com/?p=42519",
+      "title": "Ricursive Intelligence Unveils Ripple-65B Preview, Top-Scoring Open-Source U.S. Model for Agentic Coding",
+      "link": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-11-06T13:25:09.000Z",
+      "pubDate": "2026-11-06T19:47:04.000Z",
       "badgeColor": "slate",
-      "angle": "Competitive Landscape"
+      "angle": "Industry Analysis"
     }
   ]
 }
