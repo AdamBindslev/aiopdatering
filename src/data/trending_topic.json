@@ -1,30 +1,20 @@
 {
-  "headline": "Open-Source AI Models Pave Way for Widespread Reasoning Capabilities",
-  "summary": "A surge in open-source AI models, such as Dory 1.0 and Ripple-65B, is demonstrating advanced reasoning abilities, challenging proprietary systems and driving local deployment. This trend is reshaping the AI landscape by broadening access and reducing costs.",
-  "whyItMatters": "It democratizes advanced AI capabilities, fostering innovation and competition, while reducing barriers for developers and organizations.",
-  "synthesizedAt": "2026-11-07T08:15:45.712Z",
+  "headline": "Open-Source Models Outperform Proprietary Systems in Critical Benchmark",
+  "summary": "Nine AI agents, including several proprietary models, were tested against open research questions from U.S. national laboratories, with open-source models performing exceptionally well. This result highlights the rising importance of open-source AI in advancing research and development.",
+  "whyItMatters": "This trend underscores the growing competitiveness of open-source AI models, potentially reducing reliance on proprietary systems and fostering broader innovation.",
+  "synthesizedAt": "2026-11-07T11:21:23.011Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "nvidia-developer-yt:video:_MEqhFwnp8o",
-    "title": "Nemotron Labs Unveils Dory 1.0: A Looping Transformer Model to Enhance Inference Efficiency",
-    "link": "https://www.youtube.com/watch?v=_MEqhFwnp8o",
-    "sourceName": "NVIDIA Developer",
-    "sourceId": "nvidia-developer",
-    "pubDate": "2026-11-07T02:02:09.000Z",
-    "badgeColor": "green",
+    "id": "the-decoder-https://the-decoder.com/?p=42532",
+    "title": "AI Agents Struggle in 'Into the Unknown' Benchmark at U.S. National Labs",
+    "link": "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-07T11:13:42.000Z",
+    "badgeColor": "slate",
     "angle": "Official Release"
   },
   "supportingStories": [
-    {
-      "id": "latent-space-urn:latent-space:post:post_7716b2e3-ddac-48e0-8890-6bd0b896d287",
-      "title": "Anthropic's IPO: ARC Prize Tests Inkling 2 Small, Revealing Early Bypasses",
-      "link": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-11-07T03:04:53.000Z",
-      "badgeColor": "pink",
-      "angle": "Technical Deep Dive"
-    },
     {
       "id": "the-decoder-https://the-decoder.com/?p=42519",
       "title": "Ricursive Intelligence Unveils Ripple-65B Preview, Top-Scoring Open-Source U.S. Model for Agentic Coding",
@@ -33,6 +23,16 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-11-06T19:47:04.000Z",
       "badgeColor": "slate",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3185898",
+      "title": "Midterm Elections Could Reshape AI Industry with Stricter Data Center Regulations",
+      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-06T18:00:00.000Z",
+      "badgeColor": "emerald",
       "angle": "Industry Analysis"
     }
   ]
