@@ -1,39 +1,48 @@
 {
-  "headline": "Open-Source AI Models Outperform Proprietary Alternatives in Cybersecurity",
-  "summary": "OpenAI's GPT-6 Sol Daybreak and DeepSeek V4.1 Flash outperform closed-source models in cybersecurity benchmarks, highlighting the potential of open-source AI in enhancing security measures.",
-  "whyItMatters": "This trend could drive increased adoption of open-source AI models, reducing costs and improving security across various industries.",
-  "synthesizedAt": "2026-11-08T02:54:53.629Z",
+  "headline": "OpenAI's Massive Funding Boost Signals AI Industry Dominance",
+  "summary": "OpenAI has secured an additional $11 billion in funding, valuing the company at $1.25 trillion. This significant financial boost underscores OpenAI's growing influence and dominance in the AI industry, setting a new standard for investment in AI research and development.",
+  "whyItMatters": "This funding will enable OpenAI to accelerate its research and expand its capabilities, potentially reshaping the competitive landscape of the AI industry.",
+  "synthesizedAt": "2026-11-08T06:01:49.741Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42554",
-    "title": "Open-Source AI Models Close Gap in Cybersecurity Capabilities, Outperforming Closed-Source Alternatives",
-    "link": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-07T15:35:50.000Z",
-    "badgeColor": "slate",
-    "angle": "Hands-on Benchmark"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3186034",
+    "title": "OpenAI Secures Massive Funding Boost, Valued at $1.25 Trillion",
+    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-11-06T22:53:46.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42525",
-      "title": "OpenAI Secures $11 Billion in Funding, Expands Investor Base to Include Unlikely Partners",
-      "link": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-07T09:45:23.000Z",
-      "badgeColor": "slate",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3186087",
+      "title": "US Intelligence Memo Alleges Chinese Recruitment of Nvidia CEO Spy",
+      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-07T21:17:08.000Z",
+      "badgeColor": "emerald",
       "angle": "Industry Analysis"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42519",
-      "title": "Ricursive Intelligence Unveils Ripple-65B Preview, Top-Scoring Open-Source U.S. Model for Agentic Coding",
-      "link": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-06T19:47:04.000Z",
-      "badgeColor": "slate",
-      "angle": "Official Release"
+      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3185898",
+      "title": "Midterm Elections Could Reshape AI Industry with Stricter Data Center Regulations",
+      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-06T18:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Policy Impact"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_video&p=3185895",
+      "title": "Midterm Elections Could Shape Future of AI Industry with Stringent Data Center Regulations",
+      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-06T17:23:52.000Z",
+      "badgeColor": "emerald"
     }
   ]
 }
