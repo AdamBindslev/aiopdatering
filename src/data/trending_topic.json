@@ -1,8 +1,8 @@
 {
   "headline": "Open-Source AI Models Outperform Proprietary Alternatives in Cybersecurity",
-  "summary": "OpenAI's GPT-6 Sol Daybreak and DeepSeek V4.1 Flash, open-source models, have outperformed closed-source alternatives in cybersecurity benchmarks, highlighting the potential of open-source AI in enhancing security capabilities.",
-  "whyItMatters": "This trend could accelerate the adoption of open-source AI models, reducing costs and increasing transparency in critical sectors like cybersecurity.",
-  "synthesizedAt": "2026-11-08T18:28:26.668Z",
+  "summary": "OpenAI's GPT-6 Sol Daybreak and DeepSeek V4.1 Flash, open-source models, have outperformed closed-source alternatives in cybersecurity benchmarks, highlighting the growing importance of open-source AI in various industries.",
+  "whyItMatters": "This trend underscores the potential of open-source AI in enhancing security and reducing reliance on proprietary systems, which could have significant implications for cybersecurity and industry standards.",
+  "synthesizedAt": "2026-11-08T21:35:43.707Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=42554",
@@ -12,9 +12,19 @@
     "sourceId": "the-decoder",
     "pubDate": "2026-11-07T15:35:50.000Z",
     "badgeColor": "slate",
-    "angle": "Technical Deep Dive"
+    "angle": "Primary Source"
   },
   "supportingStories": [
+    {
+      "id": "latent-space-urn:latent-space:post:pod_ep_01a1bcf7-771f-7c67-ba1d-94f856e787b0",
+      "title": "Stanford Introduces Open-Source Integration in AI-Native Engineering Course",
+      "link": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-11-08T21:23:29.000Z",
+      "badgeColor": "pink",
+      "angle": "Technical Deep Dive"
+    },
     {
       "id": "the-decoder-https://the-decoder.com/?p=42579",
       "title": "Anthropic Proceeds with Lower Valued IPO Amidst Tech Selloff",
@@ -33,7 +43,7 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-11-07T12:32:45.000Z",
       "badgeColor": "slate",
-      "angle": "Official Release"
+      "angle": "Policy Impact"
     }
   ]
 }
