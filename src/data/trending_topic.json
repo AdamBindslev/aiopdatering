@@ -1,48 +1,39 @@
 {
-  "headline": "OpenAI's Massive Funding Boost Signals AI Industry Dominance",
-  "summary": "OpenAI has secured an additional $11 billion in funding, valuing the company at $1.25 trillion. This significant financial boost underscores OpenAI's growing influence and dominance in the AI industry, setting a new standard for investment in AI research and development.",
-  "whyItMatters": "This funding will enable OpenAI to accelerate its research and expand its capabilities, potentially reshaping the competitive landscape of the AI industry.",
-  "synthesizedAt": "2026-11-08T06:01:49.741Z",
+  "headline": "Open-Source AI Models Outperform Proprietary Alternatives in Cybersecurity",
+  "summary": "Open-source AI models, such as GPT-6 Sol Daybreak and DeepSeek V4.1 Flash, have outperformed closed-source alternatives in cybersecurity benchmarks, highlighting the potential of open-source models to drive innovation and improve security.",
+  "whyItMatters": "This trend could accelerate the adoption of open-source AI models, reduce costs, and enhance security in various industries.",
+  "synthesizedAt": "2026-11-08T09:08:23.804Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3186034",
-    "title": "OpenAI Secures Massive Funding Boost, Valued at $1.25 Trillion",
-    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-11-06T22:53:46.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Release"
+    "id": "the-decoder-https://the-decoder.com/?p=42554",
+    "title": "Open-Source AI Models Close Gap in Cybersecurity Capabilities, Outperforming Closed-Source Alternatives",
+    "link": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-07T15:35:50.000Z",
+    "badgeColor": "slate",
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3186087",
-      "title": "US Intelligence Memo Alleges Chinese Recruitment of Nvidia CEO Spy",
-      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-07T21:17:08.000Z",
-      "badgeColor": "emerald",
+      "id": "two-minute-papers-yt:video:GJ6PMUm5oTA",
+      "title": "OpenAI's Astra Weight Hack Simplifies Model Optimization",
+      "link": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
+      "sourceName": "Two Minute Papers",
+      "sourceId": "two-minute-papers",
+      "pubDate": "2026-11-07T16:24:47.000Z",
+      "badgeColor": "amber",
       "angle": "Industry Analysis"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3185898",
-      "title": "Midterm Elections Could Reshape AI Industry with Stricter Data Center Regulations",
-      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-06T18:00:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Policy Impact"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_video&p=3185895",
-      "title": "Midterm Elections Could Shape Future of AI Industry with Stringent Data Center Regulations",
-      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-06T17:23:52.000Z",
-      "badgeColor": "emerald"
+      "id": "latent-space-urn:latent-space:post:post_7716b2e3-ddac-48e0-8890-6bd0b896d287",
+      "title": "Anthropic's IPO: ARC Prize Tests Inkling 2 Small, Revealing Early Bypasses",
+      "link": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-11-07T03:04:53.000Z",
+      "badgeColor": "pink",
+      "angle": "Hands-on Benchmark"
     }
   ]
 }
