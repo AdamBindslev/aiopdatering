@@ -1,8 +1,8 @@
 {
   "headline": "Open-Source AI Models Outperform Proprietary Alternatives in Cybersecurity",
-  "summary": "Open-source AI models, such as GPT-6 Sol Daybreak and DeepSeek V4.1 Flash, have outperformed closed-source alternatives in cybersecurity benchmarks, highlighting the potential of open-source models to drive innovation and improve security.",
-  "whyItMatters": "This trend could accelerate the adoption of open-source AI models, reduce costs, and enhance security in various industries.",
-  "synthesizedAt": "2026-11-08T09:08:23.804Z",
+  "summary": "OpenAI's GPT-6 Sol Daybreak and DeepSeek V4.1 Flash outperform closed-source models in cybersecurity benchmarks, highlighting the growing importance of open-source AI in critical applications.",
+  "whyItMatters": "This trend underscores the potential of open-source AI in enhancing security and privacy, potentially reducing reliance on proprietary systems that may have hidden vulnerabilities.",
+  "synthesizedAt": "2026-11-08T12:15:21.989Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=42554",
@@ -16,24 +16,24 @@
   },
   "supportingStories": [
     {
-      "id": "two-minute-papers-yt:video:GJ6PMUm5oTA",
-      "title": "OpenAI's Astra Weight Hack Simplifies Model Optimization",
-      "link": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
-      "sourceName": "Two Minute Papers",
-      "sourceId": "two-minute-papers",
-      "pubDate": "2026-11-07T16:24:47.000Z",
-      "badgeColor": "amber",
+      "id": "the-decoder-https://the-decoder.com/?p=42579",
+      "title": "Anthropic Proceeds with Lower Valued IPO Amidst Tech Selloff",
+      "link": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-07T17:37:25.000Z",
+      "badgeColor": "slate",
       "angle": "Industry Analysis"
     },
     {
-      "id": "latent-space-urn:latent-space:post:post_7716b2e3-ddac-48e0-8890-6bd0b896d287",
-      "title": "Anthropic's IPO: ARC Prize Tests Inkling 2 Small, Revealing Early Bypasses",
-      "link": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-11-07T03:04:53.000Z",
-      "badgeColor": "pink",
-      "angle": "Hands-on Benchmark"
+      "id": "the-decoder-https://the-decoder.com/?p=42545",
+      "title": "Chinese AI Model Retraining Reduces Propaganda Bias Significantly",
+      "link": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-07T12:32:45.000Z",
+      "badgeColor": "slate",
+      "angle": "Official Release"
     }
   ]
 }
