@@ -110653,5 +110653,59 @@
     "whyItMatters": "This allegation highlights the increasing concerns over technology espionage and the potential impact on global tech companies, particularly in the AI sector, as countries vie for technological dominance.",
     "enrichedAt": "2026-11-07T23:47:35.632Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Nov/7/link-rel-next/": {
+    "title": "Datasette Update: Avoid Sending rel=next Headers to Firefox for HTML Pages",
+    "summary": "Simon Willison reported an issue where Firefox was triggering HTTP prefetch requests to the next page for Datasette table pages, leading to unnecessary network activity. The update advises against serving rel=next headers for HTML pages to prevent this behavior.",
+    "danishTitle": "Datasette Update: Avoid Sending rel=next Headers to Firefox for HTML Pages",
+    "danishSummary": "Simon Willison reported an issue where Firefox was triggering HTTP prefetch requests to the next page for Datasette table pages, leading to unnecessary network activity. The update advises against serving rel=next headers for HTML pages to prevent this behavior.",
+    "whyItMatters": "This change optimizes network performance by reducing unnecessary prefetch requests, which can improve user experience and reduce bandwidth usage for Datasette users.",
+    "enrichedAt": "2026-11-08T02:54:10.812Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/nov/7/link-rel-next": {
+    "title": "Datasette Update: Avoid Sending rel=next Headers to Firefox for HTML Pages",
+    "summary": "Simon Willison reported an issue where Firefox was triggering HTTP prefetch requests to the next page for Datasette table pages, leading to unnecessary network activity. The update advises against serving rel=next headers for HTML pages to prevent this behavior.",
+    "danishTitle": "Datasette Update: Avoid Sending rel=next Headers to Firefox for HTML Pages",
+    "danishSummary": "Simon Willison reported an issue where Firefox was triggering HTTP prefetch requests to the next page for Datasette table pages, leading to unnecessary network activity. The update advises against serving rel=next headers for HTML pages to prevent this behavior.",
+    "whyItMatters": "This change optimizes network performance by reducing unnecessary prefetch requests, which can improve user experience and reduce bandwidth usage for Datasette users.",
+    "enrichedAt": "2026-11-08T02:54:10.812Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Nov/7/link-rel-next/": {
+    "title": "Datasette Update: Avoid Sending rel=next Headers to Firefox for HTML Pages",
+    "summary": "Simon Willison reported an issue where Firefox was triggering HTTP prefetch requests to the next page for Datasette table pages, leading to unnecessary network activity. The update advises against serving rel=next headers for HTML pages to prevent this behavior.",
+    "danishTitle": "Datasette Update: Avoid Sending rel=next Headers to Firefox for HTML Pages",
+    "danishSummary": "Simon Willison reported an issue where Firefox was triggering HTTP prefetch requests to the next page for Datasette table pages, leading to unnecessary network activity. The update advises against serving rel=next headers for HTML pages to prevent this behavior.",
+    "whyItMatters": "This change optimizes network performance by reducing unnecessary prefetch requests, which can improve user experience and reduce bandwidth usage for Datasette users.",
+    "enrichedAt": "2026-11-08T02:54:10.812Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "no-priors-yt:video:Wp9cMpw3ujM": {
+    "title": "Robinhood CEO Vlad Tenev Advocates for Loosening Accredited Investor Rules in Cryptocurrency",
+    "summary": "In a recent podcast, Robinhood CEO Vlad Tenev discussed the restrictive nature of accredited investor rules, particularly in the context of cryptocurrency, arguing that these rules should be relaxed to allow for more widespread participation in the market, including the ability to freely trade meme coins.",
+    "danishTitle": "Robinhood CEO Vlad Tenev Advocates for Loosening Accredited Investor Rules in Cryptocurrency",
+    "danishSummary": "In a recent podcast, Robinhood CEO Vlad Tenev discussed the restrictive nature of accredited investor rules, particularly in the context of cryptocurrency, arguing that these rules should be relaxed to allow for more widespread participation in the market, including the ability to freely trade meme coins.",
+    "whyItMatters": "Tenev's advocacy could lead to changes in regulatory policies, potentially opening up the cryptocurrency market to a broader, less affluent investor base, thereby increasing market liquidity and accessibility.",
+    "enrichedAt": "2026-11-08T02:54:21.714Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:wp9cmpw3ujm": {
+    "title": "Robinhood CEO Vlad Tenev Advocates for Loosening Accredited Investor Rules in Cryptocurrency",
+    "summary": "In a recent podcast, Robinhood CEO Vlad Tenev discussed the restrictive nature of accredited investor rules, particularly in the context of cryptocurrency, arguing that these rules should be relaxed to allow for more widespread participation in the market, including the ability to freely trade meme coins.",
+    "danishTitle": "Robinhood CEO Vlad Tenev Advocates for Loosening Accredited Investor Rules in Cryptocurrency",
+    "danishSummary": "In a recent podcast, Robinhood CEO Vlad Tenev discussed the restrictive nature of accredited investor rules, particularly in the context of cryptocurrency, arguing that these rules should be relaxed to allow for more widespread participation in the market, including the ability to freely trade meme coins.",
+    "whyItMatters": "Tenev's advocacy could lead to changes in regulatory policies, potentially opening up the cryptocurrency market to a broader, less affluent investor base, thereby increasing market liquidity and accessibility.",
+    "enrichedAt": "2026-11-08T02:54:21.714Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/shorts/Wp9cMpw3ujM": {
+    "title": "Robinhood CEO Vlad Tenev Advocates for Loosening Accredited Investor Rules in Cryptocurrency",
+    "summary": "In a recent podcast, Robinhood CEO Vlad Tenev discussed the restrictive nature of accredited investor rules, particularly in the context of cryptocurrency, arguing that these rules should be relaxed to allow for more widespread participation in the market, including the ability to freely trade meme coins.",
+    "danishTitle": "Robinhood CEO Vlad Tenev Advocates for Loosening Accredited Investor Rules in Cryptocurrency",
+    "danishSummary": "In a recent podcast, Robinhood CEO Vlad Tenev discussed the restrictive nature of accredited investor rules, particularly in the context of cryptocurrency, arguing that these rules should be relaxed to allow for more widespread participation in the market, including the ability to freely trade meme coins.",
+    "whyItMatters": "Tenev's advocacy could lead to changes in regulatory policies, potentially opening up the cryptocurrency market to a broader, less affluent investor base, thereby increasing market liquidity and accessibility.",
+    "enrichedAt": "2026-11-08T02:54:21.714Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }
