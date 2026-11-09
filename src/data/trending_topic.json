@@ -1,39 +1,48 @@
 {
-  "headline": "Open-Source AI Models Outperform Closed-Source Alternatives in Cybersecurity",
-  "summary": "OpenAI's GPT-6 Sol Daybreak and DeepSeek V4.1 Flash, an open-source model, have demonstrated strong performance in cybersecurity benchmarks, outperforming closed-source alternatives. This trend is challenging proprietary models and promoting broader access to advanced AI capabilities.",
-  "whyItMatters": "It highlights the potential of open-source models in critical applications like cybersecurity and could drive more developers to contribute to and use open-source AI projects.",
-  "synthesizedAt": "2026-11-09T03:48:38.054Z",
+  "headline": "AI Safety and Benchmarking Gain Momentum Amidst Allegations and New Research",
+  "summary": "Recent investigations into Nvidia’s leadership and new studies on LLM safety benchmarks highlight the growing importance of AI safety and transparency. These developments are driving industry-wide discussions on responsible AI practices and the need for robust testing methods.",
+  "whyItMatters": "These trends underscore the critical need for transparency and robust safety measures in AI development, impacting trust and adoption across sectors.",
+  "synthesizedAt": "2026-11-09T06:58:49.724Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42554",
-    "title": "Open-Source AI Models Close Gap in Cybersecurity Capabilities, Outperforming Closed-Source Alternatives",
-    "link": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-07T15:35:50.000Z",
-    "badgeColor": "slate",
-    "angle": "Technical Deep Dive"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3186128",
+    "title": "Nvidia Launches Investigation into CEO Jensen Huang’s Alleged Affair with Possible Chinese Spy",
+    "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-11-08T21:00:11.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Investigation"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42596",
-      "title": "Richard Sutton and Tworek Criticize Blind Scaling of LLMs, Emphasizing Need for New Learning Methods",
-      "link": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-08T11:44:41.000Z",
-      "badgeColor": "slate",
+      "id": "arxiv-cl-oai:arXiv.org:2611.08639v1",
+      "title": "Study Reveals MCQ Format Reduces Refusal Rates in LLM Safety Benchmarks",
+      "link": "https://arxiv.org/abs/2611.08639",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-11-09T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2611.08780v1",
+      "title": "Study Warns of Guardrail Erosion in Domain-Specific Large Language Models",
+      "link": "https://arxiv.org/abs/2611.08780",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-11-09T05:00:00.000Z",
+      "badgeColor": "zinc",
       "angle": "Industry Analysis"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42569",
-      "title": "AI Auditors Detect Most Misbehavior but Generate False Alarms, Study Reveals",
-      "link": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-07T16:56:38.000Z",
-      "badgeColor": "slate",
-      "angle": "Critical Debate"
+      "id": "arxiv-cl-oai:arXiv.org:2611.09042v1",
+      "title": "New Research Proposes Enhanced Reasoning Distillation Techniques for Smaller Language Models",
+      "link": "https://arxiv.org/abs/2611.09042",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-11-09T05:00:00.000Z",
+      "badgeColor": "zinc"
     }
   ]
 }
