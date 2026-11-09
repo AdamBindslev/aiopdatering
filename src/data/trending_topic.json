@@ -1,48 +1,48 @@
 {
-  "headline": "Meta's Muse Ember Pioneers Affordable Lightweight AI Models",
-  "summary": "Meta has launched Muse Ember, a cost-effective lightweight AI model that offers inference at a low cost of 10 cents per million input tokens. This development is driving down the barriers to entry for AI adoption and could significantly impact the industry's cost structure.",
-  "whyItMatters": "By reducing the cost of AI inference, Muse Ember could democratize access to advanced AI technologies and accelerate the integration of AI into a wider range of applications.",
-  "synthesizedAt": "2026-11-09T19:25:56.990Z",
+  "headline": "Anthropic's Advanced AI Models Spark Industry Competition and Controversy",
+  "summary": "Anthropic has unveiled advanced AI models, including Claude Fable 5.2 and Mythos 5.2, which are generating significant industry attention and prompting discussions about the future of AI development and competition. The launch has also sparked controversy, including legal challenges and strategic investments.",
+  "whyItMatters": "This event highlights the rapid advancements in AI technology and the competitive landscape, influencing industry strategies and regulatory considerations.",
+  "synthesizedAt": "2026-11-09T22:32:06.462Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3186298",
-    "title": "Meta Unveils Muse Ember, a Cost-Effective Lightweight Model for Agent Execution",
-    "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-11-09T18:00:00.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Launch"
+    "id": "the-decoder-https://the-decoder.com/?p=42645",
+    "title": "Anthropic Unveils Advanced AI Models Claude Fable 5.2 and Mythos 5.2 Ahead of IPO",
+    "link": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-09T21:15:23.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "openai-https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "title": "ChatGPT Enterprise Now Available on AWS Marketplace",
-      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "sourceName": "OpenAI News",
-      "sourceId": "openai",
-      "pubDate": "2026-11-09T19:00:00.000Z",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3186369",
+      "title": "Anthropic Unveils Mythos and Fable Models, Addresses RSI Concerns",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-09T19:24:51.000Z",
       "badgeColor": "emerald",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "nvidia-developer-yt:video:WCiWw7Bo78g",
-      "title": "NVIDIA Reveals Innovative Data Source for Self-Driving AI Training",
-      "link": "https://www.youtube.com/shorts/WCiWw7Bo78g",
-      "sourceName": "NVIDIA Developer",
-      "sourceId": "nvidia-developer",
-      "pubDate": "2026-11-09T17:39:36.000Z",
-      "badgeColor": "green",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42618",
-      "title": "Google Introduces Four TPU Variants in a Year, Intensifying Competition with Nvidia",
-      "link": "https://the-decoder.com/google-ships-four-tpu-variants-in-one-year-as-it-ramps-up-competition-with-nvidia/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-09T12:59:02.000Z",
-      "badgeColor": "slate"
+      "id": "nvidia-developer-yt:video:szlo7BL77ms",
+      "title": "NVIDIA Dynamo Simplifies OpenAI API Integration with Quick Tutorial",
+      "link": "https://www.youtube.com/watch?v=szlo7BL77ms",
+      "sourceName": "NVIDIA Developer",
+      "sourceId": "nvidia-developer",
+      "pubDate": "2026-11-09T18:33:34.000Z",
+      "badgeColor": "green",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3186273",
+      "title": "Anthropic Enters AI's Natural Gas Frenzy, Buys $3.4B in Turbines",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-09T16:56:54.000Z",
+      "badgeColor": "emerald"
     }
   ]
 }
