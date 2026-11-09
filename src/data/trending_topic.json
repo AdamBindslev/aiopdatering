@@ -1,28 +1,39 @@
 {
-  "headline": "Nvidia CEO Investigation Sparks AI Industry Tensions",
-  "summary": "Nvidia is investigating CEO Jensen Huang over alleged ties to a Chinese spy, intensifying scrutiny on AI chip export controls and geopolitical tensions. This is driving discussions on AI security and the broader implications for the industry.",
-  "whyItMatters": "It highlights the geopolitical risks associated with AI technology and could lead to stricter regulations, affecting global AI development and deployment.",
-  "synthesizedAt": "2026-11-09T13:10:18.031Z",
+  "headline": "AI Safety and Security Concerns Emerge as Top Industry Priority",
+  "summary": "A series of recent developments highlight growing concerns over AI safety, security, and ethical implications, including bioweapons risks, cybersecurity vulnerabilities, and regulatory challenges. These issues are commanding industry attention as they pose significant strategic and operational risks.",
+  "whyItMatters": "Addressing these concerns is crucial for maintaining public trust, ensuring responsible AI development, and mitigating potential risks to society and businesses.",
+  "synthesizedAt": "2026-11-09T16:17:39.579Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42615",
-    "title": "Nvidia Espionage Scandal Diminishes Huang's Lobby Against Tightened AI Chip Export Controls",
-    "link": "https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/",
+    "id": "the-decoder-https://the-decoder.com/?p=42624",
+    "title": "Tencent's AI Chief Warns of Bioweapons Risk, Advocates for Balanced Model Accessibility",
+    "link": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-11-09T11:38:43.000Z",
+    "pubDate": "2026-11-09T15:44:53.000Z",
     "badgeColor": "slate",
-    "angle": "Official Release"
+    "angle": "Critical Debate"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42618",
-      "title": "Google Introduces Four TPU Variants in a Year, Intensifying Competition with Nvidia",
-      "link": "https://the-decoder.com/google-ships-four-tpu-variants-in-one-year-as-it-ramps-up-competition-with-nvidia/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-09T12:59:02.000Z",
-      "badgeColor": "slate"
+      "id": "tech-policy-press-https://techpolicy.press/in-the-ai-era-language-is-now-an-attack-surface",
+      "title": "AI Era Expands Cybersecurity Concerns to Language Models",
+      "link": "https://techpolicy.press/in-the-ai-era-language-is-now-an-attack-surface",
+      "sourceName": "Tech Policy Press",
+      "sourceId": "tech-policy-press",
+      "pubDate": "2026-11-09T14:12:56.000Z",
+      "badgeColor": "slate",
+      "angle": "Policy Impact"
+    },
+    {
+      "id": "tech-policy-press-https://techpolicy.press/a-new-agenda-for-tech-regulation-beyond-ai",
+      "title": "Tech Policy Press Outlines Comprehensive New Agenda for Global Tech Regulation Beyond AI",
+      "link": "https://techpolicy.press/a-new-agenda-for-tech-regulation-beyond-ai",
+      "sourceName": "Tech Policy Press",
+      "sourceId": "tech-policy-press",
+      "pubDate": "2026-11-09T13:08:23.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
     },
     {
       "id": "techcrunch-ai-https://techcrunch.com/?p=3186150",
@@ -32,27 +43,16 @@
       "sourceId": "techcrunch-ai",
       "pubDate": "2026-11-09T05:26:29.000Z",
       "badgeColor": "emerald",
-      "angle": "Industry Analysis"
+      "angle": "Official Statement"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2611.08780v1",
-      "title": "Study Warns of Guardrail Erosion in Domain-Specific Large Language Models",
-      "link": "https://arxiv.org/abs/2611.08780",
+      "id": "arxiv-cl-oai:arXiv.org:2611.08639v1",
+      "title": "Study Reveals MCQ Format Reduces Refusal Rates in LLM Safety Benchmarks",
+      "link": "https://arxiv.org/abs/2611.08639",
       "sourceName": "arXiv cs.CL (Sprog & LLM)",
       "sourceId": "arxiv-cl",
       "pubDate": "2026-11-09T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Policy Impact"
-    },
-    {
-      "id": "no-priors-yt:video:Z1FxJ7jAxWM",
-      "title": "AI Agents Debunked: Podcast Hosts Argue Against Internet Shutdowns",
-      "link": "https://www.youtube.com/shorts/Z1FxJ7jAxWM",
-      "sourceName": "No Priors Podcast",
-      "sourceId": "no-priors",
-      "pubDate": "2026-11-09T01:07:45.000Z",
-      "badgeColor": "amber",
-      "angle": "Critical Debate"
+      "badgeColor": "zinc"
     }
   ]
 }
