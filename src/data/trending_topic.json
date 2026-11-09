@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Source AI Models Outperform Proprietary Alternatives in Cybersecurity",
-  "summary": "OpenAI's GPT-6 Sol Daybreak and DeepSeek V4.1 Flash, an open-source model, have demonstrated strong performance in cybersecurity benchmarks, outperforming closed-source alternatives. This trend is reshaping the landscape of cybersecurity, reducing reliance on proprietary solutions.",
-  "whyItMatters": "It highlights the growing effectiveness and accessibility of open-source AI models, potentially lowering costs and improving security in various industries.",
-  "synthesizedAt": "2026-11-09T00:42:28.191Z",
+  "headline": "Open-Source AI Models Outperform Closed-Source Alternatives in Cybersecurity",
+  "summary": "OpenAI's GPT-6 Sol Daybreak and DeepSeek V4.1 Flash, an open-source model, have demonstrated strong performance in cybersecurity benchmarks, outperforming closed-source alternatives. This trend is challenging proprietary models and promoting broader access to advanced AI capabilities.",
+  "whyItMatters": "It highlights the potential of open-source models in critical applications like cybersecurity and could drive more developers to contribute to and use open-source AI projects.",
+  "synthesizedAt": "2026-11-09T03:48:38.054Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=42554",
@@ -16,24 +16,24 @@
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42579",
-      "title": "Anthropic Proceeds with Lower Valued IPO Amidst Tech Selloff",
-      "link": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+      "id": "the-decoder-https://the-decoder.com/?p=42596",
+      "title": "Richard Sutton and Tworek Criticize Blind Scaling of LLMs, Emphasizing Need for New Learning Methods",
+      "link": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-11-07T17:37:25.000Z",
+      "pubDate": "2026-11-08T11:44:41.000Z",
       "badgeColor": "slate",
       "angle": "Industry Analysis"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42545",
-      "title": "Chinese AI Model Retraining Reduces Propaganda Bias Significantly",
-      "link": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/",
+      "id": "the-decoder-https://the-decoder.com/?p=42569",
+      "title": "AI Auditors Detect Most Misbehavior but Generate False Alarms, Study Reveals",
+      "link": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-11-07T12:32:45.000Z",
+      "pubDate": "2026-11-07T16:56:38.000Z",
       "badgeColor": "slate",
-      "angle": "Policy Impact"
+      "angle": "Critical Debate"
     }
   ]
 }
