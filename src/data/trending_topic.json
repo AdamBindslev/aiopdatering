@@ -1,30 +1,20 @@
 {
-  "headline": "AI Safety and Benchmarking Gain Momentum Amidst Allegations and New Research",
-  "summary": "Recent investigations into Nvidia’s leadership and new studies on LLM safety benchmarks highlight the growing importance of AI safety and transparency. These developments are driving industry-wide discussions on responsible AI practices and the need for robust testing methods.",
-  "whyItMatters": "These trends underscore the critical need for transparency and robust safety measures in AI development, impacting trust and adoption across sectors.",
-  "synthesizedAt": "2026-11-09T06:58:49.724Z",
+  "headline": "Blind Scaling Criticized: AI Researchers Call for New Learning Methods",
+  "summary": "Renowned AI experts Richard Sutton and Tworek argue against relying solely on raw computational power for language models, emphasizing the need for new learning methods. This debate is gaining momentum as the AI industry grapples with the limitations of current scaling practices.",
+  "whyItMatters": "It highlights the need for innovation in AI training techniques, potentially leading to more efficient and effective models.",
+  "synthesizedAt": "2026-11-09T10:02:34.705Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3186128",
-    "title": "Nvidia Launches Investigation into CEO Jensen Huang’s Alleged Affair with Possible Chinese Spy",
-    "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-11-08T21:00:11.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Investigation"
+    "id": "the-decoder-https://the-decoder.com/?p=42596",
+    "title": "Richard Sutton and Tworek Criticize Blind Scaling of LLMs, Emphasizing Need for New Learning Methods",
+    "link": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-08T11:44:41.000Z",
+    "badgeColor": "slate",
+    "angle": "Critical Debate"
   },
   "supportingStories": [
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2611.08639v1",
-      "title": "Study Reveals MCQ Format Reduces Refusal Rates in LLM Safety Benchmarks",
-      "link": "https://arxiv.org/abs/2611.08639",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-11-09T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
-    },
     {
       "id": "arxiv-cl-oai:arXiv.org:2611.08780v1",
       "title": "Study Warns of Guardrail Erosion in Domain-Specific Large Language Models",
@@ -42,7 +32,8 @@
       "sourceName": "arXiv cs.CL (Sprog & LLM)",
       "sourceId": "arxiv-cl",
       "pubDate": "2026-11-09T05:00:00.000Z",
-      "badgeColor": "zinc"
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
