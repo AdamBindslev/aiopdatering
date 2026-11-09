@@ -1,8 +1,8 @@
 {
   "headline": "Open-Source AI Models Outperform Proprietary Alternatives in Cybersecurity",
-  "summary": "OpenAI's GPT-6 Sol Daybreak and DeepSeek V4.1 Flash, open-source models, have outperformed closed-source alternatives in cybersecurity benchmarks, highlighting the growing importance of open-source AI in various industries.",
-  "whyItMatters": "This trend underscores the potential of open-source AI in enhancing security and reducing reliance on proprietary systems, which could have significant implications for cybersecurity and industry standards.",
-  "synthesizedAt": "2026-11-08T21:35:43.707Z",
+  "summary": "OpenAI's GPT-6 Sol Daybreak and DeepSeek V4.1 Flash, an open-source model, have demonstrated strong performance in cybersecurity benchmarks, outperforming closed-source alternatives. This trend is reshaping the landscape of cybersecurity, reducing reliance on proprietary solutions.",
+  "whyItMatters": "It highlights the growing effectiveness and accessibility of open-source AI models, potentially lowering costs and improving security in various industries.",
+  "synthesizedAt": "2026-11-09T00:42:28.191Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=42554",
@@ -12,19 +12,9 @@
     "sourceId": "the-decoder",
     "pubDate": "2026-11-07T15:35:50.000Z",
     "badgeColor": "slate",
-    "angle": "Primary Source"
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
-    {
-      "id": "latent-space-urn:latent-space:post:pod_ep_01a1bcf7-771f-7c67-ba1d-94f856e787b0",
-      "title": "Stanford Introduces Open-Source Integration in AI-Native Engineering Course",
-      "link": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-11-08T21:23:29.000Z",
-      "badgeColor": "pink",
-      "angle": "Technical Deep Dive"
-    },
     {
       "id": "the-decoder-https://the-decoder.com/?p=42579",
       "title": "Anthropic Proceeds with Lower Valued IPO Amidst Tech Selloff",
