@@ -1,20 +1,30 @@
 {
-  "headline": "Anthropic's Advanced AI Models Spark Industry Competition and Controversy",
-  "summary": "Anthropic has unveiled advanced AI models, including Claude Fable 5.2 and Mythos 5.2, which are generating significant industry attention and prompting discussions about the future of AI development and competition. The launch has also sparked controversy, including legal challenges and strategic investments.",
-  "whyItMatters": "This event highlights the rapid advancements in AI technology and the competitive landscape, influencing industry strategies and regulatory considerations.",
-  "synthesizedAt": "2026-11-09T22:32:06.462Z",
+  "headline": "Anthropic's IPO and AI Model Updates Spark Industry Controversy",
+  "summary": "Anthropic is set to announce its IPO valuation, while also unveiling advanced AI models Fable 5.2 and Mythos 5.2. These developments are generating significant industry debate, particularly amid ongoing controversies surrounding CEO Jensen Huang.",
+  "whyItMatters": "These events highlight the growing tension between AI innovation and ethical concerns, influencing investor confidence and shaping the broader AI landscape.",
+  "synthesizedAt": "2026-11-10T01:37:54.152Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42645",
-    "title": "Anthropic Unveils Advanced AI Models Claude Fable 5.2 and Mythos 5.2 Ahead of IPO",
-    "link": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-09T21:15:23.000Z",
-    "badgeColor": "slate",
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3186715",
+    "title": "Anthropic Expected to Announce IPO Valuation Range This Week",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-11-10T01:27:12.000Z",
+    "badgeColor": "emerald",
     "angle": "Official Release"
   },
   "supportingStories": [
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=42645",
+      "title": "Anthropic Unveils Advanced AI Models Claude Fable 5.2 and Mythos 5.2 Ahead of IPO",
+      "link": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-09T21:15:23.000Z",
+      "badgeColor": "slate",
+      "angle": "Technical Deep Dive"
+    },
     {
       "id": "techcrunch-ai-https://techcrunch.com/?p=3186369",
       "title": "Anthropic Unveils Mythos and Fable Models, Addresses RSI Concerns",
@@ -23,16 +33,6 @@
       "sourceId": "techcrunch-ai",
       "pubDate": "2026-11-09T19:24:51.000Z",
       "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "nvidia-developer-yt:video:szlo7BL77ms",
-      "title": "NVIDIA Dynamo Simplifies OpenAI API Integration with Quick Tutorial",
-      "link": "https://www.youtube.com/watch?v=szlo7BL77ms",
-      "sourceName": "NVIDIA Developer",
-      "sourceId": "nvidia-developer",
-      "pubDate": "2026-11-09T18:33:34.000Z",
-      "badgeColor": "green",
       "angle": "Industry Analysis"
     },
     {
@@ -42,7 +42,8 @@
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
       "pubDate": "2026-11-09T16:56:54.000Z",
-      "badgeColor": "emerald"
+      "badgeColor": "emerald",
+      "angle": "Controversy and Investment"
     }
   ]
 }
