@@ -1,39 +1,39 @@
 {
-  "headline": "Anthropic's Claude Expands with Comprehensive Workspace Tools and Meeting Integration",
-  "summary": "Anthropic is enhancing its AI assistant Claude with comprehensive workspace tools and meeting integration, aiming to streamline workplace productivity and collaboration. This expansion is gaining significant industry attention as it positions Claude as a versatile enterprise solution.",
-  "whyItMatters": "It underscores the growing importance of AI in enterprise environments and the increasing competition among AI providers to offer integrated, comprehensive solutions.",
-  "synthesizedAt": "2026-11-10T20:20:33.992Z",
+  "headline": "OpenAI's Gemini Carbon Dominates AI Benchmarking and Pricing",
+  "summary": "OpenAI's Gemini Carbon model has set new benchmarks in performance and cost efficiency, outpacing competitors in various evaluations. This has sparked a competitive race to lower prices and improve capabilities, influencing the broader AI industry landscape.",
+  "whyItMatters": "It sets a new standard for AI model performance and pricing, potentially reshaping the market dynamics and driving innovation.",
+  "synthesizedAt": "2026-11-10T23:25:41.064Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42688",
-    "title": "Anthropic Enhances Claude with Comprehensive Workspace Tools and Meeting Integration",
-    "link": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-10T19:48:40.000Z",
-    "badgeColor": "slate",
-    "angle": "Technical Deep Dive"
+    "id": "simon-willison-https://simonwillison.net/2026/Nov/10/llm-gemini/",
+    "title": "Google Unveils Gemini 4 Carbon for General Use, Priced at $2/million Input and $10/million Output",
+    "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+    "sourceName": "Simon Willison",
+    "sourceId": "simon-willison",
+    "pubDate": "2026-11-10T20:09:44.000Z",
+    "badgeColor": "green",
+    "angle": "Official Launch"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3186906",
-      "title": "PSI Leverages Unreleased Anthropic Model for Breakthrough Quantum Computing Discovery",
-      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-10T19:03:52.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
+      "id": "the-decoder-https://the-decoder.com/?p=42673",
+      "title": "Google Unveils Gemini 4 Carbon, Outpacing Competitors in Performance and Cost Efficiency",
+      "link": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-10T18:19:13.000Z",
+      "badgeColor": "slate",
+      "angle": "Performance Benchmark"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3186876",
-      "title": "Anthropic Unveils Claude Meetings to Automate Workplace Planning and Task Management",
-      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-10T17:30:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Official Launch"
+      "id": "the-decoder-https://the-decoder.com/?p=42668",
+      "title": "Google DeepMind's Gemini Robotics 2.5 Achieves 96% Sorting Efficiency in Mercedes-Benz Assembly Line Pilot",
+      "link": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-10T17:11:10.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Impact"
     }
   ]
 }
