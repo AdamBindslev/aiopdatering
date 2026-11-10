@@ -1,20 +1,40 @@
 {
-  "headline": "Claude Fable 5.2 Paves the Way for Advanced AI Capabilities",
-  "summary": "Anthropic has released Claude Fable 5.2, which significantly enhances AI capabilities, including explicit code ownership responses. This update is driving industry attention as it sets new benchmarks for AI models in the market.",
-  "whyItMatters": "It highlights Anthropic's commitment to transparency and advanced AI capabilities, potentially reshaping the landscape of AI model development and usage.",
-  "synthesizedAt": "2026-11-10T10:58:21.552Z",
+  "headline": "Anthropic IPO Roadshow Sparks AI Valuation Debate",
+  "summary": "Anthropic's ambitious IPO roadshow is setting a new benchmark for AI company valuations, with an implied valuation of $1.404 trillion. This surge in interest is sparking debate about the true value and future prospects of AI firms.",
+  "whyItMatters": "It highlights the growing investor confidence in AI companies and sets a precedent for future valuations, influencing the broader industry landscape.",
+  "synthesizedAt": "2026-11-10T14:05:28.226Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3186715",
-    "title": "Anthropic Expected to Announce IPO Valuation Range This Week",
-    "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3186772",
+    "title": "Anthropic Sets IPO Price Range, Targeting Implied Valuation of $1.404 Trillion",
+    "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
     "sourceName": "TechCrunch – AI",
     "sourceId": "techcrunch-ai",
-    "pubDate": "2026-11-10T01:27:12.000Z",
+    "pubDate": "2026-11-10T14:01:39.000Z",
     "badgeColor": "emerald",
     "angle": "Official Release"
   },
   "supportingStories": [
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=42656",
+      "title": "Anthropic Launches IPO Roadshow with Ambitious $1 Trillion Valuation Target",
+      "link": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-10T12:13:03.000Z",
+      "badgeColor": "slate",
+      "angle": "Market Reaction"
+    },
+    {
+      "id": "anthropic-CBMiWkFVX3lxTE51YVF6eThycm5nblZRV2ZpeDRhWUtVRi03bmxZMGNuX0pJMzUzRDFWSHh5clR6VVN1R3ZzaTNFWHNvYjRwUTNCUERQbFQ3WmFyMkxVcGpFTUpjQQ",
+      "title": "Anthropic Launches Roadshow for Upcoming IPO",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51YVF6eThycm5nblZRV2ZpeDRhWUtVRi03bmxZMGNuX0pJMzUzRDFWSHh5clR6VVN1R3ZzaTNFWHNvYjRwUTNCUERQbFQ3WmFyMkxVcGpFTUpjQQ?oc=5",
+      "sourceName": "Anthropic",
+      "sourceId": "anthropic",
+      "pubDate": "2026-11-10T11:44:40.000Z",
+      "badgeColor": "amber",
+      "angle": "Industry Analysis"
+    },
     {
       "id": "latent-space-urn:latent-space:post:post_df4afb4d-ec92-48c2-a5a9-92147e7325c8",
       "title": "Fable 5.2 Reclaims Top Spot as Anthropic Commences IPO Roadshow",
@@ -23,7 +43,7 @@
       "sourceId": "latent-space",
       "pubDate": "2026-11-10T06:34:44.000Z",
       "badgeColor": "pink",
-      "angle": "Market Impact"
+      "angle": "Product Update"
     },
     {
       "id": "simon-willison-https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
@@ -32,27 +52,7 @@
       "sourceName": "Simon Willison",
       "sourceId": "simon-willison",
       "pubDate": "2026-11-10T05:34:14.000Z",
-      "badgeColor": "green",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2611.08778v1",
-      "title": "New Framework Introduces Semantic Conditional Similarity (SCS) for Enhanced Document Analysis",
-      "link": "https://arxiv.org/abs/2611.08778",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-11-10T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2611.08905v1",
-      "title": "New Research Aims to Enhance Subagent Authorization in Complex AI Workflows",
-      "link": "https://arxiv.org/abs/2611.08905",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-11-10T05:00:00.000Z",
-      "badgeColor": "zinc"
+      "badgeColor": "green"
     }
   ]
 }
