@@ -1,58 +1,29 @@
 {
-  "headline": "Anthropic IPO Roadshow Sparks AI Valuation Debate",
-  "summary": "Anthropic's ambitious IPO roadshow is setting a new benchmark for AI company valuations, with an implied valuation of $1.404 trillion. This surge in interest is sparking debate about the true value and future prospects of AI firms.",
-  "whyItMatters": "It highlights the growing investor confidence in AI companies and sets a precedent for future valuations, influencing the broader industry landscape.",
-  "synthesizedAt": "2026-11-10T14:05:28.226Z",
+  "headline": "OpenAI's Frontier Models Drive Cyber Defense Innovations",
+  "summary": "OpenAI President Greg Brockman discusses how advanced frontier models are being used to enhance cyber defense strategies, highlighting the strategic importance of these models in protecting critical infrastructure and data.",
+  "whyItMatters": "This trend underscores the growing reliance on AI for cybersecurity, potentially reshaping how companies and governments protect their digital assets.",
+  "synthesizedAt": "2026-11-10T17:13:52.821Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3186772",
-    "title": "Anthropic Sets IPO Price Range, Targeting Implied Valuation of $1.404 Trillion",
-    "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-11-10T14:01:39.000Z",
+    "id": "openai-channel-yt:video:sSyzj08Cy2U",
+    "title": "OpenAI President Greg Brockman Discusses Cyber Defense Strategies Using Frontier Models",
+    "link": "https://www.youtube.com/shorts/sSyzj08Cy2U",
+    "sourceName": "OpenAI (YouTube)",
+    "sourceId": "openai-channel",
+    "pubDate": "2026-11-10T16:07:53.000Z",
     "badgeColor": "emerald",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42656",
-      "title": "Anthropic Launches IPO Roadshow with Ambitious $1 Trillion Valuation Target",
-      "link": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-10T12:13:03.000Z",
-      "badgeColor": "slate",
-      "angle": "Market Reaction"
-    },
-    {
-      "id": "anthropic-CBMiWkFVX3lxTE51YVF6eThycm5nblZRV2ZpeDRhWUtVRi03bmxZMGNuX0pJMzUzRDFWSHh5clR6VVN1R3ZzaTNFWHNvYjRwUTNCUERQbFQ3WmFyMkxVcGpFTUpjQQ",
-      "title": "Anthropic Launches Roadshow for Upcoming IPO",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51YVF6eThycm5nblZRV2ZpeDRhWUtVRi03bmxZMGNuX0pJMzUzRDFWSHh5clR6VVN1R3ZzaTNFWHNvYjRwUTNCUERQbFQ3WmFyMkxVcGpFTUpjQQ?oc=5",
-      "sourceName": "Anthropic",
-      "sourceId": "anthropic",
-      "pubDate": "2026-11-10T11:44:40.000Z",
-      "badgeColor": "amber",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "latent-space-urn:latent-space:post:post_df4afb4d-ec92-48c2-a5a9-92147e7325c8",
-      "title": "Fable 5.2 Reclaims Top Spot as Anthropic Commences IPO Roadshow",
-      "link": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-11-10T06:34:44.000Z",
-      "badgeColor": "pink",
-      "angle": "Product Update"
-    },
-    {
-      "id": "simon-willison-https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-      "title": "Claude Fable 5.2 Clarifies Code Ownership in Responses",
-      "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-11-10T05:34:14.000Z",
-      "badgeColor": "green"
+      "id": "openai-channel-yt:video:vdEGZYIvFiI",
+      "title": "OpenAI President Greg Brockman Discusses Cyber Defense Strategies Using Frontier Models",
+      "link": "https://www.youtube.com/watch?v=vdEGZYIvFiI",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-11-10T16:02:15.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
