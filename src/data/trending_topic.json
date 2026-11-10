@@ -1,29 +1,39 @@
 {
-  "headline": "OpenAI's Frontier Models Drive Cyber Defense Innovations",
-  "summary": "OpenAI President Greg Brockman discusses how advanced frontier models are being used to enhance cyber defense strategies, highlighting the strategic importance of these models in protecting critical infrastructure and data.",
-  "whyItMatters": "This trend underscores the growing reliance on AI for cybersecurity, potentially reshaping how companies and governments protect their digital assets.",
-  "synthesizedAt": "2026-11-10T17:13:52.821Z",
+  "headline": "Anthropic's Claude Expands with Comprehensive Workspace Tools and Meeting Integration",
+  "summary": "Anthropic is enhancing its AI assistant Claude with comprehensive workspace tools and meeting integration, aiming to streamline workplace productivity and collaboration. This expansion is gaining significant industry attention as it positions Claude as a versatile enterprise solution.",
+  "whyItMatters": "It underscores the growing importance of AI in enterprise environments and the increasing competition among AI providers to offer integrated, comprehensive solutions.",
+  "synthesizedAt": "2026-11-10T20:20:33.992Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-channel-yt:video:sSyzj08Cy2U",
-    "title": "OpenAI President Greg Brockman Discusses Cyber Defense Strategies Using Frontier Models",
-    "link": "https://www.youtube.com/shorts/sSyzj08Cy2U",
-    "sourceName": "OpenAI (YouTube)",
-    "sourceId": "openai-channel",
-    "pubDate": "2026-11-10T16:07:53.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Release"
+    "id": "the-decoder-https://the-decoder.com/?p=42688",
+    "title": "Anthropic Enhances Claude with Comprehensive Workspace Tools and Meeting Integration",
+    "link": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-10T19:48:40.000Z",
+    "badgeColor": "slate",
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "openai-channel-yt:video:vdEGZYIvFiI",
-      "title": "OpenAI President Greg Brockman Discusses Cyber Defense Strategies Using Frontier Models",
-      "link": "https://www.youtube.com/watch?v=vdEGZYIvFiI",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-10T16:02:15.000Z",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3186906",
+      "title": "PSI Leverages Unreleased Anthropic Model for Breakthrough Quantum Computing Discovery",
+      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-10T19:03:52.000Z",
       "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3186876",
+      "title": "Anthropic Unveils Claude Meetings to Automate Workplace Planning and Task Management",
+      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-10T17:30:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Official Launch"
     }
   ]
 }
