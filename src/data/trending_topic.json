@@ -1,30 +1,20 @@
 {
-  "headline": "Anthropic's Claude Fable 5.2 Advances AI Safety and Performance",
-  "summary": "Anthropic has released Claude Fable 5.2, an advanced language model with enhanced safety features and reasoning capabilities, as the company prepares for its IPO. This update is commanding industry attention due to its potential to set new standards in AI safety and performance.",
-  "whyItMatters": "It highlights the growing emphasis on safety and performance in AI models, influencing the direction of the industry and setting new benchmarks for developers and users.",
-  "synthesizedAt": "2026-11-10T07:50:42.389Z",
+  "headline": "Claude Fable 5.2 Paves the Way for Advanced AI Capabilities",
+  "summary": "Anthropic has released Claude Fable 5.2, which significantly enhances AI capabilities, including explicit code ownership responses. This update is driving industry attention as it sets new benchmarks for AI models in the market.",
+  "whyItMatters": "It highlights Anthropic's commitment to transparency and advanced AI capabilities, potentially reshaping the landscape of AI model development and usage.",
+  "synthesizedAt": "2026-11-10T10:58:21.552Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "epoch-ai-CBMiUkFVX3lxTE84M1ZzT1pMcWpOZHFfc0FTNkhibVBXZFRlYWdSTmtwN3pBQVk4RGNKb3R3NENfVTFPUlMtdjhybUYyQVFKVU15dDFzSXA1NDVkMXc",
-    "title": "Epoch AI Unveils Claude Fable 5.2: Enhanced Language Model with Safety Features",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84M1ZzT1pMcWpOZHFfc0FTNkhibVBXZFRlYWdSTmtwN3pBQVk4RGNKb3R3NENfVTFPUlMtdjhybUYyQVFKVU15dDFzSXA1NDVkMXc?oc=5",
-    "sourceName": "Epoch AI",
-    "sourceId": "epoch-ai",
-    "pubDate": "2026-11-09T22:01:01.000Z",
-    "badgeColor": "violet",
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3186715",
+    "title": "Anthropic Expected to Announce IPO Valuation Range This Week",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-11-10T01:27:12.000Z",
+    "badgeColor": "emerald",
     "angle": "Official Release"
   },
   "supportingStories": [
-    {
-      "id": "simon-willison-https://simonwillison.net/2026/Nov/10/muse-ember/",
-      "title": "Meta AI Unveils Muse Ember, Smallest and Most Efficient Model for Complex Reasoning",
-      "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-11-10T07:28:21.000Z",
-      "badgeColor": "green",
-      "angle": "Technical Deep Dive"
-    },
     {
       "id": "latent-space-urn:latent-space:post:post_df4afb4d-ec92-48c2-a5a9-92147e7325c8",
       "title": "Fable 5.2 Reclaims Top Spot as Anthropic Commences IPO Roadshow",
@@ -33,7 +23,7 @@
       "sourceId": "latent-space",
       "pubDate": "2026-11-10T06:34:44.000Z",
       "badgeColor": "pink",
-      "angle": "Industry Analysis"
+      "angle": "Market Impact"
     },
     {
       "id": "simon-willison-https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
@@ -43,16 +33,26 @@
       "sourceId": "simon-willison",
       "pubDate": "2026-11-10T05:34:14.000Z",
       "badgeColor": "green",
-      "angle": "Safety and Reasoning Enhancements"
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "simon-willison-https://simonwillison.net/2026/Nov/9/llm-anthropic/",
-      "title": "Anthropic Updates llm-anthropic with Fable 5.2 and Mythos 5.2",
-      "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-11-09T23:58:46.000Z",
-      "badgeColor": "green"
+      "id": "arxiv-cl-oai:arXiv.org:2611.08778v1",
+      "title": "New Framework Introduces Semantic Conditional Similarity (SCS) for Enhanced Document Analysis",
+      "link": "https://arxiv.org/abs/2611.08778",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-11-10T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2611.08905v1",
+      "title": "New Research Aims to Enhance Subagent Authorization in Complex AI Workflows",
+      "link": "https://arxiv.org/abs/2611.08905",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-11-10T05:00:00.000Z",
+      "badgeColor": "zinc"
     }
   ]
 }
