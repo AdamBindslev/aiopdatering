@@ -1,49 +1,58 @@
 {
-  "headline": "Anthropic IPO and Model Launches Drive AI Industry Momentum",
-  "summary": "Anthropic is set to announce its IPO valuation range this week, alongside the launch of advanced AI models Claude Fable 5.2 and Mythos 5.2. These developments are driving significant industry attention and setting new benchmarks for AI capabilities and accessibility.",
-  "whyItMatters": "These events highlight the rapid growth and increasing competition in the AI sector, influencing investment, development, and adoption strategies.",
-  "synthesizedAt": "2026-11-10T04:43:40.596Z",
+  "headline": "Anthropic's Claude Fable 5.2 Advances AI Safety and Performance",
+  "summary": "Anthropic has released Claude Fable 5.2, an advanced language model with enhanced safety features and reasoning capabilities, as the company prepares for its IPO. This update is commanding industry attention due to its potential to set new standards in AI safety and performance.",
+  "whyItMatters": "It highlights the growing emphasis on safety and performance in AI models, influencing the direction of the industry and setting new benchmarks for developers and users.",
+  "synthesizedAt": "2026-11-10T07:50:42.389Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3186715",
-    "title": "Anthropic Expected to Announce IPO Valuation Range This Week",
-    "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-11-10T01:27:12.000Z",
-    "badgeColor": "emerald",
+    "id": "epoch-ai-CBMiUkFVX3lxTE84M1ZzT1pMcWpOZHFfc0FTNkhibVBXZFRlYWdSTmtwN3pBQVk4RGNKb3R3NENfVTFPUlMtdjhybUYyQVFKVU15dDFzSXA1NDVkMXc",
+    "title": "Epoch AI Unveils Claude Fable 5.2: Enhanced Language Model with Safety Features",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84M1ZzT1pMcWpOZHFfc0FTNkhibVBXZFRlYWdSTmtwN3pBQVk4RGNKb3R3NENfVTFPUlMtdjhybUYyQVFKVU15dDFzSXA1NDVkMXc?oc=5",
+    "sourceName": "Epoch AI",
+    "sourceId": "epoch-ai",
+    "pubDate": "2026-11-09T22:01:01.000Z",
+    "badgeColor": "violet",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42645",
-      "title": "Anthropic Unveils Advanced AI Models Claude Fable 5.2 and Mythos 5.2 Ahead of IPO",
-      "link": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-09T21:15:23.000Z",
-      "badgeColor": "slate",
+      "id": "simon-willison-https://simonwillison.net/2026/Nov/10/muse-ember/",
+      "title": "Meta AI Unveils Muse Ember, Smallest and Most Efficient Model for Complex Reasoning",
+      "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-11-10T07:28:21.000Z",
+      "badgeColor": "green",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "latent-space-urn:latent-space:post:post_df4afb4d-ec92-48c2-a5a9-92147e7325c8",
+      "title": "Fable 5.2 Reclaims Top Spot as Anthropic Commences IPO Roadshow",
+      "link": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-11-10T06:34:44.000Z",
+      "badgeColor": "pink",
       "angle": "Industry Analysis"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3186369",
-      "title": "Anthropic Unveils Mythos and Fable Models, Addresses RSI Concerns",
-      "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-09T19:24:51.000Z",
-      "badgeColor": "emerald",
-      "angle": "Critical Debate"
+      "id": "simon-willison-https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+      "title": "Claude Fable 5.2 Clarifies Code Ownership in Responses",
+      "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-11-10T05:34:14.000Z",
+      "badgeColor": "green",
+      "angle": "Safety and Reasoning Enhancements"
     },
     {
-      "id": "epoch-ai-CBMiUkFVX3lxTE84M1ZzT1pMcWpOZHFfc0FTNkhibVBXZFRlYWdSTmtwN3pBQVk4RGNKb3R3NENfVTFPUlMtdjhybUYyQVFKVU15dDFzSXA1NDVkMXc",
-      "title": "Epoch AI Unveils Claude Fable 5.2: Enhanced Language Model with Safety Features",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84M1ZzT1pMcWpOZHFfc0FTNkhibVBXZFRlYWdSTmtwN3pBQVk4RGNKb3R3NENfVTFPUlMtdjhybUYyQVFKVU15dDFzSXA1NDVkMXc?oc=5",
-      "sourceName": "Epoch AI",
-      "sourceId": "epoch-ai",
-      "pubDate": "2026-11-09T22:01:01.000Z",
-      "badgeColor": "violet",
-      "angle": "Technical Deep Dive"
+      "id": "simon-willison-https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+      "title": "Anthropic Updates llm-anthropic with Fable 5.2 and Mythos 5.2",
+      "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-11-09T23:58:46.000Z",
+      "badgeColor": "green"
     }
   ]
 }
