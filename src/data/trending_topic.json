@@ -1,39 +1,58 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Ecosystems",
-  "summary": "A surge of open-source AI models, such as Mythos from Anthropic and Dory 1.0 from Nemotron Labs, is demonstrating competitive performance with proprietary systems. This trend is driving local AI agent deployment and putting pressure on closed API models.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and reduces reliance on expensive proprietary platforms, fostering innovation and competition.",
-  "synthesizedAt": "2026-11-11T15:01:01.430Z",
+  "headline": "OpenAI's Revenue Surge Fuels AI Industry Growth and Competition",
+  "summary": "OpenAI's $10 billion quarterly revenue, marking a 50% increase, highlights the rapid growth and financial success of the AI industry. This success fuels competition and innovation, driving advancements in AI technology and services.",
+  "whyItMatters": "It underscores the increasing importance of AI in the tech industry and the financial viability of AI companies, influencing investment and development strategies.",
+  "synthesizedAt": "2026-11-11T18:08:16.035Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42715",
-    "title": "Anthropic's AI-Driven Model Mythos Accelerates GPU Porting, Challenges Nvidia's CUDA Dominance",
-    "link": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-11T14:25:20.000Z",
-    "badgeColor": "slate",
-    "angle": "Official Release"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3187315",
+    "title": "OpenAI's Quarterly Revenue Surges to $10B, Marking a 50% Increase",
+    "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-11-11T16:14:44.000Z",
+    "badgeColor": "emerald",
+    "angle": "Financial Milestone"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42698",
-      "title": "OpenAI's Enterprise Sales Boost Revenue to $10 Billion, But Losses Persist",
-      "link": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-11T12:12:47.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Analysis"
+      "id": "openai-https://openai.com/index/gilbert-tobin-sam-nickless",
+      "title": "Gilbert + Tobin Embraces AI to Transform Legal Practice",
+      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "sourceName": "OpenAI News",
+      "sourceId": "openai",
+      "pubDate": "2026-11-12T00:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Legal Practice Transformation"
     },
     {
-      "id": "nvidia-developer-yt:video:_MEqhFwnp8o",
-      "title": "Nemotron Labs Unveils Dory 1.0: A Looping Transformer Model to Enhance Inference Efficiency",
-      "link": "https://www.youtube.com/watch?v=_MEqhFwnp8o",
-      "sourceName": "NVIDIA Developer",
-      "sourceId": "nvidia-developer",
-      "pubDate": "2026-11-11T07:03:20.000Z",
+      "id": "the-zvi-https://thezvi.substack.com/p/fable-and-mythos-52-the-system-card",
+      "title": "Fable and Mythos 5.2: Claude Mythos 5.2 Unveiled as the World's Most Powerful AI Model",
+      "link": "https://thezvi.substack.com/p/fable-and-mythos-52-the-system-card",
+      "sourceName": "Don't Worry About the Vase (Zvi)",
+      "sourceId": "the-zvi",
+      "pubDate": "2026-11-11T16:25:17.000Z",
+      "badgeColor": "emerald",
+      "angle": "Model Release"
+    },
+    {
+      "id": "simon-willison-https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+      "title": "Anthropic Launches IPO Roadshow with Insights into Compute Strategy",
+      "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-11-11T15:11:59.000Z",
       "badgeColor": "green",
-      "angle": "Technical Deep Dive"
+      "angle": "IPO Roadshow"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=42715",
+      "title": "Anthropic's AI-Driven Model Mythos Accelerates GPU Porting, Challenges Nvidia's CUDA Dominance",
+      "link": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-11T14:25:20.000Z",
+      "badgeColor": "slate"
     }
   ]
 }
