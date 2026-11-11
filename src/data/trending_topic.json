@@ -1,49 +1,29 @@
 {
-  "headline": "OpenAI Expands AI Integration and Plugin Ecosystem",
-  "summary": "OpenAI has unveiled a series of new tools and features, including GPT-Live, plugin systems, and enhanced security measures, aimed at expanding developer integration and transforming various industries. These updates are driving significant momentum in the AI ecosystem.",
-  "whyItMatters": "These developments are crucial for enhancing the versatility and accessibility of AI tools, potentially reshaping how developers and businesses leverage AI technologies.",
-  "synthesizedAt": "2026-11-11T02:32:10.865Z",
+  "headline": "New Open-Weight Models Challenge Proprietary AI Systems in Legal and Personal Assistants",
+  "summary": "OpenAI's Gilbert + Tobin and Hugging Face's BotPsy are leading a wave of new open-weight AI models that are transforming legal services and personal assistants, respectively. This shift is challenging proprietary systems and expanding access to advanced AI capabilities.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and reduces reliance on closed proprietary platforms, fostering innovation and competition.",
+  "synthesizedAt": "2026-11-11T05:44:05.095Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-channel-yt:video:jDxKzlGLCas",
-    "title": "OpenAI Unveils GPT-Live and Image Generation Features at DevDay 2026",
-    "link": "https://www.youtube.com/watch?v=jDxKzlGLCas",
-    "sourceName": "OpenAI (YouTube)",
-    "sourceId": "openai-channel",
-    "pubDate": "2026-11-11T01:24:08.000Z",
+    "id": "openai-https://openai.com/index/gilbert-tobin-sam-nickless",
+    "title": "Gilbert + Tobin Embraces AI to Transform Legal Practice",
+    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "sourceName": "OpenAI News",
+    "sourceId": "openai",
+    "pubDate": "2026-11-12T00:00:00.000Z",
     "badgeColor": "emerald",
-    "angle": "Official Launch"
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "openai-channel-yt:video:pIW_8VyvCuQ",
-      "title": "OpenAI Launches Plugin System for ChatGPT and Codex, Expanding Developer Integration",
-      "link": "https://www.youtube.com/watch?v=pIW_8VyvCuQ",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-11T01:24:08.000Z",
-      "badgeColor": "emerald",
+      "id": "huggingface-https://huggingface.co/blog/qvac/botpsy",
+      "title": "Hugging Face Unveils BotPsy: A Sub-Billion-Parameter Agentic Language Model for On-Device Personal Assistants",
+      "link": "https://huggingface.co/blog/qvac/botpsy",
+      "sourceName": "Hugging Face Blog",
+      "sourceId": "huggingface",
+      "pubDate": "2026-11-11T05:01:16.000Z",
+      "badgeColor": "yellow",
       "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "openai-channel-yt:video:nAubbmlhPfI",
-      "title": "Exploring the Future of AI: From Agent Loops to Agentic Architecture",
-      "link": "https://www.youtube.com/watch?v=nAubbmlhPfI",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-11T01:24:07.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=42692",
-      "title": "OpenAI Launches Business Hub with AI Agents for Enhanced Customer Engagement",
-      "link": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-10T20:17:00.000Z",
-      "badgeColor": "slate",
-      "angle": "Business Impact"
     }
   ]
 }
