@@ -1,39 +1,39 @@
 {
-  "headline": "Open-Source Reasoning Models Erode Proprietary AI Monopolies",
-  "summary": "A surge in open-source reasoning models is challenging the dominance of proprietary AI platforms, with new models like Dory 1.0 and BotPsy demonstrating comparable capabilities. This shift is fostering broader access and reducing reliance on expensive closed APIs.",
-  "whyItMatters": "It democratizes advanced AI capabilities, potentially lowering barriers to entry for smaller developers and startups, while also putting pressure on established players to innovate or risk obsolescence.",
-  "synthesizedAt": "2026-11-11T11:52:39.715Z",
+  "headline": "Open-Source AI Models Challenge Proprietary Ecosystems",
+  "summary": "A surge of open-source AI models, such as Mythos from Anthropic and Dory 1.0 from Nemotron Labs, is demonstrating competitive performance with proprietary systems. This trend is driving local AI agent deployment and putting pressure on closed API models.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and reduces reliance on expensive proprietary platforms, fostering innovation and competition.",
+  "synthesizedAt": "2026-11-11T15:01:01.430Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "nvidia-developer-yt:video:_MEqhFwnp8o",
-    "title": "Nemotron Labs Unveils Dory 1.0: A Looping Transformer Model to Enhance Inference Efficiency",
-    "link": "https://www.youtube.com/watch?v=_MEqhFwnp8o",
-    "sourceName": "NVIDIA Developer",
-    "sourceId": "nvidia-developer",
-    "pubDate": "2026-11-11T07:03:20.000Z",
-    "badgeColor": "green",
-    "angle": "Technical Deep Dive"
+    "id": "the-decoder-https://the-decoder.com/?p=42715",
+    "title": "Anthropic's AI-Driven Model Mythos Accelerates GPU Porting, Challenges Nvidia's CUDA Dominance",
+    "link": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-11T14:25:20.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "deeplearning-ai-yt:video:0NbLVdCZHF0",
-      "title": "DeepLearning.AI Launches Tabular Foundation Models for Enhanced Data Science Agents",
-      "link": "https://www.youtube.com/watch?v=0NbLVdCZHF0",
-      "sourceName": "DeepLearning.AI / Andrew Ng",
-      "sourceId": "deeplearning-ai",
-      "pubDate": "2026-11-11T11:00:19.000Z",
-      "badgeColor": "cyan",
+      "id": "the-decoder-https://the-decoder.com/?p=42698",
+      "title": "OpenAI's Enterprise Sales Boost Revenue to $10 Billion, But Losses Persist",
+      "link": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-11T12:12:47.000Z",
+      "badgeColor": "slate",
       "angle": "Industry Analysis"
     },
     {
-      "id": "huggingface-https://huggingface.co/blog/qvac/botpsy",
-      "title": "Hugging Face Unveils BotPsy: A Sub-Billion-Parameter Agentic Language Model for On-Device Personal Assistants",
-      "link": "https://huggingface.co/blog/qvac/botpsy",
-      "sourceName": "Hugging Face Blog",
-      "sourceId": "huggingface",
-      "pubDate": "2026-11-11T05:01:16.000Z",
-      "badgeColor": "yellow",
-      "angle": "Official Launch"
+      "id": "nvidia-developer-yt:video:_MEqhFwnp8o",
+      "title": "Nemotron Labs Unveils Dory 1.0: A Looping Transformer Model to Enhance Inference Efficiency",
+      "link": "https://www.youtube.com/watch?v=_MEqhFwnp8o",
+      "sourceName": "NVIDIA Developer",
+      "sourceId": "nvidia-developer",
+      "pubDate": "2026-11-11T07:03:20.000Z",
+      "badgeColor": "green",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
