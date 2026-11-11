@@ -1,8 +1,8 @@
 {
-  "headline": "OpenAI's Revenue Surge Fuels AI Industry Growth and Competition",
-  "summary": "OpenAI's $10 billion quarterly revenue, marking a 50% increase, highlights the rapid growth and financial success of the AI industry. This success fuels competition and innovation, driving advancements in AI technology and services.",
-  "whyItMatters": "It underscores the increasing importance of AI in the tech industry and the financial viability of AI companies, influencing investment and development strategies.",
-  "synthesizedAt": "2026-11-11T18:08:16.035Z",
+  "headline": "OpenAI's Revenue Surge Signals AI Market Maturity and Competition",
+  "summary": "OpenAI's $10 billion quarterly revenue marks a significant milestone, indicating the maturation of the AI market and intensifying competition. This growth highlights the commercial viability and increasing adoption of AI technologies across industries.",
+  "whyItMatters": "It underscores the financial success and market acceptance of AI, driving investment and innovation in the sector, while also putting pressure on competitors to scale and monetize their offerings.",
+  "synthesizedAt": "2026-11-11T21:15:41.846Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "techcrunch-ai-https://techcrunch.com/?p=3187315",
@@ -16,16 +16,6 @@
   },
   "supportingStories": [
     {
-      "id": "openai-https://openai.com/index/gilbert-tobin-sam-nickless",
-      "title": "Gilbert + Tobin Embraces AI to Transform Legal Practice",
-      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "sourceName": "OpenAI News",
-      "sourceId": "openai",
-      "pubDate": "2026-11-12T00:00:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Legal Practice Transformation"
-    },
-    {
       "id": "the-zvi-https://thezvi.substack.com/p/fable-and-mythos-52-the-system-card",
       "title": "Fable and Mythos 5.2: Claude Mythos 5.2 Unveiled as the World's Most Powerful AI Model",
       "link": "https://thezvi.substack.com/p/fable-and-mythos-52-the-system-card",
@@ -33,26 +23,26 @@
       "sourceId": "the-zvi",
       "pubDate": "2026-11-11T16:25:17.000Z",
       "badgeColor": "emerald",
-      "angle": "Model Release"
+      "angle": "Model Competition"
     },
     {
-      "id": "simon-willison-https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-      "title": "Anthropic Launches IPO Roadshow with Insights into Compute Strategy",
-      "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-11-11T15:11:59.000Z",
-      "badgeColor": "green",
-      "angle": "IPO Roadshow"
+      "id": "aws-ml-7134bb29ee133c2d22189c4c963a132a593c00aa",
+      "title": "AWS Launches UAEF: A Framework-Agnostic Evaluation Framework for AI Agents",
+      "link": "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-11-11T15:50:55.000Z",
+      "badgeColor": "amber",
+      "angle": "Evaluation Framework"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42715",
-      "title": "Anthropic's AI-Driven Model Mythos Accelerates GPU Porting, Challenges Nvidia's CUDA Dominance",
-      "link": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-11T14:25:20.000Z",
-      "badgeColor": "slate"
+      "id": "aws-ml-09f20b599e1ea4e477b4979d15326bbd992cf96d",
+      "title": "AWS Launches Usage-Based Pricing for Amazon SageMaker Bidirectional Streaming Inference",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-11-11T15:10:23.000Z",
+      "badgeColor": "amber"
     }
   ]
 }
