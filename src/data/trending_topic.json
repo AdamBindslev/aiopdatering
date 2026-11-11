@@ -1,29 +1,39 @@
 {
-  "headline": "New Open-Weight Models Challenge Proprietary AI Systems in Legal and Personal Assistants",
-  "summary": "OpenAI's Gilbert + Tobin and Hugging Face's BotPsy are leading a wave of new open-weight AI models that are transforming legal services and personal assistants, respectively. This shift is challenging proprietary systems and expanding access to advanced AI capabilities.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and reduces reliance on closed proprietary platforms, fostering innovation and competition.",
-  "synthesizedAt": "2026-11-11T05:44:05.095Z",
+  "headline": "Open-Source Reasoning Models Challenge Proprietary AI Ecosystems",
+  "summary": "A series of open-source reasoning models, including Dory 1.0 from Nemotron Labs, are demonstrating advanced capabilities that rival proprietary systems. This trend is fostering greater innovation and reducing reliance on closed platforms.",
+  "whyItMatters": "It democratizes access to advanced AI technologies and could lead to more competitive pricing and broader adoption of open-source solutions.",
+  "synthesizedAt": "2026-11-11T08:48:53.871Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-https://openai.com/index/gilbert-tobin-sam-nickless",
-    "title": "Gilbert + Tobin Embraces AI to Transform Legal Practice",
-    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-    "sourceName": "OpenAI News",
-    "sourceId": "openai",
-    "pubDate": "2026-11-12T00:00:00.000Z",
-    "badgeColor": "emerald",
-    "angle": "Industry Analysis"
+    "id": "nvidia-developer-yt:video:_MEqhFwnp8o",
+    "title": "Nemotron Labs Unveils Dory 1.0: A Looping Transformer Model to Enhance Inference Efficiency",
+    "link": "https://www.youtube.com/watch?v=_MEqhFwnp8o",
+    "sourceName": "NVIDIA Developer",
+    "sourceId": "nvidia-developer",
+    "pubDate": "2026-11-11T07:03:20.000Z",
+    "badgeColor": "green",
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "huggingface-https://huggingface.co/blog/qvac/botpsy",
-      "title": "Hugging Face Unveils BotPsy: A Sub-Billion-Parameter Agentic Language Model for On-Device Personal Assistants",
-      "link": "https://huggingface.co/blog/qvac/botpsy",
-      "sourceName": "Hugging Face Blog",
-      "sourceId": "huggingface",
-      "pubDate": "2026-11-11T05:01:16.000Z",
-      "badgeColor": "yellow",
-      "angle": "Technical Deep Dive"
+      "id": "openai-https://openai.com/index/gilbert-tobin-sam-nickless",
+      "title": "Gilbert + Tobin Embraces AI to Transform Legal Practice",
+      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "sourceName": "OpenAI News",
+      "sourceId": "openai",
+      "pubDate": "2026-11-12T00:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "ml-street-talk-yt:video:qD3FrUgkVII",
+      "title": "Anthropic's Claude Compiler Mimics LLVM's Structure, Sparking Debate on Intellectual Property",
+      "link": "https://www.youtube.com/shorts/qD3FrUgkVII",
+      "sourceName": "Machine Learning Street Talk",
+      "sourceId": "ml-street-talk",
+      "pubDate": "2026-11-11T08:21:36.000Z",
+      "badgeColor": "violet",
+      "angle": "Critical Debate"
     }
   ]
 }
