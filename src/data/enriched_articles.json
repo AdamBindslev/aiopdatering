@@ -117538,5 +117538,428 @@
     "whyItMatters": "These insights are crucial for tech companies and enterprises looking to implement AI at large scales, providing practical guidance on managing risks and ensuring robust AI systems.",
     "enrichedAt": "2026-11-11T21:15:05.254Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "dwarkesh-podcast-yt:video:3eMnUYkvbJg": {
+    "title": "Robert Caro’s Dwarkesh Podcast Explores Robert Moses’ Legacy in Urban Planning",
+    "summary": "In a recent episode of the Dwarkesh Podcast, author Robert Caro delves into the life and impact of urban planner Robert Moses, highlighting his significant role in shaping New York City’s infrastructure and the complex legacy he left behind.",
+    "danishTitle": "Robert Caro’s Dwarkesh Podcast Explores Robert Moses’ Legacy in Urban Planning",
+    "danishSummary": "In a recent episode of the Dwarkesh Podcast, author Robert Caro delves into the life and impact of urban planner Robert Moses, highlighting his significant role in shaping New York City’s infrastructure and the complex legacy he left behind.",
+    "whyItMatters": "The discussion offers insights into the long-term consequences of urban planning decisions, providing valuable lessons for contemporary city planners and policymakers.",
+    "enrichedAt": "2026-11-12T00:18:22.841Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:3emnuykvbjg": {
+    "title": "Robert Caro’s Dwarkesh Podcast Explores Robert Moses’ Legacy in Urban Planning",
+    "summary": "In a recent episode of the Dwarkesh Podcast, author Robert Caro delves into the life and impact of urban planner Robert Moses, highlighting his significant role in shaping New York City’s infrastructure and the complex legacy he left behind.",
+    "danishTitle": "Robert Caro’s Dwarkesh Podcast Explores Robert Moses’ Legacy in Urban Planning",
+    "danishSummary": "In a recent episode of the Dwarkesh Podcast, author Robert Caro delves into the life and impact of urban planner Robert Moses, highlighting his significant role in shaping New York City’s infrastructure and the complex legacy he left behind.",
+    "whyItMatters": "The discussion offers insights into the long-term consequences of urban planning decisions, providing valuable lessons for contemporary city planners and policymakers.",
+    "enrichedAt": "2026-11-12T00:18:22.841Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/shorts/3eMnUYkvbJg": {
+    "title": "Robert Caro’s Dwarkesh Podcast Explores Robert Moses’ Legacy in Urban Planning",
+    "summary": "In a recent episode of the Dwarkesh Podcast, author Robert Caro delves into the life and impact of urban planner Robert Moses, highlighting his significant role in shaping New York City’s infrastructure and the complex legacy he left behind.",
+    "danishTitle": "Robert Caro’s Dwarkesh Podcast Explores Robert Moses’ Legacy in Urban Planning",
+    "danishSummary": "In a recent episode of the Dwarkesh Podcast, author Robert Caro delves into the life and impact of urban planner Robert Moses, highlighting his significant role in shaping New York City’s infrastructure and the complex legacy he left behind.",
+    "whyItMatters": "The discussion offers insights into the long-term consequences of urban planning decisions, providing valuable lessons for contemporary city planners and policymakers.",
+    "enrichedAt": "2026-11-12T00:18:22.841Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-faefdbed0491df7ffbfea5b7e93f3979e26376c0": {
+    "title": "OpenAI Codex Now Available via Amazon Bedrock for Enterprise Deployment",
+    "summary": "AWS has integrated OpenAI's Codex model into Amazon Bedrock, providing enterprises with a managed service for deploying advanced AI capabilities. This integration aims to streamline access, governance, and cost management for developers and platform teams.",
+    "danishTitle": "OpenAI Codex Now Available via Amazon Bedrock for Enterprise Deployment",
+    "danishSummary": "AWS has integrated OpenAI's Codex model into Amazon Bedrock, providing enterprises with a managed service for deploying advanced AI capabilities. This integration aims to streamline access, governance, and cost management for developers and platform teams.",
+    "whyItMatters": "By offering Codex through a managed service, Amazon Bedrock simplifies the deployment process for enterprises, potentially accelerating the adoption of advanced AI technologies across various business domains.",
+    "enrichedAt": "2026-11-12T00:18:33.709Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock": {
+    "title": "OpenAI Codex Now Available via Amazon Bedrock for Enterprise Deployment",
+    "summary": "AWS has integrated OpenAI's Codex model into Amazon Bedrock, providing enterprises with a managed service for deploying advanced AI capabilities. This integration aims to streamline access, governance, and cost management for developers and platform teams.",
+    "danishTitle": "OpenAI Codex Now Available via Amazon Bedrock for Enterprise Deployment",
+    "danishSummary": "AWS has integrated OpenAI's Codex model into Amazon Bedrock, providing enterprises with a managed service for deploying advanced AI capabilities. This integration aims to streamline access, governance, and cost management for developers and platform teams.",
+    "whyItMatters": "By offering Codex through a managed service, Amazon Bedrock simplifies the deployment process for enterprises, potentially accelerating the adoption of advanced AI technologies across various business domains.",
+    "enrichedAt": "2026-11-12T00:18:33.709Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/": {
+    "title": "OpenAI Codex Now Available via Amazon Bedrock for Enterprise Deployment",
+    "summary": "AWS has integrated OpenAI's Codex model into Amazon Bedrock, providing enterprises with a managed service for deploying advanced AI capabilities. This integration aims to streamline access, governance, and cost management for developers and platform teams.",
+    "danishTitle": "OpenAI Codex Now Available via Amazon Bedrock for Enterprise Deployment",
+    "danishSummary": "AWS has integrated OpenAI's Codex model into Amazon Bedrock, providing enterprises with a managed service for deploying advanced AI capabilities. This integration aims to streamline access, governance, and cost management for developers and platform teams.",
+    "whyItMatters": "By offering Codex through a managed service, Amazon Bedrock simplifies the deployment process for enterprises, potentially accelerating the adoption of advanced AI technologies across various business domains.",
+    "enrichedAt": "2026-11-12T00:18:33.709Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-e385fb30922b28f568762a23f0c6b0abe2c192d9": {
+    "title": "AWS Unveils Anti-Unification Engine for Semantic Policy Diffing",
+    "summary": "AWS has introduced a new approach using anti-unification to generate semantic diffs of formal policies, highlighting changes that affect behavior while ignoring superficial alterations. This method aids in efficient policy review and compliance management.",
+    "danishTitle": "AWS Unveils Anti-Unification Engine for Semantic Policy Diffing",
+    "danishSummary": "AWS has introduced a new approach using anti-unification to generate semantic diffs of formal policies, highlighting changes that affect behavior while ignoring superficial alterations. This method aids in efficient policy review and compliance management.",
+    "whyItMatters": "By automating the detection of meaningful policy changes, this tool enhances the security and governance of formal policies, making it easier for organizations to maintain compliance and manage complex regulatory environments.",
+    "enrichedAt": "2026-11-12T00:18:44.330Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification": {
+    "title": "AWS Unveils Anti-Unification Engine for Semantic Policy Diffing",
+    "summary": "AWS has introduced a new approach using anti-unification to generate semantic diffs of formal policies, highlighting changes that affect behavior while ignoring superficial alterations. This method aids in efficient policy review and compliance management.",
+    "danishTitle": "AWS Unveils Anti-Unification Engine for Semantic Policy Diffing",
+    "danishSummary": "AWS has introduced a new approach using anti-unification to generate semantic diffs of formal policies, highlighting changes that affect behavior while ignoring superficial alterations. This method aids in efficient policy review and compliance management.",
+    "whyItMatters": "By automating the detection of meaningful policy changes, this tool enhances the security and governance of formal policies, making it easier for organizations to maintain compliance and manage complex regulatory environments.",
+    "enrichedAt": "2026-11-12T00:18:44.330Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/": {
+    "title": "AWS Unveils Anti-Unification Engine for Semantic Policy Diffing",
+    "summary": "AWS has introduced a new approach using anti-unification to generate semantic diffs of formal policies, highlighting changes that affect behavior while ignoring superficial alterations. This method aids in efficient policy review and compliance management.",
+    "danishTitle": "AWS Unveils Anti-Unification Engine for Semantic Policy Diffing",
+    "danishSummary": "AWS has introduced a new approach using anti-unification to generate semantic diffs of formal policies, highlighting changes that affect behavior while ignoring superficial alterations. This method aids in efficient policy review and compliance management.",
+    "whyItMatters": "By automating the detection of meaningful policy changes, this tool enhances the security and governance of formal policies, making it easier for organizations to maintain compliance and manage complex regulatory environments.",
+    "enrichedAt": "2026-11-12T00:18:44.330Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-843b103fd6b2a85ee84c6248187646fe49551f31": {
+    "title": "AWS Enhances SageMaker HyperPod with Silent Data Corruption Detection and Recovery Mechanisms",
+    "summary": "AWS has introduced a new feature for Amazon SageMaker HyperPod that includes three checks within a PyTorch Distributed Data Parallel (DDP) loop to detect and localize silent data corruption, a type of GPU fault that can silently corrupt distributed training data. This update aims to improve the reliability and accuracy of machine learning models.",
+    "danishTitle": "AWS Enhances SageMaker HyperPod with Silent Data Corruption Detection and Recovery Mechanisms",
+    "danishSummary": "AWS has introduced a new feature for Amazon SageMaker HyperPod that includes three checks within a PyTorch Distributed Data Parallel (DDP) loop to detect and localize silent data corruption, a type of GPU fault that can silently corrupt distributed training data. This update aims to improve the reliability and accuracy of machine learning models.",
+    "whyItMatters": "By addressing silent data corruption, AWS enhances the robustness of distributed training processes, ensuring more accurate and reliable machine learning models, which is crucial for industries relying on high-fidelity AI solutions.",
+    "enrichedAt": "2026-11-12T00:18:57.898Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod": {
+    "title": "AWS Enhances SageMaker HyperPod with Silent Data Corruption Detection and Recovery Mechanisms",
+    "summary": "AWS has introduced a new feature for Amazon SageMaker HyperPod that includes three checks within a PyTorch Distributed Data Parallel (DDP) loop to detect and localize silent data corruption, a type of GPU fault that can silently corrupt distributed training data. This update aims to improve the reliability and accuracy of machine learning models.",
+    "danishTitle": "AWS Enhances SageMaker HyperPod with Silent Data Corruption Detection and Recovery Mechanisms",
+    "danishSummary": "AWS has introduced a new feature for Amazon SageMaker HyperPod that includes three checks within a PyTorch Distributed Data Parallel (DDP) loop to detect and localize silent data corruption, a type of GPU fault that can silently corrupt distributed training data. This update aims to improve the reliability and accuracy of machine learning models.",
+    "whyItMatters": "By addressing silent data corruption, AWS enhances the robustness of distributed training processes, ensuring more accurate and reliable machine learning models, which is crucial for industries relying on high-fidelity AI solutions.",
+    "enrichedAt": "2026-11-12T00:18:57.898Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/": {
+    "title": "AWS Enhances SageMaker HyperPod with Silent Data Corruption Detection and Recovery Mechanisms",
+    "summary": "AWS has introduced a new feature for Amazon SageMaker HyperPod that includes three checks within a PyTorch Distributed Data Parallel (DDP) loop to detect and localize silent data corruption, a type of GPU fault that can silently corrupt distributed training data. This update aims to improve the reliability and accuracy of machine learning models.",
+    "danishTitle": "AWS Enhances SageMaker HyperPod with Silent Data Corruption Detection and Recovery Mechanisms",
+    "danishSummary": "AWS has introduced a new feature for Amazon SageMaker HyperPod that includes three checks within a PyTorch Distributed Data Parallel (DDP) loop to detect and localize silent data corruption, a type of GPU fault that can silently corrupt distributed training data. This update aims to improve the reliability and accuracy of machine learning models.",
+    "whyItMatters": "By addressing silent data corruption, AWS enhances the robustness of distributed training processes, ensuring more accurate and reliable machine learning models, which is crucial for industries relying on high-fidelity AI solutions.",
+    "enrichedAt": "2026-11-12T00:18:57.898Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3187556": {
+    "title": "Nvidia Board Reported to Prepare to Oust Long-tenured CEO Jensen Huang",
+    "summary": "Nvidia's stock has experienced a significant drop as reports suggest the company's board is preparing to remove founder and CEO Jensen Huang after 33 years at the helm. The potential ousting comes amid internal and external challenges facing the tech giant.",
+    "danishTitle": "Nvidia Board Reported to Prepare to Oust Long-tenured CEO Jensen Huang",
+    "danishSummary": "Nvidia's stock has experienced a significant drop as reports suggest the company's board is preparing to remove founder and CEO Jensen Huang after 33 years at the helm. The potential ousting comes amid internal and external challenges facing the tech giant.",
+    "whyItMatters": "The potential leadership change could signal a shift in Nvidia's strategic direction and impact its future in the highly competitive graphics and AI hardware markets.",
+    "enrichedAt": "2026-11-12T00:19:09.131Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang": {
+    "title": "Nvidia Board Reported to Prepare to Oust Long-tenured CEO Jensen Huang",
+    "summary": "Nvidia's stock has experienced a significant drop as reports suggest the company's board is preparing to remove founder and CEO Jensen Huang after 33 years at the helm. The potential ousting comes amid internal and external challenges facing the tech giant.",
+    "danishTitle": "Nvidia Board Reported to Prepare to Oust Long-tenured CEO Jensen Huang",
+    "danishSummary": "Nvidia's stock has experienced a significant drop as reports suggest the company's board is preparing to remove founder and CEO Jensen Huang after 33 years at the helm. The potential ousting comes amid internal and external challenges facing the tech giant.",
+    "whyItMatters": "The potential leadership change could signal a shift in Nvidia's strategic direction and impact its future in the highly competitive graphics and AI hardware markets.",
+    "enrichedAt": "2026-11-12T00:19:09.131Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/": {
+    "title": "Nvidia Board Reported to Prepare to Oust Long-tenured CEO Jensen Huang",
+    "summary": "Nvidia's stock has experienced a significant drop as reports suggest the company's board is preparing to remove founder and CEO Jensen Huang after 33 years at the helm. The potential ousting comes amid internal and external challenges facing the tech giant.",
+    "danishTitle": "Nvidia Board Reported to Prepare to Oust Long-tenured CEO Jensen Huang",
+    "danishSummary": "Nvidia's stock has experienced a significant drop as reports suggest the company's board is preparing to remove founder and CEO Jensen Huang after 33 years at the helm. The potential ousting comes amid internal and external challenges facing the tech giant.",
+    "whyItMatters": "The potential leadership change could signal a shift in Nvidia's strategic direction and impact its future in the highly competitive graphics and AI hardware markets.",
+    "enrichedAt": "2026-11-12T00:19:09.131Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3187540": {
+    "title": "Tech Executive Jensen Huang Faces New Allegations of Infidelity with Nvidia Colleague",
+    "summary": "Jensen Huang, CEO of Nvidia, is facing fresh accusations of engaging in an affair with a subordinate within the company. The latest allegations come amid ongoing scrutiny over his previous extramarital affair with a woman linked to Chinese intelligence.",
+    "danishTitle": "Tech Executive Jensen Huang Faces New Allegations of Infidelity with Nvidia Colleague",
+    "danishSummary": "Jensen Huang, CEO of Nvidia, is facing fresh accusations of engaging in an affair with a subordinate within the company. The latest allegations come amid ongoing scrutiny over his previous extramarital affair with a woman linked to Chinese intelligence.",
+    "whyItMatters": "These new allegations could further tarnish Huang's reputation and potentially impact Nvidia's corporate culture and public image, especially given the company's significant influence in the tech industry.",
+    "enrichedAt": "2026-11-12T00:19:20.576Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec": {
+    "title": "Tech Executive Jensen Huang Faces New Allegations of Infidelity with Nvidia Colleague",
+    "summary": "Jensen Huang, CEO of Nvidia, is facing fresh accusations of engaging in an affair with a subordinate within the company. The latest allegations come amid ongoing scrutiny over his previous extramarital affair with a woman linked to Chinese intelligence.",
+    "danishTitle": "Tech Executive Jensen Huang Faces New Allegations of Infidelity with Nvidia Colleague",
+    "danishSummary": "Jensen Huang, CEO of Nvidia, is facing fresh accusations of engaging in an affair with a subordinate within the company. The latest allegations come amid ongoing scrutiny over his previous extramarital affair with a woman linked to Chinese intelligence.",
+    "whyItMatters": "These new allegations could further tarnish Huang's reputation and potentially impact Nvidia's corporate culture and public image, especially given the company's significant influence in the tech industry.",
+    "enrichedAt": "2026-11-12T00:19:20.576Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/": {
+    "title": "Tech Executive Jensen Huang Faces New Allegations of Infidelity with Nvidia Colleague",
+    "summary": "Jensen Huang, CEO of Nvidia, is facing fresh accusations of engaging in an affair with a subordinate within the company. The latest allegations come amid ongoing scrutiny over his previous extramarital affair with a woman linked to Chinese intelligence.",
+    "danishTitle": "Tech Executive Jensen Huang Faces New Allegations of Infidelity with Nvidia Colleague",
+    "danishSummary": "Jensen Huang, CEO of Nvidia, is facing fresh accusations of engaging in an affair with a subordinate within the company. The latest allegations come amid ongoing scrutiny over his previous extramarital affair with a woman linked to Chinese intelligence.",
+    "whyItMatters": "These new allegations could further tarnish Huang's reputation and potentially impact Nvidia's corporate culture and public image, especially given the company's significant influence in the tech industry.",
+    "enrichedAt": "2026-11-12T00:19:20.576Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-811b8dfa171613df698db45e0ea693304815500b": {
+    "title": "Amazon Bedrock AgentCore Launches Web Search API for Seamless Web Inquiry",
+    "summary": "Amazon Bedrock AgentCore has introduced the Web Search API, enabling developers to perform web searches directly within their applications with a single API call. This feature simplifies integration and enhances the capabilities of AI agents without the need for gateway or resource management.",
+    "danishTitle": "Amazon Bedrock AgentCore Launches Web Search API for Seamless Web Inquiry",
+    "danishSummary": "Amazon Bedrock AgentCore has introduced the Web Search API, enabling developers to perform web searches directly within their applications with a single API call. This feature simplifies integration and enhances the capabilities of AI agents without the need for gateway or resource management.",
+    "whyItMatters": "By streamlining web search functionality, the Web Search API on Amazon Bedrock AgentCore empowers developers to build more sophisticated and responsive AI applications, potentially improving user experience and operational efficiency.",
+    "enrichedAt": "2026-11-12T00:19:32.635Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore": {
+    "title": "Amazon Bedrock AgentCore Launches Web Search API for Seamless Web Inquiry",
+    "summary": "Amazon Bedrock AgentCore has introduced the Web Search API, enabling developers to perform web searches directly within their applications with a single API call. This feature simplifies integration and enhances the capabilities of AI agents without the need for gateway or resource management.",
+    "danishTitle": "Amazon Bedrock AgentCore Launches Web Search API for Seamless Web Inquiry",
+    "danishSummary": "Amazon Bedrock AgentCore has introduced the Web Search API, enabling developers to perform web searches directly within their applications with a single API call. This feature simplifies integration and enhances the capabilities of AI agents without the need for gateway or resource management.",
+    "whyItMatters": "By streamlining web search functionality, the Web Search API on Amazon Bedrock AgentCore empowers developers to build more sophisticated and responsive AI applications, potentially improving user experience and operational efficiency.",
+    "enrichedAt": "2026-11-12T00:19:32.635Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/": {
+    "title": "Amazon Bedrock AgentCore Launches Web Search API for Seamless Web Inquiry",
+    "summary": "Amazon Bedrock AgentCore has introduced the Web Search API, enabling developers to perform web searches directly within their applications with a single API call. This feature simplifies integration and enhances the capabilities of AI agents without the need for gateway or resource management.",
+    "danishTitle": "Amazon Bedrock AgentCore Launches Web Search API for Seamless Web Inquiry",
+    "danishSummary": "Amazon Bedrock AgentCore has introduced the Web Search API, enabling developers to perform web searches directly within their applications with a single API call. This feature simplifies integration and enhances the capabilities of AI agents without the need for gateway or resource management.",
+    "whyItMatters": "By streamlining web search functionality, the Web Search API on Amazon Bedrock AgentCore empowers developers to build more sophisticated and responsive AI applications, potentially improving user experience and operational efficiency.",
+    "enrichedAt": "2026-11-12T00:19:32.635Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-3f4d5141e9f40cbc6421464d50f65cb07b20edb9": {
+    "title": "AWS Machine Learning Highlights October 2026 Updates for AI Builders",
+    "summary": "In October 2026, Amazon Bedrock and its AgentCore saw significant updates, introducing new models tailored to specific tasks and enhancing cost transparency for AI developers. These improvements aim to streamline the development and deployment of AI agents, making them more accessible and efficient.",
+    "danishTitle": "AWS Machine Learning Highlights October 2026 Updates for AI Builders",
+    "danishSummary": "In October 2026, Amazon Bedrock and its AgentCore saw significant updates, introducing new models tailored to specific tasks and enhancing cost transparency for AI developers. These improvements aim to streamline the development and deployment of AI agents, making them more accessible and efficient.",
+    "whyItMatters": "These updates provide AI builders with more precise tools and clearer financial insights, potentially accelerating the adoption and integration of AI agents across various industries.",
+    "enrichedAt": "2026-11-12T00:19:44.228Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026": {
+    "title": "AWS Machine Learning Highlights October 2026 Updates for AI Builders",
+    "summary": "In October 2026, Amazon Bedrock and its AgentCore saw significant updates, introducing new models tailored to specific tasks and enhancing cost transparency for AI developers. These improvements aim to streamline the development and deployment of AI agents, making them more accessible and efficient.",
+    "danishTitle": "AWS Machine Learning Highlights October 2026 Updates for AI Builders",
+    "danishSummary": "In October 2026, Amazon Bedrock and its AgentCore saw significant updates, introducing new models tailored to specific tasks and enhancing cost transparency for AI developers. These improvements aim to streamline the development and deployment of AI agents, making them more accessible and efficient.",
+    "whyItMatters": "These updates provide AI builders with more precise tools and clearer financial insights, potentially accelerating the adoption and integration of AI agents across various industries.",
+    "enrichedAt": "2026-11-12T00:19:44.228Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026/": {
+    "title": "AWS Machine Learning Highlights October 2026 Updates for AI Builders",
+    "summary": "In October 2026, Amazon Bedrock and its AgentCore saw significant updates, introducing new models tailored to specific tasks and enhancing cost transparency for AI developers. These improvements aim to streamline the development and deployment of AI agents, making them more accessible and efficient.",
+    "danishTitle": "AWS Machine Learning Highlights October 2026 Updates for AI Builders",
+    "danishSummary": "In October 2026, Amazon Bedrock and its AgentCore saw significant updates, introducing new models tailored to specific tasks and enhancing cost transparency for AI developers. These improvements aim to streamline the development and deployment of AI agents, making them more accessible and efficient.",
+    "whyItMatters": "These updates provide AI builders with more precise tools and clearer financial insights, potentially accelerating the adoption and integration of AI agents across various industries.",
+    "enrichedAt": "2026-11-12T00:19:44.228Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Nov/11/gemini-decisions-api/": {
+    "title": "Gemini Decisions API Joins the Decision Model Category",
+    "summary": "Google has launched the Gemini Decisions API, which joins other leading decision model APIs like Jev and OpenAI's models. The API supports three types of questions: yes/no, choice, and rubric-scoring, offering a versatile tool for decision-making applications.",
+    "danishTitle": "Gemini Decisions API Joins the Decision Model Category",
+    "danishSummary": "Google has launched the Gemini Decisions API, which joins other leading decision model APIs like Jev and OpenAI's models. The API supports three types of questions: yes/no, choice, and rubric-scoring, offering a versatile tool for decision-making applications.",
+    "whyItMatters": "The addition of Gemini Decisions API broadens the market for decision-making tools, potentially offering more choices and competition among providers.",
+    "enrichedAt": "2026-11-12T00:19:55.276Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/nov/11/gemini-decisions-api": {
+    "title": "Gemini Decisions API Joins the Decision Model Category",
+    "summary": "Google has launched the Gemini Decisions API, which joins other leading decision model APIs like Jev and OpenAI's models. The API supports three types of questions: yes/no, choice, and rubric-scoring, offering a versatile tool for decision-making applications.",
+    "danishTitle": "Gemini Decisions API Joins the Decision Model Category",
+    "danishSummary": "Google has launched the Gemini Decisions API, which joins other leading decision model APIs like Jev and OpenAI's models. The API supports three types of questions: yes/no, choice, and rubric-scoring, offering a versatile tool for decision-making applications.",
+    "whyItMatters": "The addition of Gemini Decisions API broadens the market for decision-making tools, potentially offering more choices and competition among providers.",
+    "enrichedAt": "2026-11-12T00:19:55.276Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/": {
+    "title": "Gemini Decisions API Joins the Decision Model Category",
+    "summary": "Google has launched the Gemini Decisions API, which joins other leading decision model APIs like Jev and OpenAI's models. The API supports three types of questions: yes/no, choice, and rubric-scoring, offering a versatile tool for decision-making applications.",
+    "danishTitle": "Gemini Decisions API Joins the Decision Model Category",
+    "danishSummary": "Google has launched the Gemini Decisions API, which joins other leading decision model APIs like Jev and OpenAI's models. The API supports three types of questions: yes/no, choice, and rubric-scoring, offering a versatile tool for decision-making applications.",
+    "whyItMatters": "The addition of Gemini Decisions API broadens the market for decision-making tools, potentially offering more choices and competition among providers.",
+    "enrichedAt": "2026-11-12T00:19:55.276Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Nov/11/aws-emulator/": {
+    "title": "AWS Releases Official Emulator for Local Testing of Services",
+    "summary": "AWS has launched an official emulator, developed in Rust, to facilitate local testing of its various services without the need for paid API keys. This tool, backed by a large development team, allows developers to test and develop applications more efficiently on their local machines.",
+    "danishTitle": "AWS Releases Official Emulator for Local Testing of Services",
+    "danishSummary": "AWS has launched an official emulator, developed in Rust, to facilitate local testing of its various services without the need for paid API keys. This tool, backed by a large development team, allows developers to test and develop applications more efficiently on their local machines.",
+    "whyItMatters": "The availability of an official AWS emulator reduces the friction in local development and testing, potentially lowering costs and speeding up the development cycle for AWS services.",
+    "enrichedAt": "2026-11-12T00:20:06.140Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/nov/11/aws-emulator": {
+    "title": "AWS Releases Official Emulator for Local Testing of Services",
+    "summary": "AWS has launched an official emulator, developed in Rust, to facilitate local testing of its various services without the need for paid API keys. This tool, backed by a large development team, allows developers to test and develop applications more efficiently on their local machines.",
+    "danishTitle": "AWS Releases Official Emulator for Local Testing of Services",
+    "danishSummary": "AWS has launched an official emulator, developed in Rust, to facilitate local testing of its various services without the need for paid API keys. This tool, backed by a large development team, allows developers to test and develop applications more efficiently on their local machines.",
+    "whyItMatters": "The availability of an official AWS emulator reduces the friction in local development and testing, potentially lowering costs and speeding up the development cycle for AWS services.",
+    "enrichedAt": "2026-11-12T00:20:06.140Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Nov/11/aws-emulator/": {
+    "title": "AWS Releases Official Emulator for Local Testing of Services",
+    "summary": "AWS has launched an official emulator, developed in Rust, to facilitate local testing of its various services without the need for paid API keys. This tool, backed by a large development team, allows developers to test and develop applications more efficiently on their local machines.",
+    "danishTitle": "AWS Releases Official Emulator for Local Testing of Services",
+    "danishSummary": "AWS has launched an official emulator, developed in Rust, to facilitate local testing of its various services without the need for paid API keys. This tool, backed by a large development team, allows developers to test and develop applications more efficiently on their local machines.",
+    "whyItMatters": "The availability of an official AWS emulator reduces the friction in local development and testing, potentially lowering costs and speeding up the development cycle for AWS services.",
+    "enrichedAt": "2026-11-12T00:20:06.140Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "openai-channel-yt:video:NS220dAaRMo": {
+    "title": "OpenAI Guides Users on Requesting and Enabling Daybreak Blue",
+    "summary": "OpenAI has released a video tutorial detailing the process of requesting and enabling Daybreak Blue, a new feature or model. The guide covers business verification, workspace permissions, and role-based access controls, ensuring secure and efficient deployment.",
+    "danishTitle": "OpenAI Guides Users on Requesting and Enabling Daybreak Blue",
+    "danishSummary": "OpenAI has released a video tutorial detailing the process of requesting and enabling Daybreak Blue, a new feature or model. The guide covers business verification, workspace permissions, and role-based access controls, ensuring secure and efficient deployment.",
+    "whyItMatters": "Providing clear instructions for accessing new features enhances user trust and adoption, crucial for the smooth integration of advanced AI tools into various organizations.",
+    "enrichedAt": "2026-11-12T00:20:16.552Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:ns220daarmo": {
+    "title": "OpenAI Guides Users on Requesting and Enabling Daybreak Blue",
+    "summary": "OpenAI has released a video tutorial detailing the process of requesting and enabling Daybreak Blue, a new feature or model. The guide covers business verification, workspace permissions, and role-based access controls, ensuring secure and efficient deployment.",
+    "danishTitle": "OpenAI Guides Users on Requesting and Enabling Daybreak Blue",
+    "danishSummary": "OpenAI has released a video tutorial detailing the process of requesting and enabling Daybreak Blue, a new feature or model. The guide covers business verification, workspace permissions, and role-based access controls, ensuring secure and efficient deployment.",
+    "whyItMatters": "Providing clear instructions for accessing new features enhances user trust and adoption, crucial for the smooth integration of advanced AI tools into various organizations.",
+    "enrichedAt": "2026-11-12T00:20:16.552Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=NS220dAaRMo": {
+    "title": "OpenAI Guides Users on Requesting and Enabling Daybreak Blue",
+    "summary": "OpenAI has released a video tutorial detailing the process of requesting and enabling Daybreak Blue, a new feature or model. The guide covers business verification, workspace permissions, and role-based access controls, ensuring secure and efficient deployment.",
+    "danishTitle": "OpenAI Guides Users on Requesting and Enabling Daybreak Blue",
+    "danishSummary": "OpenAI has released a video tutorial detailing the process of requesting and enabling Daybreak Blue, a new feature or model. The guide covers business verification, workspace permissions, and role-based access controls, ensuring secure and efficient deployment.",
+    "whyItMatters": "Providing clear instructions for accessing new features enhances user trust and adoption, crucial for the smooth integration of advanced AI tools into various organizations.",
+    "enrichedAt": "2026-11-12T00:20:16.552Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "openai-channel-yt:video:vdBDMj2UhDg": {
+    "title": "OpenAI Introduces Codex Security for Enhanced GitHub Pull Request Workflow",
+    "summary": "OpenAI has launched Codex Security, a tool designed to integrate security reviews directly into GitHub pull requests. The video tutorial covers setting up the GitHub connection, requesting and reviewing security checks, and automating the review process for repositories.",
+    "danishTitle": "OpenAI Introduces Codex Security for Enhanced GitHub Pull Request Workflow",
+    "danishSummary": "OpenAI has launched Codex Security, a tool designed to integrate security reviews directly into GitHub pull requests. The video tutorial covers setting up the GitHub connection, requesting and reviewing security checks, and automating the review process for repositories.",
+    "whyItMatters": "By streamlining security reviews within the development workflow, Codex Security can significantly improve the security posture of codebases and reduce the risk of vulnerabilities being introduced into production systems.",
+    "enrichedAt": "2026-11-12T00:20:27.740Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:vdbdmj2uhdg": {
+    "title": "OpenAI Introduces Codex Security for Enhanced GitHub Pull Request Workflow",
+    "summary": "OpenAI has launched Codex Security, a tool designed to integrate security reviews directly into GitHub pull requests. The video tutorial covers setting up the GitHub connection, requesting and reviewing security checks, and automating the review process for repositories.",
+    "danishTitle": "OpenAI Introduces Codex Security for Enhanced GitHub Pull Request Workflow",
+    "danishSummary": "OpenAI has launched Codex Security, a tool designed to integrate security reviews directly into GitHub pull requests. The video tutorial covers setting up the GitHub connection, requesting and reviewing security checks, and automating the review process for repositories.",
+    "whyItMatters": "By streamlining security reviews within the development workflow, Codex Security can significantly improve the security posture of codebases and reduce the risk of vulnerabilities being introduced into production systems.",
+    "enrichedAt": "2026-11-12T00:20:27.740Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=vdBDMj2UhDg": {
+    "title": "OpenAI Introduces Codex Security for Enhanced GitHub Pull Request Workflow",
+    "summary": "OpenAI has launched Codex Security, a tool designed to integrate security reviews directly into GitHub pull requests. The video tutorial covers setting up the GitHub connection, requesting and reviewing security checks, and automating the review process for repositories.",
+    "danishTitle": "OpenAI Introduces Codex Security for Enhanced GitHub Pull Request Workflow",
+    "danishSummary": "OpenAI has launched Codex Security, a tool designed to integrate security reviews directly into GitHub pull requests. The video tutorial covers setting up the GitHub connection, requesting and reviewing security checks, and automating the review process for repositories.",
+    "whyItMatters": "By streamlining security reviews within the development workflow, Codex Security can significantly improve the security posture of codebases and reduce the risk of vulnerabilities being introduced into production systems.",
+    "enrichedAt": "2026-11-12T00:20:27.740Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "openai-channel-yt:video:CrrpfvbNyMw": {
+    "title": "OpenAI Unveils ChatGPT Images: Three Methods for Creating and Editing Visual Content",
+    "summary": "OpenAI has launched ChatGPT Images, a feature that enables users to generate and edit images directly within the ChatGPT interface. The video tutorial demonstrates three approaches to leveraging this new functionality, allowing for the creation of original images based on plain-language prompts.",
+    "danishTitle": "OpenAI Unveils ChatGPT Images: Three Methods for Creating and Editing Visual Content",
+    "danishSummary": "OpenAI has launched ChatGPT Images, a feature that enables users to generate and edit images directly within the ChatGPT interface. The video tutorial demonstrates three approaches to leveraging this new functionality, allowing for the creation of original images based on plain-language prompts.",
+    "whyItMatters": "The integration of image creation and editing capabilities within ChatGPT enhances its utility for content creators and marketers, potentially revolutionizing how text-based AI models generate visual content.",
+    "enrichedAt": "2026-11-12T00:20:39.721Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:crrpfvbnymw": {
+    "title": "OpenAI Unveils ChatGPT Images: Three Methods for Creating and Editing Visual Content",
+    "summary": "OpenAI has launched ChatGPT Images, a feature that enables users to generate and edit images directly within the ChatGPT interface. The video tutorial demonstrates three approaches to leveraging this new functionality, allowing for the creation of original images based on plain-language prompts.",
+    "danishTitle": "OpenAI Unveils ChatGPT Images: Three Methods for Creating and Editing Visual Content",
+    "danishSummary": "OpenAI has launched ChatGPT Images, a feature that enables users to generate and edit images directly within the ChatGPT interface. The video tutorial demonstrates three approaches to leveraging this new functionality, allowing for the creation of original images based on plain-language prompts.",
+    "whyItMatters": "The integration of image creation and editing capabilities within ChatGPT enhances its utility for content creators and marketers, potentially revolutionizing how text-based AI models generate visual content.",
+    "enrichedAt": "2026-11-12T00:20:39.721Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=CrrpfvbNyMw": {
+    "title": "OpenAI Unveils ChatGPT Images: Three Methods for Creating and Editing Visual Content",
+    "summary": "OpenAI has launched ChatGPT Images, a feature that enables users to generate and edit images directly within the ChatGPT interface. The video tutorial demonstrates three approaches to leveraging this new functionality, allowing for the creation of original images based on plain-language prompts.",
+    "danishTitle": "OpenAI Unveils ChatGPT Images: Three Methods for Creating and Editing Visual Content",
+    "danishSummary": "OpenAI has launched ChatGPT Images, a feature that enables users to generate and edit images directly within the ChatGPT interface. The video tutorial demonstrates three approaches to leveraging this new functionality, allowing for the creation of original images based on plain-language prompts.",
+    "whyItMatters": "The integration of image creation and editing capabilities within ChatGPT enhances its utility for content creators and marketers, potentially revolutionizing how text-based AI models generate visual content.",
+    "enrichedAt": "2026-11-12T00:20:39.721Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "openai-channel-yt:video:hUhr0JiVZZs": {
+    "title": "OpenAI Unveils Codex Security Guide for Initial Scans",
+    "summary": "OpenAI has released a tutorial video on how to conduct the first Codex Security scan, covering installation, repository selection, context addition, finding review, and patch generation. The guide also demonstrates using the command-line interface (CLI) for further integration.",
+    "danishTitle": "OpenAI Unveils Codex Security Guide for Initial Scans",
+    "danishSummary": "OpenAI has released a tutorial video on how to conduct the first Codex Security scan, covering installation, repository selection, context addition, finding review, and patch generation. The guide also demonstrates using the command-line interface (CLI) for further integration.",
+    "whyItMatters": "This tutorial simplifies the initial setup and usage of Codex Security, making it more accessible for developers and security teams to integrate advanced security tools into their workflows.",
+    "enrichedAt": "2026-11-12T00:20:51.012Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:huhr0jivzzs": {
+    "title": "OpenAI Unveils Codex Security Guide for Initial Scans",
+    "summary": "OpenAI has released a tutorial video on how to conduct the first Codex Security scan, covering installation, repository selection, context addition, finding review, and patch generation. The guide also demonstrates using the command-line interface (CLI) for further integration.",
+    "danishTitle": "OpenAI Unveils Codex Security Guide for Initial Scans",
+    "danishSummary": "OpenAI has released a tutorial video on how to conduct the first Codex Security scan, covering installation, repository selection, context addition, finding review, and patch generation. The guide also demonstrates using the command-line interface (CLI) for further integration.",
+    "whyItMatters": "This tutorial simplifies the initial setup and usage of Codex Security, making it more accessible for developers and security teams to integrate advanced security tools into their workflows.",
+    "enrichedAt": "2026-11-12T00:20:51.012Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=hUhr0JiVZZs": {
+    "title": "OpenAI Unveils Codex Security Guide for Initial Scans",
+    "summary": "OpenAI has released a tutorial video on how to conduct the first Codex Security scan, covering installation, repository selection, context addition, finding review, and patch generation. The guide also demonstrates using the command-line interface (CLI) for further integration.",
+    "danishTitle": "OpenAI Unveils Codex Security Guide for Initial Scans",
+    "danishSummary": "OpenAI has released a tutorial video on how to conduct the first Codex Security scan, covering installation, repository selection, context addition, finding review, and patch generation. The guide also demonstrates using the command-line interface (CLI) for further integration.",
+    "whyItMatters": "This tutorial simplifies the initial setup and usage of Codex Security, making it more accessible for developers and security teams to integrate advanced security tools into their workflows.",
+    "enrichedAt": "2026-11-12T00:20:51.012Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "ml-street-talk-yt:video:ssD05l4UxmY": {
+    "title": "Simon Prince Debates the Unlikely Success of AlexNet Despite Its Flaws",
+    "summary": "In a recent video, Simon Prince argues that AlexNet, a pioneering deep learning model, should not have functioned as well as it did due to its vast parameter count and high-dimensional input space, which were unprecedented for its era. Despite these technical challenges, AlexNet's success laid the groundwork for modern computer vision.",
+    "danishTitle": "Simon Prince Debates the Unlikely Success of AlexNet Despite Its Flaws",
+    "danishSummary": "In a recent video, Simon Prince argues that AlexNet, a pioneering deep learning model, should not have functioned as well as it did due to its vast parameter count and high-dimensional input space, which were unprecedented for its era. Despite these technical challenges, AlexNet's success laid the groundwork for modern computer vision.",
+    "whyItMatters": "Prince's critique highlights the resilience and adaptability of early deep learning models, underscoring the importance of historical context in understanding the evolution of AI technology.",
+    "enrichedAt": "2026-11-12T00:21:03.867Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:ssd05l4uxmy": {
+    "title": "Simon Prince Debates the Unlikely Success of AlexNet Despite Its Flaws",
+    "summary": "In a recent video, Simon Prince argues that AlexNet, a pioneering deep learning model, should not have functioned as well as it did due to its vast parameter count and high-dimensional input space, which were unprecedented for its era. Despite these technical challenges, AlexNet's success laid the groundwork for modern computer vision.",
+    "danishTitle": "Simon Prince Debates the Unlikely Success of AlexNet Despite Its Flaws",
+    "danishSummary": "In a recent video, Simon Prince argues that AlexNet, a pioneering deep learning model, should not have functioned as well as it did due to its vast parameter count and high-dimensional input space, which were unprecedented for its era. Despite these technical challenges, AlexNet's success laid the groundwork for modern computer vision.",
+    "whyItMatters": "Prince's critique highlights the resilience and adaptability of early deep learning models, underscoring the importance of historical context in understanding the evolution of AI technology.",
+    "enrichedAt": "2026-11-12T00:21:03.867Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/shorts/ssD05l4UxmY": {
+    "title": "Simon Prince Debates the Unlikely Success of AlexNet Despite Its Flaws",
+    "summary": "In a recent video, Simon Prince argues that AlexNet, a pioneering deep learning model, should not have functioned as well as it did due to its vast parameter count and high-dimensional input space, which were unprecedented for its era. Despite these technical challenges, AlexNet's success laid the groundwork for modern computer vision.",
+    "danishTitle": "Simon Prince Debates the Unlikely Success of AlexNet Despite Its Flaws",
+    "danishSummary": "In a recent video, Simon Prince argues that AlexNet, a pioneering deep learning model, should not have functioned as well as it did due to its vast parameter count and high-dimensional input space, which were unprecedented for its era. Despite these technical challenges, AlexNet's success laid the groundwork for modern computer vision.",
+    "whyItMatters": "Prince's critique highlights the resilience and adaptability of early deep learning models, underscoring the importance of historical context in understanding the evolution of AI technology.",
+    "enrichedAt": "2026-11-12T00:21:03.867Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "tech-policy-press-https://techpolicy.press/friends-of-the-court-flock-to-the-openai-copyright-fight": {
+    "title": "Tech Industry Heavyweights Join OpenAI in Copyright Dispute",
+    "summary": "A coalition of tech giants has filed as friends of the court in a copyright lawsuit involving OpenAI, supporting the company’s stance on AI-generated content. This move highlights the industry’s alignment on intellectual property rights in the AI era.",
+    "danishTitle": "Tech Industry Heavyweights Join OpenAI in Copyright Dispute",
+    "danishSummary": "A coalition of tech giants has filed as friends of the court in a copyright lawsuit involving OpenAI, supporting the company’s stance on AI-generated content. This move highlights the industry’s alignment on intellectual property rights in the AI era.",
+    "whyItMatters": "The support from major tech players underscores the broader industry’s commitment to protecting AI innovations, potentially setting a precedent for future legal battles in the tech sector.",
+    "enrichedAt": "2026-11-12T00:21:14.191Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techpolicy.press/friends-of-the-court-flock-to-the-openai-copyright-fight": {
+    "title": "Tech Industry Heavyweights Join OpenAI in Copyright Dispute",
+    "summary": "A coalition of tech giants has filed as friends of the court in a copyright lawsuit involving OpenAI, supporting the company’s stance on AI-generated content. This move highlights the industry’s alignment on intellectual property rights in the AI era.",
+    "danishTitle": "Tech Industry Heavyweights Join OpenAI in Copyright Dispute",
+    "danishSummary": "A coalition of tech giants has filed as friends of the court in a copyright lawsuit involving OpenAI, supporting the company’s stance on AI-generated content. This move highlights the industry’s alignment on intellectual property rights in the AI era.",
+    "whyItMatters": "The support from major tech players underscores the broader industry’s commitment to protecting AI innovations, potentially setting a precedent for future legal battles in the tech sector.",
+    "enrichedAt": "2026-11-12T00:21:14.191Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }

@@ -1,48 +1,48 @@
 {
-  "headline": "OpenAI's Revenue Surge Signals AI Market Maturity and Competition",
-  "summary": "OpenAI's $10 billion quarterly revenue marks a significant milestone, indicating the maturation of the AI market and intensifying competition. This growth highlights the commercial viability and increasing adoption of AI technologies across industries.",
-  "whyItMatters": "It underscores the financial success and market acceptance of AI, driving investment and innovation in the sector, while also putting pressure on competitors to scale and monetize their offerings.",
-  "synthesizedAt": "2026-11-11T21:15:41.846Z",
+  "headline": "OpenAI Codex Integration with Amazon Bedrock Sparks Enterprise AI Expansion",
+  "summary": "OpenAI's Codex model is now available via Amazon Bedrock, providing enterprises with a managed service for deploying advanced AI capabilities. This integration is driving widespread adoption and innovation across industries.",
+  "whyItMatters": "It enhances accessibility to cutting-edge AI technologies, enabling more companies to leverage advanced AI for their operations and services.",
+  "synthesizedAt": "2026-11-12T00:21:48.145Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3187315",
-    "title": "OpenAI's Quarterly Revenue Surges to $10B, Marking a 50% Increase",
-    "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-11-11T16:14:44.000Z",
-    "badgeColor": "emerald",
-    "angle": "Financial Milestone"
+    "id": "aws-ml-faefdbed0491df7ffbfea5b7e93f3979e26376c0",
+    "title": "OpenAI Codex Now Available via Amazon Bedrock for Enterprise Deployment",
+    "link": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
+    "sourceName": "AWS Machine Learning",
+    "sourceId": "aws-ml",
+    "pubDate": "2026-11-11T23:35:47.000Z",
+    "badgeColor": "amber",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "the-zvi-https://thezvi.substack.com/p/fable-and-mythos-52-the-system-card",
-      "title": "Fable and Mythos 5.2: Claude Mythos 5.2 Unveiled as the World's Most Powerful AI Model",
-      "link": "https://thezvi.substack.com/p/fable-and-mythos-52-the-system-card",
-      "sourceName": "Don't Worry About the Vase (Zvi)",
-      "sourceId": "the-zvi",
-      "pubDate": "2026-11-11T16:25:17.000Z",
-      "badgeColor": "emerald",
-      "angle": "Model Competition"
-    },
-    {
-      "id": "aws-ml-7134bb29ee133c2d22189c4c963a132a593c00aa",
-      "title": "AWS Launches UAEF: A Framework-Agnostic Evaluation Framework for AI Agents",
-      "link": "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/",
+      "id": "aws-ml-811b8dfa171613df698db45e0ea693304815500b",
+      "title": "Amazon Bedrock AgentCore Launches Web Search API for Seamless Web Inquiry",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
       "sourceName": "AWS Machine Learning",
       "sourceId": "aws-ml",
-      "pubDate": "2026-11-11T15:50:55.000Z",
+      "pubDate": "2026-11-11T23:13:16.000Z",
       "badgeColor": "amber",
-      "angle": "Evaluation Framework"
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "aws-ml-09f20b599e1ea4e477b4979d15326bbd992cf96d",
-      "title": "AWS Launches Usage-Based Pricing for Amazon SageMaker Bidirectional Streaming Inference",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/",
+      "id": "aws-ml-3f4d5141e9f40cbc6421464d50f65cb07b20edb9",
+      "title": "AWS Machine Learning Highlights October 2026 Updates for AI Builders",
+      "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026/",
       "sourceName": "AWS Machine Learning",
       "sourceId": "aws-ml",
-      "pubDate": "2026-11-11T15:10:23.000Z",
-      "badgeColor": "amber"
+      "pubDate": "2026-11-11T22:26:40.000Z",
+      "badgeColor": "amber",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "simon-willison-https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+      "title": "Gemini Decisions API Joins the Decision Model Category",
+      "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-11-11T22:03:25.000Z",
+      "badgeColor": "green"
     }
   ]
 }
