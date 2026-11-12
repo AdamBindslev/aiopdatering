@@ -1,48 +1,39 @@
 {
-  "headline": "Amazon Bedrock and Spring AI Enable Java Developers to Build Autonomous AI Agents",
-  "summary": "Amazon Bedrock and Spring AI are empowering Java developers to create production-ready autonomous AI agents, expanding the accessibility and utility of advanced AI technologies. This initiative is generating significant industry interest and adoption.",
-  "whyItMatters": "It democratizes AI development for Java developers, potentially accelerating the deployment of AI agents across various industries and reducing barriers to entry for AI innovation.",
-  "synthesizedAt": "2026-11-12T03:26:15.189Z",
+  "headline": "Google Gemini Decision 1 Dominates Decision Model Market Amid Industry Innovations",
+  "summary": "Google has launched Gemini Decision 1, a new API that processes up to 1,000 questions simultaneously, challenging other decision model providers. This move is part of a broader trend of companies entering the decision model market, driven by increasing automation needs.",
+  "whyItMatters": "It highlights Google's growing influence in the decision model space and underscores the industry's focus on enhancing automation capabilities.",
+  "synthesizedAt": "2026-11-12T06:32:40.289Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "aws-ml-52b0b0c3b44c826025ca35a812f53a3760ac1789",
-    "title": "Amazon Bedrock and Spring AI Enable Java Developers to Build Autonomous AI Agents",
-    "link": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
-    "sourceName": "AWS Machine Learning",
-    "sourceId": "aws-ml",
-    "pubDate": "2026-11-12T01:18:23.000Z",
-    "badgeColor": "amber",
-    "angle": "Official Launch"
+    "id": "the-decoder-https://the-decoder.com/?p=42746",
+    "title": "Google Introduces Gemini Decision 1, Boosting Decision-Making Efficiency with Multi-Modal Question Evaluation",
+    "link": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-11T20:12:46.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "aws-ml-811b8dfa171613df698db45e0ea693304815500b",
-      "title": "Amazon Bedrock AgentCore Launches Web Search API for Seamless Web Inquiry",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-11-11T23:13:16.000Z",
-      "badgeColor": "amber",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "aws-ml-3f4d5141e9f40cbc6421464d50f65cb07b20edb9",
-      "title": "AWS Machine Learning Highlights October 2026 Updates for AI Builders",
-      "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-11-11T22:26:40.000Z",
-      "badgeColor": "amber",
+      "id": "latent-space-urn:latent-space:post:post_abc084f4-e464-450c-ad72-066cf5d3dfef",
+      "title": "Google Enters Decision Model Market Amid Industry Innovations",
+      "link": "https://latent.space/p/ainews-d-day-decision-models-day/",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-11-12T05:26:54.000Z",
+      "badgeColor": "pink",
       "angle": "Industry Analysis"
     },
     {
-      "id": "aws-ml-0e166aea5fc5e99de63f67eb0887a9fb579fb51f",
-      "title": "DXC Technology Deploys Governed Multi-Model AI Substrate on Amazon Bedrock for Enhanced Enterprise AI Operations",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-11-11T20:45:45.000Z",
-      "badgeColor": "amber"
+      "id": "simon-willison-https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+      "title": "Gemini Decisions API Joins the Decision Model Category",
+      "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-11-11T22:03:25.000Z",
+      "badgeColor": "green",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
