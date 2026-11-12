@@ -1,48 +1,58 @@
 {
-  "headline": "AWS Bedrock Dominates AI Landscape with Cost Optimization and Interoperability",
-  "summary": "AWS has unveiled significant updates to Amazon Bedrock, emphasizing cost transparency and the launch of the A2A protocol for multi-agent systems. These moves are reshaping the AI industry by providing more control and flexibility to developers.",
-  "whyItMatters": "By offering more transparency and interoperability, AWS is empowering developers to build more efficient and scalable AI solutions, potentially reducing dependency on proprietary platforms.",
-  "synthesizedAt": "2026-11-12T19:02:43.905Z",
+  "headline": "AI Agents and Models Emerge as Key Drivers in Industry Innovation",
+  "summary": "A surge in the development and deployment of AI agents and models is reshaping the industry, with companies like Anthropic, Google, and OpenAI launching new tools and features. This trend is driving innovation and raising concerns about cost, security, and open-source commitments.",
+  "whyItMatters": "It highlights the growing importance of AI agents and models in various applications, influencing development strategies and raising critical questions about industry standards and practices.",
+  "synthesizedAt": "2026-11-12T22:09:13.708Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "aws-ml-8db53e7d13c7fb7eb110840d4bdf22942b447b95",
-    "title": "Amazon Bedrock Reveals True Cost per Task and Optimizes Agent ROI",
-    "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/",
-    "sourceName": "AWS Machine Learning",
-    "sourceId": "aws-ml",
-    "pubDate": "2026-11-12T18:43:19.000Z",
-    "badgeColor": "amber",
-    "angle": "Official Release"
+    "id": "the-decoder-https://the-decoder.com/?p=42793",
+    "title": "Anthropic Introduces Claude Meetings: AI Integration in Video Calls",
+    "link": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-12T20:26:50.000Z",
+    "badgeColor": "slate",
+    "angle": "Product Integration"
   },
   "supportingStories": [
     {
-      "id": "aws-ml-5460e26111aeb2444e58fb192084957f53ebb300",
-      "title": "Amazon Launches Next-Generation AgentCore Runtime for Secure and Scalable AI Agent Execution",
-      "link": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-11-12T17:59:59.000Z",
-      "badgeColor": "amber",
-      "angle": "Technical Deep Dive"
+      "id": "openai-https://openai.com/index/amplitude",
+      "title": "Amplitude Accelerates Product Development with OpenAI’s Proactive Agent Wave",
+      "link": "https://openai.com/index/amplitude",
+      "sourceName": "OpenAI News",
+      "sourceId": "openai",
+      "pubDate": "2026-11-12T20:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Corporate Adoption"
     },
     {
-      "id": "aws-ml-9681452550bf3bb15b0e292427676f986d6d624a",
-      "title": "AWS Launches A2A Protocol for Interoperable Multi-Agent Systems",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-11-12T15:42:21.000Z",
-      "badgeColor": "amber",
-      "angle": "Industry Analysis"
+      "id": "deepmind-https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "title": "Google DeepMind Unveils Gemini 4 Hydrogen: Next-Generation AI Model",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "sourceName": "Google DeepMind",
+      "sourceId": "deepmind",
+      "pubDate": "2026-11-12T18:00:50.000Z",
+      "badgeColor": "cyan",
+      "angle": "Model Innovation"
     },
     {
-      "id": "aws-ml-2144423e5e4caeacf910447d8e0923290056c400",
-      "title": "Amazon Bedrock Introduces Fine-Grained Access Control for Managed Knowledge Base Tools",
-      "link": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-11-12T15:40:24.000Z",
-      "badgeColor": "amber"
+      "id": "the-decoder-https://the-decoder.com/?p=42781",
+      "title": "Google's Gemini 4 Hydrogen Surpasses Argon and Competes with Claude 5.5 on Performance Benchmarks",
+      "link": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-12T19:58:43.000Z",
+      "badgeColor": "slate"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3188037",
+      "title": "Nvidia's Future Open-Source Commitment Questioned After Jensen Huang's Exit",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-12T18:39:23.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Concerns"
     }
   ]
 }
