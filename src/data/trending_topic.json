@@ -1,18 +1,18 @@
 {
-  "headline": "OpenAI Codex Integration with Amazon Bedrock Sparks Enterprise AI Expansion",
-  "summary": "OpenAI's Codex model is now available via Amazon Bedrock, providing enterprises with a managed service for deploying advanced AI capabilities. This integration is driving widespread adoption and innovation across industries.",
-  "whyItMatters": "It enhances accessibility to cutting-edge AI technologies, enabling more companies to leverage advanced AI for their operations and services.",
-  "synthesizedAt": "2026-11-12T00:21:48.145Z",
+  "headline": "Amazon Bedrock and Spring AI Enable Java Developers to Build Autonomous AI Agents",
+  "summary": "Amazon Bedrock and Spring AI are empowering Java developers to create production-ready autonomous AI agents, expanding the accessibility and utility of advanced AI technologies. This initiative is generating significant industry interest and adoption.",
+  "whyItMatters": "It democratizes AI development for Java developers, potentially accelerating the deployment of AI agents across various industries and reducing barriers to entry for AI innovation.",
+  "synthesizedAt": "2026-11-12T03:26:15.189Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "aws-ml-faefdbed0491df7ffbfea5b7e93f3979e26376c0",
-    "title": "OpenAI Codex Now Available via Amazon Bedrock for Enterprise Deployment",
-    "link": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
+    "id": "aws-ml-52b0b0c3b44c826025ca35a812f53a3760ac1789",
+    "title": "Amazon Bedrock and Spring AI Enable Java Developers to Build Autonomous AI Agents",
+    "link": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
     "sourceName": "AWS Machine Learning",
     "sourceId": "aws-ml",
-    "pubDate": "2026-11-11T23:35:47.000Z",
+    "pubDate": "2026-11-12T01:18:23.000Z",
     "badgeColor": "amber",
-    "angle": "Official Release"
+    "angle": "Official Launch"
   },
   "supportingStories": [
     {
@@ -36,13 +36,13 @@
       "angle": "Industry Analysis"
     },
     {
-      "id": "simon-willison-https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-      "title": "Gemini Decisions API Joins the Decision Model Category",
-      "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-11-11T22:03:25.000Z",
-      "badgeColor": "green"
+      "id": "aws-ml-0e166aea5fc5e99de63f67eb0887a9fb579fb51f",
+      "title": "DXC Technology Deploys Governed Multi-Model AI Substrate on Amazon Bedrock for Enhanced Enterprise AI Operations",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-11-11T20:45:45.000Z",
+      "badgeColor": "amber"
     }
   ]
 }
