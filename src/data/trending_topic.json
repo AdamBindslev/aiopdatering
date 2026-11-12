@@ -1,48 +1,48 @@
 {
-  "headline": "Google Gemini Decisions API Joins Decision Model Market Amid Industry Innovations",
-  "summary": "Google has launched the Gemini Decisions API, entering the decision model market alongside competitors like Jev and OpenAI. This move is part of a broader trend of companies enhancing their AI offerings to support decision-making processes.",
-  "whyItMatters": "It underscores the growing importance of decision models in AI applications and the competitive landscape in this emerging segment.",
-  "synthesizedAt": "2026-11-12T09:40:09.136Z",
+  "headline": "OpenAI Codex Integration with Amazon Bedrock Paves Way for Enterprise AI Deployment",
+  "summary": "OpenAI's Codex model is now available via Amazon Bedrock, providing enterprises with a managed service for deploying advanced AI capabilities. This integration is accelerating the adoption of AI in enterprise environments, offering seamless deployment and management.",
+  "whyItMatters": "It simplifies the process of integrating advanced AI models into enterprise systems, making cutting-edge AI more accessible to businesses of all sizes.",
+  "synthesizedAt": "2026-11-12T12:47:24.028Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "simon-willison-https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-    "title": "Gemini Decisions API Joins the Decision Model Category",
-    "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-    "sourceName": "Simon Willison",
-    "sourceId": "simon-willison",
-    "pubDate": "2026-11-11T22:03:25.000Z",
-    "badgeColor": "green",
-    "angle": "Official Launch"
+    "id": "aws-ml-faefdbed0491df7ffbfea5b7e93f3979e26376c0",
+    "title": "OpenAI Codex Now Available via Amazon Bedrock for Enterprise Deployment",
+    "link": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
+    "sourceName": "AWS Machine Learning",
+    "sourceId": "aws-ml",
+    "pubDate": "2026-11-11T23:35:47.000Z",
+    "badgeColor": "amber",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "latent-space-urn:latent-space:post:post_abc084f4-e464-450c-ad72-066cf5d3dfef",
-      "title": "Google Enters Decision Model Market Amid Industry Innovations",
-      "link": "https://latent.space/p/ainews-d-day-decision-models-day/",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-11-12T05:26:54.000Z",
-      "badgeColor": "pink"
+      "id": "openai-channel-yt:video:vu3YlUMkvyg",
+      "title": "OpenAI's Codex Powers Rapid Development at Holiday Extras",
+      "link": "https://www.youtube.com/watch?v=vu3YlUMkvyg",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-11-12T09:45:17.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "aws-ml-52b0b0c3b44c826025ca35a812f53a3760ac1789",
-      "title": "Amazon Bedrock and Spring AI Enable Java Developers to Build Autonomous AI Agents",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-11-12T01:18:23.000Z",
-      "badgeColor": "amber",
+      "id": "openai-https://openai.com/business/customer-stories/holidays-extras-codex",
+      "title": "Holiday Extras Leverages Codex for Enhanced Customer-Centric App Development",
+      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "sourceName": "OpenAI News",
+      "sourceId": "openai",
+      "pubDate": "2026-11-12T09:30:00.000Z",
+      "badgeColor": "emerald",
       "angle": "Industry Analysis"
     },
     {
-      "id": "openai-https://openai.com/index/gilbert-tobin-sam-nickless",
-      "title": "Gilbert + Tobin Embraces AI to Transform Legal Practice",
-      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "sourceName": "OpenAI News",
-      "sourceId": "openai",
-      "pubDate": "2026-11-12T00:00:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Enterprise Integration"
+      "id": "aws-ml-811b8dfa171613df698db45e0ea693304815500b",
+      "title": "Amazon Bedrock AgentCore Launches Web Search API for Seamless Web Inquiry",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-11-11T23:13:16.000Z",
+      "badgeColor": "amber"
     }
   ]
 }
