@@ -1,48 +1,48 @@
 {
-  "headline": "OpenAI Codex Integration with Amazon Bedrock Paves Way for Enterprise AI Deployment",
-  "summary": "OpenAI's Codex model is now available via Amazon Bedrock, providing enterprises with a managed service for deploying advanced AI capabilities. This integration is accelerating the adoption of AI in enterprise environments, offering seamless deployment and management.",
-  "whyItMatters": "It simplifies the process of integrating advanced AI models into enterprise systems, making cutting-edge AI more accessible to businesses of all sizes.",
-  "synthesizedAt": "2026-11-12T12:47:24.028Z",
+  "headline": "AWS A2A Protocol Paves Way for Interoperable Multi-Agent Systems",
+  "summary": "AWS has launched the Agent-to-Agent (A2A) protocol to enable the creation of interoperable multi-agent systems, addressing the need for composable AI agents in various industries. This move is gaining significant attention as it could reshape how AI agents are deployed and integrated.",
+  "whyItMatters": "It opens up new possibilities for AI interoperability, potentially reducing fragmentation and increasing the efficiency of AI deployments across different sectors.",
+  "synthesizedAt": "2026-11-12T15:55:33.610Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "aws-ml-faefdbed0491df7ffbfea5b7e93f3979e26376c0",
-    "title": "OpenAI Codex Now Available via Amazon Bedrock for Enterprise Deployment",
-    "link": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
+    "id": "aws-ml-9681452550bf3bb15b0e292427676f986d6d624a",
+    "title": "AWS Launches A2A Protocol for Interoperable Multi-Agent Systems",
+    "link": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/",
     "sourceName": "AWS Machine Learning",
     "sourceId": "aws-ml",
-    "pubDate": "2026-11-11T23:35:47.000Z",
+    "pubDate": "2026-11-12T15:42:21.000Z",
     "badgeColor": "amber",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "openai-channel-yt:video:vu3YlUMkvyg",
-      "title": "OpenAI's Codex Powers Rapid Development at Holiday Extras",
-      "link": "https://www.youtube.com/watch?v=vu3YlUMkvyg",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-12T09:45:17.000Z",
-      "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "openai-https://openai.com/business/customer-stories/holidays-extras-codex",
-      "title": "Holiday Extras Leverages Codex for Enhanced Customer-Centric App Development",
-      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "sourceName": "OpenAI News",
-      "sourceId": "openai",
-      "pubDate": "2026-11-12T09:30:00.000Z",
-      "badgeColor": "emerald",
+      "id": "aws-ml-9c61b6431ee0e0a8743834695f2eba45b64d7ee3",
+      "title": "AWS Introduces Agent DLC to Streamline CI/CD for AI Agents",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-11-12T15:38:47.000Z",
+      "badgeColor": "amber",
       "angle": "Industry Analysis"
     },
     {
-      "id": "aws-ml-811b8dfa171613df698db45e0ea693304815500b",
-      "title": "Amazon Bedrock AgentCore Launches Web Search API for Seamless Web Inquiry",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-11-11T23:13:16.000Z",
-      "badgeColor": "amber"
+      "id": "version2-https://ing.dk/artikel/kommune-faar-haard-kritik-ai-overvaagning-af-aeldre-de-har-skudt-langt-ved-siden-af",
+      "title": "Copenhagen Municipality Faces Criticism for AI Surveillance of Seniors: 'They Have Gone Too Far'",
+      "link": "https://ing.dk/artikel/kommune-faar-haard-kritik-ai-overvaagning-af-aeldre-de-har-skudt-langt-ved-siden-af",
+      "sourceName": "Version2 (Ingeniøren)",
+      "sourceId": "version2",
+      "pubDate": "2026-11-12T14:57:00.000Z",
+      "badgeColor": "red",
+      "angle": "Regulatory and Ethical Concerns"
+    },
+    {
+      "id": "tech-policy-press-https://techpolicy.press/what-the-ai-torture-chamber-debate-got-wrong-about-the-research",
+      "title": "Tech Policy Press Debunks Misconceptions in AI Torture Chamber Debate",
+      "link": "https://techpolicy.press/what-the-ai-torture-chamber-debate-got-wrong-about-the-research",
+      "sourceName": "Tech Policy Press",
+      "sourceId": "tech-policy-press",
+      "pubDate": "2026-11-12T14:29:25.000Z",
+      "badgeColor": "slate"
     }
   ]
 }

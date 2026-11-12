@@ -118474,5 +118474,374 @@
     "whyItMatters": "This investment underscores OpenAI's commitment to ethical AI development, particularly in areas where children are involved, potentially setting a precedent for industry standards in safeguarding minors online.",
     "enrichedAt": "2026-11-12T12:46:49.189Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-9681452550bf3bb15b0e292427676f986d6d624a": {
+    "title": "AWS Launches A2A Protocol for Interoperable Multi-Agent Systems",
+    "summary": "AWS has introduced the Agent-to-Agent (A2A) protocol to facilitate the creation of composable and interoperable multi-agent systems. This protocol enables communication between different agents hosted on Amazon ECS and Amazon Bedrock AgentCore, allowing for seamless collaboration across organizational boundaries.",
+    "danishTitle": "AWS Launches A2A Protocol for Interoperable Multi-Agent Systems",
+    "danishSummary": "AWS has introduced the Agent-to-Agent (A2A) protocol to facilitate the creation of composable and interoperable multi-agent systems. This protocol enables communication between different agents hosted on Amazon ECS and Amazon Bedrock AgentCore, allowing for seamless collaboration across organizational boundaries.",
+    "whyItMatters": "The A2A protocol enhances the scalability and flexibility of multi-agent systems, making it easier for enterprises to integrate and manage diverse AI agents, thereby improving operational efficiency and innovation in complex workflows.",
+    "enrichedAt": "2026-11-12T15:52:10.073Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws": {
+    "title": "AWS Launches A2A Protocol for Interoperable Multi-Agent Systems",
+    "summary": "AWS has introduced the Agent-to-Agent (A2A) protocol to facilitate the creation of composable and interoperable multi-agent systems. This protocol enables communication between different agents hosted on Amazon ECS and Amazon Bedrock AgentCore, allowing for seamless collaboration across organizational boundaries.",
+    "danishTitle": "AWS Launches A2A Protocol for Interoperable Multi-Agent Systems",
+    "danishSummary": "AWS has introduced the Agent-to-Agent (A2A) protocol to facilitate the creation of composable and interoperable multi-agent systems. This protocol enables communication between different agents hosted on Amazon ECS and Amazon Bedrock AgentCore, allowing for seamless collaboration across organizational boundaries.",
+    "whyItMatters": "The A2A protocol enhances the scalability and flexibility of multi-agent systems, making it easier for enterprises to integrate and manage diverse AI agents, thereby improving operational efficiency and innovation in complex workflows.",
+    "enrichedAt": "2026-11-12T15:52:10.073Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/": {
+    "title": "AWS Launches A2A Protocol for Interoperable Multi-Agent Systems",
+    "summary": "AWS has introduced the Agent-to-Agent (A2A) protocol to facilitate the creation of composable and interoperable multi-agent systems. This protocol enables communication between different agents hosted on Amazon ECS and Amazon Bedrock AgentCore, allowing for seamless collaboration across organizational boundaries.",
+    "danishTitle": "AWS Launches A2A Protocol for Interoperable Multi-Agent Systems",
+    "danishSummary": "AWS has introduced the Agent-to-Agent (A2A) protocol to facilitate the creation of composable and interoperable multi-agent systems. This protocol enables communication between different agents hosted on Amazon ECS and Amazon Bedrock AgentCore, allowing for seamless collaboration across organizational boundaries.",
+    "whyItMatters": "The A2A protocol enhances the scalability and flexibility of multi-agent systems, making it easier for enterprises to integrate and manage diverse AI agents, thereby improving operational efficiency and innovation in complex workflows.",
+    "enrichedAt": "2026-11-12T15:52:10.073Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-2144423e5e4caeacf910447d8e0923290056c400": {
+    "title": "Amazon Bedrock Introduces Fine-Grained Access Control for Managed Knowledge Base Tools",
+    "summary": "Amazon Bedrock has introduced a feature allowing fine-grained access control for its Managed Knowledge Base tools via the AgentCore Gateway, enabling per-user access management and secure exposure of knowledge bases to AI agents. This feature uses a request interceptor to inject verified identity and policies into the AgentCore.",
+    "danishTitle": "Amazon Bedrock Introduces Fine-Grained Access Control for Managed Knowledge Base Tools",
+    "danishSummary": "Amazon Bedrock has introduced a feature allowing fine-grained access control for its Managed Knowledge Base tools via the AgentCore Gateway, enabling per-user access management and secure exposure of knowledge bases to AI agents. This feature uses a request interceptor to inject verified identity and policies into the AgentCore.",
+    "whyItMatters": "Enhanced security and granular control over knowledge base access are crucial for enterprises, ensuring data privacy and compliance while facilitating secure AI-driven workflows.",
+    "enrichedAt": "2026-11-12T15:52:22.260Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools": {
+    "title": "Amazon Bedrock Introduces Fine-Grained Access Control for Managed Knowledge Base Tools",
+    "summary": "Amazon Bedrock has introduced a feature allowing fine-grained access control for its Managed Knowledge Base tools via the AgentCore Gateway, enabling per-user access management and secure exposure of knowledge bases to AI agents. This feature uses a request interceptor to inject verified identity and policies into the AgentCore.",
+    "danishTitle": "Amazon Bedrock Introduces Fine-Grained Access Control for Managed Knowledge Base Tools",
+    "danishSummary": "Amazon Bedrock has introduced a feature allowing fine-grained access control for its Managed Knowledge Base tools via the AgentCore Gateway, enabling per-user access management and secure exposure of knowledge bases to AI agents. This feature uses a request interceptor to inject verified identity and policies into the AgentCore.",
+    "whyItMatters": "Enhanced security and granular control over knowledge base access are crucial for enterprises, ensuring data privacy and compliance while facilitating secure AI-driven workflows.",
+    "enrichedAt": "2026-11-12T15:52:22.260Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/": {
+    "title": "Amazon Bedrock Introduces Fine-Grained Access Control for Managed Knowledge Base Tools",
+    "summary": "Amazon Bedrock has introduced a feature allowing fine-grained access control for its Managed Knowledge Base tools via the AgentCore Gateway, enabling per-user access management and secure exposure of knowledge bases to AI agents. This feature uses a request interceptor to inject verified identity and policies into the AgentCore.",
+    "danishTitle": "Amazon Bedrock Introduces Fine-Grained Access Control for Managed Knowledge Base Tools",
+    "danishSummary": "Amazon Bedrock has introduced a feature allowing fine-grained access control for its Managed Knowledge Base tools via the AgentCore Gateway, enabling per-user access management and secure exposure of knowledge bases to AI agents. This feature uses a request interceptor to inject verified identity and policies into the AgentCore.",
+    "whyItMatters": "Enhanced security and granular control over knowledge base access are crucial for enterprises, ensuring data privacy and compliance while facilitating secure AI-driven workflows.",
+    "enrichedAt": "2026-11-12T15:52:22.260Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-9c61b6431ee0e0a8743834695f2eba45b64d7ee3": {
+    "title": "AWS Introduces Agent DLC to Streamline CI/CD for AI Agents",
+    "summary": "AWS has released Agent DLC, a tool designed to address the challenges of transitioning AI agents from prototype to production by providing a repeatable way to measure agent performance and the impact of changes. This addresses common issues in the development lifecycle of AI agents.",
+    "danishTitle": "AWS Introduces Agent DLC to Streamline CI/CD for AI Agents",
+    "danishSummary": "AWS has released Agent DLC, a tool designed to address the challenges of transitioning AI agents from prototype to production by providing a repeatable way to measure agent performance and the impact of changes. This addresses common issues in the development lifecycle of AI agents.",
+    "whyItMatters": "Agent DLC simplifies the deployment process for AI agents, making it easier for enterprises to scale and maintain AI-driven applications, thus accelerating the adoption of AI in various industries.",
+    "enrichedAt": "2026-11-12T15:52:33.860Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc": {
+    "title": "AWS Introduces Agent DLC to Streamline CI/CD for AI Agents",
+    "summary": "AWS has released Agent DLC, a tool designed to address the challenges of transitioning AI agents from prototype to production by providing a repeatable way to measure agent performance and the impact of changes. This addresses common issues in the development lifecycle of AI agents.",
+    "danishTitle": "AWS Introduces Agent DLC to Streamline CI/CD for AI Agents",
+    "danishSummary": "AWS has released Agent DLC, a tool designed to address the challenges of transitioning AI agents from prototype to production by providing a repeatable way to measure agent performance and the impact of changes. This addresses common issues in the development lifecycle of AI agents.",
+    "whyItMatters": "Agent DLC simplifies the deployment process for AI agents, making it easier for enterprises to scale and maintain AI-driven applications, thus accelerating the adoption of AI in various industries.",
+    "enrichedAt": "2026-11-12T15:52:33.860Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc/": {
+    "title": "AWS Introduces Agent DLC to Streamline CI/CD for AI Agents",
+    "summary": "AWS has released Agent DLC, a tool designed to address the challenges of transitioning AI agents from prototype to production by providing a repeatable way to measure agent performance and the impact of changes. This addresses common issues in the development lifecycle of AI agents.",
+    "danishTitle": "AWS Introduces Agent DLC to Streamline CI/CD for AI Agents",
+    "danishSummary": "AWS has released Agent DLC, a tool designed to address the challenges of transitioning AI agents from prototype to production by providing a repeatable way to measure agent performance and the impact of changes. This addresses common issues in the development lifecycle of AI agents.",
+    "whyItMatters": "Agent DLC simplifies the deployment process for AI agents, making it easier for enterprises to scale and maintain AI-driven applications, thus accelerating the adoption of AI in various industries.",
+    "enrichedAt": "2026-11-12T15:52:33.860Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3187797": {
+    "title": "Nvidia Appoints Colette Kress as Interim CEO Following Jensen Huang's Departure Amid Scandal",
+    "summary": "Nvidia has named its Chief Financial Officer, Colette Kress, as the interim CEO following the departure of long-serving CEO Jensen Huang, who is facing a scandal. Kress will lead the company during this transitional period.",
+    "danishTitle": "Nvidia Appoints Colette Kress as Interim CEO Following Jensen Huang's Departure Amid Scandal",
+    "danishSummary": "Nvidia has named its Chief Financial Officer, Colette Kress, as the interim CEO following the departure of long-serving CEO Jensen Huang, who is facing a scandal. Kress will lead the company during this transitional period.",
+    "whyItMatters": "The appointment of Kress as interim CEO highlights the ongoing challenges and leadership changes within Nvidia, potentially impacting its strategic direction and market positioning.",
+    "enrichedAt": "2026-11-12T15:52:45.205Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement": {
+    "title": "Nvidia Appoints Colette Kress as Interim CEO Following Jensen Huang's Departure Amid Scandal",
+    "summary": "Nvidia has named its Chief Financial Officer, Colette Kress, as the interim CEO following the departure of long-serving CEO Jensen Huang, who is facing a scandal. Kress will lead the company during this transitional period.",
+    "danishTitle": "Nvidia Appoints Colette Kress as Interim CEO Following Jensen Huang's Departure Amid Scandal",
+    "danishSummary": "Nvidia has named its Chief Financial Officer, Colette Kress, as the interim CEO following the departure of long-serving CEO Jensen Huang, who is facing a scandal. Kress will lead the company during this transitional period.",
+    "whyItMatters": "The appointment of Kress as interim CEO highlights the ongoing challenges and leadership changes within Nvidia, potentially impacting its strategic direction and market positioning.",
+    "enrichedAt": "2026-11-12T15:52:45.205Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/": {
+    "title": "Nvidia Appoints Colette Kress as Interim CEO Following Jensen Huang's Departure Amid Scandal",
+    "summary": "Nvidia has named its Chief Financial Officer, Colette Kress, as the interim CEO following the departure of long-serving CEO Jensen Huang, who is facing a scandal. Kress will lead the company during this transitional period.",
+    "danishTitle": "Nvidia Appoints Colette Kress as Interim CEO Following Jensen Huang's Departure Amid Scandal",
+    "danishSummary": "Nvidia has named its Chief Financial Officer, Colette Kress, as the interim CEO following the departure of long-serving CEO Jensen Huang, who is facing a scandal. Kress will lead the company during this transitional period.",
+    "whyItMatters": "The appointment of Kress as interim CEO highlights the ongoing challenges and leadership changes within Nvidia, potentially impacting its strategic direction and market positioning.",
+    "enrichedAt": "2026-11-12T15:52:45.205Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3187651": {
+    "title": "Norwest Launches $4B Fund to Expand AI Investments",
+    "summary": "Norwest, a prominent investment firm, has unveiled its largest fund to date, dedicated to AI investments. This move underscores the firm's commitment to deepening its involvement in the rapidly growing AI sector.",
+    "danishTitle": "Norwest Launches $4B Fund to Expand AI Investments",
+    "danishSummary": "Norwest, a prominent investment firm, has unveiled its largest fund to date, dedicated to AI investments. This move underscores the firm's commitment to deepening its involvement in the rapidly growing AI sector.",
+    "whyItMatters": "The substantial investment signals a significant boost in capital availability for AI startups, potentially accelerating innovation and development in the field.",
+    "enrichedAt": "2026-11-12T15:52:54.738Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund": {
+    "title": "Norwest Launches $4B Fund to Expand AI Investments",
+    "summary": "Norwest, a prominent investment firm, has unveiled its largest fund to date, dedicated to AI investments. This move underscores the firm's commitment to deepening its involvement in the rapidly growing AI sector.",
+    "danishTitle": "Norwest Launches $4B Fund to Expand AI Investments",
+    "danishSummary": "Norwest, a prominent investment firm, has unveiled its largest fund to date, dedicated to AI investments. This move underscores the firm's commitment to deepening its involvement in the rapidly growing AI sector.",
+    "whyItMatters": "The substantial investment signals a significant boost in capital availability for AI startups, potentially accelerating innovation and development in the field.",
+    "enrichedAt": "2026-11-12T15:52:54.738Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/": {
+    "title": "Norwest Launches $4B Fund to Expand AI Investments",
+    "summary": "Norwest, a prominent investment firm, has unveiled its largest fund to date, dedicated to AI investments. This move underscores the firm's commitment to deepening its involvement in the rapidly growing AI sector.",
+    "danishTitle": "Norwest Launches $4B Fund to Expand AI Investments",
+    "danishSummary": "Norwest, a prominent investment firm, has unveiled its largest fund to date, dedicated to AI investments. This move underscores the firm's commitment to deepening its involvement in the rapidly growing AI sector.",
+    "whyItMatters": "The substantial investment signals a significant boost in capital availability for AI startups, potentially accelerating innovation and development in the field.",
+    "enrichedAt": "2026-11-12T15:52:54.738Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3187828": {
+    "title": "Fireworks AI Suffers Second Data Breach, Exposing Notion Customers' Chat Transcripts",
+    "summary": "Fireworks AI, a popular AI chatbot platform, has fallen victim to a cyberattack, leading to the unauthorized access of sensitive chat transcripts from Notion customers. This breach, the second in just a month, raises serious concerns about the security measures of AI services and the privacy of user data.",
+    "danishTitle": "Fireworks AI Suffers Second Data Breach, Exposing Notion Customers' Chat Transcripts",
+    "danishSummary": "Fireworks AI, a popular AI chatbot platform, has fallen victim to a cyberattack, leading to the unauthorized access of sensitive chat transcripts from Notion customers. This breach, the second in just a month, raises serious concerns about the security measures of AI services and the privacy of user data.",
+    "whyItMatters": "The repeated security failures highlight the urgent need for enhanced cybersecurity protocols in AI platforms, potentially impacting user trust and adoption rates across the industry.",
+    "enrichedAt": "2026-11-12T15:53:07.018Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts": {
+    "title": "Fireworks AI Suffers Second Data Breach, Exposing Notion Customers' Chat Transcripts",
+    "summary": "Fireworks AI, a popular AI chatbot platform, has fallen victim to a cyberattack, leading to the unauthorized access of sensitive chat transcripts from Notion customers. This breach, the second in just a month, raises serious concerns about the security measures of AI services and the privacy of user data.",
+    "danishTitle": "Fireworks AI Suffers Second Data Breach, Exposing Notion Customers' Chat Transcripts",
+    "danishSummary": "Fireworks AI, a popular AI chatbot platform, has fallen victim to a cyberattack, leading to the unauthorized access of sensitive chat transcripts from Notion customers. This breach, the second in just a month, raises serious concerns about the security measures of AI services and the privacy of user data.",
+    "whyItMatters": "The repeated security failures highlight the urgent need for enhanced cybersecurity protocols in AI platforms, potentially impacting user trust and adoption rates across the industry.",
+    "enrichedAt": "2026-11-12T15:53:07.018Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/": {
+    "title": "Fireworks AI Suffers Second Data Breach, Exposing Notion Customers' Chat Transcripts",
+    "summary": "Fireworks AI, a popular AI chatbot platform, has fallen victim to a cyberattack, leading to the unauthorized access of sensitive chat transcripts from Notion customers. This breach, the second in just a month, raises serious concerns about the security measures of AI services and the privacy of user data.",
+    "danishTitle": "Fireworks AI Suffers Second Data Breach, Exposing Notion Customers' Chat Transcripts",
+    "danishSummary": "Fireworks AI, a popular AI chatbot platform, has fallen victim to a cyberattack, leading to the unauthorized access of sensitive chat transcripts from Notion customers. This breach, the second in just a month, raises serious concerns about the security measures of AI services and the privacy of user data.",
+    "whyItMatters": "The repeated security failures highlight the urgent need for enhanced cybersecurity protocols in AI platforms, potentially impacting user trust and adoption rates across the industry.",
+    "enrichedAt": "2026-11-12T15:53:07.018Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "latent-space-video-yt:video:BHOw09O3ZsI": {
+    "title": "Exploring Atomic Operations: Ensuring Uninterrupted Execution in Computing",
+    "summary": "Matt Godbolt, known for his work with Compiler Explorer, delves into atomic operations, which are critical for maintaining data integrity and enabling seamless execution in complex computing environments. This explanation is part of the Computerphile series, supported by Jane Street.",
+    "danishTitle": "Exploring Atomic Operations: Ensuring Uninterrupted Execution in Computing",
+    "danishSummary": "Matt Godbolt, known for his work with Compiler Explorer, delves into atomic operations, which are critical for maintaining data integrity and enabling seamless execution in complex computing environments. This explanation is part of the Computerphile series, supported by Jane Street.",
+    "whyItMatters": "Understanding atomic operations is crucial for developers to write efficient and reliable code, ensuring that critical sections of code execute without interruption, which is essential for high-performance computing applications.",
+    "enrichedAt": "2026-11-12T15:53:18.385Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:bhow09o3zsi": {
+    "title": "Exploring Atomic Operations: Ensuring Uninterrupted Execution in Computing",
+    "summary": "Matt Godbolt, known for his work with Compiler Explorer, delves into atomic operations, which are critical for maintaining data integrity and enabling seamless execution in complex computing environments. This explanation is part of the Computerphile series, supported by Jane Street.",
+    "danishTitle": "Exploring Atomic Operations: Ensuring Uninterrupted Execution in Computing",
+    "danishSummary": "Matt Godbolt, known for his work with Compiler Explorer, delves into atomic operations, which are critical for maintaining data integrity and enabling seamless execution in complex computing environments. This explanation is part of the Computerphile series, supported by Jane Street.",
+    "whyItMatters": "Understanding atomic operations is crucial for developers to write efficient and reliable code, ensuring that critical sections of code execute without interruption, which is essential for high-performance computing applications.",
+    "enrichedAt": "2026-11-12T15:53:18.385Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=BHOw09O3ZsI": {
+    "title": "Exploring Atomic Operations: Ensuring Uninterrupted Execution in Computing",
+    "summary": "Matt Godbolt, known for his work with Compiler Explorer, delves into atomic operations, which are critical for maintaining data integrity and enabling seamless execution in complex computing environments. This explanation is part of the Computerphile series, supported by Jane Street.",
+    "danishTitle": "Exploring Atomic Operations: Ensuring Uninterrupted Execution in Computing",
+    "danishSummary": "Matt Godbolt, known for his work with Compiler Explorer, delves into atomic operations, which are critical for maintaining data integrity and enabling seamless execution in complex computing environments. This explanation is part of the Computerphile series, supported by Jane Street.",
+    "whyItMatters": "Understanding atomic operations is crucial for developers to write efficient and reliable code, ensuring that critical sections of code execute without interruption, which is essential for high-performance computing applications.",
+    "enrichedAt": "2026-11-12T15:53:18.385Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "version2-https://ing.dk/artikel/kommune-faar-haard-kritik-ai-overvaagning-af-aeldre-de-har-skudt-langt-ved-siden-af": {
+    "title": "Copenhagen Municipality Faces Criticism for AI Surveillance of Seniors: 'They Have Gone Too Far'",
+    "summary": "The Danish Data Protection Agency has criticized Copenhagen Municipality for its use of AI in monitoring elderly residents, warning that such practices may be inappropriate and potentially infringe on privacy rights. This decision sends a broader message to municipalities considering the implementation of AI technologies.",
+    "danishTitle": "Copenhagen Municipality Faces Criticism for AI Surveillance of Seniors: 'They Have Gone Too Far'",
+    "danishSummary": "The Danish Data Protection Agency has criticized Copenhagen Municipality for its use of AI in monitoring elderly residents, warning that such practices may be inappropriate and potentially infringe on privacy rights. This decision sends a broader message to municipalities considering the implementation of AI technologies.",
+    "whyItMatters": "The criticism highlights the need for careful regulation and ethical considerations when deploying AI in sensitive areas like eldercare, ensuring that privacy and autonomy are not compromised.",
+    "enrichedAt": "2026-11-12T15:53:30.613Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://ing.dk/artikel/kommune-faar-haard-kritik-ai-overvaagning-af-aeldre-de-har-skudt-langt-ved-siden-af": {
+    "title": "Copenhagen Municipality Faces Criticism for AI Surveillance of Seniors: 'They Have Gone Too Far'",
+    "summary": "The Danish Data Protection Agency has criticized Copenhagen Municipality for its use of AI in monitoring elderly residents, warning that such practices may be inappropriate and potentially infringe on privacy rights. This decision sends a broader message to municipalities considering the implementation of AI technologies.",
+    "danishTitle": "Copenhagen Municipality Faces Criticism for AI Surveillance of Seniors: 'They Have Gone Too Far'",
+    "danishSummary": "The Danish Data Protection Agency has criticized Copenhagen Municipality for its use of AI in monitoring elderly residents, warning that such practices may be inappropriate and potentially infringe on privacy rights. This decision sends a broader message to municipalities considering the implementation of AI technologies.",
+    "whyItMatters": "The criticism highlights the need for careful regulation and ethical considerations when deploying AI in sensitive areas like eldercare, ensuring that privacy and autonomy are not compromised.",
+    "enrichedAt": "2026-11-12T15:53:30.613Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "the-zvi-https://thezvi.substack.com/p/ai-194-spy-versus-guy": {
+    "title": "AI #194: Zvi Discusses Upcoming Conference on AI 'Takeoff'",
+    "summary": "In his latest newsletter, Zvi Don't Worry About the Vase announces his participation in the upcoming The Takeoff conference in Washington DC, focusing on significant advancements and potential breakthroughs in artificial intelligence.",
+    "danishTitle": "AI #194: Zvi Discusses Upcoming Conference on AI 'Takeoff'",
+    "danishSummary": "In his latest newsletter, Zvi Don't Worry About the Vase announces his participation in the upcoming The Takeoff conference in Washington DC, focusing on significant advancements and potential breakthroughs in artificial intelligence.",
+    "whyItMatters": "The conference highlights the ongoing discourse on AI's rapid progress and potential transformative impacts, crucial for stakeholders in the tech industry and beyond.",
+    "enrichedAt": "2026-11-12T15:53:41.003Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://thezvi.substack.com/p/ai-194-spy-versus-guy": {
+    "title": "AI #194: Zvi Discusses Upcoming Conference on AI 'Takeoff'",
+    "summary": "In his latest newsletter, Zvi Don't Worry About the Vase announces his participation in the upcoming The Takeoff conference in Washington DC, focusing on significant advancements and potential breakthroughs in artificial intelligence.",
+    "danishTitle": "AI #194: Zvi Discusses Upcoming Conference on AI 'Takeoff'",
+    "danishSummary": "In his latest newsletter, Zvi Don't Worry About the Vase announces his participation in the upcoming The Takeoff conference in Washington DC, focusing on significant advancements and potential breakthroughs in artificial intelligence.",
+    "whyItMatters": "The conference highlights the ongoing discourse on AI's rapid progress and potential transformative impacts, crucial for stakeholders in the tech industry and beyond.",
+    "enrichedAt": "2026-11-12T15:53:41.003Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "tech-policy-press-https://techpolicy.press/what-the-ai-torture-chamber-debate-got-wrong-about-the-research": {
+    "title": "Tech Policy Press Debunks Misconceptions in AI Torture Chamber Debate",
+    "summary": "Tech Policy Press challenges the prevailing narrative in the 'AI Torture Chamber' debate, arguing that the criticism overlooks the nuanced benefits and real-world applications of rigorous testing protocols in AI development. The article aims to clarify the importance of thorough testing in ensuring AI safety and reliability.",
+    "danishTitle": "Tech Policy Press Debunks Misconceptions in AI Torture Chamber Debate",
+    "danishSummary": "Tech Policy Press challenges the prevailing narrative in the 'AI Torture Chamber' debate, arguing that the criticism overlooks the nuanced benefits and real-world applications of rigorous testing protocols in AI development. The article aims to clarify the importance of thorough testing in ensuring AI safety and reliability.",
+    "whyItMatters": "Clarifying the debate is crucial for fostering a balanced understanding of AI testing, which is essential for advancing the technology while maintaining public trust and safety.",
+    "enrichedAt": "2026-11-12T15:53:52.347Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techpolicy.press/what-the-ai-torture-chamber-debate-got-wrong-about-the-research": {
+    "title": "Tech Policy Press Debunks Misconceptions in AI Torture Chamber Debate",
+    "summary": "Tech Policy Press challenges the prevailing narrative in the 'AI Torture Chamber' debate, arguing that the criticism overlooks the nuanced benefits and real-world applications of rigorous testing protocols in AI development. The article aims to clarify the importance of thorough testing in ensuring AI safety and reliability.",
+    "danishTitle": "Tech Policy Press Debunks Misconceptions in AI Torture Chamber Debate",
+    "danishSummary": "Tech Policy Press challenges the prevailing narrative in the 'AI Torture Chamber' debate, arguing that the criticism overlooks the nuanced benefits and real-world applications of rigorous testing protocols in AI development. The article aims to clarify the importance of thorough testing in ensuring AI safety and reliability.",
+    "whyItMatters": "Clarifying the debate is crucial for fostering a balanced understanding of AI testing, which is essential for advancing the technology while maintaining public trust and safety.",
+    "enrichedAt": "2026-11-12T15:53:52.347Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "the-decoder-https://the-decoder.com/?p=42770": {
+    "title": "Jensen Huang Resigns as Nvidia CEO Amid $1.4 Trillion Market Value Loss",
+    "summary": "Nvidia's CEO, Jensen Huang, stepped down from his roles as CEO, president, and board member following an espionage scandal that resulted in a significant $1.4 trillion drop in the company's market value. The resignation comes as a major shakeup in the tech industry, highlighting the severe consequences of such security breaches.",
+    "danishTitle": "Jensen Huang Resigns as Nvidia CEO Amid $1.4 Trillion Market Value Loss",
+    "danishSummary": "Nvidia's CEO, Jensen Huang, stepped down from his roles as CEO, president, and board member following an espionage scandal that resulted in a significant $1.4 trillion drop in the company's market value. The resignation comes as a major shakeup in the tech industry, highlighting the severe consequences of such security breaches.",
+    "whyItMatters": "Huang's resignation underscores the critical importance of robust cybersecurity measures in the tech sector, potentially influencing corporate governance and security protocols across the industry.",
+    "enrichedAt": "2026-11-12T15:54:05.526Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value": {
+    "title": "Jensen Huang Resigns as Nvidia CEO Amid $1.4 Trillion Market Value Loss",
+    "summary": "Nvidia's CEO, Jensen Huang, stepped down from his roles as CEO, president, and board member following an espionage scandal that resulted in a significant $1.4 trillion drop in the company's market value. The resignation comes as a major shakeup in the tech industry, highlighting the severe consequences of such security breaches.",
+    "danishTitle": "Jensen Huang Resigns as Nvidia CEO Amid $1.4 Trillion Market Value Loss",
+    "danishSummary": "Nvidia's CEO, Jensen Huang, stepped down from his roles as CEO, president, and board member following an espionage scandal that resulted in a significant $1.4 trillion drop in the company's market value. The resignation comes as a major shakeup in the tech industry, highlighting the severe consequences of such security breaches.",
+    "whyItMatters": "Huang's resignation underscores the critical importance of robust cybersecurity measures in the tech sector, potentially influencing corporate governance and security protocols across the industry.",
+    "enrichedAt": "2026-11-12T15:54:05.526Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value/": {
+    "title": "Jensen Huang Resigns as Nvidia CEO Amid $1.4 Trillion Market Value Loss",
+    "summary": "Nvidia's CEO, Jensen Huang, stepped down from his roles as CEO, president, and board member following an espionage scandal that resulted in a significant $1.4 trillion drop in the company's market value. The resignation comes as a major shakeup in the tech industry, highlighting the severe consequences of such security breaches.",
+    "danishTitle": "Jensen Huang Resigns as Nvidia CEO Amid $1.4 Trillion Market Value Loss",
+    "danishSummary": "Nvidia's CEO, Jensen Huang, stepped down from his roles as CEO, president, and board member following an espionage scandal that resulted in a significant $1.4 trillion drop in the company's market value. The resignation comes as a major shakeup in the tech industry, highlighting the severe consequences of such security breaches.",
+    "whyItMatters": "Huang's resignation underscores the critical importance of robust cybersecurity measures in the tech sector, potentially influencing corporate governance and security protocols across the industry.",
+    "enrichedAt": "2026-11-12T15:54:05.526Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "the-decoder-https://the-decoder.com/?p=42763": {
+    "title": "ElevenLabs Unveils Scribe v3 Live for Enhanced Voice Agent Continuity",
+    "summary": "ElevenLabs has launched Scribe v3 and Scribe v3 Live, advanced speech recognition models that significantly improve transcription accuracy in noisy environments. These tools are designed to prevent voice agents from interrupting callers mid-sentence, enhancing user experience in customer service and other voice-based applications.",
+    "danishTitle": "ElevenLabs Unveils Scribe v3 Live for Enhanced Voice Agent Continuity",
+    "danishSummary": "ElevenLabs has launched Scribe v3 and Scribe v3 Live, advanced speech recognition models that significantly improve transcription accuracy in noisy environments. These tools are designed to prevent voice agents from interrupting callers mid-sentence, enhancing user experience in customer service and other voice-based applications.",
+    "whyItMatters": "By addressing common transcription challenges, Scribe v3 Live ensures smoother interactions, which is crucial for maintaining user satisfaction and operational efficiency in voice-driven services.",
+    "enrichedAt": "2026-11-12T15:54:18.332Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence": {
+    "title": "ElevenLabs Unveils Scribe v3 Live for Enhanced Voice Agent Continuity",
+    "summary": "ElevenLabs has launched Scribe v3 and Scribe v3 Live, advanced speech recognition models that significantly improve transcription accuracy in noisy environments. These tools are designed to prevent voice agents from interrupting callers mid-sentence, enhancing user experience in customer service and other voice-based applications.",
+    "danishTitle": "ElevenLabs Unveils Scribe v3 Live for Enhanced Voice Agent Continuity",
+    "danishSummary": "ElevenLabs has launched Scribe v3 and Scribe v3 Live, advanced speech recognition models that significantly improve transcription accuracy in noisy environments. These tools are designed to prevent voice agents from interrupting callers mid-sentence, enhancing user experience in customer service and other voice-based applications.",
+    "whyItMatters": "By addressing common transcription challenges, Scribe v3 Live ensures smoother interactions, which is crucial for maintaining user satisfaction and operational efficiency in voice-driven services.",
+    "enrichedAt": "2026-11-12T15:54:18.332Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/": {
+    "title": "ElevenLabs Unveils Scribe v3 Live for Enhanced Voice Agent Continuity",
+    "summary": "ElevenLabs has launched Scribe v3 and Scribe v3 Live, advanced speech recognition models that significantly improve transcription accuracy in noisy environments. These tools are designed to prevent voice agents from interrupting callers mid-sentence, enhancing user experience in customer service and other voice-based applications.",
+    "danishTitle": "ElevenLabs Unveils Scribe v3 Live for Enhanced Voice Agent Continuity",
+    "danishSummary": "ElevenLabs has launched Scribe v3 and Scribe v3 Live, advanced speech recognition models that significantly improve transcription accuracy in noisy environments. These tools are designed to prevent voice agents from interrupting callers mid-sentence, enhancing user experience in customer service and other voice-based applications.",
+    "whyItMatters": "By addressing common transcription challenges, Scribe v3 Live ensures smoother interactions, which is crucial for maintaining user satisfaction and operational efficiency in voice-driven services.",
+    "enrichedAt": "2026-11-12T15:54:18.332Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "two-minute-papers-yt:video:gPNiuyYirfw": {
+    "title": "DeepMind Unveils AlphaProof Code, Pioneering Automated Proof Verification in AI",
+    "summary": "DeepMind has released AlphaProof Code, a groundbreaking AI system designed to automate the verification of mathematical proofs. This technology aims to enhance the reliability and efficiency of complex mathematical reasoning tasks, potentially transforming fields such as mathematics, computer science, and formal verification.",
+    "danishTitle": "DeepMind Unveils AlphaProof Code, Pioneering Automated Proof Verification in AI",
+    "danishSummary": "DeepMind has released AlphaProof Code, a groundbreaking AI system designed to automate the verification of mathematical proofs. This technology aims to enhance the reliability and efficiency of complex mathematical reasoning tasks, potentially transforming fields such as mathematics, computer science, and formal verification.",
+    "whyItMatters": "AlphaProof Code represents a significant leap in AI’s ability to handle complex logical tasks, promising to increase the trustworthiness of AI-generated proofs and accelerate research in formal methods and automated theorem proving.",
+    "enrichedAt": "2026-11-12T15:54:30.776Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:gpniuyyirfw": {
+    "title": "DeepMind Unveils AlphaProof Code, Pioneering Automated Proof Verification in AI",
+    "summary": "DeepMind has released AlphaProof Code, a groundbreaking AI system designed to automate the verification of mathematical proofs. This technology aims to enhance the reliability and efficiency of complex mathematical reasoning tasks, potentially transforming fields such as mathematics, computer science, and formal verification.",
+    "danishTitle": "DeepMind Unveils AlphaProof Code, Pioneering Automated Proof Verification in AI",
+    "danishSummary": "DeepMind has released AlphaProof Code, a groundbreaking AI system designed to automate the verification of mathematical proofs. This technology aims to enhance the reliability and efficiency of complex mathematical reasoning tasks, potentially transforming fields such as mathematics, computer science, and formal verification.",
+    "whyItMatters": "AlphaProof Code represents a significant leap in AI’s ability to handle complex logical tasks, promising to increase the trustworthiness of AI-generated proofs and accelerate research in formal methods and automated theorem proving.",
+    "enrichedAt": "2026-11-12T15:54:30.776Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=gPNiuyYirfw": {
+    "title": "DeepMind Unveils AlphaProof Code, Pioneering Automated Proof Verification in AI",
+    "summary": "DeepMind has released AlphaProof Code, a groundbreaking AI system designed to automate the verification of mathematical proofs. This technology aims to enhance the reliability and efficiency of complex mathematical reasoning tasks, potentially transforming fields such as mathematics, computer science, and formal verification.",
+    "danishTitle": "DeepMind Unveils AlphaProof Code, Pioneering Automated Proof Verification in AI",
+    "danishSummary": "DeepMind has released AlphaProof Code, a groundbreaking AI system designed to automate the verification of mathematical proofs. This technology aims to enhance the reliability and efficiency of complex mathematical reasoning tasks, potentially transforming fields such as mathematics, computer science, and formal verification.",
+    "whyItMatters": "AlphaProof Code represents a significant leap in AI’s ability to handle complex logical tasks, promising to increase the trustworthiness of AI-generated proofs and accelerate research in formal methods and automated theorem proving.",
+    "enrichedAt": "2026-11-12T15:54:30.776Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3187646": {
+    "title": "Nine Korean Startups Compete for Disrupt 2027’s Startup Battlefield 200",
+    "summary": "Nine Korean startups from diverse sectors such as healthcare, fintech, energy, semiconductors, and AI are vying for a spot in the prestigious Disrupt 2027 Startup Battlefield 200 competition, aiming to gain international recognition and potential investment opportunities.",
+    "danishTitle": "Nine Korean Startups Compete for Disrupt 2027’s Startup Battlefield 200",
+    "danishSummary": "Nine Korean startups from diverse sectors such as healthcare, fintech, energy, semiconductors, and AI are vying for a spot in the prestigious Disrupt 2027 Startup Battlefield 200 competition, aiming to gain international recognition and potential investment opportunities.",
+    "whyItMatters": "This competition highlights the growing innovation and competitiveness of Korean tech startups, potentially attracting global investors and fostering international collaboration in emerging technologies.",
+    "enrichedAt": "2026-11-12T15:54:43.048Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition": {
+    "title": "Nine Korean Startups Compete for Disrupt 2027’s Startup Battlefield 200",
+    "summary": "Nine Korean startups from diverse sectors such as healthcare, fintech, energy, semiconductors, and AI are vying for a spot in the prestigious Disrupt 2027 Startup Battlefield 200 competition, aiming to gain international recognition and potential investment opportunities.",
+    "danishTitle": "Nine Korean Startups Compete for Disrupt 2027’s Startup Battlefield 200",
+    "danishSummary": "Nine Korean startups from diverse sectors such as healthcare, fintech, energy, semiconductors, and AI are vying for a spot in the prestigious Disrupt 2027 Startup Battlefield 200 competition, aiming to gain international recognition and potential investment opportunities.",
+    "whyItMatters": "This competition highlights the growing innovation and competitiveness of Korean tech startups, potentially attracting global investors and fostering international collaboration in emerging technologies.",
+    "enrichedAt": "2026-11-12T15:54:43.048Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/": {
+    "title": "Nine Korean Startups Compete for Disrupt 2027’s Startup Battlefield 200",
+    "summary": "Nine Korean startups from diverse sectors such as healthcare, fintech, energy, semiconductors, and AI are vying for a spot in the prestigious Disrupt 2027 Startup Battlefield 200 competition, aiming to gain international recognition and potential investment opportunities.",
+    "danishTitle": "Nine Korean Startups Compete for Disrupt 2027’s Startup Battlefield 200",
+    "danishSummary": "Nine Korean startups from diverse sectors such as healthcare, fintech, energy, semiconductors, and AI are vying for a spot in the prestigious Disrupt 2027 Startup Battlefield 200 competition, aiming to gain international recognition and potential investment opportunities.",
+    "whyItMatters": "This competition highlights the growing innovation and competitiveness of Korean tech startups, potentially attracting global investors and fostering international collaboration in emerging technologies.",
+    "enrichedAt": "2026-11-12T15:54:43.048Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "huggingface-https://huggingface.co/blog/3d-lora-finetuning": {
+    "title": "Hugging Face Publishes Comprehensive Guide on Fine-Tuning 3D Generation Models",
+    "summary": "Hugging Face has released a detailed guide on fine-tuning 3D generation models, providing developers with best practices and techniques to enhance the accuracy and efficiency of 3D content creation. This guide focuses on the use of LoRA (Low-Rank Adaptation) for fine-tuning, offering a practical approach to improving 3D model performance.",
+    "danishTitle": "Hugging Face Publishes Comprehensive Guide on Fine-Tuning 3D Generation Models",
+    "danishSummary": "Hugging Face has released a detailed guide on fine-tuning 3D generation models, providing developers with best practices and techniques to enhance the accuracy and efficiency of 3D content creation. This guide focuses on the use of LoRA (Low-Rank Adaptation) for fine-tuning, offering a practical approach to improving 3D model performance.",
+    "whyItMatters": "By offering a comprehensive guide, Hugging Face empowers the broader AI community to improve the quality of 3D content, driving innovation in fields such as virtual reality, gaming, and architectural design.",
+    "enrichedAt": "2026-11-12T15:54:57.111Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://huggingface.co/blog/3d-lora-finetuning": {
+    "title": "Hugging Face Publishes Comprehensive Guide on Fine-Tuning 3D Generation Models",
+    "summary": "Hugging Face has released a detailed guide on fine-tuning 3D generation models, providing developers with best practices and techniques to enhance the accuracy and efficiency of 3D content creation. This guide focuses on the use of LoRA (Low-Rank Adaptation) for fine-tuning, offering a practical approach to improving 3D model performance.",
+    "danishTitle": "Hugging Face Publishes Comprehensive Guide on Fine-Tuning 3D Generation Models",
+    "danishSummary": "Hugging Face has released a detailed guide on fine-tuning 3D generation models, providing developers with best practices and techniques to enhance the accuracy and efficiency of 3D content creation. This guide focuses on the use of LoRA (Low-Rank Adaptation) for fine-tuning, offering a practical approach to improving 3D model performance.",
+    "whyItMatters": "By offering a comprehensive guide, Hugging Face empowers the broader AI community to improve the quality of 3D content, driving innovation in fields such as virtual reality, gaming, and architectural design.",
+    "enrichedAt": "2026-11-12T15:54:57.111Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }
