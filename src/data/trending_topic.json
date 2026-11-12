@@ -1,18 +1,18 @@
 {
-  "headline": "Google Gemini Decision 1 Dominates Decision Model Market Amid Industry Innovations",
-  "summary": "Google has launched Gemini Decision 1, a new API that processes up to 1,000 questions simultaneously, challenging other decision model providers. This move is part of a broader trend of companies entering the decision model market, driven by increasing automation needs.",
-  "whyItMatters": "It highlights Google's growing influence in the decision model space and underscores the industry's focus on enhancing automation capabilities.",
-  "synthesizedAt": "2026-11-12T06:32:40.289Z",
+  "headline": "Google Gemini Decisions API Joins Decision Model Market Amid Industry Innovations",
+  "summary": "Google has launched the Gemini Decisions API, entering the decision model market alongside competitors like Jev and OpenAI. This move is part of a broader trend of companies enhancing their AI offerings to support decision-making processes.",
+  "whyItMatters": "It underscores the growing importance of decision models in AI applications and the competitive landscape in this emerging segment.",
+  "synthesizedAt": "2026-11-12T09:40:09.136Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42746",
-    "title": "Google Introduces Gemini Decision 1, Boosting Decision-Making Efficiency with Multi-Modal Question Evaluation",
-    "link": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-11T20:12:46.000Z",
-    "badgeColor": "slate",
-    "angle": "Official Release"
+    "id": "simon-willison-https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+    "title": "Gemini Decisions API Joins the Decision Model Category",
+    "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+    "sourceName": "Simon Willison",
+    "sourceId": "simon-willison",
+    "pubDate": "2026-11-11T22:03:25.000Z",
+    "badgeColor": "green",
+    "angle": "Official Launch"
   },
   "supportingStories": [
     {
@@ -22,18 +22,27 @@
       "sourceName": "Latent Space (Swyx & Alessio)",
       "sourceId": "latent-space",
       "pubDate": "2026-11-12T05:26:54.000Z",
-      "badgeColor": "pink",
+      "badgeColor": "pink"
+    },
+    {
+      "id": "aws-ml-52b0b0c3b44c826025ca35a812f53a3760ac1789",
+      "title": "Amazon Bedrock and Spring AI Enable Java Developers to Build Autonomous AI Agents",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-11-12T01:18:23.000Z",
+      "badgeColor": "amber",
       "angle": "Industry Analysis"
     },
     {
-      "id": "simon-willison-https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-      "title": "Gemini Decisions API Joins the Decision Model Category",
-      "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-11-11T22:03:25.000Z",
-      "badgeColor": "green",
-      "angle": "Technical Deep Dive"
+      "id": "openai-https://openai.com/index/gilbert-tobin-sam-nickless",
+      "title": "Gilbert + Tobin Embraces AI to Transform Legal Practice",
+      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "sourceName": "OpenAI News",
+      "sourceId": "openai",
+      "pubDate": "2026-11-12T00:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Enterprise Integration"
     }
   ]
 }
