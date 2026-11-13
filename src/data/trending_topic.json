@@ -1,49 +1,29 @@
 {
-  "headline": "NVIDIA CEO Resigns Amid Affair Scandals, Impacting AI Industry",
-  "summary": "NVIDIA's long-standing CEO, Jensen Huang, has resigned after multiple reports of extramarital affairs, leading to investigations and uncertainty in the AI hardware market. This event is reshaping leadership dynamics and investor confidence in the sector.",
-  "whyItMatters": "The resignation has significant implications for NVIDIA's strategic direction and could influence the broader AI industry's leadership and innovation landscape.",
-  "synthesizedAt": "2026-11-13T13:40:55.650Z",
+  "headline": "Anthropic's IPO Surpasses Sixfold Demand, Shaking Up AI Landscape",
+  "summary": "Anthropic's initial public offering has garnered unprecedented investor interest, with orders six times the available shares. This massive oversubscription underscores the growing investor appetite for AI startups and the increasing importance of Anthropic in the industry.",
+  "whyItMatters": "It highlights the rising valuation and market recognition of Anthropic, potentially setting a new standard for AI companies and influencing the broader tech landscape.",
+  "synthesizedAt": "2026-11-13T16:49:14.144Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-zvi-https://thezvi.substack.com/p/jensen-huang-resigns-after-having",
-    "title": "Nvidia CEO Jensen Huang Resigns Amid Another Affair Scandal",
-    "link": "https://thezvi.substack.com/p/jensen-huang-resigns-after-having",
-    "sourceName": "Don't Worry About the Vase (Zvi)",
-    "sourceId": "the-zvi",
-    "pubDate": "2026-11-13T12:20:54.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Announcement"
+    "id": "the-decoder-https://the-decoder.com/?p=42804",
+    "title": "Anthropic's IPO Surpasses Sixfold Demand, Set to Top All-Time Records",
+    "link": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-13T15:15:08.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3186475",
-      "title": "Timeline of Nvidia CEO Jensen Huang's Alleged Affair with Chinese Spy Sparks National Security Concerns",
-      "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-12T21:35:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Detailed Timeline"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3188106",
-      "title": "Reuters Reports NVIDIA CEO Jensen Huang Was Involved in Third Affair with New Employee",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-12T20:26:47.000Z",
-      "badgeColor": "emerald",
-      "angle": "Further Investigations"
-    },
-    {
-      "id": "latent-space-urn:latent-space:post:post_f2e2c3b7-0166-4359-97b6-d24d8f24c73b",
-      "title": "NVIDIA's Longtime CEO Jensen Huang Resigns After 33 Years, Handing Over to Interim Leader Colette Kress",
-      "link": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-11-13T09:04:13.000Z",
-      "badgeColor": "pink",
-      "angle": "Leadership Transition"
+      "id": "the-decoder-https://the-decoder.com/?p=42816",
+      "title": "Anthropic's Claude for Manufacturing Integrates AI Directly into Factory Software for Enhanced Automation",
+      "link": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-13T16:37:01.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
     }
   ]
 }
