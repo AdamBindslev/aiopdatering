@@ -1,48 +1,49 @@
 {
-  "headline": "OpenAI's ChatGPT Wallet Pioneers AI-Powered Shopping",
-  "summary": "OpenAI has launched ChatGPT Wallet, an innovative payment solution that integrates AI agents into the shopping process, allowing users to make purchases through ChatGPT. This move is generating significant industry attention as it expands the role of AI in consumer transactions.",
-  "whyItMatters": "It signals a new era where AI agents can handle financial tasks, potentially transforming e-commerce and payment systems.",
-  "synthesizedAt": "2026-11-13T19:56:32.690Z",
+  "headline": "NVIDIA's Leadership Vacuum Sparks AI Startup Market Volatility",
+  "summary": "Following Jensen Huang's departure from Nvidia, AI startups are experiencing reduced investment and lower valuations, as the company's significant financial backing wanes. This shift is driving a broader market reassessment of AI funding and investment strategies.",
+  "whyItMatters": "It highlights the critical role of key industry leaders and their impact on the overall AI startup ecosystem and investment landscape.",
+  "synthesizedAt": "2026-11-13T23:02:06.289Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-https://openai.com/index/introducing-chatgpt-wallet",
-    "title": "OpenAI Unveils ChatGPT Wallet for Secure Agent-Powered Purchases",
-    "link": "https://openai.com/index/introducing-chatgpt-wallet",
-    "sourceName": "OpenAI News",
-    "sourceId": "openai",
-    "pubDate": "2026-11-13T15:00:00.000Z",
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3188596",
+    "title": "Jensen Huang's Departure Casts Shadow Over AI Startup Funding",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-11-13T22:43:00.000Z",
     "badgeColor": "emerald",
-    "angle": "Official Launch"
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3188368",
-      "title": "ChatGPT Introduces Wallet Feature for AI Agents to Automate Shopping",
-      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-13T16:00:12.000Z",
-      "badgeColor": "emerald",
-      "angle": "Hands-on Benchmark"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=42822",
-      "title": "OpenAI Launches ChatGPT Wallet: A New Approach to AI-Powered Shopping",
-      "link": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
+      "id": "the-decoder-https://the-decoder.com/?p=42841",
+      "title": "Jensen Huang's Departure from Nvidia Linked to Risky Business Practices",
+      "link": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-11-13T18:55:21.000Z",
+      "pubDate": "2026-11-13T20:07:34.000Z",
       "badgeColor": "slate",
-      "angle": "Industry Analysis"
+      "angle": "Official Report"
     },
     {
-      "id": "huggingface-https://huggingface.co/blog/allenai/xybench",
-      "title": "XYBench Introduced by Hugging Face to Address Underlying Question Challenges",
-      "link": "https://huggingface.co/blog/allenai/xybench",
-      "sourceName": "Hugging Face Blog",
-      "sourceId": "huggingface",
-      "pubDate": "2026-11-13T17:02:35.000Z",
-      "badgeColor": "yellow"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3188067",
+      "title": "Chinese AI Models Rely on Export-Banned Nvidia Chips, Sparking Concerns",
+      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-13T18:40:30.000Z",
+      "badgeColor": "emerald",
+      "angle": "Geopolitical Impact"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=42826",
+      "title": "Chinese Investors Excluded from Anthropic IPO Due to U.S. Export Controls",
+      "link": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-13T18:01:53.000Z",
+      "badgeColor": "slate",
+      "angle": "Geopolitical Impact"
     }
   ]
 }
