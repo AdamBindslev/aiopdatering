@@ -1,29 +1,48 @@
 {
-  "headline": "Anthropic's IPO Surpasses Sixfold Demand, Shaking Up AI Landscape",
-  "summary": "Anthropic's initial public offering has garnered unprecedented investor interest, with orders six times the available shares. This massive oversubscription underscores the growing investor appetite for AI startups and the increasing importance of Anthropic in the industry.",
-  "whyItMatters": "It highlights the rising valuation and market recognition of Anthropic, potentially setting a new standard for AI companies and influencing the broader tech landscape.",
-  "synthesizedAt": "2026-11-13T16:49:14.144Z",
+  "headline": "OpenAI's ChatGPT Wallet Pioneers AI-Powered Shopping",
+  "summary": "OpenAI has launched ChatGPT Wallet, an innovative payment solution that integrates AI agents into the shopping process, allowing users to make purchases through ChatGPT. This move is generating significant industry attention as it expands the role of AI in consumer transactions.",
+  "whyItMatters": "It signals a new era where AI agents can handle financial tasks, potentially transforming e-commerce and payment systems.",
+  "synthesizedAt": "2026-11-13T19:56:32.690Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42804",
-    "title": "Anthropic's IPO Surpasses Sixfold Demand, Set to Top All-Time Records",
-    "link": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-13T15:15:08.000Z",
-    "badgeColor": "slate",
-    "angle": "Official Release"
+    "id": "openai-https://openai.com/index/introducing-chatgpt-wallet",
+    "title": "OpenAI Unveils ChatGPT Wallet for Secure Agent-Powered Purchases",
+    "link": "https://openai.com/index/introducing-chatgpt-wallet",
+    "sourceName": "OpenAI News",
+    "sourceId": "openai",
+    "pubDate": "2026-11-13T15:00:00.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Launch"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42816",
-      "title": "Anthropic's Claude for Manufacturing Integrates AI Directly into Factory Software for Enhanced Automation",
-      "link": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3188368",
+      "title": "ChatGPT Introduces Wallet Feature for AI Agents to Automate Shopping",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-13T16:00:12.000Z",
+      "badgeColor": "emerald",
+      "angle": "Hands-on Benchmark"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=42822",
+      "title": "OpenAI Launches ChatGPT Wallet: A New Approach to AI-Powered Shopping",
+      "link": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-11-13T16:37:01.000Z",
+      "pubDate": "2026-11-13T18:55:21.000Z",
       "badgeColor": "slate",
       "angle": "Industry Analysis"
+    },
+    {
+      "id": "huggingface-https://huggingface.co/blog/allenai/xybench",
+      "title": "XYBench Introduced by Hugging Face to Address Underlying Question Challenges",
+      "link": "https://huggingface.co/blog/allenai/xybench",
+      "sourceName": "Hugging Face Blog",
+      "sourceId": "huggingface",
+      "pubDate": "2026-11-13T17:02:35.000Z",
+      "badgeColor": "yellow"
     }
   ]
 }
