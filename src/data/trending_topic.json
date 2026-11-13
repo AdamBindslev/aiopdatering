@@ -1,8 +1,8 @@
 {
-  "headline": "Google Gemini 4 Hydrogen Dominates AI Benchmarking",
-  "summary": "Google has released Gemini 4 Hydrogen, a new AI model that outperforms its competitors, including more expensive models. This breakthrough is driving industry discussions on cost-effectiveness and performance in AI deployments.",
-  "whyItMatters": "It highlights the ongoing race for performance and cost-effectiveness in AI models, influencing developer choices and market dynamics.",
-  "synthesizedAt": "2026-11-13T01:13:57.555Z",
+  "headline": "Gemini 4 Hydrogen Dominates AI Model Performance Benchmarks",
+  "summary": "Google's Gemini 4 Hydrogen has outperformed its competitors in various benchmarks, including its more expensive counterparts. This breakthrough is driving industry discussions on cost-effectiveness and performance in AI model deployment.",
+  "whyItMatters": "It highlights the potential for more cost-effective AI models while maintaining high performance, influencing future AI development and deployment strategies.",
+  "synthesizedAt": "2026-11-13T04:19:45.865Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=42781",
@@ -15,15 +15,6 @@
     "angle": "Performance Benchmark"
   },
   "supportingStories": [
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=42793",
-      "title": "Anthropic Introduces Claude Meetings: AI Integration in Video Calls",
-      "link": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-12T20:26:50.000Z",
-      "badgeColor": "slate"
-    },
     {
       "id": "techcrunch-ai-https://techcrunch.com/?p=3188050",
       "title": "Google Enhances Search with Gemini 4 Hydrogen for More Accurate and Visual Responses",
@@ -51,8 +42,7 @@
       "sourceName": "Google News AI",
       "sourceId": "google-ai",
       "pubDate": "2026-11-12T18:00:00.000Z",
-      "badgeColor": "cyan",
-      "angle": "Search Algorithm Update"
+      "badgeColor": "cyan"
     }
   ]
 }
