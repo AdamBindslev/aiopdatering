@@ -1,20 +1,39 @@
 {
-  "headline": "OpenAI Shifts to Open-Source Models, Sparking Industry Overhaul",
-  "summary": "OpenAI's decision to discontinue its proprietary models and release open-source alternatives is driving a significant shift in the AI industry, accelerating local deployment and reducing reliance on closed platforms. This move is prompting a broader debate on the future of AI innovation and access.",
-  "whyItMatters": "It opens up advanced AI capabilities to a wider range of developers and organizations, potentially disrupting the proprietary model business model and fostering greater innovation and competition.",
-  "synthesizedAt": "2026-11-14T14:34:21.521Z",
+  "headline": "Open-Source AI Models Gain Momentum, Outperforming Proprietary Models",
+  "summary": "Open-source AI models like Gemini 4 Carbon and Mythos are outperforming their proprietary counterparts in various benchmarks and applications, driving a shift towards open-weight models and reducing reliance on closed APIs.",
+  "whyItMatters": "This trend is democratizing access to advanced AI capabilities and potentially lowering costs, which could significantly impact the AI industry and developer practices.",
+  "synthesizedAt": "2026-11-14T17:41:32.698Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "interconnects-https://www.interconnects.ai/p/open-source-ai-without-jensen",
-    "title": "OpenAI Announces Decapitation of Existing AI Models, Rebuilding with Open-Source Alternatives",
-    "link": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
-    "sourceName": "Interconnects (Nathan Lambert)",
-    "sourceId": "interconnects",
-    "pubDate": "2026-11-14T12:23:15.000Z",
-    "badgeColor": "indigo",
-    "angle": "Official Release"
+    "id": "the-decoder-https://the-decoder.com/?p=42863",
+    "title": "Gemini 4 Carbon Surpasses GPT-6.1 Sol in MathArena Benchmark, Despite Higher Costs",
+    "link": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-14T16:48:01.000Z",
+    "badgeColor": "slate",
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3162590",
+      "title": "TechCrunch Highlights Failed AI Projects and Startups in 'AI Graveyard' Report",
+      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-14T17:30:00.000Z",
+      "badgeColor": "emerald"
+    },
+    {
+      "id": "interconnects-https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "title": "OpenAI Announces Decapitation of Existing AI Models, Rebuilding with Open-Source Alternatives",
+      "link": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "sourceName": "Interconnects (Nathan Lambert)",
+      "sourceId": "interconnects",
+      "pubDate": "2026-11-14T12:23:15.000Z",
+      "badgeColor": "indigo",
+      "angle": "Industry Analysis"
+    },
     {
       "id": "the-decoder-https://the-decoder.com/?p=42859",
       "title": "OpenAI Dissolves Robotics Team as General-Purpose Models Emerge as Robotics AI Alternatives",
@@ -23,17 +42,7 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-11-14T11:40:51.000Z",
       "badgeColor": "slate",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=42853",
-      "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
-      "link": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-14T11:21:41.000Z",
-      "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
+      "angle": "Critical Debate"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=42846",
@@ -43,7 +52,7 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-11-14T09:45:45.000Z",
       "badgeColor": "slate",
-      "angle": "Market Impact"
+      "angle": "Hands-on Benchmark"
     }
   ]
 }
