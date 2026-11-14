@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Source AI Models Gain Momentum, Challenge Proprietary Ecosystems",
-  "summary": "A surge in open-source AI models, exemplified by Anthropic's decision to discontinue proprietary models and release open alternatives, is reshaping the AI landscape. This shift is driving broader access and reducing dependency on closed platforms.",
-  "whyItMatters": "It democratizes advanced AI capabilities, potentially lowering barriers to entry and fostering innovation across various sectors.",
-  "synthesizedAt": "2026-11-14T20:47:40.767Z",
+  "headline": "Open-Source AI Models Emerge as Proprietary Platforms Face Competition",
+  "summary": "Open-source AI models, such as those from OpenAI and Anthropic, are outperforming proprietary alternatives in benchmarks and retraining efficiency. This shift is challenging established players and promoting broader access to advanced AI capabilities.",
+  "whyItMatters": "It democratizes access to cutting-edge AI technologies and could significantly reduce costs for developers and organizations.",
+  "synthesizedAt": "2026-11-14T23:54:14.195Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "interconnects-https://www.interconnects.ai/p/open-source-ai-without-jensen",
@@ -12,28 +12,28 @@
     "sourceId": "interconnects",
     "pubDate": "2026-11-14T12:23:15.000Z",
     "badgeColor": "indigo",
-    "angle": "Official Announcement"
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42873",
-      "title": "Anthropic CEO Amodei Warns of Uncertainty Ahead of Record IPO",
-      "link": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+      "id": "the-decoder-https://the-decoder.com/?p=42863",
+      "title": "Gemini 4 Carbon Surpasses GPT-6.1 Sol in MathArena Benchmark, Despite Higher Costs",
+      "link": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-11-14T19:05:17.000Z",
+      "pubDate": "2026-11-14T16:48:01.000Z",
       "badgeColor": "slate",
-      "angle": "Industry Analysis"
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42859",
-      "title": "OpenAI Dissolves Robotics Team as General-Purpose Models Emerge as Robotics AI Alternatives",
-      "link": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+      "id": "the-decoder-https://the-decoder.com/?p=42853",
+      "title": "Anthropic's Mythos Retraining Efficiency Surpasses Initial Expectations, According to Former Researcher",
+      "link": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-11-14T11:40:51.000Z",
+      "pubDate": "2026-11-14T11:21:41.000Z",
       "badgeColor": "slate",
-      "angle": "Competitive Landscape"
+      "angle": "Industry Analysis"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=42846",
