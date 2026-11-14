@@ -1,20 +1,30 @@
 {
-  "headline": "Open-Source Models Emerge as a Competitive Threat to Proprietary AI Platforms",
-  "summary": "Runway's release of Praxis-1 under the Apache 2.0 license is part of a broader trend where open-source models are demonstrating advanced capabilities, challenging the dominance of proprietary AI platforms. This shift is driving innovation and reducing costs for developers.",
-  "whyItMatters": "It democratizes access to advanced AI technologies and could disrupt the business models of established AI companies, fostering a more competitive and open ecosystem.",
-  "synthesizedAt": "2026-11-14T11:28:02.711Z",
+  "headline": "OpenAI Shifts to Open-Source Models, Sparking Industry Overhaul",
+  "summary": "OpenAI's decision to discontinue its proprietary models and release open-source alternatives is driving a significant shift in the AI industry, accelerating local deployment and reducing reliance on closed platforms. This move is prompting a broader debate on the future of AI innovation and access.",
+  "whyItMatters": "It opens up advanced AI capabilities to a wider range of developers and organizations, potentially disrupting the proprietary model business model and fostering greater innovation and competition.",
+  "synthesizedAt": "2026-11-14T14:34:21.521Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42846",
-    "title": "Runway Releases Open-Source Praxis-1 for Video AI-Driven Robot Control",
-    "link": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-14T09:45:45.000Z",
-    "badgeColor": "slate",
+    "id": "interconnects-https://www.interconnects.ai/p/open-source-ai-without-jensen",
+    "title": "OpenAI Announces Decapitation of Existing AI Models, Rebuilding with Open-Source Alternatives",
+    "link": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+    "sourceName": "Interconnects (Nathan Lambert)",
+    "sourceId": "interconnects",
+    "pubDate": "2026-11-14T12:23:15.000Z",
+    "badgeColor": "indigo",
     "angle": "Official Release"
   },
   "supportingStories": [
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=42859",
+      "title": "OpenAI Dissolves Robotics Team as General-Purpose Models Emerge as Robotics AI Alternatives",
+      "link": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-14T11:40:51.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
+    },
     {
       "id": "the-decoder-https://the-decoder.com/?p=42853",
       "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
@@ -23,16 +33,16 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-11-14T11:21:41.000Z",
       "badgeColor": "slate",
-      "angle": "Industry Analysis"
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3188596",
-      "title": "Jensen Huang's Departure Casts Shadow Over AI Startup Funding",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-13T22:43:00.000Z",
-      "badgeColor": "emerald",
+      "id": "the-decoder-https://the-decoder.com/?p=42846",
+      "title": "Runway Releases Open-Source Praxis-1 for Video AI-Driven Robot Control",
+      "link": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-14T09:45:45.000Z",
+      "badgeColor": "slate",
       "angle": "Market Impact"
     }
   ]
