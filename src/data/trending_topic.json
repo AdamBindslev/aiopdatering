@@ -1,8 +1,8 @@
 {
-  "headline": "New Open-Weight Models Challenge Proprietary AI Systems",
-  "summary": "A series of new open-weight models are demonstrating advanced reasoning capabilities, rivaling top commercial systems. This trend is accelerating the deployment of local AI agents and putting pressure on closed API pricing models.",
-  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on expensive, proprietary platforms.",
-  "synthesizedAt": "2026-11-14T05:16:37.439Z",
+  "headline": "Open-Weight Models Pave Way for Local AI Agent Deployment",
+  "summary": "A series of studies and developments highlight the growing capabilities of open-weight models, demonstrating reasoning and task performance comparable to proprietary systems. This trend is driving local AI agent deployment and reducing reliance on closed APIs.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and reduces costs for developers, fostering innovation and competition in the AI ecosystem.",
+  "synthesizedAt": "2026-11-14T08:21:52.151Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "arxiv-ai-oai:arXiv.org:2611.14794v1",
@@ -12,18 +12,28 @@
     "sourceId": "arxiv-ai",
     "pubDate": "2026-11-14T05:00:00.000Z",
     "badgeColor": "zinc",
-    "angle": "Official Release"
+    "angle": "Primary Source"
   },
   "supportingStories": [
     {
-      "id": "arxiv-ai-oai:arXiv.org:2611.14544v1",
-      "title": "Zugwise Introduces Domain-Aware Model for Accurate Handwritten Chess Scoresheet Digitization",
-      "link": "https://arxiv.org/abs/2611.14544",
+      "id": "version2-https://ing.dk/holdning/itu-studerende-ai-er-alle-steder-paa-universitetet-men-hvor-er-den-kritiske-samtale-om-teknologien",
+      "title": "ITU Students: AI Ubiquitous on Campus but Lacking Critical Dialogue",
+      "link": "https://ing.dk/holdning/itu-studerende-ai-er-alle-steder-paa-universitetet-men-hvor-er-den-kritiske-samtale-om-teknologien",
+      "sourceName": "Version2 (Ingeniøren)",
+      "sourceId": "version2",
+      "pubDate": "2026-11-14T07:00:00.000Z",
+      "badgeColor": "red",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "arxiv-ai-oai:arXiv.org:2611.14654v1",
+      "title": "Research Reveals Impact of Agent History Management on Performance",
+      "link": "https://arxiv.org/abs/2611.14654",
       "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
       "sourceId": "arxiv-ai",
       "pubDate": "2026-11-14T05:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
+      "angle": "Industry Analysis"
     },
     {
       "id": "arxiv-ai-oai:arXiv.org:2611.14681v1",
@@ -33,12 +43,12 @@
       "sourceId": "arxiv-ai",
       "pubDate": "2026-11-14T05:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Industry Analysis"
+      "angle": "Official Release"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2611.14804v1",
-      "title": "GenPFN: A Training-Free Approach to Augment Small Engineering Datasets Using In-Context Tabular Data",
-      "link": "https://arxiv.org/abs/2611.14804",
+      "id": "arxiv-ai-oai:arXiv.org:2611.14910v1",
+      "title": "MuEdit: A Novel Approach to Efficiently Resolve Inter-Domain Knowledge Conflicts in Large Language Models",
+      "link": "https://arxiv.org/abs/2611.14910",
       "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
       "sourceId": "arxiv-ai",
       "pubDate": "2026-11-14T05:00:00.000Z",
