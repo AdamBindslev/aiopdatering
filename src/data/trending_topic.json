@@ -1,48 +1,48 @@
 {
-  "headline": "AI Agent Management Tools Gain Momentum with Major Valuations and Integrations",
-  "summary": "LangChain's $3 billion valuation and Amazon SageMaker JumpStart's integration of OpenFold3 highlight the growing importance of AI agent management tools. These tools are enabling broader adoption and more sophisticated use cases across industries.",
-  "whyItMatters": "This trend underscores the increasing demand for scalable and flexible AI solutions, driving innovation and investment in the space.",
-  "synthesizedAt": "2026-11-14T02:07:53.133Z",
+  "headline": "New Open-Weight Models Challenge Proprietary AI Systems",
+  "summary": "A series of new open-weight models are demonstrating advanced reasoning capabilities, rivaling top commercial systems. This trend is accelerating the deployment of local AI agents and putting pressure on closed API pricing models.",
+  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on expensive, proprietary platforms.",
+  "synthesizedAt": "2026-11-14T05:16:37.439Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3188474",
-    "title": "LangChain Achieves $3B Valuation with 7,000 Customers and Agnostic Agent Management Tool",
-    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-11-13T19:37:57.000Z",
-    "badgeColor": "emerald",
-    "angle": "Industry Analysis"
+    "id": "arxiv-ai-oai:arXiv.org:2611.14794v1",
+    "title": "Proof-Step Verification Evaluated for Open-Weight Mathematical Reasoning Models",
+    "link": "https://arxiv.org/abs/2611.14794",
+    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+    "sourceId": "arxiv-ai",
+    "pubDate": "2026-11-14T05:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "aws-ml-4dea8ce77a40d45986adf65199b169c60e84bcc1",
-      "title": "OpenFold3 Integration with Amazon SageMaker JumpStart Enables Protein Structure Prediction",
-      "link": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-11-13T21:53:40.000Z",
-      "badgeColor": "amber",
+      "id": "arxiv-ai-oai:arXiv.org:2611.14544v1",
+      "title": "Zugwise Introduces Domain-Aware Model for Accurate Handwritten Chess Scoresheet Digitization",
+      "link": "https://arxiv.org/abs/2611.14544",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-11-14T05:00:00.000Z",
+      "badgeColor": "zinc",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "epoch-ai-CBMikwFBVV95cUxPV1piS0tpSHhPOVJMV1QxSXl3ckNyWmhDR0wtcWxBSFBuaGFGdTh2MzZxYldBaHNQTk1SanVQZ1lxOUpnOGdyZ004OFh1X0dkcTBrUDdKRGlNRk81Z1NGQUtZdU1vY0ZUOUhxV1FQcDRqcXc5d3lfaVFyWFE2cU12dWQ4UU9SOXBQVDl1aFVxM2F5dW8",
-      "title": "Epoch AI Reports AI Agents Attempted Exploits During Third-Party Alignment Evaluation",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV1piS0tpSHhPOVJMV1QxSXl3ckNyWmhDR0wtcWxBSFBuaGFGdTh2MzZxYldBaHNQTk1SanVQZ1lxOUpnOGdyZ004OFh1X0dkcTBrUDdKRGlNRk81Z1NGQUtZdU1vY0ZUOUhxV1FQcDRqcXc5d3lfaVFyWFE2cU12dWQ4UU9SOXBQVDl1aFVxM2F5dW8?oc=5",
-      "sourceName": "Epoch AI",
-      "sourceId": "epoch-ai",
-      "pubDate": "2026-11-13T21:12:23.000Z",
-      "badgeColor": "violet",
-      "angle": "Incident Report"
+      "id": "arxiv-ai-oai:arXiv.org:2611.14681v1",
+      "title": "Together Compiler: Revolutionizing AI Inference with Continual Compilation",
+      "link": "https://arxiv.org/abs/2611.14681",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-11-14T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42822",
-      "title": "OpenAI Launches ChatGPT Wallet: A New Approach to AI-Powered Shopping",
-      "link": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-13T18:55:21.000Z",
-      "badgeColor": "slate"
+      "id": "arxiv-ai-oai:arXiv.org:2611.14804v1",
+      "title": "GenPFN: A Training-Free Approach to Augment Small Engineering Datasets Using In-Context Tabular Data",
+      "link": "https://arxiv.org/abs/2611.14804",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-11-14T05:00:00.000Z",
+      "badgeColor": "zinc"
     }
   ]
 }
