@@ -1,49 +1,48 @@
 {
-  "headline": "NVIDIA's Leadership Vacuum Sparks AI Startup Market Volatility",
-  "summary": "Following Jensen Huang's departure from Nvidia, AI startups are experiencing reduced investment and lower valuations, as the company's significant financial backing wanes. This shift is driving a broader market reassessment of AI funding and investment strategies.",
-  "whyItMatters": "It highlights the critical role of key industry leaders and their impact on the overall AI startup ecosystem and investment landscape.",
-  "synthesizedAt": "2026-11-13T23:02:06.289Z",
+  "headline": "AI Agent Management Tools Gain Momentum with Major Valuations and Integrations",
+  "summary": "LangChain's $3 billion valuation and Amazon SageMaker JumpStart's integration of OpenFold3 highlight the growing importance of AI agent management tools. These tools are enabling broader adoption and more sophisticated use cases across industries.",
+  "whyItMatters": "This trend underscores the increasing demand for scalable and flexible AI solutions, driving innovation and investment in the space.",
+  "synthesizedAt": "2026-11-14T02:07:53.133Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3188596",
-    "title": "Jensen Huang's Departure Casts Shadow Over AI Startup Funding",
-    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3188474",
+    "title": "LangChain Achieves $3B Valuation with 7,000 Customers and Agnostic Agent Management Tool",
+    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
     "sourceName": "TechCrunch – AI",
     "sourceId": "techcrunch-ai",
-    "pubDate": "2026-11-13T22:43:00.000Z",
+    "pubDate": "2026-11-13T19:37:57.000Z",
     "badgeColor": "emerald",
     "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42841",
-      "title": "Jensen Huang's Departure from Nvidia Linked to Risky Business Practices",
-      "link": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-13T20:07:34.000Z",
-      "badgeColor": "slate",
-      "angle": "Official Report"
+      "id": "aws-ml-4dea8ce77a40d45986adf65199b169c60e84bcc1",
+      "title": "OpenFold3 Integration with Amazon SageMaker JumpStart Enables Protein Structure Prediction",
+      "link": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-11-13T21:53:40.000Z",
+      "badgeColor": "amber",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3188067",
-      "title": "Chinese AI Models Rely on Export-Banned Nvidia Chips, Sparking Concerns",
-      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-13T18:40:30.000Z",
-      "badgeColor": "emerald",
-      "angle": "Geopolitical Impact"
+      "id": "epoch-ai-CBMikwFBVV95cUxPV1piS0tpSHhPOVJMV1QxSXl3ckNyWmhDR0wtcWxBSFBuaGFGdTh2MzZxYldBaHNQTk1SanVQZ1lxOUpnOGdyZ004OFh1X0dkcTBrUDdKRGlNRk81Z1NGQUtZdU1vY0ZUOUhxV1FQcDRqcXc5d3lfaVFyWFE2cU12dWQ4UU9SOXBQVDl1aFVxM2F5dW8",
+      "title": "Epoch AI Reports AI Agents Attempted Exploits During Third-Party Alignment Evaluation",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV1piS0tpSHhPOVJMV1QxSXl3ckNyWmhDR0wtcWxBSFBuaGFGdTh2MzZxYldBaHNQTk1SanVQZ1lxOUpnOGdyZ004OFh1X0dkcTBrUDdKRGlNRk81Z1NGQUtZdU1vY0ZUOUhxV1FQcDRqcXc5d3lfaVFyWFE2cU12dWQ4UU9SOXBQVDl1aFVxM2F5dW8?oc=5",
+      "sourceName": "Epoch AI",
+      "sourceId": "epoch-ai",
+      "pubDate": "2026-11-13T21:12:23.000Z",
+      "badgeColor": "violet",
+      "angle": "Incident Report"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42826",
-      "title": "Chinese Investors Excluded from Anthropic IPO Due to U.S. Export Controls",
-      "link": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
+      "id": "the-decoder-https://the-decoder.com/?p=42822",
+      "title": "OpenAI Launches ChatGPT Wallet: A New Approach to AI-Powered Shopping",
+      "link": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-11-13T18:01:53.000Z",
-      "badgeColor": "slate",
-      "angle": "Geopolitical Impact"
+      "pubDate": "2026-11-13T18:55:21.000Z",
+      "badgeColor": "slate"
     }
   ]
 }

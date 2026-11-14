@@ -121201,5 +121201,122 @@
     "whyItMatters": "The significant valuation reflects the increasing importance of AI agent management tools in the enterprise sector, potentially driving innovation and adoption across various industries.",
     "enrichedAt": "2026-11-13T23:01:30.757Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "tech-policy-press-https://techpolicy.press/does-the-trump-administrations-campaign-to-rebrand-ai-as-super-intelligence-matter": {
+    "title": "Tech Policy Press Examines Trump Administration’s AI Rebranding Efforts",
+    "summary": "Tech Policy Press explores the significance of the Trump Administration’s campaign to rebrand artificial intelligence as 'super intelligence,' questioning its impact on public perception and policy discussions surrounding AI technology.",
+    "danishTitle": "Tech Policy Press Examines Trump Administration’s AI Rebranding Efforts",
+    "danishSummary": "Tech Policy Press explores the significance of the Trump Administration’s campaign to rebrand artificial intelligence as 'super intelligence,' questioning its impact on public perception and policy discussions surrounding AI technology.",
+    "whyItMatters": "The rebranding effort highlights ongoing political influences on AI discourse, potentially shaping future regulatory approaches and public understanding of advanced AI capabilities.",
+    "enrichedAt": "2026-11-14T02:06:25.705Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techpolicy.press/does-the-trump-administrations-campaign-to-rebrand-ai-as-super-intelligence-matter": {
+    "title": "Tech Policy Press Examines Trump Administration’s AI Rebranding Efforts",
+    "summary": "Tech Policy Press explores the significance of the Trump Administration’s campaign to rebrand artificial intelligence as 'super intelligence,' questioning its impact on public perception and policy discussions surrounding AI technology.",
+    "danishTitle": "Tech Policy Press Examines Trump Administration’s AI Rebranding Efforts",
+    "danishSummary": "Tech Policy Press explores the significance of the Trump Administration’s campaign to rebrand artificial intelligence as 'super intelligence,' questioning its impact on public perception and policy discussions surrounding AI technology.",
+    "whyItMatters": "The rebranding effort highlights ongoing political influences on AI discourse, potentially shaping future regulatory approaches and public understanding of advanced AI capabilities.",
+    "enrichedAt": "2026-11-14T02:06:25.705Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-760cbc8b70c56b832a6d83eb6dfab47ce2fe8a3b": {
+    "title": "GS Caltex Streamlines MLOps with Amazon SageMaker Canvas and Pipelines",
+    "summary": "GS Caltex integrates Amazon SageMaker Canvas with SageMaker Pipelines to automate and streamline the deployment of no-code machine learning models, enabling process engineers to quickly and efficiently validate and deploy models in production. This approach reduces deployment time and enhances collaboration between ML engineers and domain experts.",
+    "danishTitle": "GS Caltex Streamlines MLOps with Amazon SageMaker Canvas and Pipelines",
+    "danishSummary": "GS Caltex integrates Amazon SageMaker Canvas with SageMaker Pipelines to automate and streamline the deployment of no-code machine learning models, enabling process engineers to quickly and efficiently validate and deploy models in production. This approach reduces deployment time and enhances collaboration between ML engineers and domain experts.",
+    "whyItMatters": "By automating model deployment and reusing validated preprocessing flows, GS Caltex demonstrates a scalable MLOps solution that can improve operational efficiency and accelerate the adoption of AI in industrial settings.",
+    "enrichedAt": "2026-11-14T02:06:38.663Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1": {
+    "title": "GS Caltex Streamlines MLOps with Amazon SageMaker Canvas and Pipelines",
+    "summary": "GS Caltex integrates Amazon SageMaker Canvas with SageMaker Pipelines to automate and streamline the deployment of no-code machine learning models, enabling process engineers to quickly and efficiently validate and deploy models in production. This approach reduces deployment time and enhances collaboration between ML engineers and domain experts.",
+    "danishTitle": "GS Caltex Streamlines MLOps with Amazon SageMaker Canvas and Pipelines",
+    "danishSummary": "GS Caltex integrates Amazon SageMaker Canvas with SageMaker Pipelines to automate and streamline the deployment of no-code machine learning models, enabling process engineers to quickly and efficiently validate and deploy models in production. This approach reduces deployment time and enhances collaboration between ML engineers and domain experts.",
+    "whyItMatters": "By automating model deployment and reusing validated preprocessing flows, GS Caltex demonstrates a scalable MLOps solution that can improve operational efficiency and accelerate the adoption of AI in industrial settings.",
+    "enrichedAt": "2026-11-14T02:06:38.663Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/": {
+    "title": "GS Caltex Streamlines MLOps with Amazon SageMaker Canvas and Pipelines",
+    "summary": "GS Caltex integrates Amazon SageMaker Canvas with SageMaker Pipelines to automate and streamline the deployment of no-code machine learning models, enabling process engineers to quickly and efficiently validate and deploy models in production. This approach reduces deployment time and enhances collaboration between ML engineers and domain experts.",
+    "danishTitle": "GS Caltex Streamlines MLOps with Amazon SageMaker Canvas and Pipelines",
+    "danishSummary": "GS Caltex integrates Amazon SageMaker Canvas with SageMaker Pipelines to automate and streamline the deployment of no-code machine learning models, enabling process engineers to quickly and efficiently validate and deploy models in production. This approach reduces deployment time and enhances collaboration between ML engineers and domain experts.",
+    "whyItMatters": "By automating model deployment and reusing validated preprocessing flows, GS Caltex demonstrates a scalable MLOps solution that can improve operational efficiency and accelerate the adoption of AI in industrial settings.",
+    "enrichedAt": "2026-11-14T02:06:38.663Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Nov/13/datasette-cluster-map/": {
+    "title": "datasette-cluster-map 0.19 Released: Enhancing Geospatial Data Visualization in Datasette",
+    "summary": "Simon Willison has released version 0.19 of the datasette-cluster-map plugin, which integrates geospatial data visualization capabilities into Datasette, a popular open-source web application for exploring and sharing databases. This update ensures compatibility with Datasette 1.0a42 and leverages datasette-leaflet for optimized OpenStreetMap tile requests.",
+    "danishTitle": "datasette-cluster-map 0.19 Released: Enhancing Geospatial Data Visualization in Datasette",
+    "danishSummary": "Simon Willison has released version 0.19 of the datasette-cluster-map plugin, which integrates geospatial data visualization capabilities into Datasette, a popular open-source web application for exploring and sharing databases. This update ensures compatibility with Datasette 1.0a42 and leverages datasette-leaflet for optimized OpenStreetMap tile requests.",
+    "whyItMatters": "This release strengthens Datasette’s geospatial data visualization features, making it a more robust tool for developers and data analysts who need to explore and present location-based data effectively.",
+    "enrichedAt": "2026-11-14T02:06:53.071Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/nov/13/datasette-cluster-map": {
+    "title": "datasette-cluster-map 0.19 Released: Enhancing Geospatial Data Visualization in Datasette",
+    "summary": "Simon Willison has released version 0.19 of the datasette-cluster-map plugin, which integrates geospatial data visualization capabilities into Datasette, a popular open-source web application for exploring and sharing databases. This update ensures compatibility with Datasette 1.0a42 and leverages datasette-leaflet for optimized OpenStreetMap tile requests.",
+    "danishTitle": "datasette-cluster-map 0.19 Released: Enhancing Geospatial Data Visualization in Datasette",
+    "danishSummary": "Simon Willison has released version 0.19 of the datasette-cluster-map plugin, which integrates geospatial data visualization capabilities into Datasette, a popular open-source web application for exploring and sharing databases. This update ensures compatibility with Datasette 1.0a42 and leverages datasette-leaflet for optimized OpenStreetMap tile requests.",
+    "whyItMatters": "This release strengthens Datasette’s geospatial data visualization features, making it a more robust tool for developers and data analysts who need to explore and present location-based data effectively.",
+    "enrichedAt": "2026-11-14T02:06:53.071Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/": {
+    "title": "datasette-cluster-map 0.19 Released: Enhancing Geospatial Data Visualization in Datasette",
+    "summary": "Simon Willison has released version 0.19 of the datasette-cluster-map plugin, which integrates geospatial data visualization capabilities into Datasette, a popular open-source web application for exploring and sharing databases. This update ensures compatibility with Datasette 1.0a42 and leverages datasette-leaflet for optimized OpenStreetMap tile requests.",
+    "danishTitle": "datasette-cluster-map 0.19 Released: Enhancing Geospatial Data Visualization in Datasette",
+    "danishSummary": "Simon Willison has released version 0.19 of the datasette-cluster-map plugin, which integrates geospatial data visualization capabilities into Datasette, a popular open-source web application for exploring and sharing databases. This update ensures compatibility with Datasette 1.0a42 and leverages datasette-leaflet for optimized OpenStreetMap tile requests.",
+    "whyItMatters": "This release strengthens Datasette’s geospatial data visualization features, making it a more robust tool for developers and data analysts who need to explore and present location-based data effectively.",
+    "enrichedAt": "2026-11-14T02:06:53.071Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Nov/13/datasette-leaflet/": {
+    "title": "datasette-leaflet 0.3 Release Addresses OpenStreetMap Referrer Policy Compliance",
+    "summary": "Simon Willison has released datasette-leaflet 0.3, a plugin for the Datasette database browser, which now correctly implements the OpenStreetMap referrer policy, ensuring that requests to their hosted tile server include a referrer header. This update resolves a compatibility issue with the previous version that used a no-referrer policy.",
+    "danishTitle": "datasette-leaflet 0.3 Release Addresses OpenStreetMap Referrer Policy Compliance",
+    "danishSummary": "Simon Willison has released datasette-leaflet 0.3, a plugin for the Datasette database browser, which now correctly implements the OpenStreetMap referrer policy, ensuring that requests to their hosted tile server include a referrer header. This update resolves a compatibility issue with the previous version that used a no-referrer policy.",
+    "whyItMatters": "Improving compatibility with OpenStreetMap's referrer policy ensures seamless integration and usage of geographic data in Datasette applications, enhancing the overall functionality and user experience for developers and data analysts.",
+    "enrichedAt": "2026-11-14T02:07:06.935Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/nov/13/datasette-leaflet": {
+    "title": "datasette-leaflet 0.3 Release Addresses OpenStreetMap Referrer Policy Compliance",
+    "summary": "Simon Willison has released datasette-leaflet 0.3, a plugin for the Datasette database browser, which now correctly implements the OpenStreetMap referrer policy, ensuring that requests to their hosted tile server include a referrer header. This update resolves a compatibility issue with the previous version that used a no-referrer policy.",
+    "danishTitle": "datasette-leaflet 0.3 Release Addresses OpenStreetMap Referrer Policy Compliance",
+    "danishSummary": "Simon Willison has released datasette-leaflet 0.3, a plugin for the Datasette database browser, which now correctly implements the OpenStreetMap referrer policy, ensuring that requests to their hosted tile server include a referrer header. This update resolves a compatibility issue with the previous version that used a no-referrer policy.",
+    "whyItMatters": "Improving compatibility with OpenStreetMap's referrer policy ensures seamless integration and usage of geographic data in Datasette applications, enhancing the overall functionality and user experience for developers and data analysts.",
+    "enrichedAt": "2026-11-14T02:07:06.935Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Nov/13/datasette-leaflet/": {
+    "title": "datasette-leaflet 0.3 Release Addresses OpenStreetMap Referrer Policy Compliance",
+    "summary": "Simon Willison has released datasette-leaflet 0.3, a plugin for the Datasette database browser, which now correctly implements the OpenStreetMap referrer policy, ensuring that requests to their hosted tile server include a referrer header. This update resolves a compatibility issue with the previous version that used a no-referrer policy.",
+    "danishTitle": "datasette-leaflet 0.3 Release Addresses OpenStreetMap Referrer Policy Compliance",
+    "danishSummary": "Simon Willison has released datasette-leaflet 0.3, a plugin for the Datasette database browser, which now correctly implements the OpenStreetMap referrer policy, ensuring that requests to their hosted tile server include a referrer header. This update resolves a compatibility issue with the previous version that used a no-referrer policy.",
+    "whyItMatters": "Improving compatibility with OpenStreetMap's referrer policy ensures seamless integration and usage of geographic data in Datasette applications, enhancing the overall functionality and user experience for developers and data analysts.",
+    "enrichedAt": "2026-11-14T02:07:06.935Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "openai-https://openai.com/business/customer-stories/shield": {
+    "title": "OpenAI's Shield Enables Seamless Handoff of Legacy Portal Work to IT Technicians",
+    "summary": "OpenAI has launched Shield, a tool that leverages its AI capabilities to assist IT technicians in managing legacy portal tasks. By utilizing Forge agents to navigate and handle routine issues, Shield allows technicians to concentrate on more complex and critical tasks that require human judgment.",
+    "danishTitle": "OpenAI's Shield Enables Seamless Handoff of Legacy Portal Work to IT Technicians",
+    "danishSummary": "OpenAI has launched Shield, a tool that leverages its AI capabilities to assist IT technicians in managing legacy portal tasks. By utilizing Forge agents to navigate and handle routine issues, Shield allows technicians to concentrate on more complex and critical tasks that require human judgment.",
+    "whyItMatters": "This solution enhances efficiency and productivity in IT departments by automating mundane tasks, thereby freeing up technicians to focus on higher-value work and improving overall service quality.",
+    "enrichedAt": "2026-11-14T02:07:18.492Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://openai.com/business/customer-stories/shield": {
+    "title": "OpenAI's Shield Enables Seamless Handoff of Legacy Portal Work to IT Technicians",
+    "summary": "OpenAI has launched Shield, a tool that leverages its AI capabilities to assist IT technicians in managing legacy portal tasks. By utilizing Forge agents to navigate and handle routine issues, Shield allows technicians to concentrate on more complex and critical tasks that require human judgment.",
+    "danishTitle": "OpenAI's Shield Enables Seamless Handoff of Legacy Portal Work to IT Technicians",
+    "danishSummary": "OpenAI has launched Shield, a tool that leverages its AI capabilities to assist IT technicians in managing legacy portal tasks. By utilizing Forge agents to navigate and handle routine issues, Shield allows technicians to concentrate on more complex and critical tasks that require human judgment.",
+    "whyItMatters": "This solution enhances efficiency and productivity in IT departments by automating mundane tasks, thereby freeing up technicians to focus on higher-value work and improving overall service quality.",
+    "enrichedAt": "2026-11-14T02:07:18.492Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }
