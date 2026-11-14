@@ -1,37 +1,28 @@
 {
-  "headline": "Open-Source AI Models Gain Momentum, Outperforming Proprietary Models",
-  "summary": "Open-source AI models like Gemini 4 Carbon and Mythos are outperforming their proprietary counterparts in various benchmarks and applications, driving a shift towards open-weight models and reducing reliance on closed APIs.",
-  "whyItMatters": "This trend is democratizing access to advanced AI capabilities and potentially lowering costs, which could significantly impact the AI industry and developer practices.",
-  "synthesizedAt": "2026-11-14T17:41:32.698Z",
+  "headline": "Open-Source AI Models Gain Momentum, Challenge Proprietary Ecosystems",
+  "summary": "A surge in open-source AI models, exemplified by Anthropic's decision to discontinue proprietary models and release open alternatives, is reshaping the AI landscape. This shift is driving broader access and reducing dependency on closed platforms.",
+  "whyItMatters": "It democratizes advanced AI capabilities, potentially lowering barriers to entry and fostering innovation across various sectors.",
+  "synthesizedAt": "2026-11-14T20:47:40.767Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42863",
-    "title": "Gemini 4 Carbon Surpasses GPT-6.1 Sol in MathArena Benchmark, Despite Higher Costs",
-    "link": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-14T16:48:01.000Z",
-    "badgeColor": "slate",
-    "angle": "Technical Deep Dive"
+    "id": "interconnects-https://www.interconnects.ai/p/open-source-ai-without-jensen",
+    "title": "OpenAI Announces Decapitation of Existing AI Models, Rebuilding with Open-Source Alternatives",
+    "link": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+    "sourceName": "Interconnects (Nathan Lambert)",
+    "sourceId": "interconnects",
+    "pubDate": "2026-11-14T12:23:15.000Z",
+    "badgeColor": "indigo",
+    "angle": "Official Announcement"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3162590",
-      "title": "TechCrunch Highlights Failed AI Projects and Startups in 'AI Graveyard' Report",
-      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-14T17:30:00.000Z",
-      "badgeColor": "emerald"
-    },
-    {
-      "id": "interconnects-https://www.interconnects.ai/p/open-source-ai-without-jensen",
-      "title": "OpenAI Announces Decapitation of Existing AI Models, Rebuilding with Open-Source Alternatives",
-      "link": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
-      "sourceName": "Interconnects (Nathan Lambert)",
-      "sourceId": "interconnects",
-      "pubDate": "2026-11-14T12:23:15.000Z",
-      "badgeColor": "indigo",
+      "id": "the-decoder-https://the-decoder.com/?p=42873",
+      "title": "Anthropic CEO Amodei Warns of Uncertainty Ahead of Record IPO",
+      "link": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-14T19:05:17.000Z",
+      "badgeColor": "slate",
       "angle": "Industry Analysis"
     },
     {
@@ -42,7 +33,7 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-11-14T11:40:51.000Z",
       "badgeColor": "slate",
-      "angle": "Critical Debate"
+      "angle": "Competitive Landscape"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=42846",
@@ -51,8 +42,7 @@
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
       "pubDate": "2026-11-14T09:45:45.000Z",
-      "badgeColor": "slate",
-      "angle": "Hands-on Benchmark"
+      "badgeColor": "slate"
     }
   ]
 }
