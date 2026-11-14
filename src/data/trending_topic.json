@@ -1,58 +1,39 @@
 {
-  "headline": "Open-Weight Models Pave Way for Local AI Agent Deployment",
-  "summary": "A series of studies and developments highlight the growing capabilities of open-weight models, demonstrating reasoning and task performance comparable to proprietary systems. This trend is driving local AI agent deployment and reducing reliance on closed APIs.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and reduces costs for developers, fostering innovation and competition in the AI ecosystem.",
-  "synthesizedAt": "2026-11-14T08:21:52.151Z",
+  "headline": "Open-Source Models Emerge as a Competitive Threat to Proprietary AI Platforms",
+  "summary": "Runway's release of Praxis-1 under the Apache 2.0 license is part of a broader trend where open-source models are demonstrating advanced capabilities, challenging the dominance of proprietary AI platforms. This shift is driving innovation and reducing costs for developers.",
+  "whyItMatters": "It democratizes access to advanced AI technologies and could disrupt the business models of established AI companies, fostering a more competitive and open ecosystem.",
+  "synthesizedAt": "2026-11-14T11:28:02.711Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2611.14794v1",
-    "title": "Proof-Step Verification Evaluated for Open-Weight Mathematical Reasoning Models",
-    "link": "https://arxiv.org/abs/2611.14794",
-    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-    "sourceId": "arxiv-ai",
-    "pubDate": "2026-11-14T05:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "Primary Source"
+    "id": "the-decoder-https://the-decoder.com/?p=42846",
+    "title": "Runway Releases Open-Source Praxis-1 for Video AI-Driven Robot Control",
+    "link": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-14T09:45:45.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "version2-https://ing.dk/holdning/itu-studerende-ai-er-alle-steder-paa-universitetet-men-hvor-er-den-kritiske-samtale-om-teknologien",
-      "title": "ITU Students: AI Ubiquitous on Campus but Lacking Critical Dialogue",
-      "link": "https://ing.dk/holdning/itu-studerende-ai-er-alle-steder-paa-universitetet-men-hvor-er-den-kritiske-samtale-om-teknologien",
-      "sourceName": "Version2 (Ingeniøren)",
-      "sourceId": "version2",
-      "pubDate": "2026-11-14T07:00:00.000Z",
-      "badgeColor": "red",
+      "id": "the-decoder-https://the-decoder.com/?p=42853",
+      "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+      "link": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-14T11:21:41.000Z",
+      "badgeColor": "slate",
       "angle": "Industry Analysis"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2611.14654v1",
-      "title": "Research Reveals Impact of Agent History Management on Performance",
-      "link": "https://arxiv.org/abs/2611.14654",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-11-14T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2611.14681v1",
-      "title": "Together Compiler: Revolutionizing AI Inference with Continual Compilation",
-      "link": "https://arxiv.org/abs/2611.14681",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-11-14T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Official Release"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2611.14910v1",
-      "title": "MuEdit: A Novel Approach to Efficiently Resolve Inter-Domain Knowledge Conflicts in Large Language Models",
-      "link": "https://arxiv.org/abs/2611.14910",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-11-14T05:00:00.000Z",
-      "badgeColor": "zinc"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3188596",
+      "title": "Jensen Huang's Departure Casts Shadow Over AI Startup Funding",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-13T22:43:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Market Impact"
     }
   ]
 }
