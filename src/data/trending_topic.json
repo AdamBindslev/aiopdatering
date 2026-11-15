@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Giants",
-  "summary": "A surge of open-source AI models, including those from Anthropic and Runway, is outperforming and challenging proprietary models from companies like Anthropic and Nvidia. This shift is democratizing access to advanced AI capabilities and putting pressure on closed platforms.",
-  "whyItMatters": "It broadens access to cutting-edge AI technologies and could lead to a more competitive and diverse AI ecosystem, reducing reliance on proprietary solutions.",
-  "synthesizedAt": "2026-11-15T12:22:18.534Z",
+  "headline": "Open-Source AI Models Challenge Proprietary Monopolies",
+  "summary": "A surge in open-source AI models, exemplified by OpenAI's decision to discontinue proprietary models and Anthropic's retraining efficiency, is challenging the dominance of closed platforms. This shift is democratizing access to advanced AI capabilities and driving innovation.",
+  "whyItMatters": "It reduces dependency on proprietary platforms, fostering a more competitive and accessible AI ecosystem, which is crucial for developers and businesses alike.",
+  "synthesizedAt": "2026-11-15T15:28:09.011Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "interconnects-https://www.interconnects.ai/p/open-source-ai-without-jensen",
@@ -12,9 +12,19 @@
     "sourceId": "interconnects",
     "pubDate": "2026-11-14T12:23:15.000Z",
     "badgeColor": "indigo",
-    "angle": "Official Release"
+    "angle": "Official Announcement"
   },
   "supportingStories": [
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=42873",
+      "title": "Anthropic CEO Amodei Warns of Uncertainty Ahead of Record IPO",
+      "link": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-14T19:05:17.000Z",
+      "badgeColor": "slate",
+      "angle": "Performance Benchmark"
+    },
     {
       "id": "the-decoder-https://the-decoder.com/?p=42853",
       "title": "Anthropic's Mythos Retraining Efficiency Surpasses Initial Expectations, According to Former Researcher",
@@ -23,7 +33,7 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-11-14T11:21:41.000Z",
       "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
+      "angle": "Industry Analysis"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=42846",
@@ -32,8 +42,7 @@
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
       "pubDate": "2026-11-14T09:45:45.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Analysis"
+      "badgeColor": "slate"
     }
   ]
 }
