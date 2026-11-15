@@ -1,18 +1,18 @@
 {
-  "headline": "Open-Source AI Models Gain Momentum, Challenge Proprietary Models",
-  "summary": "A growing number of open-source AI models, such as Gemini 4 Carbon and Runway's Praxis-1, are outperforming proprietary models. This trend is driving broader access to advanced AI capabilities and potentially reducing costs for developers.",
-  "whyItMatters": "It democratizes access to high-performance AI models, fostering innovation and competition in the AI industry.",
-  "synthesizedAt": "2026-11-15T18:35:10.223Z",
+  "headline": "Open-Source AI Models Gain Momentum, Disrupting Proprietary Ecosystems",
+  "summary": "A growing number of open-source AI models, including OpenAI's decapitation of proprietary models and Runway's open-source Praxis-1, are challenging the dominance of closed platforms. This shift is driving broader access to advanced AI capabilities and reducing costs for developers.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and reduces developer dependence on expensive proprietary platforms, fostering innovation and competition.",
+  "synthesizedAt": "2026-11-15T21:42:07.667Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=42863",
-    "title": "Gemini 4 Carbon Surpasses GPT-6.1 Sol in MathArena Benchmark, Despite Higher Costs",
-    "link": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-14T16:48:01.000Z",
-    "badgeColor": "slate",
-    "angle": "Technical Benchmark"
+    "id": "interconnects-https://www.interconnects.ai/p/open-source-ai-without-jensen",
+    "title": "OpenAI Announces Decapitation of Existing AI Models, Rebuilding with Open-Source Alternatives",
+    "link": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+    "sourceName": "Interconnects (Nathan Lambert)",
+    "sourceId": "interconnects",
+    "pubDate": "2026-11-14T12:23:15.000Z",
+    "badgeColor": "indigo",
+    "angle": "Official Announcement"
   },
   "supportingStories": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-11-14T11:40:51.000Z",
       "badgeColor": "slate",
-      "angle": "Industry Shift"
+      "angle": "Industry Analysis"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=42846",
@@ -33,7 +33,7 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-11-14T09:45:45.000Z",
       "badgeColor": "slate",
-      "angle": "Open-Source Release"
+      "angle": "Hands-on Benchmark"
     }
   ]
 }
