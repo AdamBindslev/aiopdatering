@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Source AI Models Emerge as Proprietary Systems Face Challenges",
-  "summary": "Open-source AI models are gaining traction as companies and researchers question the sustainability and ethics of proprietary systems, particularly following key leadership changes at major players like Nvidia. This shift is driving innovation and reducing costs in the AI industry.",
-  "whyItMatters": "It democratizes access to advanced AI capabilities, potentially disrupting the business models of large tech firms and accelerating the development of open-source ecosystems.",
-  "synthesizedAt": "2026-11-15T03:01:43.033Z",
+  "headline": "Open-Source AI Models Gain Momentum, Challenging Proprietary Models",
+  "summary": "A surge in open-source AI models, particularly from Anthropic and Runway, is demonstrating competitive performance against proprietary models like GPT-6 Astra. This shift is opening up advanced AI capabilities to a broader audience and pressuring closed-platform providers.",
+  "whyItMatters": "It democratizes access to powerful AI tools, potentially reducing costs and increasing innovation across the industry.",
+  "synthesizedAt": "2026-11-15T06:07:48.757Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "interconnects-https://www.interconnects.ai/p/open-source-ai-without-jensen",
@@ -12,27 +12,37 @@
     "sourceId": "interconnects",
     "pubDate": "2026-11-14T12:23:15.000Z",
     "badgeColor": "indigo",
-    "angle": "Technical Deep Dive"
+    "angle": "Official Announcement"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3188673",
-      "title": "Nvidia's Security Chief Departure Raises Concerns Amid CEO Scandal",
-      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-15T00:08:07.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
+      "id": "the-decoder-https://the-decoder.com/?p=42863",
+      "title": "Gemini 4 Carbon Surpasses GPT-6.1 Sol in MathArena Benchmark, Despite Higher Costs",
+      "link": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-14T16:48:01.000Z",
+      "badgeColor": "slate",
+      "angle": "Technical Performance"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3188596",
-      "title": "Jensen Huang's Departure Casts Shadow Over AI Startup Funding",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-13T22:43:00.000Z",
-      "badgeColor": "emerald"
+      "id": "the-decoder-https://the-decoder.com/?p=42859",
+      "title": "OpenAI Dissolves Robotics Team as General-Purpose Models Emerge as Robotics AI Alternatives",
+      "link": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-14T11:40:51.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Impact"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=42846",
+      "title": "Runway Releases Open-Source Praxis-1 for Video AI-Driven Robot Control",
+      "link": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-14T09:45:45.000Z",
+      "badgeColor": "slate"
     }
   ]
 }
