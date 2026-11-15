@@ -1,8 +1,8 @@
 {
   "headline": "Open-Source AI Models Gain Momentum, Challenging Proprietary Models",
-  "summary": "A surge in open-source AI models, particularly from Anthropic and Runway, is demonstrating competitive performance against proprietary models like GPT-6 Astra. This shift is opening up advanced AI capabilities to a broader audience and pressuring closed-platform providers.",
-  "whyItMatters": "It democratizes access to powerful AI tools, potentially reducing costs and increasing innovation across the industry.",
-  "synthesizedAt": "2026-11-15T06:07:48.757Z",
+  "summary": "Open-source AI models, such as those from OpenAI and Anthropic, are gaining traction, offering advanced capabilities while reducing dependency on proprietary platforms. This shift is driving innovation and democratizing access to cutting-edge AI technologies.",
+  "whyItMatters": "This trend is crucial for reducing barriers to entry for developers and startups, fostering a more competitive and inclusive AI ecosystem.",
+  "synthesizedAt": "2026-11-15T09:15:16.259Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "interconnects-https://www.interconnects.ai/p/open-source-ai-without-jensen",
@@ -12,19 +12,9 @@
     "sourceId": "interconnects",
     "pubDate": "2026-11-14T12:23:15.000Z",
     "badgeColor": "indigo",
-    "angle": "Official Announcement"
+    "angle": "Official Release"
   },
   "supportingStories": [
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=42863",
-      "title": "Gemini 4 Carbon Surpasses GPT-6.1 Sol in MathArena Benchmark, Despite Higher Costs",
-      "link": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-14T16:48:01.000Z",
-      "badgeColor": "slate",
-      "angle": "Technical Performance"
-    },
     {
       "id": "the-decoder-https://the-decoder.com/?p=42859",
       "title": "OpenAI Dissolves Robotics Team as General-Purpose Models Emerge as Robotics AI Alternatives",
@@ -33,7 +23,17 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-11-14T11:40:51.000Z",
       "badgeColor": "slate",
-      "angle": "Industry Impact"
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=42853",
+      "title": "Anthropic's Mythos Retraining Efficiency Surpasses Initial Expectations, According to Former Researcher",
+      "link": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-14T11:21:41.000Z",
+      "badgeColor": "slate",
+      "angle": "Technical Deep Dive"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=42846",
