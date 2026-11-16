@@ -1,39 +1,29 @@
 {
-  "headline": "Open-Weight Language Models Pave Way for On-Premise AI Innovation",
-  "summary": "A series of new open-weight language models are emerging, enabling on-premise AI applications and reducing reliance on proprietary platforms. These models are driving innovation in various industries, from journalism to healthcare, by providing more accessible and flexible AI solutions.",
-  "whyItMatters": "This trend democratizes AI access, allowing smaller organizations and institutions to deploy advanced AI technologies without the need for expensive cloud services or proprietary APIs.",
-  "synthesizedAt": "2026-11-16T13:18:06.574Z",
+  "headline": "OpenAI Expands AI Agent Capabilities for Healthcare Teams",
+  "summary": "OpenAI has expanded its AI agent capabilities for healthcare teams, enhancing their ability to manage complex tasks and improve patient care through advanced AI-driven tools and plugins.",
+  "whyItMatters": "This expansion underscores the growing importance of AI in healthcare, offering practical solutions that can significantly improve efficiency and patient outcomes.",
+  "synthesizedAt": "2026-11-16T16:27:00.796Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-cl-oai:arXiv.org:2611.17589v1",
-    "title": "Small Open-Weight Language Models Enable On-Premise Crowd Decision-Making",
-    "link": "https://arxiv.org/abs/2611.17589",
-    "sourceName": "arXiv cs.CL (Sprog & LLM)",
-    "sourceId": "arxiv-cl",
-    "pubDate": "2026-11-16T05:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "On-Premise Innovation"
+    "id": "openai-https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "title": "OpenAI Expands AI Agent Capabilities for Healthcare Teams",
+    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "sourceName": "OpenAI News",
+    "sourceId": "openai",
+    "pubDate": "2026-11-16T06:00:00.000Z",
+    "badgeColor": "emerald",
+    "angle": "Healthcare Innovation"
   },
   "supportingStories": [
     {
-      "id": "openai-channel-yt:video:soNLXvgUqNY",
-      "title": "OpenAI Launches Collaborative Platform for Large Language Models",
-      "link": "https://www.youtube.com/watch?v=soNLXvgUqNY",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-16T05:00:26.000Z",
+      "id": "openai-https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "title": "OpenAI Expands ChatGPT for Healthcare with Enhanced Agents and Plugins",
+      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "sourceName": "OpenAI News",
+      "sourceId": "openai",
+      "pubDate": "2026-11-16T06:00:00.000Z",
       "badgeColor": "emerald",
-      "angle": "Collaborative Platform"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2611.17563v1",
-      "title": "New AI Model Enables Self-Disagreement to Improve Accuracy and Flexibility",
-      "link": "https://arxiv.org/abs/2611.17563",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-11-16T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Self-Disagreement Mechanisms"
+      "angle": "Enhanced Functionality"
     }
   ]
 }
