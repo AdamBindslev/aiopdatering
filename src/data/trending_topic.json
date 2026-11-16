@@ -1,29 +1,39 @@
 {
-  "headline": "Open-Weight Models Pave Way for Local AI Agent Deployment",
-  "summary": "Recent advancements in open-weight models, such as Nemotron 3.5 Transcribe and the new research on small open-weight models, are demonstrating reasoning capabilities that rival proprietary systems. This trend is accelerating local AI agent deployment and reducing reliance on closed APIs.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and reduces costs, fostering innovation and competition in the AI industry.",
-  "synthesizedAt": "2026-11-16T10:14:10.455Z",
+  "headline": "Open-Weight Language Models Pave Way for On-Premise AI Innovation",
+  "summary": "A series of new open-weight language models are emerging, enabling on-premise AI applications and reducing reliance on proprietary platforms. These models are driving innovation in various industries, from journalism to healthcare, by providing more accessible and flexible AI solutions.",
+  "whyItMatters": "This trend democratizes AI access, allowing smaller organizations and institutions to deploy advanced AI technologies without the need for expensive cloud services or proprietary APIs.",
+  "synthesizedAt": "2026-11-16T13:18:06.574Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "nvidia-developer-yt:video:HXMbNl5KgeA",
-    "title": "Nemotron 3.5 Transcribe: Enhanced Multilingual Audio Processing Model from Nemotron Labs",
-    "link": "https://www.youtube.com/watch?v=HXMbNl5KgeA",
-    "sourceName": "NVIDIA Developer",
-    "sourceId": "nvidia-developer",
-    "pubDate": "2026-11-16T06:08:23.000Z",
-    "badgeColor": "green",
-    "angle": "Technical Deep Dive"
+    "id": "arxiv-cl-oai:arXiv.org:2611.17589v1",
+    "title": "Small Open-Weight Language Models Enable On-Premise Crowd Decision-Making",
+    "link": "https://arxiv.org/abs/2611.17589",
+    "sourceName": "arXiv cs.CL (Sprog & LLM)",
+    "sourceId": "arxiv-cl",
+    "pubDate": "2026-11-16T05:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "On-Premise Innovation"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2611.17589v1",
-      "title": "Small Open-Weight Language Models Enable On-Premise Crowd Decision-Making",
-      "link": "https://arxiv.org/abs/2611.17589",
+      "id": "openai-channel-yt:video:soNLXvgUqNY",
+      "title": "OpenAI Launches Collaborative Platform for Large Language Models",
+      "link": "https://www.youtube.com/watch?v=soNLXvgUqNY",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-11-16T05:00:26.000Z",
+      "badgeColor": "emerald",
+      "angle": "Collaborative Platform"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2611.17563v1",
+      "title": "New AI Model Enables Self-Disagreement to Improve Accuracy and Flexibility",
+      "link": "https://arxiv.org/abs/2611.17563",
       "sourceName": "arXiv cs.CL (Sprog & LLM)",
       "sourceId": "arxiv-cl",
       "pubDate": "2026-11-16T05:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Industry Analysis"
+      "angle": "Self-Disagreement Mechanisms"
     }
   ]
 }
