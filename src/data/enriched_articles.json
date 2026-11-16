@@ -122650,5 +122650,140 @@
     "whyItMatters": "Nvidia’s economic challenges could impact AI hardware availability and pricing, potentially slowing down AI adoption and innovation across various sectors.",
     "enrichedAt": "2026-11-16T00:48:46.079Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3188803": {
+    "title": "Apple Launches Health AI Study App to Explore User Engagement",
+    "summary": "Apple has launched a new app aimed at studying how individuals use AI for health-related queries. The app will gather data on user interactions to better understand and enhance AI health applications.",
+    "danishTitle": "Apple Launches Health AI Study App to Explore User Engagement",
+    "danishSummary": "Apple has launched a new app aimed at studying how individuals use AI for health-related queries. The app will gather data on user interactions to better understand and enhance AI health applications.",
+    "whyItMatters": "By collecting detailed user data, Apple can refine AI health tools, potentially improving their accuracy and usability, which is crucial for the growing market of AI-driven health solutions.",
+    "enrichedAt": "2026-11-16T03:54:44.957Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health": {
+    "title": "Apple Launches Health AI Study App to Explore User Engagement",
+    "summary": "Apple has launched a new app aimed at studying how individuals use AI for health-related queries. The app will gather data on user interactions to better understand and enhance AI health applications.",
+    "danishTitle": "Apple Launches Health AI Study App to Explore User Engagement",
+    "danishSummary": "Apple has launched a new app aimed at studying how individuals use AI for health-related queries. The app will gather data on user interactions to better understand and enhance AI health applications.",
+    "whyItMatters": "By collecting detailed user data, Apple can refine AI health tools, potentially improving their accuracy and usability, which is crucial for the growing market of AI-driven health solutions.",
+    "enrichedAt": "2026-11-16T03:54:44.957Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/": {
+    "title": "Apple Launches Health AI Study App to Explore User Engagement",
+    "summary": "Apple has launched a new app aimed at studying how individuals use AI for health-related queries. The app will gather data on user interactions to better understand and enhance AI health applications.",
+    "danishTitle": "Apple Launches Health AI Study App to Explore User Engagement",
+    "danishSummary": "Apple has launched a new app aimed at studying how individuals use AI for health-related queries. The app will gather data on user interactions to better understand and enhance AI health applications.",
+    "whyItMatters": "By collecting detailed user data, Apple can refine AI health tools, potentially improving their accuracy and usability, which is crucial for the growing market of AI-driven health solutions.",
+    "enrichedAt": "2026-11-16T03:54:44.957Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Nov/15/datasette-maplibre/": {
+    "title": "datasette-maplibre 0.1a0: A New Geospatial Plugin for Datasette",
+    "summary": "Simon Willison has released datasette-maplibre 0.1a0, the first new geospatial plugin for Datasette in a while. This plugin integrates MapLibre GL with OpenFreeMap, a free vector map server, enhancing Datasette's mapping capabilities.",
+    "danishTitle": "datasette-maplibre 0.1a0: A New Geospatial Plugin for Datasette",
+    "danishSummary": "Simon Willison has released datasette-maplibre 0.1a0, the first new geospatial plugin for Datasette in a while. This plugin integrates MapLibre GL with OpenFreeMap, a free vector map server, enhancing Datasette's mapping capabilities.",
+    "whyItMatters": "This release offers developers a cost-effective and flexible way to incorporate advanced mapping functionalities into their Datasette applications, potentially expanding the platform's utility in geographic data visualization projects.",
+    "enrichedAt": "2026-11-16T03:54:57.437Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/nov/15/datasette-maplibre": {
+    "title": "datasette-maplibre 0.1a0: A New Geospatial Plugin for Datasette",
+    "summary": "Simon Willison has released datasette-maplibre 0.1a0, the first new geospatial plugin for Datasette in a while. This plugin integrates MapLibre GL with OpenFreeMap, a free vector map server, enhancing Datasette's mapping capabilities.",
+    "danishTitle": "datasette-maplibre 0.1a0: A New Geospatial Plugin for Datasette",
+    "danishSummary": "Simon Willison has released datasette-maplibre 0.1a0, the first new geospatial plugin for Datasette in a while. This plugin integrates MapLibre GL with OpenFreeMap, a free vector map server, enhancing Datasette's mapping capabilities.",
+    "whyItMatters": "This release offers developers a cost-effective and flexible way to incorporate advanced mapping functionalities into their Datasette applications, potentially expanding the platform's utility in geographic data visualization projects.",
+    "enrichedAt": "2026-11-16T03:54:57.437Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Nov/15/datasette-maplibre/": {
+    "title": "datasette-maplibre 0.1a0: A New Geospatial Plugin for Datasette",
+    "summary": "Simon Willison has released datasette-maplibre 0.1a0, the first new geospatial plugin for Datasette in a while. This plugin integrates MapLibre GL with OpenFreeMap, a free vector map server, enhancing Datasette's mapping capabilities.",
+    "danishTitle": "datasette-maplibre 0.1a0: A New Geospatial Plugin for Datasette",
+    "danishSummary": "Simon Willison has released datasette-maplibre 0.1a0, the first new geospatial plugin for Datasette in a while. This plugin integrates MapLibre GL with OpenFreeMap, a free vector map server, enhancing Datasette's mapping capabilities.",
+    "whyItMatters": "This release offers developers a cost-effective and flexible way to incorporate advanced mapping functionalities into their Datasette applications, potentially expanding the platform's utility in geographic data visualization projects.",
+    "enrichedAt": "2026-11-16T03:54:57.437Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Nov/15/datasette/": {
+    "title": "Datasette 1.0a43 Released with Enhanced Streaming Support for Output Renderers",
+    "summary": "Simon Willison has announced the release of datasette 1.0a43, a version that focuses on advancing the streaming capabilities of output renderers, significantly boosting the project's progress towards its 1.0 milestone. This update leverages Claude Fable 5.2 for development, bringing the milestone completion rate to 53%.",
+    "danishTitle": "Datasette 1.0a43 Released with Enhanced Streaming Support for Output Renderers",
+    "danishSummary": "Simon Willison has announced the release of datasette 1.0a43, a version that focuses on advancing the streaming capabilities of output renderers, significantly boosting the project's progress towards its 1.0 milestone. This update leverages Claude Fable 5.2 for development, bringing the milestone completion rate to 53%.",
+    "whyItMatters": "Enhanced streaming support in datasette 1.0a43 improves real-time data processing and visualization, making it more suitable for dynamic web applications and real-time data analysis.",
+    "enrichedAt": "2026-11-16T03:55:11.087Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/nov/15/datasette": {
+    "title": "Datasette 1.0a43 Released with Enhanced Streaming Support for Output Renderers",
+    "summary": "Simon Willison has announced the release of datasette 1.0a43, a version that focuses on advancing the streaming capabilities of output renderers, significantly boosting the project's progress towards its 1.0 milestone. This update leverages Claude Fable 5.2 for development, bringing the milestone completion rate to 53%.",
+    "danishTitle": "Datasette 1.0a43 Released with Enhanced Streaming Support for Output Renderers",
+    "danishSummary": "Simon Willison has announced the release of datasette 1.0a43, a version that focuses on advancing the streaming capabilities of output renderers, significantly boosting the project's progress towards its 1.0 milestone. This update leverages Claude Fable 5.2 for development, bringing the milestone completion rate to 53%.",
+    "whyItMatters": "Enhanced streaming support in datasette 1.0a43 improves real-time data processing and visualization, making it more suitable for dynamic web applications and real-time data analysis.",
+    "enrichedAt": "2026-11-16T03:55:11.087Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Nov/15/datasette/": {
+    "title": "Datasette 1.0a43 Released with Enhanced Streaming Support for Output Renderers",
+    "summary": "Simon Willison has announced the release of datasette 1.0a43, a version that focuses on advancing the streaming capabilities of output renderers, significantly boosting the project's progress towards its 1.0 milestone. This update leverages Claude Fable 5.2 for development, bringing the milestone completion rate to 53%.",
+    "danishTitle": "Datasette 1.0a43 Released with Enhanced Streaming Support for Output Renderers",
+    "danishSummary": "Simon Willison has announced the release of datasette 1.0a43, a version that focuses on advancing the streaming capabilities of output renderers, significantly boosting the project's progress towards its 1.0 milestone. This update leverages Claude Fable 5.2 for development, bringing the milestone completion rate to 53%.",
+    "whyItMatters": "Enhanced streaming support in datasette 1.0a43 improves real-time data processing and visualization, making it more suitable for dynamic web applications and real-time data analysis.",
+    "enrichedAt": "2026-11-16T03:55:11.087Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Nov/15/datasette-apps/": {
+    "title": "Datasette Apps 0.4a0 Release Adds Enhanced Linking Capabilities",
+    "summary": "Simon Willison has released version 0.4a0 of Datasette Apps, which are sandboxed HTML and JavaScript applications embedded within Datasette. This update introduces support for linking, allowing users to connect and interact with data more effectively.",
+    "danishTitle": "Datasette Apps 0.4a0 Release Adds Enhanced Linking Capabilities",
+    "danishSummary": "Simon Willison has released version 0.4a0 of Datasette Apps, which are sandboxed HTML and JavaScript applications embedded within Datasette. This update introduces support for linking, allowing users to connect and interact with data more effectively.",
+    "whyItMatters": "The addition of linking capabilities in Datasette Apps enhances data interactivity and analysis, making it a more powerful tool for data exploration and visualization within the Datasette ecosystem.",
+    "enrichedAt": "2026-11-16T03:55:22.357Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/nov/15/datasette-apps": {
+    "title": "Datasette Apps 0.4a0 Release Adds Enhanced Linking Capabilities",
+    "summary": "Simon Willison has released version 0.4a0 of Datasette Apps, which are sandboxed HTML and JavaScript applications embedded within Datasette. This update introduces support for linking, allowing users to connect and interact with data more effectively.",
+    "danishTitle": "Datasette Apps 0.4a0 Release Adds Enhanced Linking Capabilities",
+    "danishSummary": "Simon Willison has released version 0.4a0 of Datasette Apps, which are sandboxed HTML and JavaScript applications embedded within Datasette. This update introduces support for linking, allowing users to connect and interact with data more effectively.",
+    "whyItMatters": "The addition of linking capabilities in Datasette Apps enhances data interactivity and analysis, making it a more powerful tool for data exploration and visualization within the Datasette ecosystem.",
+    "enrichedAt": "2026-11-16T03:55:22.357Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Nov/15/datasette-apps/": {
+    "title": "Datasette Apps 0.4a0 Release Adds Enhanced Linking Capabilities",
+    "summary": "Simon Willison has released version 0.4a0 of Datasette Apps, which are sandboxed HTML and JavaScript applications embedded within Datasette. This update introduces support for linking, allowing users to connect and interact with data more effectively.",
+    "danishTitle": "Datasette Apps 0.4a0 Release Adds Enhanced Linking Capabilities",
+    "danishSummary": "Simon Willison has released version 0.4a0 of Datasette Apps, which are sandboxed HTML and JavaScript applications embedded within Datasette. This update introduces support for linking, allowing users to connect and interact with data more effectively.",
+    "whyItMatters": "The addition of linking capabilities in Datasette Apps enhances data interactivity and analysis, making it a more powerful tool for data exploration and visualization within the Datasette ecosystem.",
+    "enrichedAt": "2026-11-16T03:55:22.357Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Nov/15/datasette-agent/": {
+    "title": "datasette-agent 0.6a0 Introduces Agent Prompt on Homepage for Enhanced Data Interaction",
+    "summary": "Simon Willison has released version 0.6a0 of datasette-agent, an agent plugin for Datasette that enables users to query their data directly. This update notably adds an agent prompt directly to the Datasette homepage, facilitating more intuitive and immediate data interaction.",
+    "danishTitle": "datasette-agent 0.6a0 Introduces Agent Prompt on Homepage for Enhanced Data Interaction",
+    "danishSummary": "Simon Willison has released version 0.6a0 of datasette-agent, an agent plugin for Datasette that enables users to query their data directly. This update notably adds an agent prompt directly to the Datasette homepage, facilitating more intuitive and immediate data interaction.",
+    "whyItMatters": "By integrating the agent prompt directly into the Datasette homepage, this update simplifies data querying, potentially boosting user engagement and data exploration within Datasette applications.",
+    "enrichedAt": "2026-11-16T03:55:34.269Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/nov/15/datasette-agent": {
+    "title": "datasette-agent 0.6a0 Introduces Agent Prompt on Homepage for Enhanced Data Interaction",
+    "summary": "Simon Willison has released version 0.6a0 of datasette-agent, an agent plugin for Datasette that enables users to query their data directly. This update notably adds an agent prompt directly to the Datasette homepage, facilitating more intuitive and immediate data interaction.",
+    "danishTitle": "datasette-agent 0.6a0 Introduces Agent Prompt on Homepage for Enhanced Data Interaction",
+    "danishSummary": "Simon Willison has released version 0.6a0 of datasette-agent, an agent plugin for Datasette that enables users to query their data directly. This update notably adds an agent prompt directly to the Datasette homepage, facilitating more intuitive and immediate data interaction.",
+    "whyItMatters": "By integrating the agent prompt directly into the Datasette homepage, this update simplifies data querying, potentially boosting user engagement and data exploration within Datasette applications.",
+    "enrichedAt": "2026-11-16T03:55:34.269Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Nov/15/datasette-agent/": {
+    "title": "datasette-agent 0.6a0 Introduces Agent Prompt on Homepage for Enhanced Data Interaction",
+    "summary": "Simon Willison has released version 0.6a0 of datasette-agent, an agent plugin for Datasette that enables users to query their data directly. This update notably adds an agent prompt directly to the Datasette homepage, facilitating more intuitive and immediate data interaction.",
+    "danishTitle": "datasette-agent 0.6a0 Introduces Agent Prompt on Homepage for Enhanced Data Interaction",
+    "danishSummary": "Simon Willison has released version 0.6a0 of datasette-agent, an agent plugin for Datasette that enables users to query their data directly. This update notably adds an agent prompt directly to the Datasette homepage, facilitating more intuitive and immediate data interaction.",
+    "whyItMatters": "By integrating the agent prompt directly into the Datasette homepage, this update simplifies data querying, potentially boosting user engagement and data exploration within Datasette applications.",
+    "enrichedAt": "2026-11-16T03:55:34.269Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }
