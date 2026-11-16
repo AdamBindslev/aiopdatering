@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Source AI Models Gain Momentum, Disrupting Proprietary Ecosystems",
-  "summary": "A growing number of open-source AI models, including OpenAI's decapitation of proprietary models and Runway's open-source Praxis-1, are challenging the dominance of closed platforms. This shift is driving broader access to advanced AI capabilities and reducing costs for developers.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and reduces developer dependence on expensive proprietary platforms, fostering innovation and competition.",
-  "synthesizedAt": "2026-11-15T21:42:07.667Z",
+  "headline": "OpenAI Shifts to Open-Source Models, Discontinuing Proprietary Alternatives",
+  "summary": "OpenAI has announced the discontinuation of its proprietary AI models, opting instead for a complete overhaul and release of open-source alternatives. This move signals a significant shift in the industry, potentially broadening access to advanced AI capabilities.",
+  "whyItMatters": "This transition could democratize AI development, reduce barriers to entry, and foster greater collaboration among researchers and developers.",
+  "synthesizedAt": "2026-11-16T00:49:21.201Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "interconnects-https://www.interconnects.ai/p/open-source-ai-without-jensen",
@@ -23,7 +23,17 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-11-14T11:40:51.000Z",
       "badgeColor": "slate",
-      "angle": "Industry Analysis"
+      "angle": "Industry Impact"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=42853",
+      "title": "Anthropic's Mythos Retraining Efficiency Surpasses Initial Expectations, According to Former Researcher",
+      "link": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-14T11:21:41.000Z",
+      "badgeColor": "slate",
+      "angle": "Technical Efficiency"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=42846",
@@ -32,8 +42,7 @@
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
       "pubDate": "2026-11-14T09:45:45.000Z",
-      "badgeColor": "slate",
-      "angle": "Hands-on Benchmark"
+      "badgeColor": "slate"
     }
   ]
 }

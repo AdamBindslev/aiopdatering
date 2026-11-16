@@ -122533,5 +122533,122 @@
     "whyItMatters": "Such parodies can influence public perception and hold tech executives accountable for their actions and behaviors, potentially impacting their brand and the industry’s image.",
     "enrichedAt": "2026-11-15T21:41:29.467Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3188782": {
+    "title": "Bharat Semi Raises $24M Seed Funding for AI-Enabled Sensor Technology",
+    "summary": "Bharat Semi, an Indian chip startup, has secured a $24 million seed round to develop and commercialize AI-enabled sensor technology. The company has already achieved design wins with General Atomics, signaling potential advancements in the global AI sensor market.",
+    "danishTitle": "Bharat Semi Raises $24M Seed Funding for AI-Enabled Sensor Technology",
+    "danishSummary": "Bharat Semi, an Indian chip startup, has secured a $24 million seed round to develop and commercialize AI-enabled sensor technology. The company has already achieved design wins with General Atomics, signaling potential advancements in the global AI sensor market.",
+    "whyItMatters": "This funding and early success position Bharat Semi to challenge established players in the AI sensor market, potentially disrupting the industry with innovative solutions.",
+    "enrichedAt": "2026-11-16T00:48:03.580Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market": {
+    "title": "Bharat Semi Raises $24M Seed Funding for AI-Enabled Sensor Technology",
+    "summary": "Bharat Semi, an Indian chip startup, has secured a $24 million seed round to develop and commercialize AI-enabled sensor technology. The company has already achieved design wins with General Atomics, signaling potential advancements in the global AI sensor market.",
+    "danishTitle": "Bharat Semi Raises $24M Seed Funding for AI-Enabled Sensor Technology",
+    "danishSummary": "Bharat Semi, an Indian chip startup, has secured a $24 million seed round to develop and commercialize AI-enabled sensor technology. The company has already achieved design wins with General Atomics, signaling potential advancements in the global AI sensor market.",
+    "whyItMatters": "This funding and early success position Bharat Semi to challenge established players in the AI sensor market, potentially disrupting the industry with innovative solutions.",
+    "enrichedAt": "2026-11-16T00:48:03.580Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/": {
+    "title": "Bharat Semi Raises $24M Seed Funding for AI-Enabled Sensor Technology",
+    "summary": "Bharat Semi, an Indian chip startup, has secured a $24 million seed round to develop and commercialize AI-enabled sensor technology. The company has already achieved design wins with General Atomics, signaling potential advancements in the global AI sensor market.",
+    "danishTitle": "Bharat Semi Raises $24M Seed Funding for AI-Enabled Sensor Technology",
+    "danishSummary": "Bharat Semi, an Indian chip startup, has secured a $24 million seed round to develop and commercialize AI-enabled sensor technology. The company has already achieved design wins with General Atomics, signaling potential advancements in the global AI sensor market.",
+    "whyItMatters": "This funding and early success position Bharat Semi to challenge established players in the AI sensor market, potentially disrupting the industry with innovative solutions.",
+    "enrichedAt": "2026-11-16T00:48:03.580Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Nov/15/datasette-2/": {
+    "title": "Datasette 0.65.6 Release Addresses Minor Security Flaw",
+    "summary": "Simon Willison announced the release of datasette 0.65.6, which includes a backported security fix from version 1.0a43. The fix addresses a vulnerability where a database with a custom route could be accessed via a different URL, enhancing security for users.",
+    "danishTitle": "Datasette 0.65.6 Release Addresses Minor Security Flaw",
+    "danishSummary": "Simon Willison announced the release of datasette 0.65.6, which includes a backported security fix from version 1.0a43. The fix addresses a vulnerability where a database with a custom route could be accessed via a different URL, enhancing security for users.",
+    "whyItMatters": "This update ensures that users of Datasette can maintain a higher level of security, particularly in scenarios where custom routes are used for database access.",
+    "enrichedAt": "2026-11-16T00:48:15.675Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/nov/15/datasette-2": {
+    "title": "Datasette 0.65.6 Release Addresses Minor Security Flaw",
+    "summary": "Simon Willison announced the release of datasette 0.65.6, which includes a backported security fix from version 1.0a43. The fix addresses a vulnerability where a database with a custom route could be accessed via a different URL, enhancing security for users.",
+    "danishTitle": "Datasette 0.65.6 Release Addresses Minor Security Flaw",
+    "danishSummary": "Simon Willison announced the release of datasette 0.65.6, which includes a backported security fix from version 1.0a43. The fix addresses a vulnerability where a database with a custom route could be accessed via a different URL, enhancing security for users.",
+    "whyItMatters": "This update ensures that users of Datasette can maintain a higher level of security, particularly in scenarios where custom routes are used for database access.",
+    "enrichedAt": "2026-11-16T00:48:15.675Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Nov/15/datasette-2/": {
+    "title": "Datasette 0.65.6 Release Addresses Minor Security Flaw",
+    "summary": "Simon Willison announced the release of datasette 0.65.6, which includes a backported security fix from version 1.0a43. The fix addresses a vulnerability where a database with a custom route could be accessed via a different URL, enhancing security for users.",
+    "danishTitle": "Datasette 0.65.6 Release Addresses Minor Security Flaw",
+    "danishSummary": "Simon Willison announced the release of datasette 0.65.6, which includes a backported security fix from version 1.0a43. The fix addresses a vulnerability where a database with a custom route could be accessed via a different URL, enhancing security for users.",
+    "whyItMatters": "This update ensures that users of Datasette can maintain a higher level of security, particularly in scenarios where custom routes are used for database access.",
+    "enrichedAt": "2026-11-16T00:48:15.675Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "openai-https://openai.com/index/step-toward-defining-the-standard-model": {
+    "title": "OpenAI Unveils Lattice-Based Standard Model Definition with GPT-6 Astra",
+    "summary": "OpenAI has presented a lattice-based approach to defining the Standard Model, utilizing GPT-6 Astra to transform theoretical concepts into a detailed proof. This development could be a significant step in the field of theoretical physics and computational modeling.",
+    "danishTitle": "OpenAI Unveils Lattice-Based Standard Model Definition with GPT-6 Astra",
+    "danishSummary": "OpenAI has presented a lattice-based approach to defining the Standard Model, utilizing GPT-6 Astra to transform theoretical concepts into a detailed proof. This development could be a significant step in the field of theoretical physics and computational modeling.",
+    "whyItMatters": "By leveraging advanced AI, this method could enhance the precision and accessibility of complex theoretical physics models, potentially leading to breakthroughs in particle physics research and computational science.",
+    "enrichedAt": "2026-11-16T00:48:27.057Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://openai.com/index/step-toward-defining-the-standard-model": {
+    "title": "OpenAI Unveils Lattice-Based Standard Model Definition with GPT-6 Astra",
+    "summary": "OpenAI has presented a lattice-based approach to defining the Standard Model, utilizing GPT-6 Astra to transform theoretical concepts into a detailed proof. This development could be a significant step in the field of theoretical physics and computational modeling.",
+    "danishTitle": "OpenAI Unveils Lattice-Based Standard Model Definition with GPT-6 Astra",
+    "danishSummary": "OpenAI has presented a lattice-based approach to defining the Standard Model, utilizing GPT-6 Astra to transform theoretical concepts into a detailed proof. This development could be a significant step in the field of theoretical physics and computational modeling.",
+    "whyItMatters": "By leveraging advanced AI, this method could enhance the precision and accessibility of complex theoretical physics models, potentially leading to breakthroughs in particle physics research and computational science.",
+    "enrichedAt": "2026-11-16T00:48:27.057Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "openai-https://openai.com/index/our-new-blog-for-science": {
+    "title": "OpenAI Launches Science Blog to Share AI-Driven Research and Insights",
+    "summary": "OpenAI has launched a new science blog to disseminate findings, methodologies, and real-world applications of AI in scientific research, providing a platform for researchers to share their work and advancements.",
+    "danishTitle": "OpenAI Launches Science Blog to Share AI-Driven Research and Insights",
+    "danishSummary": "OpenAI has launched a new science blog to disseminate findings, methodologies, and real-world applications of AI in scientific research, providing a platform for researchers to share their work and advancements.",
+    "whyItMatters": "By sharing detailed insights and practical approaches, the blog fosters a collaborative community, accelerating scientific progress and innovation through AI integration.",
+    "enrichedAt": "2026-11-16T00:48:36.228Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://openai.com/index/our-new-blog-for-science": {
+    "title": "OpenAI Launches Science Blog to Share AI-Driven Research and Insights",
+    "summary": "OpenAI has launched a new science blog to disseminate findings, methodologies, and real-world applications of AI in scientific research, providing a platform for researchers to share their work and advancements.",
+    "danishTitle": "OpenAI Launches Science Blog to Share AI-Driven Research and Insights",
+    "danishSummary": "OpenAI has launched a new science blog to disseminate findings, methodologies, and real-world applications of AI in scientific research, providing a platform for researchers to share their work and advancements.",
+    "whyItMatters": "By sharing detailed insights and practical approaches, the blog fosters a collaborative community, accelerating scientific progress and innovation through AI integration.",
+    "enrichedAt": "2026-11-16T00:48:36.228Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3188757": {
+    "title": "Nvidia’s Struggles May Signal Challenges for the Broader AI Industry",
+    "summary": "TechCrunch explores whether the financial troubles faced by Nvidia, a key player in AI hardware, could have broader implications for the AI industry as a whole, highlighting its central role in driving AI advancements and deployments.",
+    "danishTitle": "Nvidia’s Struggles May Signal Challenges for the Broader AI Industry",
+    "danishSummary": "TechCrunch explores whether the financial troubles faced by Nvidia, a key player in AI hardware, could have broader implications for the AI industry as a whole, highlighting its central role in driving AI advancements and deployments.",
+    "whyItMatters": "Nvidia’s economic challenges could impact AI hardware availability and pricing, potentially slowing down AI adoption and innovation across various sectors.",
+    "enrichedAt": "2026-11-16T00:48:46.079Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry": {
+    "title": "Nvidia’s Struggles May Signal Challenges for the Broader AI Industry",
+    "summary": "TechCrunch explores whether the financial troubles faced by Nvidia, a key player in AI hardware, could have broader implications for the AI industry as a whole, highlighting its central role in driving AI advancements and deployments.",
+    "danishTitle": "Nvidia’s Struggles May Signal Challenges for the Broader AI Industry",
+    "danishSummary": "TechCrunch explores whether the financial troubles faced by Nvidia, a key player in AI hardware, could have broader implications for the AI industry as a whole, highlighting its central role in driving AI advancements and deployments.",
+    "whyItMatters": "Nvidia’s economic challenges could impact AI hardware availability and pricing, potentially slowing down AI adoption and innovation across various sectors.",
+    "enrichedAt": "2026-11-16T00:48:46.079Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/": {
+    "title": "Nvidia’s Struggles May Signal Challenges for the Broader AI Industry",
+    "summary": "TechCrunch explores whether the financial troubles faced by Nvidia, a key player in AI hardware, could have broader implications for the AI industry as a whole, highlighting its central role in driving AI advancements and deployments.",
+    "danishTitle": "Nvidia’s Struggles May Signal Challenges for the Broader AI Industry",
+    "danishSummary": "TechCrunch explores whether the financial troubles faced by Nvidia, a key player in AI hardware, could have broader implications for the AI industry as a whole, highlighting its central role in driving AI advancements and deployments.",
+    "whyItMatters": "Nvidia’s economic challenges could impact AI hardware availability and pricing, potentially slowing down AI adoption and innovation across various sectors.",
+    "enrichedAt": "2026-11-16T00:48:46.079Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }
