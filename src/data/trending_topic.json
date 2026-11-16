@@ -1,48 +1,29 @@
 {
-  "headline": "Small Open-Weight Models Pave Way for On-Premise AI Decision-Making",
-  "summary": "A new research paper from arXiv explores the use of small open-weight language models for crowd decision-making on an institution's own infrastructure, highlighting the potential for broader AI deployment and reduced dependency on proprietary platforms.",
-  "whyItMatters": "This trend could democratize AI access, enabling more organizations to leverage advanced language models for internal decision-making processes without relying on centralized cloud services.",
-  "synthesizedAt": "2026-11-16T07:09:24.179Z",
+  "headline": "Open-Weight Models Pave Way for Local AI Agent Deployment",
+  "summary": "Recent advancements in open-weight models, such as Nemotron 3.5 Transcribe and the new research on small open-weight models, are demonstrating reasoning capabilities that rival proprietary systems. This trend is accelerating local AI agent deployment and reducing reliance on closed APIs.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and reduces costs, fostering innovation and competition in the AI industry.",
+  "synthesizedAt": "2026-11-16T10:14:10.455Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-cl-oai:arXiv.org:2611.17589v1",
-    "title": "Small Open-Weight Language Models Enable On-Premise Crowd Decision-Making",
-    "link": "https://arxiv.org/abs/2611.17589",
-    "sourceName": "arXiv cs.CL (Sprog & LLM)",
-    "sourceId": "arxiv-cl",
-    "pubDate": "2026-11-16T05:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "Industry Analysis"
+    "id": "nvidia-developer-yt:video:HXMbNl5KgeA",
+    "title": "Nemotron 3.5 Transcribe: Enhanced Multilingual Audio Processing Model from Nemotron Labs",
+    "link": "https://www.youtube.com/watch?v=HXMbNl5KgeA",
+    "sourceName": "NVIDIA Developer",
+    "sourceId": "nvidia-developer",
+    "pubDate": "2026-11-16T06:08:23.000Z",
+    "badgeColor": "green",
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2611.17461v1",
-      "title": "New Study Reveals Insights into Internal Processing of Large Language Models",
-      "link": "https://arxiv.org/abs/2611.17461",
+      "id": "arxiv-cl-oai:arXiv.org:2611.17589v1",
+      "title": "Small Open-Weight Language Models Enable On-Premise Crowd Decision-Making",
+      "link": "https://arxiv.org/abs/2611.17589",
       "sourceName": "arXiv cs.CL (Sprog & LLM)",
       "sourceId": "arxiv-cl",
       "pubDate": "2026-11-16T05:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2611.17563v1",
-      "title": "New AI Model Enables Self-Disagreement to Improve Accuracy and Flexibility",
-      "link": "https://arxiv.org/abs/2611.17563",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-11-16T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Official Release"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2611.17338v1",
-      "title": "Study Reveals Limitations of Hard-Filtering Memory in LLMs: Query-Critical Facts Can Affect Downstream Accuracy",
-      "link": "https://arxiv.org/abs/2611.17338",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-11-16T05:00:00.000Z",
-      "badgeColor": "zinc"
+      "angle": "Industry Analysis"
     }
   ]
 }
