@@ -1,48 +1,48 @@
 {
-  "headline": "OpenAI Shifts to Open-Source Models, Redefining AI Industry Standards",
-  "summary": "OpenAI has announced the discontinuation of its proprietary AI models and is transitioning to open-source alternatives, signaling a significant shift in the AI industry. This move is prompting a broader debate on the future of AI development and commercialization.",
-  "whyItMatters": "This transition could democratize access to advanced AI technologies and challenge the business models of proprietary AI providers, potentially reshaping the competitive landscape.",
-  "synthesizedAt": "2026-11-16T03:56:11.949Z",
+  "headline": "Small Open-Weight Models Pave Way for On-Premise AI Decision-Making",
+  "summary": "A new research paper from arXiv explores the use of small open-weight language models for crowd decision-making on an institution's own infrastructure, highlighting the potential for broader AI deployment and reduced dependency on proprietary platforms.",
+  "whyItMatters": "This trend could democratize AI access, enabling more organizations to leverage advanced language models for internal decision-making processes without relying on centralized cloud services.",
+  "synthesizedAt": "2026-11-16T07:09:24.179Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "interconnects-https://www.interconnects.ai/p/open-source-ai-without-jensen",
-    "title": "OpenAI Announces Decapitation of Existing AI Models, Rebuilding with Open-Source Alternatives",
-    "link": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
-    "sourceName": "Interconnects (Nathan Lambert)",
-    "sourceId": "interconnects",
-    "pubDate": "2026-11-14T12:23:15.000Z",
-    "badgeColor": "indigo",
-    "angle": "Official Announcement"
+    "id": "arxiv-cl-oai:arXiv.org:2611.17589v1",
+    "title": "Small Open-Weight Language Models Enable On-Premise Crowd Decision-Making",
+    "link": "https://arxiv.org/abs/2611.17589",
+    "sourceName": "arXiv cs.CL (Sprog & LLM)",
+    "sourceId": "arxiv-cl",
+    "pubDate": "2026-11-16T05:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42859",
-      "title": "OpenAI Dissolves Robotics Team as General-Purpose Models Emerge as Robotics AI Alternatives",
-      "link": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-14T11:40:51.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Impact"
+      "id": "arxiv-cl-oai:arXiv.org:2611.17461v1",
+      "title": "New Study Reveals Insights into Internal Processing of Large Language Models",
+      "link": "https://arxiv.org/abs/2611.17461",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-11-16T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42853",
-      "title": "Anthropic's Mythos Retraining Efficiency Surpasses Initial Expectations, According to Former Researcher",
-      "link": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-14T11:21:41.000Z",
-      "badgeColor": "slate",
-      "angle": "Technical Insight"
+      "id": "arxiv-cl-oai:arXiv.org:2611.17563v1",
+      "title": "New AI Model Enables Self-Disagreement to Improve Accuracy and Flexibility",
+      "link": "https://arxiv.org/abs/2611.17563",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-11-16T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Official Release"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42846",
-      "title": "Runway Releases Open-Source Praxis-1 for Video AI-Driven Robot Control",
-      "link": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-14T09:45:45.000Z",
-      "badgeColor": "slate"
+      "id": "arxiv-ai-oai:arXiv.org:2611.17338v1",
+      "title": "Study Reveals Limitations of Hard-Filtering Memory in LLMs: Query-Critical Facts Can Affect Downstream Accuracy",
+      "link": "https://arxiv.org/abs/2611.17338",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-11-16T05:00:00.000Z",
+      "badgeColor": "zinc"
     }
   ]
 }

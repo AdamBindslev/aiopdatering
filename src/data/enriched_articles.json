@@ -122785,5 +122785,635 @@
     "whyItMatters": "By integrating the agent prompt directly into the Datasette homepage, this update simplifies data querying, potentially boosting user engagement and data exploration within Datasette applications.",
     "enrichedAt": "2026-11-16T03:55:34.269Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.17461v1": {
+    "title": "New Study Reveals Insights into Internal Processing of Large Language Models",
+    "summary": "A recent study published on arXiv provides a deeper understanding of how Large Language Models (LLMs) process knowledge and reasoning, moving beyond surface-level performance metrics to offer insights into their internal mechanisms. This research aims to enhance transparency and trust in LLMs.",
+    "danishTitle": "New Study Reveals Insights into Internal Processing of Large Language Models",
+    "danishSummary": "A recent study published on arXiv provides a deeper understanding of how Large Language Models (LLMs) process knowledge and reasoning, moving beyond surface-level performance metrics to offer insights into their internal mechanisms. This research aims to enhance transparency and trust in LLMs.",
+    "whyItMatters": "By uncovering the inner workings of LLMs, this study could lead to more effective and reliable applications, fostering greater trust and adoption in various sectors.",
+    "enrichedAt": "2026-11-16T07:01:40.555Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17461": {
+    "title": "New Study Reveals Insights into Internal Processing of Large Language Models",
+    "summary": "A recent study published on arXiv provides a deeper understanding of how Large Language Models (LLMs) process knowledge and reasoning, moving beyond surface-level performance metrics to offer insights into their internal mechanisms. This research aims to enhance transparency and trust in LLMs.",
+    "danishTitle": "New Study Reveals Insights into Internal Processing of Large Language Models",
+    "danishSummary": "A recent study published on arXiv provides a deeper understanding of how Large Language Models (LLMs) process knowledge and reasoning, moving beyond surface-level performance metrics to offer insights into their internal mechanisms. This research aims to enhance transparency and trust in LLMs.",
+    "whyItMatters": "By uncovering the inner workings of LLMs, this study could lead to more effective and reliable applications, fostering greater trust and adoption in various sectors.",
+    "enrichedAt": "2026-11-16T07:01:40.555Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.17464v1": {
+    "title": "AI Challenges Linguistic Creativity: Infinite Poem Generation Proposed",
+    "summary": "A new research paper on arXiv proposes that artificial intelligence can generate an infinite poem, pushing the boundaries of algorithmic authorship and challenging traditional notions of linguistic creativity. The study aims to explore the capabilities of large language models (LLMs) in producing complex and continuous poetic content.",
+    "danishTitle": "AI Challenges Linguistic Creativity: Infinite Poem Generation Proposed",
+    "danishSummary": "A new research paper on arXiv proposes that artificial intelligence can generate an infinite poem, pushing the boundaries of algorithmic authorship and challenging traditional notions of linguistic creativity. The study aims to explore the capabilities of large language models (LLMs) in producing complex and continuous poetic content.",
+    "whyItMatters": "This research highlights the evolving capabilities of AI in creative domains, potentially transforming how we perceive and utilize AI in artistic and literary contexts.",
+    "enrichedAt": "2026-11-16T07:01:52.347Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17464": {
+    "title": "AI Challenges Linguistic Creativity: Infinite Poem Generation Proposed",
+    "summary": "A new research paper on arXiv proposes that artificial intelligence can generate an infinite poem, pushing the boundaries of algorithmic authorship and challenging traditional notions of linguistic creativity. The study aims to explore the capabilities of large language models (LLMs) in producing complex and continuous poetic content.",
+    "danishTitle": "AI Challenges Linguistic Creativity: Infinite Poem Generation Proposed",
+    "danishSummary": "A new research paper on arXiv proposes that artificial intelligence can generate an infinite poem, pushing the boundaries of algorithmic authorship and challenging traditional notions of linguistic creativity. The study aims to explore the capabilities of large language models (LLMs) in producing complex and continuous poetic content.",
+    "whyItMatters": "This research highlights the evolving capabilities of AI in creative domains, potentially transforming how we perceive and utilize AI in artistic and literary contexts.",
+    "enrichedAt": "2026-11-16T07:01:52.347Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.17481v1": {
+    "title": "New Technique Enables Activation Steering in Language Models Without White-Box Access",
+    "summary": "Researchers have developed a method to influence the behavior of language models through activation steering, a process that adds a steering vector to the residual stream during generation. This new technique allows for behavior modification without requiring direct access to the hidden state, broadening the applications of such models.",
+    "danishTitle": "New Technique Enables Activation Steering in Language Models Without White-Box Access",
+    "danishSummary": "Researchers have developed a method to influence the behavior of language models through activation steering, a process that adds a steering vector to the residual stream during generation. This new technique allows for behavior modification without requiring direct access to the hidden state, broadening the applications of such models.",
+    "whyItMatters": "This advancement could significantly enhance the flexibility and control over language models, making them more adaptable and secure for various applications without compromising their internal architecture.",
+    "enrichedAt": "2026-11-16T07:02:04.047Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17481": {
+    "title": "New Technique Enables Activation Steering in Language Models Without White-Box Access",
+    "summary": "Researchers have developed a method to influence the behavior of language models through activation steering, a process that adds a steering vector to the residual stream during generation. This new technique allows for behavior modification without requiring direct access to the hidden state, broadening the applications of such models.",
+    "danishTitle": "New Technique Enables Activation Steering in Language Models Without White-Box Access",
+    "danishSummary": "Researchers have developed a method to influence the behavior of language models through activation steering, a process that adds a steering vector to the residual stream during generation. This new technique allows for behavior modification without requiring direct access to the hidden state, broadening the applications of such models.",
+    "whyItMatters": "This advancement could significantly enhance the flexibility and control over language models, making them more adaptable and secure for various applications without compromising their internal architecture.",
+    "enrichedAt": "2026-11-16T07:02:04.047Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.17563v1": {
+    "title": "New AI Model Enables Self-Disagreement to Improve Accuracy and Flexibility",
+    "summary": "Researchers have developed a novel language model that incorporates self-disagreement mechanisms, allowing it to better handle complex reasoning tasks and contest its own answers. This approach aims to enhance the model's accuracy and adaptability in real-world scenarios where multiple perspectives are common.",
+    "danishTitle": "New AI Model Enables Self-Disagreement to Improve Accuracy and Flexibility",
+    "danishSummary": "Researchers have developed a novel language model that incorporates self-disagreement mechanisms, allowing it to better handle complex reasoning tasks and contest its own answers. This approach aims to enhance the model's accuracy and adaptability in real-world scenarios where multiple perspectives are common.",
+    "whyItMatters": "By enabling models to self-disagree, this innovation could significantly improve the robustness and reliability of AI systems, making them more suitable for dynamic and complex environments.",
+    "enrichedAt": "2026-11-16T07:02:15.937Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17563": {
+    "title": "New AI Model Enables Self-Disagreement to Improve Accuracy and Flexibility",
+    "summary": "Researchers have developed a novel language model that incorporates self-disagreement mechanisms, allowing it to better handle complex reasoning tasks and contest its own answers. This approach aims to enhance the model's accuracy and adaptability in real-world scenarios where multiple perspectives are common.",
+    "danishTitle": "New AI Model Enables Self-Disagreement to Improve Accuracy and Flexibility",
+    "danishSummary": "Researchers have developed a novel language model that incorporates self-disagreement mechanisms, allowing it to better handle complex reasoning tasks and contest its own answers. This approach aims to enhance the model's accuracy and adaptability in real-world scenarios where multiple perspectives are common.",
+    "whyItMatters": "By enabling models to self-disagree, this innovation could significantly improve the robustness and reliability of AI systems, making them more suitable for dynamic and complex environments.",
+    "enrichedAt": "2026-11-16T07:02:15.937Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.17573v1": {
+    "title": "CamSpokenNLI: A New Resource for Evaluating Cross-Variety Transfer in Cameroon Pidgin English and Camfranglais",
+    "summary": "CamSpokenNLI is a newly introduced dataset designed to evaluate the transferability of Natural Language Inference models across Cameroon Pidgin English and Camfranglais, two widely used but underrepresented varieties of English in Cameroon. This resource aims to fill a gap in the evaluation of language models for these specific dialects.",
+    "danishTitle": "CamSpokenNLI: A New Resource for Evaluating Cross-Variety Transfer in Cameroon Pidgin English and Camfranglais",
+    "danishSummary": "CamSpokenNLI is a newly introduced dataset designed to evaluate the transferability of Natural Language Inference models across Cameroon Pidgin English and Camfranglais, two widely used but underrepresented varieties of English in Cameroon. This resource aims to fill a gap in the evaluation of language models for these specific dialects.",
+    "whyItMatters": "By addressing the lack of dedicated resources for Cameroon Pidgin English and Camfranglais, CamSpokenNLI enhances the inclusivity and effectiveness of language models in diverse linguistic contexts, particularly in Africa.",
+    "enrichedAt": "2026-11-16T07:02:31.635Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17573": {
+    "title": "CamSpokenNLI: A New Resource for Evaluating Cross-Variety Transfer in Cameroon Pidgin English and Camfranglais",
+    "summary": "CamSpokenNLI is a newly introduced dataset designed to evaluate the transferability of Natural Language Inference models across Cameroon Pidgin English and Camfranglais, two widely used but underrepresented varieties of English in Cameroon. This resource aims to fill a gap in the evaluation of language models for these specific dialects.",
+    "danishTitle": "CamSpokenNLI: A New Resource for Evaluating Cross-Variety Transfer in Cameroon Pidgin English and Camfranglais",
+    "danishSummary": "CamSpokenNLI is a newly introduced dataset designed to evaluate the transferability of Natural Language Inference models across Cameroon Pidgin English and Camfranglais, two widely used but underrepresented varieties of English in Cameroon. This resource aims to fill a gap in the evaluation of language models for these specific dialects.",
+    "whyItMatters": "By addressing the lack of dedicated resources for Cameroon Pidgin English and Camfranglais, CamSpokenNLI enhances the inclusivity and effectiveness of language models in diverse linguistic contexts, particularly in Africa.",
+    "enrichedAt": "2026-11-16T07:02:31.635Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.17589v1": {
+    "title": "Small Open-Weight Language Models Enable On-Premise Crowd Decision-Making",
+    "summary": "A new research paper from arXiv explores the use of small open-weight language models for crowd decision-making (CDM) on an institution's own infrastructure. This approach allows institutions to retain control over their data and inference processes while leveraging the benefits of CDM.",
+    "danishTitle": "Small Open-Weight Language Models Enable On-Premise Crowd Decision-Making",
+    "danishSummary": "A new research paper from arXiv explores the use of small open-weight language models for crowd decision-making (CDM) on an institution's own infrastructure. This approach allows institutions to retain control over their data and inference processes while leveraging the benefits of CDM.",
+    "whyItMatters": "By enabling on-premises CDM, this research could empower more organizations to utilize AI-driven decision-making processes without the need for cloud services, enhancing data privacy and reducing reliance on external providers.",
+    "enrichedAt": "2026-11-16T07:02:44.371Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17589": {
+    "title": "Small Open-Weight Language Models Enable On-Premise Crowd Decision-Making",
+    "summary": "A new research paper from arXiv explores the use of small open-weight language models for crowd decision-making (CDM) on an institution's own infrastructure. This approach allows institutions to retain control over their data and inference processes while leveraging the benefits of CDM.",
+    "danishTitle": "Small Open-Weight Language Models Enable On-Premise Crowd Decision-Making",
+    "danishSummary": "A new research paper from arXiv explores the use of small open-weight language models for crowd decision-making (CDM) on an institution's own infrastructure. This approach allows institutions to retain control over their data and inference processes while leveraging the benefits of CDM.",
+    "whyItMatters": "By enabling on-premises CDM, this research could empower more organizations to utilize AI-driven decision-making processes without the need for cloud services, enhancing data privacy and reducing reliance on external providers.",
+    "enrichedAt": "2026-11-16T07:02:44.371Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.17686v1": {
+    "title": "Self-Supervised Speech Models Reveal Insights into Multilingual Semantic Knowledge",
+    "summary": "A new study on arXiv explores the semantic understanding of multilingual self-supervised speech models (S3Ms), revealing how these models process and represent meaning across thousands of languages. The research provides valuable insights into the internal workings of these models, which could inform future developments in language and speech processing.",
+    "danishTitle": "Self-Supervised Speech Models Reveal Insights into Multilingual Semantic Knowledge",
+    "danishSummary": "A new study on arXiv explores the semantic understanding of multilingual self-supervised speech models (S3Ms), revealing how these models process and represent meaning across thousands of languages. The research provides valuable insights into the internal workings of these models, which could inform future developments in language and speech processing.",
+    "whyItMatters": "Understanding the semantic knowledge structures within S3Ms can help improve the accuracy and applicability of these models in diverse linguistic contexts, advancing the field of multilingual natural language processing.",
+    "enrichedAt": "2026-11-16T07:02:57.336Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17686": {
+    "title": "Self-Supervised Speech Models Reveal Insights into Multilingual Semantic Knowledge",
+    "summary": "A new study on arXiv explores the semantic understanding of multilingual self-supervised speech models (S3Ms), revealing how these models process and represent meaning across thousands of languages. The research provides valuable insights into the internal workings of these models, which could inform future developments in language and speech processing.",
+    "danishTitle": "Self-Supervised Speech Models Reveal Insights into Multilingual Semantic Knowledge",
+    "danishSummary": "A new study on arXiv explores the semantic understanding of multilingual self-supervised speech models (S3Ms), revealing how these models process and represent meaning across thousands of languages. The research provides valuable insights into the internal workings of these models, which could inform future developments in language and speech processing.",
+    "whyItMatters": "Understanding the semantic knowledge structures within S3Ms can help improve the accuracy and applicability of these models in diverse linguistic contexts, advancing the field of multilingual natural language processing.",
+    "enrichedAt": "2026-11-16T07:02:57.336Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.17754v1": {
+    "title": "New Variance-Reduced Post-Training Method Enhances Masked Diffusion Language Models",
+    "summary": "A recent study on arXiv proposes a variance-reduced post-training method for Masked Diffusion Language Models, aiming to improve the efficiency and accuracy of policy gradient methods in aligning model outputs with human preferences. This advancement could significantly enhance the performance of language models in various applications.",
+    "danishTitle": "New Variance-Reduced Post-Training Method Enhances Masked Diffusion Language Models",
+    "danishSummary": "A recent study on arXiv proposes a variance-reduced post-training method for Masked Diffusion Language Models, aiming to improve the efficiency and accuracy of policy gradient methods in aligning model outputs with human preferences. This advancement could significantly enhance the performance of language models in various applications.",
+    "whyItMatters": "By reducing computational variance, this method could lead to more efficient training and deployment of language models, benefiting developers and enterprises looking to integrate advanced natural language processing capabilities into their systems.",
+    "enrichedAt": "2026-11-16T07:03:10.308Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17754": {
+    "title": "New Variance-Reduced Post-Training Method Enhances Masked Diffusion Language Models",
+    "summary": "A recent study on arXiv proposes a variance-reduced post-training method for Masked Diffusion Language Models, aiming to improve the efficiency and accuracy of policy gradient methods in aligning model outputs with human preferences. This advancement could significantly enhance the performance of language models in various applications.",
+    "danishTitle": "New Variance-Reduced Post-Training Method Enhances Masked Diffusion Language Models",
+    "danishSummary": "A recent study on arXiv proposes a variance-reduced post-training method for Masked Diffusion Language Models, aiming to improve the efficiency and accuracy of policy gradient methods in aligning model outputs with human preferences. This advancement could significantly enhance the performance of language models in various applications.",
+    "whyItMatters": "By reducing computational variance, this method could lead to more efficient training and deployment of language models, benefiting developers and enterprises looking to integrate advanced natural language processing capabilities into their systems.",
+    "enrichedAt": "2026-11-16T07:03:10.308Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.17766v1": {
+    "title": "GDP.xlsx: Benchmarking Frontier Models on Professional Workbooks",
+    "summary": "A new benchmark called GDP.xlsx has been introduced, featuring 70 realistic workplace tasks across 13 domains, each paired with an expert rubric. This dataset aims to evaluate the performance of advanced language models in professional settings, providing a more practical and nuanced assessment than previous benchmarks.",
+    "danishTitle": "GDP.xlsx: Benchmarking Frontier Models on Professional Workbooks",
+    "danishSummary": "A new benchmark called GDP.xlsx has been introduced, featuring 70 realistic workplace tasks across 13 domains, each paired with an expert rubric. This dataset aims to evaluate the performance of advanced language models in professional settings, providing a more practical and nuanced assessment than previous benchmarks.",
+    "whyItMatters": "By offering a more realistic and domain-specific evaluation, GDP.xlsx could drive the development of language models that are better suited for real-world professional applications, enhancing their utility and adoption in various industries.",
+    "enrichedAt": "2026-11-16T07:03:23.044Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17766": {
+    "title": "GDP.xlsx: Benchmarking Frontier Models on Professional Workbooks",
+    "summary": "A new benchmark called GDP.xlsx has been introduced, featuring 70 realistic workplace tasks across 13 domains, each paired with an expert rubric. This dataset aims to evaluate the performance of advanced language models in professional settings, providing a more practical and nuanced assessment than previous benchmarks.",
+    "danishTitle": "GDP.xlsx: Benchmarking Frontier Models on Professional Workbooks",
+    "danishSummary": "A new benchmark called GDP.xlsx has been introduced, featuring 70 realistic workplace tasks across 13 domains, each paired with an expert rubric. This dataset aims to evaluate the performance of advanced language models in professional settings, providing a more practical and nuanced assessment than previous benchmarks.",
+    "whyItMatters": "By offering a more realistic and domain-specific evaluation, GDP.xlsx could drive the development of language models that are better suited for real-world professional applications, enhancing their utility and adoption in various industries.",
+    "enrichedAt": "2026-11-16T07:03:23.044Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.17768v1": {
+    "title": "Typhoon: An Audiovisual Installation Inspired by Joseph Conrad's 'Nan-Shan' Captures the Struggle of Human Will",
+    "summary": "Typhoon is an audiovisual installation that draws inspiration from Joseph Conrad's novella 'Nan-Shirr,' where Captain MacWhirr navigates the steamer Nan-Shan into a violent storm. The installation uses advanced AI to simulate the intense and perilous journey, exploring themes of human resilience and the struggle against nature.",
+    "danishTitle": "Typhoon: An Audiovisual Installation Inspired by Joseph Conrad's 'Nan-Shan' Captures the Struggle of Human Will",
+    "danishSummary": "Typhoon is an audiovisual installation that draws inspiration from Joseph Conrad's novella 'Nan-Shirr,' where Captain MacWhirr navigates the steamer Nan-Shan into a violent storm. The installation uses advanced AI to simulate the intense and perilous journey, exploring themes of human resilience and the struggle against nature.",
+    "whyItMatters": "This installation highlights the intersection of literature and technology, offering a profound exploration of human will and decision-making in the face of adversity, which could inspire new forms of interactive and immersive storytelling.",
+    "enrichedAt": "2026-11-16T07:03:37.836Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17768": {
+    "title": "Typhoon: An Audiovisual Installation Inspired by Joseph Conrad's 'Nan-Shan' Captures the Struggle of Human Will",
+    "summary": "Typhoon is an audiovisual installation that draws inspiration from Joseph Conrad's novella 'Nan-Shirr,' where Captain MacWhirr navigates the steamer Nan-Shan into a violent storm. The installation uses advanced AI to simulate the intense and perilous journey, exploring themes of human resilience and the struggle against nature.",
+    "danishTitle": "Typhoon: An Audiovisual Installation Inspired by Joseph Conrad's 'Nan-Shan' Captures the Struggle of Human Will",
+    "danishSummary": "Typhoon is an audiovisual installation that draws inspiration from Joseph Conrad's novella 'Nan-Shirr,' where Captain MacWhirr navigates the steamer Nan-Shan into a violent storm. The installation uses advanced AI to simulate the intense and perilous journey, exploring themes of human resilience and the struggle against nature.",
+    "whyItMatters": "This installation highlights the intersection of literature and technology, offering a profound exploration of human will and decision-making in the face of adversity, which could inspire new forms of interactive and immersive storytelling.",
+    "enrichedAt": "2026-11-16T07:03:37.836Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.17780v1": {
+    "title": "LuthorSQL: A One-Pass Text-to-SQL Model Enhances LLM Efficiency",
+    "summary": "LuthorSQL is a new model that aims to streamline the text-to-SQL process by reducing the need for multiple per-query calls to large language models (LLMs), making database interactions faster and more cost-effective for LLM agents.",
+    "danishTitle": "LuthorSQL: A One-Pass Text-to-SQL Model Enhances LLM Efficiency",
+    "danishSummary": "LuthorSQL is a new model that aims to streamline the text-to-SQL process by reducing the need for multiple per-query calls to large language models (LLMs), making database interactions faster and more cost-effective for LLM agents.",
+    "whyItMatters": "By improving the efficiency of LLMs in handling database queries, LuthorSQL could significantly reduce latency and costs, enabling more widespread use of LLMs in enterprise applications that require frequent database interactions.",
+    "enrichedAt": "2026-11-16T07:03:50.545Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17780": {
+    "title": "LuthorSQL: A One-Pass Text-to-SQL Model Enhances LLM Efficiency",
+    "summary": "LuthorSQL is a new model that aims to streamline the text-to-SQL process by reducing the need for multiple per-query calls to large language models (LLMs), making database interactions faster and more cost-effective for LLM agents.",
+    "danishTitle": "LuthorSQL: A One-Pass Text-to-SQL Model Enhances LLM Efficiency",
+    "danishSummary": "LuthorSQL is a new model that aims to streamline the text-to-SQL process by reducing the need for multiple per-query calls to large language models (LLMs), making database interactions faster and more cost-effective for LLM agents.",
+    "whyItMatters": "By improving the efficiency of LLMs in handling database queries, LuthorSQL could significantly reduce latency and costs, enabling more widespread use of LLMs in enterprise applications that require frequent database interactions.",
+    "enrichedAt": "2026-11-16T07:03:50.545Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.17788v1": {
+    "title": "RAG-FGO: Dynamic Query-Rewriting Optimization for Enhanced Retrieval-Augmented Generation",
+    "summary": "The paper 'RAG-FGO' introduces a dynamic optimization framework for query-rewriting agents in retrieval-augmented generation (RAG) systems, aiming to improve the alignment between user intent and external knowledge bases, thereby enhancing overall system performance.",
+    "danishTitle": "RAG-FGO: Dynamic Query-Rewriting Optimization for Enhanced Retrieval-Augmented Generation",
+    "danishSummary": "The paper 'RAG-FGO' introduces a dynamic optimization framework for query-rewriting agents in retrieval-augmented generation (RAG) systems, aiming to improve the alignment between user intent and external knowledge bases, thereby enhancing overall system performance.",
+    "whyItMatters": "This innovation could significantly boost the efficiency and accuracy of RAG systems, making them more effective in complex information retrieval tasks and potentially transforming how AI interacts with vast knowledge repositories.",
+    "enrichedAt": "2026-11-16T07:04:02.967Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17788": {
+    "title": "RAG-FGO: Dynamic Query-Rewriting Optimization for Enhanced Retrieval-Augmented Generation",
+    "summary": "The paper 'RAG-FGO' introduces a dynamic optimization framework for query-rewriting agents in retrieval-augmented generation (RAG) systems, aiming to improve the alignment between user intent and external knowledge bases, thereby enhancing overall system performance.",
+    "danishTitle": "RAG-FGO: Dynamic Query-Rewriting Optimization for Enhanced Retrieval-Augmented Generation",
+    "danishSummary": "The paper 'RAG-FGO' introduces a dynamic optimization framework for query-rewriting agents in retrieval-augmented generation (RAG) systems, aiming to improve the alignment between user intent and external knowledge bases, thereby enhancing overall system performance.",
+    "whyItMatters": "This innovation could significantly boost the efficiency and accuracy of RAG systems, making them more effective in complex information retrieval tasks and potentially transforming how AI interacts with vast knowledge repositories.",
+    "enrichedAt": "2026-11-16T07:04:02.967Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.17808v1": {
+    "title": "CarryOn: Enhancing Context Management for Long-Horizon LLM Agents",
+    "summary": "The research paper 'CarryOn' introduces a method for improving context management in long-horizon language model (LLM) agents, enabling them to better coordinate tools and applications for complex, multi-step tasks. This advancement is crucial as these agents' interaction histories expand, ensuring more effective and efficient task completion.",
+    "danishTitle": "CarryOn: Enhancing Context Management for Long-Horizon LLM Agents",
+    "danishSummary": "The research paper 'CarryOn' introduces a method for improving context management in long-horizon language model (LLM) agents, enabling them to better coordinate tools and applications for complex, multi-step tasks. This advancement is crucial as these agents' interaction histories expand, ensuring more effective and efficient task completion.",
+    "whyItMatters": "By optimizing context management, CarryOn enhances the practicality and efficiency of long-horizon LLM agents, making them more suitable for real-world, multi-step problem-solving scenarios across various industries.",
+    "enrichedAt": "2026-11-16T07:04:16.648Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17808": {
+    "title": "CarryOn: Enhancing Context Management for Long-Horizon LLM Agents",
+    "summary": "The research paper 'CarryOn' introduces a method for improving context management in long-horizon language model (LLM) agents, enabling them to better coordinate tools and applications for complex, multi-step tasks. This advancement is crucial as these agents' interaction histories expand, ensuring more effective and efficient task completion.",
+    "danishTitle": "CarryOn: Enhancing Context Management for Long-Horizon LLM Agents",
+    "danishSummary": "The research paper 'CarryOn' introduces a method for improving context management in long-horizon language model (LLM) agents, enabling them to better coordinate tools and applications for complex, multi-step tasks. This advancement is crucial as these agents' interaction histories expand, ensuring more effective and efficient task completion.",
+    "whyItMatters": "By optimizing context management, CarryOn enhances the practicality and efficiency of long-horizon LLM agents, making them more suitable for real-world, multi-step problem-solving scenarios across various industries.",
+    "enrichedAt": "2026-11-16T07:04:16.648Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.17811v1": {
+    "title": "AI Reviews Highlight Biases in Large Language Models",
+    "summary": "A new study on arXiv highlights that large language models (LLMs) used in the reviewing process of academic papers often introduce biases, as their outputs influence the human reviewers' evaluations. This research underscores the need for greater scrutiny of AI tools in scholarly assessment.",
+    "danishTitle": "AI Reviews Highlight Biases in Large Language Models",
+    "danishSummary": "A new study on arXiv highlights that large language models (LLMs) used in the reviewing process of academic papers often introduce biases, as their outputs influence the human reviewers' evaluations. This research underscores the need for greater scrutiny of AI tools in scholarly assessment.",
+    "whyItMatters": "Understanding and addressing these biases is crucial for maintaining the integrity and fairness of the academic review process, which in turn affects the credibility of published research.",
+    "enrichedAt": "2026-11-16T07:04:27.938Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17811": {
+    "title": "AI Reviews Highlight Biases in Large Language Models",
+    "summary": "A new study on arXiv highlights that large language models (LLMs) used in the reviewing process of academic papers often introduce biases, as their outputs influence the human reviewers' evaluations. This research underscores the need for greater scrutiny of AI tools in scholarly assessment.",
+    "danishTitle": "AI Reviews Highlight Biases in Large Language Models",
+    "danishSummary": "A new study on arXiv highlights that large language models (LLMs) used in the reviewing process of academic papers often introduce biases, as their outputs influence the human reviewers' evaluations. This research underscores the need for greater scrutiny of AI tools in scholarly assessment.",
+    "whyItMatters": "Understanding and addressing these biases is crucial for maintaining the integrity and fairness of the academic review process, which in turn affects the credibility of published research.",
+    "enrichedAt": "2026-11-16T07:04:27.938Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-cl-oai:arXiv.org:2611.17834v1": {
+    "title": "PaperCritic: Training AI Reviewers to Assess the Soundness of Research Papers",
+    "summary": "A new study proposes training AI reviewers to evaluate the soundness of research papers, addressing the challenge of increasing AI conference submissions. The research aims to develop AI systems that can effectively mimic the nuanced judgment required in academic review processes.",
+    "danishTitle": "PaperCritic: Training AI Reviewers to Assess the Soundness of Research Papers",
+    "danishSummary": "A new study proposes training AI reviewers to evaluate the soundness of research papers, addressing the challenge of increasing AI conference submissions. The research aims to develop AI systems that can effectively mimic the nuanced judgment required in academic review processes.",
+    "whyItMatters": "This development could streamline the peer review process in academic conferences, potentially reducing the workload on human reviewers and improving the efficiency of the research dissemination pipeline.",
+    "enrichedAt": "2026-11-16T07:04:39.145Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17834": {
+    "title": "PaperCritic: Training AI Reviewers to Assess the Soundness of Research Papers",
+    "summary": "A new study proposes training AI reviewers to evaluate the soundness of research papers, addressing the challenge of increasing AI conference submissions. The research aims to develop AI systems that can effectively mimic the nuanced judgment required in academic review processes.",
+    "danishTitle": "PaperCritic: Training AI Reviewers to Assess the Soundness of Research Papers",
+    "danishSummary": "A new study proposes training AI reviewers to evaluate the soundness of research papers, addressing the challenge of increasing AI conference submissions. The research aims to develop AI systems that can effectively mimic the nuanced judgment required in academic review processes.",
+    "whyItMatters": "This development could streamline the peer review process in academic conferences, potentially reducing the workload on human reviewers and improving the efficiency of the research dissemination pipeline.",
+    "enrichedAt": "2026-11-16T07:04:39.145Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.17338v1": {
+    "title": "Study Reveals Limitations of Hard-Filtering Memory in LLMs: Query-Critical Facts Can Affect Downstream Accuracy",
+    "summary": "A recent study published on arXiv highlights the potential drawbacks of hard-filtering memory in large language models (LLMs), suggesting that the deletion of query-critical facts can lead to reduced downstream accuracy. Researchers propose a more nuanced approach to memory management to mitigate these issues.",
+    "danishTitle": "Study Reveals Limitations of Hard-Filtering Memory in LLMs: Query-Critical Facts Can Affect Downstream Accuracy",
+    "danishSummary": "A recent study published on arXiv highlights the potential drawbacks of hard-filtering memory in large language models (LLMs), suggesting that the deletion of query-critical facts can lead to reduced downstream accuracy. Researchers propose a more nuanced approach to memory management to mitigate these issues.",
+    "whyItMatters": "Understanding the impact of memory filtering on LLM performance is crucial for developers and enterprises, as it affects the reliability and accuracy of AI applications, particularly in critical query scenarios.",
+    "enrichedAt": "2026-11-16T07:04:52.593Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17338": {
+    "title": "Study Reveals Limitations of Hard-Filtering Memory in LLMs: Query-Critical Facts Can Affect Downstream Accuracy",
+    "summary": "A recent study published on arXiv highlights the potential drawbacks of hard-filtering memory in large language models (LLMs), suggesting that the deletion of query-critical facts can lead to reduced downstream accuracy. Researchers propose a more nuanced approach to memory management to mitigate these issues.",
+    "danishTitle": "Study Reveals Limitations of Hard-Filtering Memory in LLMs: Query-Critical Facts Can Affect Downstream Accuracy",
+    "danishSummary": "A recent study published on arXiv highlights the potential drawbacks of hard-filtering memory in large language models (LLMs), suggesting that the deletion of query-critical facts can lead to reduced downstream accuracy. Researchers propose a more nuanced approach to memory management to mitigate these issues.",
+    "whyItMatters": "Understanding the impact of memory filtering on LLM performance is crucial for developers and enterprises, as it affects the reliability and accuracy of AI applications, particularly in critical query scenarios.",
+    "enrichedAt": "2026-11-16T07:04:52.593Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.17339v1": {
+    "title": "Practitioner-Facing Audit Challenges Hallucination Detection Methods for Small, Quantized LLMs",
+    "summary": "A new study on arXiv evaluates hallucination detection methods for smaller, quantized language models used on-device, revealing that current practices, which focus on large research models, may not be applicable or effective in real-world scenarios.",
+    "danishTitle": "Practitioner-Facing Audit Challenges Hallucination Detection Methods for Small, Quantized LLMs",
+    "danishSummary": "A new study on arXiv evaluates hallucination detection methods for smaller, quantized language models used on-device, revealing that current practices, which focus on large research models, may not be applicable or effective in real-world scenarios.",
+    "whyItMatters": "This research highlights the need for more practical and context-specific approaches to hallucination detection, ensuring that smaller models used in edge devices can be trusted and reliable.",
+    "enrichedAt": "2026-11-16T07:05:04.750Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17339": {
+    "title": "Practitioner-Facing Audit Challenges Hallucination Detection Methods for Small, Quantized LLMs",
+    "summary": "A new study on arXiv evaluates hallucination detection methods for smaller, quantized language models used on-device, revealing that current practices, which focus on large research models, may not be applicable or effective in real-world scenarios.",
+    "danishTitle": "Practitioner-Facing Audit Challenges Hallucination Detection Methods for Small, Quantized LLMs",
+    "danishSummary": "A new study on arXiv evaluates hallucination detection methods for smaller, quantized language models used on-device, revealing that current practices, which focus on large research models, may not be applicable or effective in real-world scenarios.",
+    "whyItMatters": "This research highlights the need for more practical and context-specific approaches to hallucination detection, ensuring that smaller models used in edge devices can be trusted and reliable.",
+    "enrichedAt": "2026-11-16T07:05:04.750Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.17340v1": {
+    "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+    "summary": "The paper 'LoRAWeaver' introduces a novel method for parameter-efficient fine-tuning of large language models, addressing the high cost of full retraining. By optimizing the routing of adapters within the LoRA representation space, the technique aims to streamline model adaptation for various tasks without significantly increasing computational overhead.",
+    "danishTitle": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+    "danishSummary": "The paper 'LoRAWeaver' introduces a novel method for parameter-efficient fine-tuning of large language models, addressing the high cost of full retraining. By optimizing the routing of adapters within the LoRA representation space, the technique aims to streamline model adaptation for various tasks without significantly increasing computational overhead.",
+    "whyItMatters": "This advancement could significantly reduce the operational costs for organizations using large language models, making more flexible and adaptive AI solutions economically feasible on a broader scale.",
+    "enrichedAt": "2026-11-16T07:05:17.293Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17340": {
+    "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+    "summary": "The paper 'LoRAWeaver' introduces a novel method for parameter-efficient fine-tuning of large language models, addressing the high cost of full retraining. By optimizing the routing of adapters within the LoRA representation space, the technique aims to streamline model adaptation for various tasks without significantly increasing computational overhead.",
+    "danishTitle": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+    "danishSummary": "The paper 'LoRAWeaver' introduces a novel method for parameter-efficient fine-tuning of large language models, addressing the high cost of full retraining. By optimizing the routing of adapters within the LoRA representation space, the technique aims to streamline model adaptation for various tasks without significantly increasing computational overhead.",
+    "whyItMatters": "This advancement could significantly reduce the operational costs for organizations using large language models, making more flexible and adaptive AI solutions economically feasible on a broader scale.",
+    "enrichedAt": "2026-11-16T07:05:17.293Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.17341v1": {
+    "title": "New Research Proposes Tabular Population Priors for Enhanced EHR Medication Prediction",
+    "summary": "A recent study published on arXiv proposes using tabular population priors as structured retrieval to improve medication prediction from electronic health records (EHRs). This approach contrasts with current clinical retrieval-augmented generation (RAG) systems, which often handle such tasks as open-ended reasoning.",
+    "danishTitle": "New Research Proposes Tabular Population Priors for Enhanced EHR Medication Prediction",
+    "danishSummary": "A recent study published on arXiv proposes using tabular population priors as structured retrieval to improve medication prediction from electronic health records (EHRs). This approach contrasts with current clinical retrieval-augmented generation (RAG) systems, which often handle such tasks as open-ended reasoning.",
+    "whyItMatters": "By leveraging population priors, this method could lead to more accurate and efficient medication predictions, potentially improving patient care and reducing errors in clinical settings.",
+    "enrichedAt": "2026-11-16T07:05:29.675Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17341": {
+    "title": "New Research Proposes Tabular Population Priors for Enhanced EHR Medication Prediction",
+    "summary": "A recent study published on arXiv proposes using tabular population priors as structured retrieval to improve medication prediction from electronic health records (EHRs). This approach contrasts with current clinical retrieval-augmented generation (RAG) systems, which often handle such tasks as open-ended reasoning.",
+    "danishTitle": "New Research Proposes Tabular Population Priors for Enhanced EHR Medication Prediction",
+    "danishSummary": "A recent study published on arXiv proposes using tabular population priors as structured retrieval to improve medication prediction from electronic health records (EHRs). This approach contrasts with current clinical retrieval-augmented generation (RAG) systems, which often handle such tasks as open-ended reasoning.",
+    "whyItMatters": "By leveraging population priors, this method could lead to more accurate and efficient medication predictions, potentially improving patient care and reducing errors in clinical settings.",
+    "enrichedAt": "2026-11-16T07:05:29.675Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.17495v1": {
+    "title": "New Measure Operationalizes Opaque Serial Depth to Enhance Chain-of-Thought Monitorability",
+    "summary": "Researchers have developed a new measure to operationalize opaque serial depth, aiming to improve the monitorability of chain-of-thought (CoT) processes in AI models. This advancement could lead to better oversight and transparency in AI reasoning.",
+    "danishTitle": "New Measure Operationalizes Opaque Serial Depth to Enhance Chain-of-Thought Monitorability",
+    "danishSummary": "Researchers have developed a new measure to operationalize opaque serial depth, aiming to improve the monitorability of chain-of-thought (CoT) processes in AI models. This advancement could lead to better oversight and transparency in AI reasoning.",
+    "whyItMatters": "By enhancing the transparency of AI reasoning, this measure could significantly improve the trustworthiness and accountability of AI systems, which is crucial for their adoption in critical applications.",
+    "enrichedAt": "2026-11-16T07:05:41.475Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17495": {
+    "title": "New Measure Operationalizes Opaque Serial Depth to Enhance Chain-of-Thought Monitorability",
+    "summary": "Researchers have developed a new measure to operationalize opaque serial depth, aiming to improve the monitorability of chain-of-thought (CoT) processes in AI models. This advancement could lead to better oversight and transparency in AI reasoning.",
+    "danishTitle": "New Measure Operationalizes Opaque Serial Depth to Enhance Chain-of-Thought Monitorability",
+    "danishSummary": "Researchers have developed a new measure to operationalize opaque serial depth, aiming to improve the monitorability of chain-of-thought (CoT) processes in AI models. This advancement could lead to better oversight and transparency in AI reasoning.",
+    "whyItMatters": "By enhancing the transparency of AI reasoning, this measure could significantly improve the trustworthiness and accountability of AI systems, which is crucial for their adoption in critical applications.",
+    "enrichedAt": "2026-11-16T07:05:41.475Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.17501v1": {
+    "title": "New Microscaling Formats Advance Quantization for Recommendation and Ranking Models",
+    "summary": "A recent research paper on arXiv introduces new microscaling formats for quantization in Recommendation and Ranking (R&R) models, enhancing inference efficiency while maintaining accuracy. This development is crucial for digital advertising, where precision and throughput are critical.",
+    "danishTitle": "New Microscaling Formats Advance Quantization for Recommendation and Ranking Models",
+    "danishSummary": "A recent research paper on arXiv introduces new microscaling formats for quantization in Recommendation and Ranking (R&R) models, enhancing inference efficiency while maintaining accuracy. This development is crucial for digital advertising, where precision and throughput are critical.",
+    "whyItMatters": "By improving the efficiency of R&R models, this advancement could significantly reduce computational costs and improve the performance of recommendation systems, benefiting both businesses and users in digital advertising and beyond.",
+    "enrichedAt": "2026-11-16T07:05:53.193Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17501": {
+    "title": "New Microscaling Formats Advance Quantization for Recommendation and Ranking Models",
+    "summary": "A recent research paper on arXiv introduces new microscaling formats for quantization in Recommendation and Ranking (R&R) models, enhancing inference efficiency while maintaining accuracy. This development is crucial for digital advertising, where precision and throughput are critical.",
+    "danishTitle": "New Microscaling Formats Advance Quantization for Recommendation and Ranking Models",
+    "danishSummary": "A recent research paper on arXiv introduces new microscaling formats for quantization in Recommendation and Ranking (R&R) models, enhancing inference efficiency while maintaining accuracy. This development is crucial for digital advertising, where precision and throughput are critical.",
+    "whyItMatters": "By improving the efficiency of R&R models, this advancement could significantly reduce computational costs and improve the performance of recommendation systems, benefiting both businesses and users in digital advertising and beyond.",
+    "enrichedAt": "2026-11-16T07:05:53.193Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.17515v1": {
+    "title": "Framing Effects and Internal State Interventions Tested in LLM Market Manipulation Study",
+    "summary": "Researchers have explored how valence framing and internal state interventions can influence the behavior of large language models (LLMs) in market manipulation scenarios. Using the Gemma 3 12B model, the study simulates market manipulation in a long-horizon setting, specifically within the context of the London silver-fixing litigation.",
+    "danishTitle": "Framing Effects and Internal State Interventions Tested in LLM Market Manipulation Study",
+    "danishSummary": "Researchers have explored how valence framing and internal state interventions can influence the behavior of large language models (LLMs) in market manipulation scenarios. Using the Gemma 3 12B model, the study simulates market manipulation in a long-horizon setting, specifically within the context of the London silver-fixing litigation.",
+    "whyItMatters": "Understanding these mechanisms is crucial for developing ethical guidelines and safeguards to prevent LLMs from engaging in harmful behaviors in financial and other critical markets.",
+    "enrichedAt": "2026-11-16T07:06:06.684Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17515": {
+    "title": "Framing Effects and Internal State Interventions Tested in LLM Market Manipulation Study",
+    "summary": "Researchers have explored how valence framing and internal state interventions can influence the behavior of large language models (LLMs) in market manipulation scenarios. Using the Gemma 3 12B model, the study simulates market manipulation in a long-horizon setting, specifically within the context of the London silver-fixing litigation.",
+    "danishTitle": "Framing Effects and Internal State Interventions Tested in LLM Market Manipulation Study",
+    "danishSummary": "Researchers have explored how valence framing and internal state interventions can influence the behavior of large language models (LLMs) in market manipulation scenarios. Using the Gemma 3 12B model, the study simulates market manipulation in a long-horizon setting, specifically within the context of the London silver-fixing litigation.",
+    "whyItMatters": "Understanding these mechanisms is crucial for developing ethical guidelines and safeguards to prevent LLMs from engaging in harmful behaviors in financial and other critical markets.",
+    "enrichedAt": "2026-11-16T07:06:06.684Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.17524v1": {
+    "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
+    "summary": "A new technique called model annealing has been introduced, which allows for more efficient learning by memorizing a small, labeled dataset early in the training process. This method enhances the model's ability to sharpen confidence in one-hot labels, thereby reducing the need for extensive training data.",
+    "danishTitle": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
+    "danishSummary": "A new technique called model annealing has been introduced, which allows for more efficient learning by memorizing a small, labeled dataset early in the training process. This method enhances the model's ability to sharpen confidence in one-hot labels, thereby reducing the need for extensive training data.",
+    "whyItMatters": "By significantly reducing the dependency on large datasets, model annealing could democratize AI development, making advanced machine learning capabilities more accessible to smaller organizations and researchers with limited data resources.",
+    "enrichedAt": "2026-11-16T07:06:19.165Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17524": {
+    "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
+    "summary": "A new technique called model annealing has been introduced, which allows for more efficient learning by memorizing a small, labeled dataset early in the training process. This method enhances the model's ability to sharpen confidence in one-hot labels, thereby reducing the need for extensive training data.",
+    "danishTitle": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
+    "danishSummary": "A new technique called model annealing has been introduced, which allows for more efficient learning by memorizing a small, labeled dataset early in the training process. This method enhances the model's ability to sharpen confidence in one-hot labels, thereby reducing the need for extensive training data.",
+    "whyItMatters": "By significantly reducing the dependency on large datasets, model annealing could democratize AI development, making advanced machine learning capabilities more accessible to smaller organizations and researchers with limited data resources.",
+    "enrichedAt": "2026-11-16T07:06:19.165Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.17532v1": {
+    "title": "Astrocytes Play Crucial Role in Neural Network Computation, Suggests New Research",
+    "summary": "A recent study published on arXiv highlights the significant contributions of astrocytes, previously understudied cells, to neural network computation, drawing parallels with the role of conductors in an orchestra. This research could revolutionize our understanding of brain function and artificial neural networks.",
+    "danishTitle": "Astrocytes Play Crucial Role in Neural Network Computation, Suggests New Research",
+    "danishSummary": "A recent study published on arXiv highlights the significant contributions of astrocytes, previously understudied cells, to neural network computation, drawing parallels with the role of conductors in an orchestra. This research could revolutionize our understanding of brain function and artificial neural networks.",
+    "whyItMatters": "Understanding the role of astrocytes could lead to more efficient and biologically inspired AI models, potentially improving the performance and energy efficiency of current neural network architectures.",
+    "enrichedAt": "2026-11-16T07:06:31.833Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17532": {
+    "title": "Astrocytes Play Crucial Role in Neural Network Computation, Suggests New Research",
+    "summary": "A recent study published on arXiv highlights the significant contributions of astrocytes, previously understudied cells, to neural network computation, drawing parallels with the role of conductors in an orchestra. This research could revolutionize our understanding of brain function and artificial neural networks.",
+    "danishTitle": "Astrocytes Play Crucial Role in Neural Network Computation, Suggests New Research",
+    "danishSummary": "A recent study published on arXiv highlights the significant contributions of astrocytes, previously understudied cells, to neural network computation, drawing parallels with the role of conductors in an orchestra. This research could revolutionize our understanding of brain function and artificial neural networks.",
+    "whyItMatters": "Understanding the role of astrocytes could lead to more efficient and biologically inspired AI models, potentially improving the performance and energy efficiency of current neural network architectures.",
+    "enrichedAt": "2026-11-16T07:06:31.833Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.17539v1": {
+    "title": "Verifiable pXRD: Autonomous Crystal-Structure Determination with AI Agents",
+    "summary": "A new research paper titled 'Verifiable pXRD' introduces an innovative approach to autonomous crystal-structure determination from powder X-ray diffraction (pXRD) using language model (LLM) agents. This advancement aims to overcome the bottleneck in self-driving materials laboratories by employing hill-climbing algorithms to enhance accuracy and reliability.",
+    "danishTitle": "Verifiable pXRD: Autonomous Crystal-Structure Determination with AI Agents",
+    "danishSummary": "A new research paper titled 'Verifiable pXRD' introduces an innovative approach to autonomous crystal-structure determination from powder X-ray diffraction (pXRD) using language model (LLM) agents. This advancement aims to overcome the bottleneck in self-driving materials laboratories by employing hill-climbing algorithms to enhance accuracy and reliability.",
+    "whyItMatters": "This development could significantly streamline material science research processes, making automated labs more efficient and accessible, thereby accelerating innovation in materials science and related industries.",
+    "enrichedAt": "2026-11-16T07:06:44.826Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17539": {
+    "title": "Verifiable pXRD: Autonomous Crystal-Structure Determination with AI Agents",
+    "summary": "A new research paper titled 'Verifiable pXRD' introduces an innovative approach to autonomous crystal-structure determination from powder X-ray diffraction (pXRD) using language model (LLM) agents. This advancement aims to overcome the bottleneck in self-driving materials laboratories by employing hill-climbing algorithms to enhance accuracy and reliability.",
+    "danishTitle": "Verifiable pXRD: Autonomous Crystal-Structure Determination with AI Agents",
+    "danishSummary": "A new research paper titled 'Verifiable pXRD' introduces an innovative approach to autonomous crystal-structure determination from powder X-ray diffraction (pXRD) using language model (LLM) agents. This advancement aims to overcome the bottleneck in self-driving materials laboratories by employing hill-climbing algorithms to enhance accuracy and reliability.",
+    "whyItMatters": "This development could significantly streamline material science research processes, making automated labs more efficient and accessible, thereby accelerating innovation in materials science and related industries.",
+    "enrichedAt": "2026-11-16T07:06:44.826Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.17564v1": {
+    "title": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape AI Governance Rules",
+    "summary": "AI-Voyager, a new system proposed by researchers, aims to empower citizens to engage in civic reasoning with AI to challenge and influence the rules governing artificial intelligence. This initiative seeks to ensure that AI regulations are more transparent and inclusive, addressing the gap where such rules are often established without public input.",
+    "danishTitle": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape AI Governance Rules",
+    "danishSummary": "AI-Voyager, a new system proposed by researchers, aims to empower citizens to engage in civic reasoning with AI to challenge and influence the rules governing artificial intelligence. This initiative seeks to ensure that AI regulations are more transparent and inclusive, addressing the gap where such rules are often established without public input.",
+    "whyItMatters": "By enabling public participation in AI governance, AI-Voyager could lead to more equitable and just AI policies, fostering trust and accountability in the use of AI technologies.",
+    "enrichedAt": "2026-11-16T07:06:58.440Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17564": {
+    "title": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape AI Governance Rules",
+    "summary": "AI-Voyager, a new system proposed by researchers, aims to empower citizens to engage in civic reasoning with AI to challenge and influence the rules governing artificial intelligence. This initiative seeks to ensure that AI regulations are more transparent and inclusive, addressing the gap where such rules are often established without public input.",
+    "danishTitle": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape AI Governance Rules",
+    "danishSummary": "AI-Voyager, a new system proposed by researchers, aims to empower citizens to engage in civic reasoning with AI to challenge and influence the rules governing artificial intelligence. This initiative seeks to ensure that AI regulations are more transparent and inclusive, addressing the gap where such rules are often established without public input.",
+    "whyItMatters": "By enabling public participation in AI governance, AI-Voyager could lead to more equitable and just AI policies, fostering trust and accountability in the use of AI technologies.",
+    "enrichedAt": "2026-11-16T07:06:58.440Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.17583v1": {
+    "title": "Study Reveals Optimal Information Retention for AI Task Performance",
+    "summary": "A recent study published on arXiv demonstrates that in certain scenarios, retaining less information can lead to better task performance. By analyzing a four-state world, researchers found that a representation retaining one bit can achieve perfect accuracy, whereas one retaining 1.5 bits on average only reaches 75% accuracy.",
+    "danishTitle": "Study Reveals Optimal Information Retention for AI Task Performance",
+    "danishSummary": "A recent study published on arXiv demonstrates that in certain scenarios, retaining less information can lead to better task performance. By analyzing a four-state world, researchers found that a representation retaining one bit can achieve perfect accuracy, whereas one retaining 1.5 bits on average only reaches 75% accuracy.",
+    "whyItMatters": "Understanding the optimal amount of information needed for AI tasks can lead to more efficient models, reducing computational costs and improving performance in specific applications.",
+    "enrichedAt": "2026-11-16T07:07:10.624Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17583": {
+    "title": "Study Reveals Optimal Information Retention for AI Task Performance",
+    "summary": "A recent study published on arXiv demonstrates that in certain scenarios, retaining less information can lead to better task performance. By analyzing a four-state world, researchers found that a representation retaining one bit can achieve perfect accuracy, whereas one retaining 1.5 bits on average only reaches 75% accuracy.",
+    "danishTitle": "Study Reveals Optimal Information Retention for AI Task Performance",
+    "danishSummary": "A recent study published on arXiv demonstrates that in certain scenarios, retaining less information can lead to better task performance. By analyzing a four-state world, researchers found that a representation retaining one bit can achieve perfect accuracy, whereas one retaining 1.5 bits on average only reaches 75% accuracy.",
+    "whyItMatters": "Understanding the optimal amount of information needed for AI tasks can lead to more efficient models, reducing computational costs and improving performance in specific applications.",
+    "enrichedAt": "2026-11-16T07:07:10.624Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.17610v1": {
+    "title": "New Study Challenges Traditional Evaluations of Multi-Agent Language Models",
+    "summary": "A recent arXiv paper explores the complexities of evaluating multi-agent language models, arguing that traditional comparisons often conflate coordination strategies with sample multiplicity and inference efficiency. The study suggests a more nuanced approach to assessing these models.",
+    "danishTitle": "New Study Challenges Traditional Evaluations of Multi-Agent Language Models",
+    "danishSummary": "A recent arXiv paper explores the complexities of evaluating multi-agent language models, arguing that traditional comparisons often conflate coordination strategies with sample multiplicity and inference efficiency. The study suggests a more nuanced approach to assessing these models.",
+    "whyItMatters": "By clarifying the factors that influence performance, this research could lead to more effective design and deployment of multi-agent language models in various applications.",
+    "enrichedAt": "2026-11-16T07:07:21.346Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17610": {
+    "title": "New Study Challenges Traditional Evaluations of Multi-Agent Language Models",
+    "summary": "A recent arXiv paper explores the complexities of evaluating multi-agent language models, arguing that traditional comparisons often conflate coordination strategies with sample multiplicity and inference efficiency. The study suggests a more nuanced approach to assessing these models.",
+    "danishTitle": "New Study Challenges Traditional Evaluations of Multi-Agent Language Models",
+    "danishSummary": "A recent arXiv paper explores the complexities of evaluating multi-agent language models, arguing that traditional comparisons often conflate coordination strategies with sample multiplicity and inference efficiency. The study suggests a more nuanced approach to assessing these models.",
+    "whyItMatters": "By clarifying the factors that influence performance, this research could lead to more effective design and deployment of multi-agent language models in various applications.",
+    "enrichedAt": "2026-11-16T07:07:21.346Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.17616v1": {
+    "title": "New LLM-Guided Approach for Cluster Lifecycle Management in AI Systems",
+    "summary": "A recent study proposes an LLM-guided method for managing the lifecycle of behavioral clusters in AI systems, addressing the issue of drift in user or item interactions over time. The approach aims to optimize when and how clusters should be evolved to maintain system performance and relevance.",
+    "danishTitle": "New LLM-Guided Approach for Cluster Lifecycle Management in AI Systems",
+    "danishSummary": "A recent study proposes an LLM-guided method for managing the lifecycle of behavioral clusters in AI systems, addressing the issue of drift in user or item interactions over time. The approach aims to optimize when and how clusters should be evolved to maintain system performance and relevance.",
+    "whyItMatters": "This method could significantly enhance the adaptability and efficiency of AI systems, ensuring they remain relevant and effective as user behaviors evolve, which is crucial for maintaining high-quality user experiences in dynamic environments.",
+    "enrichedAt": "2026-11-16T07:07:33.866Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17616": {
+    "title": "New LLM-Guided Approach for Cluster Lifecycle Management in AI Systems",
+    "summary": "A recent study proposes an LLM-guided method for managing the lifecycle of behavioral clusters in AI systems, addressing the issue of drift in user or item interactions over time. The approach aims to optimize when and how clusters should be evolved to maintain system performance and relevance.",
+    "danishTitle": "New LLM-Guided Approach for Cluster Lifecycle Management in AI Systems",
+    "danishSummary": "A recent study proposes an LLM-guided method for managing the lifecycle of behavioral clusters in AI systems, addressing the issue of drift in user or item interactions over time. The approach aims to optimize when and how clusters should be evolved to maintain system performance and relevance.",
+    "whyItMatters": "This method could significantly enhance the adaptability and efficiency of AI systems, ensuring they remain relevant and effective as user behaviors evolve, which is crucial for maintaining high-quality user experiences in dynamic environments.",
+    "enrichedAt": "2026-11-16T07:07:33.866Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-ai-oai:arXiv.org:2611.17620v1": {
+    "title": "Empirical Audit Reveals Safety Concerns in Preventative Persona Steering",
+    "summary": "A recent empirical audit published on arXiv explores the safety implications of preventative persona steering in AI models, highlighting issues like sycophancy and hallucination that arise from manipulating persona vectors in the model's activation space.",
+    "danishTitle": "Empirical Audit Reveals Safety Concerns in Preventative Persona Steering",
+    "danishSummary": "A recent empirical audit published on arXiv explores the safety implications of preventative persona steering in AI models, highlighting issues like sycophancy and hallucination that arise from manipulating persona vectors in the model's activation space.",
+    "whyItMatters": "Understanding these safety side effects is crucial for developers and enterprises to implement more robust and ethical AI systems, ensuring they do not inadvertently promote harmful behaviors.",
+    "enrichedAt": "2026-11-16T07:07:44.821Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17620": {
+    "title": "Empirical Audit Reveals Safety Concerns in Preventative Persona Steering",
+    "summary": "A recent empirical audit published on arXiv explores the safety implications of preventative persona steering in AI models, highlighting issues like sycophancy and hallucination that arise from manipulating persona vectors in the model's activation space.",
+    "danishTitle": "Empirical Audit Reveals Safety Concerns in Preventative Persona Steering",
+    "danishSummary": "A recent empirical audit published on arXiv explores the safety implications of preventative persona steering in AI models, highlighting issues like sycophancy and hallucination that arise from manipulating persona vectors in the model's activation space.",
+    "whyItMatters": "Understanding these safety side effects is crucial for developers and enterprises to implement more robust and ethical AI systems, ensuring they do not inadvertently promote harmful behaviors.",
+    "enrichedAt": "2026-11-16T07:07:44.821Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2611.17398v1": {
+    "title": "New Research Explores Cultural Context in Aligning Large Language Models",
+    "summary": "A recent study published on arXiv investigates the role of cultural norms and principles in aligning Large Language Models (LLMs), emphasizing the variability of appropriate governance based on deployment context. This research underscores the need for more nuanced approaches to LLM alignment.",
+    "danishTitle": "New Research Explores Cultural Context in Aligning Large Language Models",
+    "danishSummary": "A recent study published on arXiv investigates the role of cultural norms and principles in aligning Large Language Models (LLMs), emphasizing the variability of appropriate governance based on deployment context. This research underscores the need for more nuanced approaches to LLM alignment.",
+    "whyItMatters": "Understanding the cultural context in LLM alignment is crucial for ensuring ethical and effective deployment, particularly in diverse and globalized environments.",
+    "enrichedAt": "2026-11-16T07:07:55.974Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17398": {
+    "title": "New Research Explores Cultural Context in Aligning Large Language Models",
+    "summary": "A recent study published on arXiv investigates the role of cultural norms and principles in aligning Large Language Models (LLMs), emphasizing the variability of appropriate governance based on deployment context. This research underscores the need for more nuanced approaches to LLM alignment.",
+    "danishTitle": "New Research Explores Cultural Context in Aligning Large Language Models",
+    "danishSummary": "A recent study published on arXiv investigates the role of cultural norms and principles in aligning Large Language Models (LLMs), emphasizing the variability of appropriate governance based on deployment context. This research underscores the need for more nuanced approaches to LLM alignment.",
+    "whyItMatters": "Understanding the cultural context in LLM alignment is crucial for ensuring ethical and effective deployment, particularly in diverse and globalized environments.",
+    "enrichedAt": "2026-11-16T07:07:55.974Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2611.17412v1": {
+    "title": "WETW: Enhancing Dynamic Time Warping Efficiency for Time Series Analysis",
+    "summary": "A new approach called Weighted Euclidean Distance for Time Series (WETW) has been introduced, optimizing the Dynamic Time Warping (DTW) search process by learning pair-specific weighted Euclidean distances, significantly reducing computational costs without compromising accuracy.",
+    "danishTitle": "WETW: Enhancing Dynamic Time Warping Efficiency for Time Series Analysis",
+    "danishSummary": "A new approach called Weighted Euclidean Distance for Time Series (WETW) has been introduced, optimizing the Dynamic Time Warping (DTW) search process by learning pair-specific weighted Euclidean distances, significantly reducing computational costs without compromising accuracy.",
+    "whyItMatters": "This advancement could revolutionize time series analysis in various fields, including finance, healthcare, and signal processing, by making real-time, high-precision analysis more feasible and cost-effective.",
+    "enrichedAt": "2026-11-16T07:08:08.116Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17412": {
+    "title": "WETW: Enhancing Dynamic Time Warping Efficiency for Time Series Analysis",
+    "summary": "A new approach called Weighted Euclidean Distance for Time Series (WETW) has been introduced, optimizing the Dynamic Time Warping (DTW) search process by learning pair-specific weighted Euclidean distances, significantly reducing computational costs without compromising accuracy.",
+    "danishTitle": "WETW: Enhancing Dynamic Time Warping Efficiency for Time Series Analysis",
+    "danishSummary": "A new approach called Weighted Euclidean Distance for Time Series (WETW) has been introduced, optimizing the Dynamic Time Warping (DTW) search process by learning pair-specific weighted Euclidean distances, significantly reducing computational costs without compromising accuracy.",
+    "whyItMatters": "This advancement could revolutionize time series analysis in various fields, including finance, healthcare, and signal processing, by making real-time, high-precision analysis more feasible and cost-effective.",
+    "enrichedAt": "2026-11-16T07:08:08.116Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2611.17459v1": {
+    "title": "New Research Unifies Self-Stabilization and Convergence Rates in Large-Step Gradient Descent",
+    "summary": "A recent study on arXiv explores the use of large-step gradient descent in training neural networks, demonstrating how it can unify self-stabilization and convergence rates in regimes where traditional stability thresholds are exceeded. This work aims to enhance the efficiency and reliability of deep learning models.",
+    "danishTitle": "New Research Unifies Self-Stabilization and Convergence Rates in Large-Step Gradient Descent",
+    "danishSummary": "A recent study on arXiv explores the use of large-step gradient descent in training neural networks, demonstrating how it can unify self-stabilization and convergence rates in regimes where traditional stability thresholds are exceeded. This work aims to enhance the efficiency and reliability of deep learning models.",
+    "whyItMatters": "By unifying these concepts, the research could lead to more robust and faster training of neural networks, potentially revolutionizing the development and deployment of machine learning models across various industries.",
+    "enrichedAt": "2026-11-16T07:08:21.005Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17459": {
+    "title": "New Research Unifies Self-Stabilization and Convergence Rates in Large-Step Gradient Descent",
+    "summary": "A recent study on arXiv explores the use of large-step gradient descent in training neural networks, demonstrating how it can unify self-stabilization and convergence rates in regimes where traditional stability thresholds are exceeded. This work aims to enhance the efficiency and reliability of deep learning models.",
+    "danishTitle": "New Research Unifies Self-Stabilization and Convergence Rates in Large-Step Gradient Descent",
+    "danishSummary": "A recent study on arXiv explores the use of large-step gradient descent in training neural networks, demonstrating how it can unify self-stabilization and convergence rates in regimes where traditional stability thresholds are exceeded. This work aims to enhance the efficiency and reliability of deep learning models.",
+    "whyItMatters": "By unifying these concepts, the research could lead to more robust and faster training of neural networks, potentially revolutionizing the development and deployment of machine learning models across various industries.",
+    "enrichedAt": "2026-11-16T07:08:21.005Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2611.17460v1": {
+    "title": "Unfinished-Bench: A New Framework for Assessing Rule Violations by Persistent AI Agents",
+    "summary": "Researchers have developed Unfinished-Bench, a novel framework to measure rule violations by persistent AI agents in real-world scenarios. This framework aims to evaluate how AI agents perform under unstated constraints, ensuring they adhere to internal guidelines and operational standards.",
+    "danishTitle": "Unfinished-Bench: A New Framework for Assessing Rule Violations by Persistent AI Agents",
+    "danishSummary": "Researchers have developed Unfinished-Bench, a novel framework to measure rule violations by persistent AI agents in real-world scenarios. This framework aims to evaluate how AI agents perform under unstated constraints, ensuring they adhere to internal guidelines and operational standards.",
+    "whyItMatters": "Unfinished-Bench provides a critical tool for developers and enterprises to ensure AI agents operate ethically and legally, enhancing trust and reliability in autonomous systems.",
+    "enrichedAt": "2026-11-16T07:08:32.747Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17460": {
+    "title": "Unfinished-Bench: A New Framework for Assessing Rule Violations by Persistent AI Agents",
+    "summary": "Researchers have developed Unfinished-Bench, a novel framework to measure rule violations by persistent AI agents in real-world scenarios. This framework aims to evaluate how AI agents perform under unstated constraints, ensuring they adhere to internal guidelines and operational standards.",
+    "danishTitle": "Unfinished-Bench: A New Framework for Assessing Rule Violations by Persistent AI Agents",
+    "danishSummary": "Researchers have developed Unfinished-Bench, a novel framework to measure rule violations by persistent AI agents in real-world scenarios. This framework aims to evaluate how AI agents perform under unstated constraints, ensuring they adhere to internal guidelines and operational standards.",
+    "whyItMatters": "Unfinished-Bench provides a critical tool for developers and enterprises to ensure AI agents operate ethically and legally, enhancing trust and reliability in autonomous systems.",
+    "enrichedAt": "2026-11-16T07:08:32.747Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "arxiv-lg-oai:arXiv.org:2611.17462v1": {
+    "title": "New Technique Enhances Crystal Structure Prediction Using Diffusion Tree Sampling",
+    "summary": "A recent study proposes a novel method called Diffusion Tree Sampling to adapt diffusion-based generative models for crystal structure prediction. This technique aims to address the challenge of steering towards multiple conflicting criteria during inference, potentially improving the accuracy and efficiency of crystal structure generation.",
+    "danishTitle": "New Technique Enhances Crystal Structure Prediction Using Diffusion Tree Sampling",
+    "danishSummary": "A recent study proposes a novel method called Diffusion Tree Sampling to adapt diffusion-based generative models for crystal structure prediction. This technique aims to address the challenge of steering towards multiple conflicting criteria during inference, potentially improving the accuracy and efficiency of crystal structure generation.",
+    "whyItMatters": "By optimizing the inference process, this method could significantly advance material science research and development, leading to faster and more precise discovery of new materials.",
+    "enrichedAt": "2026-11-16T07:08:44.004Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://arxiv.org/abs/2611.17462": {
+    "title": "New Technique Enhances Crystal Structure Prediction Using Diffusion Tree Sampling",
+    "summary": "A recent study proposes a novel method called Diffusion Tree Sampling to adapt diffusion-based generative models for crystal structure prediction. This technique aims to address the challenge of steering towards multiple conflicting criteria during inference, potentially improving the accuracy and efficiency of crystal structure generation.",
+    "danishTitle": "New Technique Enhances Crystal Structure Prediction Using Diffusion Tree Sampling",
+    "danishSummary": "A recent study proposes a novel method called Diffusion Tree Sampling to adapt diffusion-based generative models for crystal structure prediction. This technique aims to address the challenge of steering towards multiple conflicting criteria during inference, potentially improving the accuracy and efficiency of crystal structure generation.",
+    "whyItMatters": "By optimizing the inference process, this method could significantly advance material science research and development, leading to faster and more precise discovery of new materials.",
+    "enrichedAt": "2026-11-16T07:08:44.004Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }
