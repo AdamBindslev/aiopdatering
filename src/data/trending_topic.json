@@ -1,49 +1,49 @@
 {
-  "headline": "AWS Quick Launches Customized AI Solutions, Driving Local Deployment and Cost Efficiency",
-  "summary": "AWS has launched AWS Quick, a tailored AI solution that integrates with existing business processes, aiming to empower businesses with customized AI while reducing costs. This move is gaining significant attention as it could accelerate local AI adoption and challenge proprietary AI platforms.",
-  "whyItMatters": "It offers a more accessible and cost-effective AI solution, potentially broadening the reach of AI technologies to a wider range of businesses.",
-  "synthesizedAt": "2026-11-17T17:22:44.795Z",
+  "headline": "OpenAI's GPT-6.2 Astra and Sol Drive Enhanced AI Model Capabilities",
+  "summary": "OpenAI has released GPT-6.2 Astra and Sol, significantly enhancing AI model capabilities for complex and everyday tasks. These models are being integrated into various applications, from healthcare to supply chains, driving broader adoption and innovation.",
+  "whyItMatters": "These models broaden access to advanced AI capabilities, reducing costs and increasing efficiency in multiple industries.",
+  "synthesizedAt": "2026-11-17T20:27:54.543Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "aws-ml-a63ce7070aaa3349565578631c3a80a4f74fd65a",
-    "title": "AWS Unveils AWS Quick: Empowering Businesses with Customized AI Solutions",
-    "link": "https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026/",
-    "sourceName": "AWS Machine Learning",
-    "sourceId": "aws-ml",
-    "pubDate": "2026-11-17T17:08:21.000Z",
-    "badgeColor": "amber",
+    "id": "openai-channel-yt:video:tKoDPOrLMX0",
+    "title": "OpenAI Unveils GPT-6.2 Astra: Enhanced Model for 3D Reconstruction and Advanced Tool Integration",
+    "link": "https://www.youtube.com/watch?v=tKoDPOrLMX0",
+    "sourceName": "OpenAI (YouTube)",
+    "sourceId": "openai-channel",
+    "pubDate": "2026-11-17T18:41:32.000Z",
+    "badgeColor": "emerald",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "aws-ml-869be9515dd4a9d6d29ada060383aebbdf19f1d9",
-      "title": "LoanPro Deploys Multi-Agent AI Assistant on Amazon Bedrock AgentCore for Enhanced Loan Servicing",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-11-17T17:01:08.000Z",
-      "badgeColor": "amber",
+      "id": "openai-channel-yt:video:C1zYX5jwqq4",
+      "title": "OpenAI Unveils GPT-6.2 Astra and GPT-6.2 Sol for Enhanced Real-World Applications",
+      "link": "https://www.youtube.com/watch?v=C1zYX5jwqq4",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-11-17T17:55:40.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "openai-https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "title": "OpenAI Unveils GPT-6.2 Astra and Sol for Enhanced Professional Outputs and Efficiency",
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "sourceName": "OpenAI News",
+      "sourceId": "openai",
+      "pubDate": "2026-11-17T17:45:00.000Z",
+      "badgeColor": "emerald",
       "angle": "Industry Analysis"
     },
     {
-      "id": "aws-ml-880ddd5d6ca4ac6c3010cbbe57b7883439fc2199",
-      "title": "AWS Unveils Three-Phase Roadmap for Embedding Responsible AI in Agentic AI Deployments",
-      "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-for-agentic-ai-a-phased-roadmap-for-platform-and-application-teams/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-11-17T16:56:31.000Z",
-      "badgeColor": "amber",
-      "angle": "Cost Efficiency"
-    },
-    {
-      "id": "aws-ml-0a44cff15a84618242302af42dadcc4ef349495d",
-      "title": "ArisGlobal Optimizes Generative AI Inference on Amazon Bedrock for Significant Cost Savings",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-arisglobal-scaled-generative-ai-inference-on-amazon-bedrock/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-11-17T15:57:09.000Z",
-      "badgeColor": "amber",
-      "angle": "Cost Savings"
+      "id": "the-decoder-https://the-decoder.com/?p=42964",
+      "title": "OpenAI's AI Agents Automate Healthcare Administrative Tasks",
+      "link": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-17T16:55:47.000Z",
+      "badgeColor": "slate",
+      "angle": "Application Examples"
     }
   ]
 }
