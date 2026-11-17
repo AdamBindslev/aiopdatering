@@ -1,48 +1,38 @@
 {
-  "headline": "NVIDIA GTC DC Emphasizes AI Agent Deployment and Safety",
-  "summary": "NVIDIA GTC DC showcased strategies for deploying AI agents across industries, focusing on model specialization, safety protocols, and open models. This event highlights the growing importance of AI agents in enterprise applications.",
-  "whyItMatters": "It underscores the industry's focus on practical AI deployment, safety, and the role of open models in advancing AI technology.",
-  "synthesizedAt": "2026-11-17T07:58:09.232Z",
+  "headline": "Revolut Demonstrates Widespread AI Integration Across Operations",
+  "summary": "Revolut engineers are extensively utilizing OpenAI’s Codex to automate various internal processes, showcasing the versatility and practical applications of AI in financial services. This trend highlights the growing adoption of AI across industries and its potential to streamline operations.",
+  "whyItMatters": "It underscores the increasing importance of AI in operational efficiency and sets a precedent for other companies to integrate AI into their workflows.",
+  "synthesizedAt": "2026-11-17T11:05:34.106Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "nvidia-developer-yt:video:ON4Jq8aajWI",
-    "title": "NVIDIA GTC DC Highlights Developer Strategies for Deploying AI Agents Across Industries",
-    "link": "https://www.youtube.com/watch?v=ON4Jq8aajWI",
-    "sourceName": "NVIDIA Developer",
-    "sourceId": "nvidia-developer",
-    "pubDate": "2026-11-17T00:03:16.000Z",
-    "badgeColor": "green",
-    "angle": "Industry Event"
+    "id": "openai-channel-yt:video:ZIpm-0RczCk",
+    "title": "Revolut Engineers Leverage OpenAI’s Codex for Efficient Internal Tools Development",
+    "link": "https://www.youtube.com/watch?v=ZIpm-0RczCk",
+    "sourceName": "OpenAI (YouTube)",
+    "sourceId": "openai-channel",
+    "pubDate": "2026-11-17T09:45:35.000Z",
+    "badgeColor": "emerald",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "nvidia-developer-yt:video:SdmuM4NLEsM",
-      "title": "NVIDIA GTC DC Developer Community Highlights Key AI Trends and Applications",
-      "link": "https://www.youtube.com/watch?v=SdmuM4NLEsM",
-      "sourceName": "NVIDIA Developer",
-      "sourceId": "nvidia-developer",
-      "pubDate": "2026-11-17T00:02:01.000Z",
-      "badgeColor": "green",
-      "angle": "Developer Insights"
+      "id": "openai-channel-yt:video:R_sl8zEp9ng",
+      "title": "Revolut Engineer Dmitry Pitik Uses Codex Agents to Automate Code Review Service",
+      "link": "https://www.youtube.com/watch?v=R_sl8zEp9ng",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-11-17T09:45:34.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "aws-ml-6d1ff2e4339ff5c12febb03d6586784822aa87ad",
-      "title": "Amazon Bedrock Launches Agentic Retrieve for Memory-Aware AI Agents",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-11-16T22:43:30.000Z",
-      "badgeColor": "amber",
-      "angle": "Feature Launch"
-    },
-    {
-      "id": "aws-ml-4d56ba5eeb480a2a306a4f4e8ec1bce9830a8eef",
-      "title": "Duco Rebuilds Agentic AI Stack on Amazon Bedrock for Enhanced Financial Data Automation",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-11-16T22:06:08.000Z",
-      "badgeColor": "amber",
+      "id": "openai-channel-yt:video:hAASMPKkaXA",
+      "title": "Revolut Utilizes AI to Rapidly Convert Years of Design Documentation into Machine-Readable Format",
+      "link": "https://www.youtube.com/watch?v=hAASMPKkaXA",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-11-17T09:45:10.000Z",
+      "badgeColor": "emerald",
       "angle": "Case Study"
     }
   ]
