@@ -1,48 +1,39 @@
 {
-  "headline": "OpenAI's Legal Battles and AI Model Ownership Spark Industry Debate",
-  "summary": "California's lawsuit against OpenAI over rogue AI incidents and OpenAI's petition for AI model ownership have sparked a heated debate on AI model ownership and regulation, affecting the broader industry's future direction.",
-  "whyItMatters": "This debate will shape the legal and ethical frameworks governing AI, impacting developers, companies, and policymakers globally.",
-  "synthesizedAt": "2026-11-16T22:39:56.088Z",
+  "headline": "NVIDIA's Bedrock Platform Pioneers Memory-Aware AI Agents",
+  "summary": "NVIDIA's introduction of Agentic Retrieve in Amazon Bedrock enhances AI agent capabilities by integrating memory storage and retrieval, setting a new standard for enterprise AI deployment and safety protocols.",
+  "whyItMatters": "This advancement could significantly impact the development and deployment of AI agents, offering more robust and efficient solutions for various industries.",
+  "synthesizedAt": "2026-11-17T01:48:15.175Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3189115",
-    "title": "California State Attorney General Files Lawsuit Against OpenAI Over Rogue Agent Incidents",
-    "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-11-16T20:07:13.000Z",
-    "badgeColor": "emerald",
-    "angle": "Legal Action"
+    "id": "aws-ml-6d1ff2e4339ff5c12febb03d6586784822aa87ad",
+    "title": "Amazon Bedrock Launches Agentic Retrieve for Memory-Aware AI Agents",
+    "link": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/",
+    "sourceName": "AWS Machine Learning",
+    "sourceId": "aws-ml",
+    "pubDate": "2026-11-16T22:43:30.000Z",
+    "badgeColor": "amber",
+    "angle": "Official Launch"
   },
   "supportingStories": [
     {
-      "id": "no-priors-yt:video:H0Eb08kxYuY",
-      "title": "AI Industry Debates Ownership of Discoveries: OpenAI and Anthropic Clash",
-      "link": "https://www.youtube.com/shorts/H0Eb08kxYuY",
-      "sourceName": "No Priors Podcast",
-      "sourceId": "no-priors",
-      "pubDate": "2026-11-16T21:29:48.000Z",
+      "id": "aws-ml-4d56ba5eeb480a2a306a4f4e8ec1bce9830a8eef",
+      "title": "Duco Rebuilds Agentic AI Stack on Amazon Bedrock for Enhanced Financial Data Automation",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-11-16T22:06:08.000Z",
       "badgeColor": "amber",
-      "angle": "Industry Analysis"
+      "angle": "Industry Application"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3189053",
-      "title": "OpenAI CEO Sam Altman Predicts AI Industry Thrives Without Nvidia’s Jensen Huang",
-      "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-16T18:11:10.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Impact"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3188985",
-      "title": "OpenAI to Embed Apollo Researchers for AI Subversion Investigation",
-      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-16T17:02:43.000Z",
-      "badgeColor": "emerald"
+      "id": "nvidia-developer-yt:video:EhvOY7p5nPU",
+      "title": "Mercedes-Benz and NVIDIA Unveil AI-Powered Production Quality Enhancement at Tuscaloosa Factory",
+      "link": "https://www.youtube.com/shorts/EhvOY7p5nPU",
+      "sourceName": "NVIDIA Developer",
+      "sourceId": "nvidia-developer",
+      "pubDate": "2026-11-16T21:31:48.000Z",
+      "badgeColor": "green",
+      "angle": "Case Study"
     }
   ]
 }
