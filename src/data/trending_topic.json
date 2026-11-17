@@ -1,29 +1,49 @@
 {
-  "headline": "NVIDIA GTC DC Emphasizes AI Agent Deployment and Safety Protocols",
-  "summary": "The NVIDIA GTC DC event highlighted strategies for deploying AI agents across industries, focusing on model specialization and safety protocols. This trend underscores the growing importance of AI agents in enterprise environments and the need for robust safety measures.",
-  "whyItMatters": "It underscores the industry's focus on practical AI deployment and safety, driving innovation in AI agent technology and enterprise adoption.",
-  "synthesizedAt": "2026-11-17T14:12:10.247Z",
+  "headline": "AWS Quick Launches Customized AI Solutions, Driving Local Deployment and Cost Efficiency",
+  "summary": "AWS has launched AWS Quick, a tailored AI solution that integrates with existing business processes, aiming to empower businesses with customized AI while reducing costs. This move is gaining significant attention as it could accelerate local AI adoption and challenge proprietary AI platforms.",
+  "whyItMatters": "It offers a more accessible and cost-effective AI solution, potentially broadening the reach of AI technologies to a wider range of businesses.",
+  "synthesizedAt": "2026-11-17T17:22:44.795Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "nvidia-developer-yt:video:ON4Jq8aajWI",
-    "title": "NVIDIA GTC DC Highlights Developer Strategies for Deploying AI Agents Across Industries",
-    "link": "https://www.youtube.com/watch?v=ON4Jq8aajWI",
-    "sourceName": "NVIDIA Developer",
-    "sourceId": "nvidia-developer",
-    "pubDate": "2026-11-17T00:03:16.000Z",
-    "badgeColor": "green",
-    "angle": "Industry Analysis"
+    "id": "aws-ml-a63ce7070aaa3349565578631c3a80a4f74fd65a",
+    "title": "AWS Unveils AWS Quick: Empowering Businesses with Customized AI Solutions",
+    "link": "https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026/",
+    "sourceName": "AWS Machine Learning",
+    "sourceId": "aws-ml",
+    "pubDate": "2026-11-17T17:08:21.000Z",
+    "badgeColor": "amber",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "nvidia-developer-yt:video:SdmuM4NLEsM",
-      "title": "NVIDIA GTC DC Developer Community Highlights Key AI Trends and Applications",
-      "link": "https://www.youtube.com/watch?v=SdmuM4NLEsM",
-      "sourceName": "NVIDIA Developer",
-      "sourceId": "nvidia-developer",
-      "pubDate": "2026-11-17T00:02:01.000Z",
-      "badgeColor": "green",
-      "angle": "Developer Insights"
+      "id": "aws-ml-869be9515dd4a9d6d29ada060383aebbdf19f1d9",
+      "title": "LoanPro Deploys Multi-Agent AI Assistant on Amazon Bedrock AgentCore for Enhanced Loan Servicing",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-11-17T17:01:08.000Z",
+      "badgeColor": "amber",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "aws-ml-880ddd5d6ca4ac6c3010cbbe57b7883439fc2199",
+      "title": "AWS Unveils Three-Phase Roadmap for Embedding Responsible AI in Agentic AI Deployments",
+      "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-for-agentic-ai-a-phased-roadmap-for-platform-and-application-teams/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-11-17T16:56:31.000Z",
+      "badgeColor": "amber",
+      "angle": "Cost Efficiency"
+    },
+    {
+      "id": "aws-ml-0a44cff15a84618242302af42dadcc4ef349495d",
+      "title": "ArisGlobal Optimizes Generative AI Inference on Amazon Bedrock for Significant Cost Savings",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-arisglobal-scaled-generative-ai-inference-on-amazon-bedrock/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-11-17T15:57:09.000Z",
+      "badgeColor": "amber",
+      "angle": "Cost Savings"
     }
   ]
 }
