@@ -1,20 +1,40 @@
 {
-  "headline": "NVIDIA's Bedrock Platform Pioneers Memory-Aware AI Agents",
-  "summary": "NVIDIA's introduction of Agentic Retrieve in Amazon Bedrock enhances AI agent capabilities by integrating memory storage and retrieval, setting a new standard for enterprise AI deployment and safety protocols.",
-  "whyItMatters": "This advancement could significantly impact the development and deployment of AI agents, offering more robust and efficient solutions for various industries.",
-  "synthesizedAt": "2026-11-17T01:48:15.175Z",
+  "headline": "NVIDIA GTC DC Emphasizes AI Agent Deployment Across Industries",
+  "summary": "The NVIDIA GTC DC event highlighted strategies for deploying AI agents across various industries, focusing on model specialization, enterprise integration, and safety protocols. This trend is commanding attention as it underscores the practical applications and challenges of AI agent adoption.",
+  "whyItMatters": "It underscores the practical steps and considerations for widespread AI agent deployment, which is crucial for businesses looking to integrate AI into their operations.",
+  "synthesizedAt": "2026-11-17T04:51:02.799Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "aws-ml-6d1ff2e4339ff5c12febb03d6586784822aa87ad",
-    "title": "Amazon Bedrock Launches Agentic Retrieve for Memory-Aware AI Agents",
-    "link": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/",
-    "sourceName": "AWS Machine Learning",
-    "sourceId": "aws-ml",
-    "pubDate": "2026-11-16T22:43:30.000Z",
-    "badgeColor": "amber",
-    "angle": "Official Launch"
+    "id": "nvidia-developer-yt:video:ON4Jq8aajWI",
+    "title": "NVIDIA GTC DC Highlights Developer Strategies for Deploying AI Agents Across Industries",
+    "link": "https://www.youtube.com/watch?v=ON4Jq8aajWI",
+    "sourceName": "NVIDIA Developer",
+    "sourceId": "nvidia-developer",
+    "pubDate": "2026-11-17T00:03:16.000Z",
+    "badgeColor": "green",
+    "angle": "Industry Application"
   },
   "supportingStories": [
+    {
+      "id": "nvidia-developer-yt:video:SdmuM4NLEsM",
+      "title": "NVIDIA GTC DC Developer Community Highlights Key AI Trends and Applications",
+      "link": "https://www.youtube.com/watch?v=SdmuM4NLEsM",
+      "sourceName": "NVIDIA Developer",
+      "sourceId": "nvidia-developer",
+      "pubDate": "2026-11-17T00:02:01.000Z",
+      "badgeColor": "green",
+      "angle": "Developer Insights"
+    },
+    {
+      "id": "aws-ml-6d1ff2e4339ff5c12febb03d6586784822aa87ad",
+      "title": "Amazon Bedrock Launches Agentic Retrieve for Memory-Aware AI Agents",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-11-16T22:43:30.000Z",
+      "badgeColor": "amber",
+      "angle": "Technology Feature"
+    },
     {
       "id": "aws-ml-4d56ba5eeb480a2a306a4f4e8ec1bce9830a8eef",
       "title": "Duco Rebuilds Agentic AI Stack on Amazon Bedrock for Enhanced Financial Data Automation",
@@ -22,18 +42,7 @@
       "sourceName": "AWS Machine Learning",
       "sourceId": "aws-ml",
       "pubDate": "2026-11-16T22:06:08.000Z",
-      "badgeColor": "amber",
-      "angle": "Industry Application"
-    },
-    {
-      "id": "nvidia-developer-yt:video:EhvOY7p5nPU",
-      "title": "Mercedes-Benz and NVIDIA Unveil AI-Powered Production Quality Enhancement at Tuscaloosa Factory",
-      "link": "https://www.youtube.com/shorts/EhvOY7p5nPU",
-      "sourceName": "NVIDIA Developer",
-      "sourceId": "nvidia-developer",
-      "pubDate": "2026-11-16T21:31:48.000Z",
-      "badgeColor": "green",
-      "angle": "Case Study"
+      "badgeColor": "amber"
     }
   ]
 }
