@@ -1,20 +1,50 @@
 {
-  "headline": "OpenAI's GPT-6.2 Astra and Sol Drive Enhanced AI Model Capabilities",
-  "summary": "OpenAI has released GPT-6.2 Astra and Sol, significantly enhancing AI model capabilities for complex and everyday tasks. These models are being integrated into various applications, from healthcare to supply chains, driving broader adoption and innovation.",
-  "whyItMatters": "These models broaden access to advanced AI capabilities, reducing costs and increasing efficiency in multiple industries.",
-  "synthesizedAt": "2026-11-17T20:27:54.543Z",
+  "headline": "OpenAI Unveils GPT-6.2 Astra and Sol: Tailored Models for Diverse Workloads",
+  "summary": "OpenAI has released GPT-6.2 Astra and GPT-6.2 Sol, models designed for complex projects and everyday tasks, respectively. These new models are expected to enhance performance and reduce costs, potentially reshaping the landscape of AI applications.",
+  "whyItMatters": "The release of these tailored models could significantly impact the AI industry by offering more specialized and cost-effective solutions, driving innovation and adoption.",
+  "synthesizedAt": "2026-11-17T23:34:52.720Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-channel-yt:video:tKoDPOrLMX0",
-    "title": "OpenAI Unveils GPT-6.2 Astra: Enhanced Model for 3D Reconstruction and Advanced Tool Integration",
-    "link": "https://www.youtube.com/watch?v=tKoDPOrLMX0",
-    "sourceName": "OpenAI (YouTube)",
-    "sourceId": "openai-channel",
-    "pubDate": "2026-11-17T18:41:32.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Release"
+    "id": "simon-willison-https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+    "title": "OpenAI Unveils GPT-6.2 Astra and Sol: Tailored Models for Diverse Workloads",
+    "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+    "sourceName": "Simon Willison",
+    "sourceId": "simon-willison",
+    "pubDate": "2026-11-17T22:38:52.000Z",
+    "badgeColor": "green",
+    "angle": "Primary Source"
   },
   "supportingStories": [
+    {
+      "id": "openai-channel-yt:video:pmOJIq7Ah00",
+      "title": "OpenAI Unveils ChatGPT for Sales with Enhanced Partner Plugins",
+      "link": "https://www.youtube.com/watch?v=pmOJIq7Ah00",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-11-17T23:24:04.000Z",
+      "badgeColor": "emerald",
+      "angle": "Official Release"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=42982",
+      "title": "OpenAI Introduces GPT-6.2 Astra and Sol with Lower API Prices and Enhanced Capabilities",
+      "link": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-17T20:30:50.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "openai-channel-yt:video:tKoDPOrLMX0",
+      "title": "OpenAI Unveils GPT-6.2 Astra: Enhanced Model for 3D Reconstruction and Advanced Tool Integration",
+      "link": "https://www.youtube.com/watch?v=tKoDPOrLMX0",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-11-17T18:41:32.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
+    },
     {
       "id": "openai-channel-yt:video:C1zYX5jwqq4",
       "title": "OpenAI Unveils GPT-6.2 Astra and GPT-6.2 Sol for Enhanced Real-World Applications",
@@ -34,16 +64,6 @@
       "pubDate": "2026-11-17T17:45:00.000Z",
       "badgeColor": "emerald",
       "angle": "Industry Analysis"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=42964",
-      "title": "OpenAI's AI Agents Automate Healthcare Administrative Tasks",
-      "link": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-17T16:55:47.000Z",
-      "badgeColor": "slate",
-      "angle": "Application Examples"
     }
   ]
 }
