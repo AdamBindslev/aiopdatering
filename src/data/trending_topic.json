@@ -1,8 +1,8 @@
 {
-  "headline": "NVIDIA GTC DC Emphasizes AI Agent Deployment Across Industries",
-  "summary": "The NVIDIA GTC DC event highlighted strategies for deploying AI agents across various industries, focusing on model specialization, enterprise integration, and safety protocols. This trend is commanding attention as it underscores the practical applications and challenges of AI agent adoption.",
-  "whyItMatters": "It underscores the practical steps and considerations for widespread AI agent deployment, which is crucial for businesses looking to integrate AI into their operations.",
-  "synthesizedAt": "2026-11-17T04:51:02.799Z",
+  "headline": "NVIDIA GTC DC Emphasizes AI Agent Deployment and Safety",
+  "summary": "NVIDIA GTC DC showcased strategies for deploying AI agents across industries, focusing on model specialization, safety protocols, and open models. This event highlights the growing importance of AI agents in enterprise applications.",
+  "whyItMatters": "It underscores the industry's focus on practical AI deployment, safety, and the role of open models in advancing AI technology.",
+  "synthesizedAt": "2026-11-17T07:58:09.232Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "nvidia-developer-yt:video:ON4Jq8aajWI",
@@ -12,7 +12,7 @@
     "sourceId": "nvidia-developer",
     "pubDate": "2026-11-17T00:03:16.000Z",
     "badgeColor": "green",
-    "angle": "Industry Application"
+    "angle": "Industry Event"
   },
   "supportingStories": [
     {
@@ -33,7 +33,7 @@
       "sourceId": "aws-ml",
       "pubDate": "2026-11-16T22:43:30.000Z",
       "badgeColor": "amber",
-      "angle": "Technology Feature"
+      "angle": "Feature Launch"
     },
     {
       "id": "aws-ml-4d56ba5eeb480a2a306a4f4e8ec1bce9830a8eef",
@@ -42,7 +42,8 @@
       "sourceName": "AWS Machine Learning",
       "sourceId": "aws-ml",
       "pubDate": "2026-11-16T22:06:08.000Z",
-      "badgeColor": "amber"
+      "badgeColor": "amber",
+      "angle": "Case Study"
     }
   ]
 }
