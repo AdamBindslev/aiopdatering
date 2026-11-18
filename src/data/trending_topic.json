@@ -1,29 +1,39 @@
 {
-  "headline": "OpenAI Unveils GPT-6.2 Astra and Sol: Tailored Models for Diverse Workloads",
-  "summary": "OpenAI has released GPT-6.2 Astra and GPT-6.2 Sol, models designed for complex projects and everyday tasks, respectively. These new models are expected to enhance performance and reduce costs, potentially reshaping the landscape of AI applications.",
-  "whyItMatters": "The release of these tailored models could significantly impact the AI industry by offering more specialized and cost-effective solutions, driving innovation and adoption.",
-  "synthesizedAt": "2026-11-17T23:34:52.720Z",
+  "headline": "Epoch AI's GPT-6.2 Astra Challenges Proprietary AI Models",
+  "summary": "Epoch AI has released GPT-6.2 Astra, a powerful language model that rivals top commercial systems. This advancement is driving local AI agent deployment and putting pressure on proprietary platforms, opening up advanced capabilities to a broader audience.",
+  "whyItMatters": "It broadens access to advanced language processing capabilities and reduces developer dependence on closed proprietary platforms, fostering innovation and competition.",
+  "synthesizedAt": "2026-11-18T02:40:13.120Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "simon-willison-https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-    "title": "OpenAI Unveils GPT-6.2 Astra and Sol: Tailored Models for Diverse Workloads",
-    "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-    "sourceName": "Simon Willison",
-    "sourceId": "simon-willison",
-    "pubDate": "2026-11-17T22:38:52.000Z",
-    "badgeColor": "green",
-    "angle": "Primary Source"
+    "id": "epoch-ai-CBMiTkFVX3lxTE9DQlZKNEI5bWhDSjJvcFdzeTNJcWo5TVZXZlMzMTU1RnFYc09QZks3QVlObUpIM3JwV1B3bG95bmxZVjRGSWh2VTExbVpXQQ",
+    "title": "Epoch AI Unveils GPT-6.2 Astra: Next-Generation Language Model",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DQlZKNEI5bWhDSjJvcFdzeTNJcWo5TVZXZlMzMTU1RnFYc09QZks3QVlObUpIM3JwV1B3bG95bmxZVjRGSWh2VTExbVpXQQ?oc=5",
+    "sourceName": "Epoch AI",
+    "sourceId": "epoch-ai",
+    "pubDate": "2026-11-18T01:50:10.000Z",
+    "badgeColor": "violet",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "openai-channel-yt:video:pmOJIq7Ah00",
-      "title": "OpenAI Unveils ChatGPT for Sales with Enhanced Partner Plugins",
-      "link": "https://www.youtube.com/watch?v=pmOJIq7Ah00",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-17T23:24:04.000Z",
-      "badgeColor": "emerald",
-      "angle": "Official Release"
+      "id": "simon-willison-https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+      "title": "OpenAI Unveils GPT-6.2 Astra and Sol: Tailored Models for Diverse Workloads",
+      "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-11-17T22:38:52.000Z",
+      "badgeColor": "green",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "epoch-ai-CBMiiwFBVV95cUxNclY0aXZMMUU1RjFwOGFRYUwyYVNlb1IydjBYSkhzUXFpWWVRTl9KWHVJR1Z5MERaekk4YnpQcldQeWtfV3N2SjJaMnRhb1VnUDNzdWlMeFNCMFB4bDRneHQ5OWhvb0xfZ0xKSlB5Vm9ZMHZvZXZQTTZYM2VIeVoxdXJ5bDg5N1I2Sm9Z",
+      "title": "Epoch AI Evaluates Fable 5.2 and GPT-6.2 Astra for Real-World Applications",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclY0aXZMMUU1RjFwOGFRYUwyYVNlb1IydjBYSkhzUXFpWWVRTl9KWHVJR1Z5MERaekk4YnpQcldQeWtfV3N2SjJaMnRhb1VnUDNzdWlMeFNCMFB4bDRneHQ5OWhvb0xfZ0xKSlB5Vm9ZMHZvZXZQTTZYM2VIeVoxdXJ5bDg5N1I2Sm9Z?oc=5",
+      "sourceName": "Epoch AI",
+      "sourceId": "epoch-ai",
+      "pubDate": "2026-11-17T22:01:05.000Z",
+      "badgeColor": "violet",
+      "angle": "Technical Deep Dive"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=42982",
@@ -32,38 +42,7 @@
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
       "pubDate": "2026-11-17T20:30:50.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "openai-channel-yt:video:tKoDPOrLMX0",
-      "title": "OpenAI Unveils GPT-6.2 Astra: Enhanced Model for 3D Reconstruction and Advanced Tool Integration",
-      "link": "https://www.youtube.com/watch?v=tKoDPOrLMX0",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-17T18:41:32.000Z",
-      "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "openai-channel-yt:video:C1zYX5jwqq4",
-      "title": "OpenAI Unveils GPT-6.2 Astra and GPT-6.2 Sol for Enhanced Real-World Applications",
-      "link": "https://www.youtube.com/watch?v=C1zYX5jwqq4",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-17T17:55:40.000Z",
-      "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "openai-https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "title": "OpenAI Unveils GPT-6.2 Astra and Sol for Enhanced Professional Outputs and Efficiency",
-      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "sourceName": "OpenAI News",
-      "sourceId": "openai",
-      "pubDate": "2026-11-17T17:45:00.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
+      "badgeColor": "slate"
     }
   ]
 }
