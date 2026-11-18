@@ -1,39 +1,39 @@
 {
-  "headline": "Dynamic Weight Adjustment in Language Models Paves Way for Enhanced Efficiency and Flexibility",
-  "summary": "A groundbreaking study published on arXiv reveals that language models can now dynamically adjust their weights during inference, significantly enhancing their efficiency and flexibility. This development challenges traditional static models and opens new possibilities for real-time adaptation and optimization.",
-  "whyItMatters": "This innovation could revolutionize how language models are used in real-time applications, leading to more efficient and adaptive AI systems across various industries.",
-  "synthesizedAt": "2026-11-18T12:00:53.443Z",
+  "headline": "OpenAI Invites Independent Auditors for First-Time Access to Unreleased AI Models and Data",
+  "summary": "OpenAI has granted unprecedented access to independent auditors, allowing them direct access to unreleased models, source code, and training data. This move signals a significant shift towards transparency and accountability in the AI industry.",
+  "whyItMatters": "This step could set a new standard for AI model transparency, potentially influencing other companies to adopt similar practices and enhancing public trust in AI technologies.",
+  "synthesizedAt": "2026-11-18T15:09:13.118Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2611.21885v1",
-    "title": "Language Models Now Capable of Rewriting Their Own Weights During Inference",
-    "link": "https://arxiv.org/abs/2611.21885",
-    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-    "sourceId": "arxiv-ai",
-    "pubDate": "2026-11-18T05:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "Breakthrough Discovery"
+    "id": "the-decoder-https://the-decoder.com/?p=42992",
+    "title": "OpenAI Invites Independent Auditors for First-Time Access to Unreleased AI Models and Data",
+    "link": "https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-18T14:36:42.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2611.21646v1",
-      "title": "Limite 1B - Violetto: A One-Billion-Parameter Model for High-Throughput Mathematical Reasoning",
-      "link": "https://arxiv.org/abs/2611.21646",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-11-18T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
+      "id": "huggingface-https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "title": "Hugging Face Unveils Streamhouse: A Breakthrough in Time-Series Models for Real-Time Data Processing",
+      "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "sourceName": "Hugging Face Blog",
+      "sourceId": "huggingface",
+      "pubDate": "2026-11-18T15:00:23.000Z",
+      "badgeColor": "yellow",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2611.21925v1",
-      "title": "DNeo Introduces Speculative-Diffusion Decoding for Enhanced Parallel Draft Model Efficiency",
-      "link": "https://arxiv.org/abs/2611.21925",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-11-18T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Industry Impact"
+      "id": "latent-space-urn:latent-space:post:post_8e49a725-4572-4981-9894-4fbf63aed272",
+      "title": "GPT-6.2 Astra Outperforms Competitors with Significant Cost Savings, Despite Mixed Reception",
+      "link": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-11-18T10:19:04.000Z",
+      "badgeColor": "pink",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
