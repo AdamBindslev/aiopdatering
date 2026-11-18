@@ -1,48 +1,48 @@
 {
-  "headline": "Epoch AI's GPT-6.2 Astra Challenges Proprietary AI Models",
-  "summary": "Epoch AI has released GPT-6.2 Astra, a powerful language model that rivals top commercial systems. This advancement is driving local AI agent deployment and putting pressure on proprietary platforms, opening up advanced capabilities to a broader audience.",
-  "whyItMatters": "It broadens access to advanced language processing capabilities and reduces developer dependence on closed proprietary platforms, fostering innovation and competition.",
-  "synthesizedAt": "2026-11-18T02:40:13.120Z",
+  "headline": "Dynamic Weight Adjustment in Language Models Challenges Traditional Inference Methods",
+  "summary": "A recent breakthrough in language models allows them to dynamically adjust their weights during inference, potentially revolutionizing how these models operate and interact. This development is pushing the boundaries of traditional inference methods and could have significant implications for AI research and application.",
+  "whyItMatters": "This capability could enhance the efficiency and adaptability of language models, leading to more sophisticated and responsive AI systems across various applications.",
+  "synthesizedAt": "2026-11-18T05:51:52.814Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "epoch-ai-CBMiTkFVX3lxTE9DQlZKNEI5bWhDSjJvcFdzeTNJcWo5TVZXZlMzMTU1RnFYc09QZks3QVlObUpIM3JwV1B3bG95bmxZVjRGSWh2VTExbVpXQQ",
-    "title": "Epoch AI Unveils GPT-6.2 Astra: Next-Generation Language Model",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DQlZKNEI5bWhDSjJvcFdzeTNJcWo5TVZXZlMzMTU1RnFYc09QZks3QVlObUpIM3JwV1B3bG95bmxZVjRGSWh2VTExbVpXQQ?oc=5",
-    "sourceName": "Epoch AI",
-    "sourceId": "epoch-ai",
-    "pubDate": "2026-11-18T01:50:10.000Z",
-    "badgeColor": "violet",
-    "angle": "Official Release"
+    "id": "arxiv-ai-oai:arXiv.org:2611.21885v1",
+    "title": "Language Models Now Capable of Rewriting Their Own Weights During Inference",
+    "link": "https://arxiv.org/abs/2611.21885",
+    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+    "sourceId": "arxiv-ai",
+    "pubDate": "2026-11-18T05:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "Breakthrough Discovery"
   },
   "supportingStories": [
     {
-      "id": "simon-willison-https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-      "title": "OpenAI Unveils GPT-6.2 Astra and Sol: Tailored Models for Diverse Workloads",
-      "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-11-17T22:38:52.000Z",
-      "badgeColor": "green",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "epoch-ai-CBMiiwFBVV95cUxNclY0aXZMMUU1RjFwOGFRYUwyYVNlb1IydjBYSkhzUXFpWWVRTl9KWHVJR1Z5MERaekk4YnpQcldQeWtfV3N2SjJaMnRhb1VnUDNzdWlMeFNCMFB4bDRneHQ5OWhvb0xfZ0xKSlB5Vm9ZMHZvZXZQTTZYM2VIeVoxdXJ5bDg5N1I2Sm9Z",
-      "title": "Epoch AI Evaluates Fable 5.2 and GPT-6.2 Astra for Real-World Applications",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclY0aXZMMUU1RjFwOGFRYUwyYVNlb1IydjBYSkhzUXFpWWVRTl9KWHVJR1Z5MERaekk4YnpQcldQeWtfV3N2SjJaMnRhb1VnUDNzdWlMeFNCMFB4bDRneHQ5OWhvb0xfZ0xKSlB5Vm9ZMHZvZXZQTTZYM2VIeVoxdXJ5bDg5N1I2Sm9Z?oc=5",
-      "sourceName": "Epoch AI",
-      "sourceId": "epoch-ai",
-      "pubDate": "2026-11-17T22:01:05.000Z",
-      "badgeColor": "violet",
+      "id": "arxiv-cl-oai:arXiv.org:2611.21646v1",
+      "title": "Limite 1B - Violetto: A One-Billion-Parameter Model for High-Throughput Mathematical Reasoning",
+      "link": "https://arxiv.org/abs/2611.21646",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-11-18T05:00:00.000Z",
+      "badgeColor": "zinc",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=42982",
-      "title": "OpenAI Introduces GPT-6.2 Astra and Sol with Lower API Prices and Enhanced Capabilities",
-      "link": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-17T20:30:50.000Z",
-      "badgeColor": "slate"
+      "id": "arxiv-cl-oai:arXiv.org:2611.21653v1",
+      "title": "Study Highlights Semantic Insensitivity in Financial Sentiment Analysis Models",
+      "link": "https://arxiv.org/abs/2611.21653",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-11-18T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "arxiv-ai-oai:arXiv.org:2611.21682v1",
+      "title": "NEB R1: A New Benchmark for Assessing Large Language Models in Nuclear Engineering",
+      "link": "https://arxiv.org/abs/2611.21682",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-11-18T05:00:00.000Z",
+      "badgeColor": "zinc"
     }
   ]
 }
