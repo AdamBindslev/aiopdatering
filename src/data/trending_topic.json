@@ -1,20 +1,40 @@
 {
-  "headline": "Gemini 4 Neon Challenges Anthropic's IPO Dominance in AI Model Race",
-  "summary": "Google DeepMind's Gemini 4 Neon, introduced just weeks after Anthropic's record-breaking IPO, is outperforming in key benchmarks. This rapid innovation cycle highlights the intense competition and accelerating pace of AI model development.",
-  "whyItMatters": "It underscores the dynamic nature of the AI industry, where rapid model iterations and performance improvements are driving technological advancements and market dynamics.",
-  "synthesizedAt": "2026-11-19T16:02:12.679Z",
+  "headline": "Anthropic's IPO Surpasses Record, Sparking AI Industry Debate",
+  "summary": "Anthropic's groundbreaking IPO surpasses SpaceX's previous record, highlighting the AI industry's rapid growth and raising questions about its financial sustainability and regulatory oversight.",
+  "whyItMatters": "It underscores the AI industry's increasing influence and the need for careful regulation, while also sparking discussions on the circular financing model.",
+  "synthesizedAt": "2026-11-19T19:10:49.181Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "latent-space-urn:latent-space:post:post_16b7c005-6ab8-4b06-8b1e-8f29a24d706e",
-    "title": "Google's Gemini 4 Neon Scores 61 on Intelligence Index, Competing with Anthropic's IPO",
-    "link": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
-    "sourceName": "Latent Space (Swyx & Alessio)",
-    "sourceId": "latent-space",
-    "pubDate": "2026-11-19T07:07:43.000Z",
-    "badgeColor": "pink",
-    "angle": "Official Release"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3190451",
+    "title": "Anthropic's IPO Surpasses Initial Price by 33%, Raising Over $80 Billion",
+    "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-11-19T16:59:23.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Launch"
   },
   "supportingStories": [
+    {
+      "id": "tech-policy-press-https://techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say",
+      "title": "AI IPO Protesters Demand No Bailout Amid Market Concerns",
+      "link": "https://techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say",
+      "sourceName": "Tech Policy Press",
+      "sourceId": "tech-policy-press",
+      "pubDate": "2026-11-19T16:53:09.000Z",
+      "badgeColor": "slate",
+      "angle": "Critical Debate"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3190277",
+      "title": "Anthropic’s IPO Tests AI Industry’s Circular Financing Model",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-19T14:54:39.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Analysis"
+    },
     {
       "id": "the-decoder-https://the-decoder.com/?p=43077",
       "title": "Anthropic's $81.3 Billion IPO Surpasses SpaceX, Sparking Concerns Amid Economic Uncertainty",
@@ -22,18 +42,7 @@
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
       "pubDate": "2026-11-19T14:02:22.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=43064",
-      "title": "Google Unveils Gemini 4 Neon: Faster, Cheaper, and More Efficient AI Model",
-      "link": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-19T11:18:18.000Z",
-      "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
+      "badgeColor": "slate"
     }
   ]
 }
