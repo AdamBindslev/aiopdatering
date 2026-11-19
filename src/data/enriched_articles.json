@@ -131164,5 +131164,104 @@
     "whyItMatters": "This case study underscores the importance of leadership support in driving the successful integration of advanced AI tools, potentially paving the way for broader enterprise adoption of similar technologies.",
     "enrichedAt": "2026-11-19T00:29:53.426Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3190274": {
+    "title": "Microsoft CEO Satya Nadella Details AI-Driven Employee Buyouts",
+    "summary": "Microsoft CEO Satya Nadella has disclosed the rationale behind offering buyouts to 60,000 employees, emphasizing the company's strategic pivot towards AI and automation to streamline operations and focus on future technologies.",
+    "danishTitle": "Microsoft CEO Satya Nadella Details AI-Driven Employee Buyouts",
+    "danishSummary": "Microsoft CEO Satya Nadella has disclosed the rationale behind offering buyouts to 60,000 employees, emphasizing the company's strategic pivot towards AI and automation to streamline operations and focus on future technologies.",
+    "whyItMatters": "This move underscores Microsoft's commitment to adapting to the evolving AI landscape, potentially setting a precedent for other tech giants to follow in their restructuring efforts.",
+    "enrichedAt": "2026-11-19T03:32:53.041Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit": {
+    "title": "Microsoft CEO Satya Nadella Details AI-Driven Employee Buyouts",
+    "summary": "Microsoft CEO Satya Nadella has disclosed the rationale behind offering buyouts to 60,000 employees, emphasizing the company's strategic pivot towards AI and automation to streamline operations and focus on future technologies.",
+    "danishTitle": "Microsoft CEO Satya Nadella Details AI-Driven Employee Buyouts",
+    "danishSummary": "Microsoft CEO Satya Nadella has disclosed the rationale behind offering buyouts to 60,000 employees, emphasizing the company's strategic pivot towards AI and automation to streamline operations and focus on future technologies.",
+    "whyItMatters": "This move underscores Microsoft's commitment to adapting to the evolving AI landscape, potentially setting a precedent for other tech giants to follow in their restructuring efforts.",
+    "enrichedAt": "2026-11-19T03:32:53.041Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/": {
+    "title": "Microsoft CEO Satya Nadella Details AI-Driven Employee Buyouts",
+    "summary": "Microsoft CEO Satya Nadella has disclosed the rationale behind offering buyouts to 60,000 employees, emphasizing the company's strategic pivot towards AI and automation to streamline operations and focus on future technologies.",
+    "danishTitle": "Microsoft CEO Satya Nadella Details AI-Driven Employee Buyouts",
+    "danishSummary": "Microsoft CEO Satya Nadella has disclosed the rationale behind offering buyouts to 60,000 employees, emphasizing the company's strategic pivot towards AI and automation to streamline operations and focus on future technologies.",
+    "whyItMatters": "This move underscores Microsoft's commitment to adapting to the evolving AI landscape, potentially setting a precedent for other tech giants to follow in their restructuring efforts.",
+    "enrichedAt": "2026-11-19T03:32:53.041Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "robert-miles-safety-yt:video:K0apRfqBf8A": {
+    "title": "Protest Against Recursive Self-Improvement Outside Anthropic Headquarters",
+    "summary": "On November 19, 2026, a protest was held outside Anthropic's San Francisco offices to oppose the company's approach to recursive self-improvement in AI. The event was organized by a group calling itself BanRSI (Ban Recursive Self-Improvement).",
+    "danishTitle": "Protest Against Recursive Self-Improvement Outside Anthropic Headquarters",
+    "danishSummary": "On November 19, 2026, a protest was held outside Anthropic's San Francisco offices to oppose the company's approach to recursive self-improvement in AI. The event was organized by a group calling itself BanRSI (Ban Recursive Self-Improvement).",
+    "whyItMatters": "The protest highlights growing concerns within the AI community about the potential risks and ethical implications of recursive self-improvement, signaling a broader debate on AI safety and governance.",
+    "enrichedAt": "2026-11-19T03:33:04.740Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:k0aprfqbf8a": {
+    "title": "Protest Against Recursive Self-Improvement Outside Anthropic Headquarters",
+    "summary": "On November 19, 2026, a protest was held outside Anthropic's San Francisco offices to oppose the company's approach to recursive self-improvement in AI. The event was organized by a group calling itself BanRSI (Ban Recursive Self-Improvement).",
+    "danishTitle": "Protest Against Recursive Self-Improvement Outside Anthropic Headquarters",
+    "danishSummary": "On November 19, 2026, a protest was held outside Anthropic's San Francisco offices to oppose the company's approach to recursive self-improvement in AI. The event was organized by a group calling itself BanRSI (Ban Recursive Self-Improvement).",
+    "whyItMatters": "The protest highlights growing concerns within the AI community about the potential risks and ethical implications of recursive self-improvement, signaling a broader debate on AI safety and governance.",
+    "enrichedAt": "2026-11-19T03:33:04.740Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/shorts/K0apRfqBf8A": {
+    "title": "Protest Against Recursive Self-Improvement Outside Anthropic Headquarters",
+    "summary": "On November 19, 2026, a protest was held outside Anthropic's San Francisco offices to oppose the company's approach to recursive self-improvement in AI. The event was organized by a group calling itself BanRSI (Ban Recursive Self-Improvement).",
+    "danishTitle": "Protest Against Recursive Self-Improvement Outside Anthropic Headquarters",
+    "danishSummary": "On November 19, 2026, a protest was held outside Anthropic's San Francisco offices to oppose the company's approach to recursive self-improvement in AI. The event was organized by a group calling itself BanRSI (Ban Recursive Self-Improvement).",
+    "whyItMatters": "The protest highlights growing concerns within the AI community about the potential risks and ethical implications of recursive self-improvement, signaling a broader debate on AI safety and governance.",
+    "enrichedAt": "2026-11-19T03:33:04.740Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Nov/18/datasette-arrows/": {
+    "title": "Datasette Arrows 0.1a0 Enables Streaming Export Formats for Enhanced Data Handling",
+    "summary": "Datasette 1.0a43 has been updated to support streaming export formats through the introduction of datasette-arrows 0.1a0, allowing plugins to implement efficient data export methods like CSV and TSV. This update facilitates the export of large datasets without the need for significant memory usage.",
+    "danishTitle": "Datasette Arrows 0.1a0 Enables Streaming Export Formats for Enhanced Data Handling",
+    "danishSummary": "Datasette 1.0a43 has been updated to support streaming export formats through the introduction of datasette-arrows 0.1a0, allowing plugins to implement efficient data export methods like CSV and TSV. This update facilitates the export of large datasets without the need for significant memory usage.",
+    "whyItMatters": "By enabling streaming data exports, datasette-arrows 0.1a0 improves the scalability and performance of data handling in Datasette, making it more suitable for large-scale applications and reducing the burden on server resources.",
+    "enrichedAt": "2026-11-19T03:33:18.274Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/nov/18/datasette-arrows": {
+    "title": "Datasette Arrows 0.1a0 Enables Streaming Export Formats for Enhanced Data Handling",
+    "summary": "Datasette 1.0a43 has been updated to support streaming export formats through the introduction of datasette-arrows 0.1a0, allowing plugins to implement efficient data export methods like CSV and TSV. This update facilitates the export of large datasets without the need for significant memory usage.",
+    "danishTitle": "Datasette Arrows 0.1a0 Enables Streaming Export Formats for Enhanced Data Handling",
+    "danishSummary": "Datasette 1.0a43 has been updated to support streaming export formats through the introduction of datasette-arrows 0.1a0, allowing plugins to implement efficient data export methods like CSV and TSV. This update facilitates the export of large datasets without the need for significant memory usage.",
+    "whyItMatters": "By enabling streaming data exports, datasette-arrows 0.1a0 improves the scalability and performance of data handling in Datasette, making it more suitable for large-scale applications and reducing the burden on server resources.",
+    "enrichedAt": "2026-11-19T03:33:18.274Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Nov/18/datasette-arrows/": {
+    "title": "Datasette Arrows 0.1a0 Enables Streaming Export Formats for Enhanced Data Handling",
+    "summary": "Datasette 1.0a43 has been updated to support streaming export formats through the introduction of datasette-arrows 0.1a0, allowing plugins to implement efficient data export methods like CSV and TSV. This update facilitates the export of large datasets without the need for significant memory usage.",
+    "danishTitle": "Datasette Arrows 0.1a0 Enables Streaming Export Formats for Enhanced Data Handling",
+    "danishSummary": "Datasette 1.0a43 has been updated to support streaming export formats through the introduction of datasette-arrows 0.1a0, allowing plugins to implement efficient data export methods like CSV and TSV. This update facilitates the export of large datasets without the need for significant memory usage.",
+    "whyItMatters": "By enabling streaming data exports, datasette-arrows 0.1a0 improves the scalability and performance of data handling in Datasette, making it more suitable for large-scale applications and reducing the burden on server resources.",
+    "enrichedAt": "2026-11-19T03:33:18.274Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "ollama-https://ollama.com/blog/open-models-long-horizon-agents": {
+    "title": "Ollama Enhances Open Models for Efficient Long-Horizon Agentic Workloads",
+    "summary": "Ollama has introduced prefix caching to improve the performance of coding agents, ensuring they remain efficient as conversations extend. This technique optimizes the reuse of work across prompts, tool calls, and inference routing, making open models more suitable for long-term, complex tasks.",
+    "danishTitle": "Ollama Enhances Open Models for Efficient Long-Horizon Agentic Workloads",
+    "danishSummary": "Ollama has introduced prefix caching to improve the performance of coding agents, ensuring they remain efficient as conversations extend. This technique optimizes the reuse of work across prompts, tool calls, and inference routing, making open models more suitable for long-term, complex tasks.",
+    "whyItMatters": "By addressing the scalability issues in long-horizon tasks, Ollama’s enhancements enable more robust and efficient deployment of AI agents, potentially revolutionizing how complex workflows are managed in the industry.",
+    "enrichedAt": "2026-11-19T03:33:30.342Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://ollama.com/blog/open-models-long-horizon-agents": {
+    "title": "Ollama Enhances Open Models for Efficient Long-Horizon Agentic Workloads",
+    "summary": "Ollama has introduced prefix caching to improve the performance of coding agents, ensuring they remain efficient as conversations extend. This technique optimizes the reuse of work across prompts, tool calls, and inference routing, making open models more suitable for long-term, complex tasks.",
+    "danishTitle": "Ollama Enhances Open Models for Efficient Long-Horizon Agentic Workloads",
+    "danishSummary": "Ollama has introduced prefix caching to improve the performance of coding agents, ensuring they remain efficient as conversations extend. This technique optimizes the reuse of work across prompts, tool calls, and inference routing, making open models more suitable for long-term, complex tasks.",
+    "whyItMatters": "By addressing the scalability issues in long-horizon tasks, Ollama’s enhancements enable more robust and efficient deployment of AI agents, potentially revolutionizing how complex workflows are managed in the industry.",
+    "enrichedAt": "2026-11-19T03:33:30.342Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }

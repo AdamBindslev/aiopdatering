@@ -1,39 +1,48 @@
 {
-  "headline": "Amazon SageMaker FFT Feature Paves Way for Enhanced AI Customization",
-  "summary": "Amazon SageMaker now supports Full Fine-Tuning (FFT), a technique that could outperform Low-Rank Adaptation (LoRA) in certain scenarios. This advancement is expected to accelerate local AI agent deployment and reduce costs associated with closed APIs.",
-  "whyItMatters": "It broadens access to advanced AI customization techniques and reduces the reliance on proprietary platforms, fostering innovation and competition in the AI space.",
-  "synthesizedAt": "2026-11-19T00:30:29.305Z",
+  "headline": "Microsoft and Anthropic IPOs Spark AI Industry Shifts",
+  "summary": "Microsoft and Anthropic have completed their initial public offerings, signaling significant milestones in the AI industry. These events are driving discussions around AI cost implications, cybersecurity, and the broader economic impact of AI agents.",
+  "whyItMatters": "These IPOs highlight the growing importance of AI in the tech landscape and underscore the strategic and financial implications for developers and investors.",
+  "synthesizedAt": "2026-11-19T03:34:05.536Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "aws-ml-bc37888f62d641a4c4d60233598cdb1fdb44d420",
-    "title": "Amazon SageMaker AI Serverless Model Customization Adds Full Fine-Tuning (FFT) Feature",
-    "link": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
-    "sourceName": "AWS Machine Learning",
-    "sourceId": "aws-ml",
-    "pubDate": "2026-11-19T00:15:58.000Z",
+    "id": "anthropic-CBMie0FVX3lxTE0wb1JNWEpudjJCR014ZnpEdkQ1MUFXOTZsRV9sU2wxclptYmRMVjY3d2R3bWJ2U2ZXdlktS1lNVE45b2NrVkY4aERJOXRJVkpRdy1kd2tRek52UG8wcXUwUEQwaUlEM0p1aE9YRlRvbnkyZVJUSmFLcWhFOA",
+    "title": "Anthropic Completes Initial Public Offering",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wb1JNWEpudjJCR014ZnpEdkQ1MUFXOTZsRV9sU2wxclptYmRMVjY3d2R3bWJ2U2ZXdlktS1lNVE45b2NrVkY4aERJOXRJVkpRdy1kd2tRek52UG8wcXUwUEQwaUlEM0p1aE9YRlRvbnkyZVJUSmFLcWhFOA?oc=5",
+    "sourceName": "Anthropic",
+    "sourceId": "anthropic",
+    "pubDate": "2026-11-18T23:35:59.000Z",
     "badgeColor": "amber",
-    "angle": "Official Release"
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "aws-ml-f425cf3fa0c23388415ee5b2e7e465135fd29761",
-      "title": "Amazon SageMaker HyperPod Enhances Workload Recovery and Infrastructure Checks",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-11-18T23:03:29.000Z",
-      "badgeColor": "amber",
-      "angle": "Technical Deep Dive"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3190274",
+      "title": "Microsoft CEO Satya Nadella Details AI-Driven Employee Buyouts",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-19T00:42:56.000Z",
+      "badgeColor": "emerald",
+      "angle": "Official Release"
     },
     {
-      "id": "aws-ml-179a030b28535518f068b87e596fbaedc2dd8926",
-      "title": "Amazon SageMaker Launches JumpStart Model Leaderboard for Enhanced Model Selection",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-11-18T22:31:04.000Z",
-      "badgeColor": "amber",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3190264",
+      "title": "Satya Nadella Foresees AI Agents Disrupting Web Economics",
+      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-18T22:58:11.000Z",
+      "badgeColor": "emerald",
       "angle": "Industry Analysis"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3190228",
+      "title": "Anthropic Reports IPO Pricing at $83 per Share, Exceeding Projected Range",
+      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-18T22:11:15.000Z",
+      "badgeColor": "emerald"
     }
   ]
 }
