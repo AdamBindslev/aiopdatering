@@ -1,39 +1,39 @@
 {
-  "headline": "Gemini 4 Neon Challenges Market with Faster, Cheaper AI Models",
-  "summary": "Google DeepMind's Gemini 4 Neon, introduced as the fourth AI model in seven weeks, outperforms competitors with improved performance and lower costs. This rapid innovation cycle is reshaping the AI market and driving down barriers to entry for developers.",
-  "whyItMatters": "This trend underscores the increasing competition and innovation in the AI space, potentially leading to more accessible and cost-effective solutions for a broader range of applications.",
-  "synthesizedAt": "2026-11-19T12:54:19.440Z",
+  "headline": "Gemini 4 Neon Challenges Anthropic's IPO Dominance in AI Model Race",
+  "summary": "Google DeepMind's Gemini 4 Neon, introduced just weeks after Anthropic's record-breaking IPO, is outperforming in key benchmarks. This rapid innovation cycle highlights the intense competition and accelerating pace of AI model development.",
+  "whyItMatters": "It underscores the dynamic nature of the AI industry, where rapid model iterations and performance improvements are driving technological advancements and market dynamics.",
+  "synthesizedAt": "2026-11-19T16:02:12.679Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=43064",
-    "title": "Google Unveils Gemini 4 Neon: Faster, Cheaper, and More Efficient AI Model",
-    "link": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-19T11:18:18.000Z",
-    "badgeColor": "slate",
-    "angle": "Official Launch"
+    "id": "latent-space-urn:latent-space:post:post_16b7c005-6ab8-4b06-8b1e-8f29a24d706e",
+    "title": "Google's Gemini 4 Neon Scores 61 on Intelligence Index, Competing with Anthropic's IPO",
+    "link": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+    "sourceName": "Latent Space (Swyx & Alessio)",
+    "sourceId": "latent-space",
+    "pubDate": "2026-11-19T07:07:43.000Z",
+    "badgeColor": "pink",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "latent-space-urn:latent-space:post:post_16b7c005-6ab8-4b06-8b1e-8f29a24d706e",
-      "title": "Google's Gemini 4 Neon Scores 61 on Intelligence Index, Competing with Anthropic's IPO",
-      "link": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-11-19T07:07:43.000Z",
-      "badgeColor": "pink",
-      "angle": "Technical Deep Dive"
+      "id": "the-decoder-https://the-decoder.com/?p=43077",
+      "title": "Anthropic's $81.3 Billion IPO Surpasses SpaceX, Sparking Concerns Amid Economic Uncertainty",
+      "link": "https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-19T14:02:22.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "no-priors-yt:video:_wLzJINt9iQ",
-      "title": "Arda CEO Bob McGrew Debunks Hard Takeoff Theory, Emphasizing Physical World Integration for Superintelligence",
-      "link": "https://www.youtube.com/watch?v=_wLzJINt9iQ",
-      "sourceName": "No Priors Podcast",
-      "sourceId": "no-priors",
-      "pubDate": "2026-11-19T12:00:19.000Z",
-      "badgeColor": "amber",
-      "angle": "Industry Analysis"
+      "id": "the-decoder-https://the-decoder.com/?p=43064",
+      "title": "Google Unveils Gemini 4 Neon: Faster, Cheaper, and More Efficient AI Model",
+      "link": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-19T11:18:18.000Z",
+      "badgeColor": "slate",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
