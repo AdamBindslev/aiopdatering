@@ -1,48 +1,39 @@
 {
-  "headline": "Microsoft and Anthropic IPOs Spark AI Industry Shifts",
-  "summary": "Microsoft and Anthropic have completed their initial public offerings, signaling significant milestones in the AI industry. These events are driving discussions around AI cost implications, cybersecurity, and the broader economic impact of AI agents.",
-  "whyItMatters": "These IPOs highlight the growing importance of AI in the tech landscape and underscore the strategic and financial implications for developers and investors.",
-  "synthesizedAt": "2026-11-19T03:34:05.536Z",
+  "headline": "New Reasoning Models Challenge AI Industry Norms",
+  "summary": "A series of new reasoning models, including Limite 1B - Violetto and NEB R1, are pushing the boundaries of AI capabilities, particularly in mathematical reasoning and nuclear engineering. These advancements are prompting a reevaluation of current AI standards and practices.",
+  "whyItMatters": "These models could significantly enhance AI's problem-solving abilities, leading to broader applications and potentially disrupting existing proprietary systems.",
+  "synthesizedAt": "2026-11-19T06:43:43.298Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "anthropic-CBMie0FVX3lxTE0wb1JNWEpudjJCR014ZnpEdkQ1MUFXOTZsRV9sU2wxclptYmRMVjY3d2R3bWJ2U2ZXdlktS1lNVE45b2NrVkY4aERJOXRJVkpRdy1kd2tRek52UG8wcXUwUEQwaUlEM0p1aE9YRlRvbnkyZVJUSmFLcWhFOA",
-    "title": "Anthropic Completes Initial Public Offering",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wb1JNWEpudjJCR014ZnpEdkQ1MUFXOTZsRV9sU2wxclptYmRMVjY3d2R3bWJ2U2ZXdlktS1lNVE45b2NrVkY4aERJOXRJVkpRdy1kd2tRek52UG8wcXUwUEQwaUlEM0p1aE9YRlRvbnkyZVJUSmFLcWhFOA?oc=5",
-    "sourceName": "Anthropic",
-    "sourceId": "anthropic",
-    "pubDate": "2026-11-18T23:35:59.000Z",
-    "badgeColor": "amber",
-    "angle": "Industry Analysis"
+    "id": "arxiv-cl-oai:arXiv.org:2611.21646v1",
+    "title": "Limite 1B - Violetto: A One-Billion-Parameter Model for High-Throughput Mathematical Reasoning",
+    "link": "https://arxiv.org/abs/2611.21646",
+    "sourceName": "arXiv cs.CL (Sprog & LLM)",
+    "sourceId": "arxiv-cl",
+    "pubDate": "2026-11-19T05:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3190274",
-      "title": "Microsoft CEO Satya Nadella Details AI-Driven Employee Buyouts",
-      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-19T00:42:56.000Z",
-      "badgeColor": "emerald",
-      "angle": "Official Release"
+      "id": "arxiv-cl-oai:arXiv.org:2611.21622v1",
+      "title": "CrisisBench: A New Evaluation Suite for Crisis Counseling AI",
+      "link": "https://arxiv.org/abs/2611.21622",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-11-19T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3190264",
-      "title": "Satya Nadella Foresees AI Agents Disrupting Web Economics",
-      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-18T22:58:11.000Z",
-      "badgeColor": "emerald",
+      "id": "arxiv-ai-oai:arXiv.org:2611.21682v1",
+      "title": "NEB R1: A New Benchmark for Assessing Large Language Models in Nuclear Engineering",
+      "link": "https://arxiv.org/abs/2611.21682",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-11-19T05:00:00.000Z",
+      "badgeColor": "zinc",
       "angle": "Industry Analysis"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3190228",
-      "title": "Anthropic Reports IPO Pricing at $83 per Share, Exceeding Projected Range",
-      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-18T22:11:15.000Z",
-      "badgeColor": "emerald"
     }
   ]
 }
