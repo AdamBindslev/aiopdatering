@@ -1,29 +1,39 @@
 {
-  "headline": "New Reasoning Models Challenge AI Industry Norms",
-  "summary": "A series of new reasoning models, including Limite 1B - Violetto and NEB R1, are pushing the boundaries of AI capabilities, particularly in mathematical reasoning and nuclear engineering. These advancements are prompting a reevaluation of current AI standards and practices.",
-  "whyItMatters": "These models could significantly enhance AI's problem-solving abilities, leading to broader applications and potentially disrupting existing proprietary systems.",
-  "synthesizedAt": "2026-11-19T06:43:43.298Z",
+  "headline": "Dynamic Weight Adjustment in AI Models Sparks New Efficiency Paradigms",
+  "summary": "A recent breakthrough in language models allows them to dynamically adjust their weights during inference, potentially revolutionizing model efficiency and performance. This development is driving significant industry attention as it promises to enhance computational efficiency and accuracy.",
+  "whyItMatters": "This innovation could lead to more efficient and powerful AI models, reducing computational costs and improving overall performance, which is crucial for both industry and research.",
+  "synthesizedAt": "2026-11-19T09:47:38.874Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-cl-oai:arXiv.org:2611.21646v1",
-    "title": "Limite 1B - Violetto: A One-Billion-Parameter Model for High-Throughput Mathematical Reasoning",
-    "link": "https://arxiv.org/abs/2611.21646",
-    "sourceName": "arXiv cs.CL (Sprog & LLM)",
-    "sourceId": "arxiv-cl",
+    "id": "arxiv-ai-oai:arXiv.org:2611.21885v2",
+    "title": "Language Models Now Capable of Rewriting Their Own Weights During Inference",
+    "link": "https://arxiv.org/abs/2611.21885",
+    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+    "sourceId": "arxiv-ai",
     "pubDate": "2026-11-19T05:00:00.000Z",
     "badgeColor": "zinc",
-    "angle": "Official Release"
+    "angle": "Breakthrough Discovery"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2611.21622v1",
-      "title": "CrisisBench: A New Evaluation Suite for Crisis Counseling AI",
-      "link": "https://arxiv.org/abs/2611.21622",
+      "id": "arxiv-cl-oai:arXiv.org:2611.21646v1",
+      "title": "Limite 1B - Violetto: A One-Billion-Parameter Model for High-Throughput Mathematical Reasoning",
+      "link": "https://arxiv.org/abs/2611.21646",
       "sourceName": "arXiv cs.CL (Sprog & LLM)",
       "sourceId": "arxiv-cl",
       "pubDate": "2026-11-19T05:00:00.000Z",
       "badgeColor": "zinc",
       "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2611.21653v1",
+      "title": "Study Highlights Semantic Insensitivity in Financial Sentiment Analysis Models",
+      "link": "https://arxiv.org/abs/2611.21653",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-11-19T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Industry Analysis"
     },
     {
       "id": "arxiv-ai-oai:arXiv.org:2611.21682v1",
@@ -32,8 +42,7 @@
       "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
       "sourceId": "arxiv-ai",
       "pubDate": "2026-11-19T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Industry Analysis"
+      "badgeColor": "zinc"
     }
   ]
 }
