@@ -1,48 +1,39 @@
 {
-  "headline": "Dynamic Weight Adjustment in AI Models Sparks New Efficiency Paradigms",
-  "summary": "A recent breakthrough in language models allows them to dynamically adjust their weights during inference, potentially revolutionizing model efficiency and performance. This development is driving significant industry attention as it promises to enhance computational efficiency and accuracy.",
-  "whyItMatters": "This innovation could lead to more efficient and powerful AI models, reducing computational costs and improving overall performance, which is crucial for both industry and research.",
-  "synthesizedAt": "2026-11-19T09:47:38.874Z",
+  "headline": "Gemini 4 Neon Challenges Market with Faster, Cheaper AI Models",
+  "summary": "Google DeepMind's Gemini 4 Neon, introduced as the fourth AI model in seven weeks, outperforms competitors with improved performance and lower costs. This rapid innovation cycle is reshaping the AI market and driving down barriers to entry for developers.",
+  "whyItMatters": "This trend underscores the increasing competition and innovation in the AI space, potentially leading to more accessible and cost-effective solutions for a broader range of applications.",
+  "synthesizedAt": "2026-11-19T12:54:19.440Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2611.21885v2",
-    "title": "Language Models Now Capable of Rewriting Their Own Weights During Inference",
-    "link": "https://arxiv.org/abs/2611.21885",
-    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-    "sourceId": "arxiv-ai",
-    "pubDate": "2026-11-19T05:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "Breakthrough Discovery"
+    "id": "the-decoder-https://the-decoder.com/?p=43064",
+    "title": "Google Unveils Gemini 4 Neon: Faster, Cheaper, and More Efficient AI Model",
+    "link": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-19T11:18:18.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Launch"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2611.21646v1",
-      "title": "Limite 1B - Violetto: A One-Billion-Parameter Model for High-Throughput Mathematical Reasoning",
-      "link": "https://arxiv.org/abs/2611.21646",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-11-19T05:00:00.000Z",
-      "badgeColor": "zinc",
+      "id": "latent-space-urn:latent-space:post:post_16b7c005-6ab8-4b06-8b1e-8f29a24d706e",
+      "title": "Google's Gemini 4 Neon Scores 61 on Intelligence Index, Competing with Anthropic's IPO",
+      "link": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-11-19T07:07:43.000Z",
+      "badgeColor": "pink",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2611.21653v1",
-      "title": "Study Highlights Semantic Insensitivity in Financial Sentiment Analysis Models",
-      "link": "https://arxiv.org/abs/2611.21653",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-11-19T05:00:00.000Z",
-      "badgeColor": "zinc",
+      "id": "no-priors-yt:video:_wLzJINt9iQ",
+      "title": "Arda CEO Bob McGrew Debunks Hard Takeoff Theory, Emphasizing Physical World Integration for Superintelligence",
+      "link": "https://www.youtube.com/watch?v=_wLzJINt9iQ",
+      "sourceName": "No Priors Podcast",
+      "sourceId": "no-priors",
+      "pubDate": "2026-11-19T12:00:19.000Z",
+      "badgeColor": "amber",
       "angle": "Industry Analysis"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2611.21682v1",
-      "title": "NEB R1: A New Benchmark for Assessing Large Language Models in Nuclear Engineering",
-      "link": "https://arxiv.org/abs/2611.21682",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-11-19T05:00:00.000Z",
-      "badgeColor": "zinc"
     }
   ]
 }
