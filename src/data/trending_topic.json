@@ -1,48 +1,39 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Systems, Driving Industry Transformation",
-  "summary": "A surge in open-source AI models, exemplified by Anthropic's IPO and Apple's AI agent development, is reshaping the AI landscape. This shift is democratizing access to advanced AI capabilities and pressuring proprietary platforms to adapt.",
-  "whyItMatters": "It broadens access to cutting-edge AI technologies and forces established players to innovate to maintain market relevance.",
-  "synthesizedAt": "2026-11-20T01:23:07.314Z",
+  "headline": "AI-Driven Token Fraud Emerges as a Significant Threat",
+  "summary": "Claire Vo, founder of ChatPRD, warns of the rise of token fraud, highlighting the potential risks and the need for increased vigilance. This trend is commanding industry attention as it poses significant financial and reputational risks to users and developers alike.",
+  "whyItMatters": "It underscores the evolving security challenges in the AI and blockchain space, necessitating stronger security measures and regulatory oversight.",
+  "synthesizedAt": "2026-11-20T04:28:01.898Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3190713",
-    "title": "Apple Said to Develop AI Agent for Macs, Competing with Leading Players",
-    "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-11-20T00:56:01.000Z",
-    "badgeColor": "emerald",
+    "id": "simon-willison-https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+    "title": "AI-Driven Token Fraud Emerges as a Significant Threat",
+    "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+    "sourceName": "Simon Willison",
+    "sourceId": "simon-willison",
+    "pubDate": "2026-11-20T02:49:57.000Z",
+    "badgeColor": "green",
     "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3190498",
-      "title": "Anthropic Founders Cash Out in Record-Breaking IPO, Valuing Company at Nearly $105 Billion",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-20T00:43:50.000Z",
-      "badgeColor": "emerald",
-      "angle": "Official Launch"
-    },
-    {
-      "id": "aws-ml-1b0652cc95393da48c861946cd586856ffb3f573",
-      "title": "Amazon Bedrock AgentCore Payments Now Supports AWS Marketplace for AI Agents",
-      "link": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-11-19T23:02:16.000Z",
-      "badgeColor": "amber",
+      "id": "epoch-ai-CBMiPkFVX3lxTFBuTkRiRVB4TlhwNTlaX2pzWnFyYmxNdjZMSkRFOGVIUzItaFpJTEN6dFdkY3hFWENCdW1meHBB",
+      "title": "epoch.ai Warns of Emerging Cyber Vulnerabilities",
+      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBuTkRiRVB4TlhwNTlaX2pzWnFyYmxNdjZMSkRFOGVIUzItaFpJTEN6dFdkY3hFWENCdW1meHBB?oc=5",
+      "sourceName": "Epoch AI",
+      "sourceId": "epoch-ai",
+      "pubDate": "2026-11-20T02:25:10.000Z",
+      "badgeColor": "violet",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "nvidia-developer-yt:video:3cmv7AAQHH0",
-      "title": "NVIDIA Unveils Alpamayo 2 Edge: A Compact Model for Real-Time In-Vehicle Reasoning",
-      "link": "https://www.youtube.com/watch?v=3cmv7AAQHH0",
-      "sourceName": "NVIDIA Developer",
-      "sourceId": "nvidia-developer",
-      "pubDate": "2026-11-19T23:00:33.000Z",
-      "badgeColor": "green"
+      "id": "simon-willison-https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "title": "PostgreSQL 19 Released with Delay Due to AI-Related Issues",
+      "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-11-19T20:43:57.000Z",
+      "badgeColor": "green",
+      "angle": "Official Release"
     }
   ]
 }
