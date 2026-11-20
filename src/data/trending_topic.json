@@ -1,48 +1,49 @@
 {
-  "headline": "OpenAI's ChatGPT Expands Capabilities, Driving AI Integration and Collaboration",
-  "summary": "OpenAI has released several new features for ChatGPT, including data plugins, collaborative report functions, and dashboard creation, which are enhancing data analysis and team collaboration. These updates are driving broader AI integration and adoption across various industries.",
-  "whyItMatters": "These enhancements are crucial for businesses looking to leverage AI more effectively, offering new tools for data-driven decision-making and team collaboration.",
-  "synthesizedAt": "2026-11-20T16:57:02.961Z",
+  "headline": "AI Solves Riemann Hypothesis, Shaking Up Mathematical and Technological Worlds",
+  "summary": "Mathematician Levent Alpöge and AI assistant Claude have reportedly discovered a proof for the Riemann Hypothesis, a long-standing problem in mathematics. This breakthrough is generating significant attention and debate in both the AI and mathematical communities.",
+  "whyItMatters": "This collaboration between AI and human mathematicians could redefine our understanding of complex mathematical problems and set new standards for AI-assisted research.",
+  "synthesizedAt": "2026-11-20T20:04:23.505Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-channel-yt:video:oJIuz3AFfEQ",
-    "title": "OpenAI Launches Data Plugin for Seamless Integration with ChatGPT",
-    "link": "https://www.youtube.com/watch?v=oJIuz3AFfEQ",
-    "sourceName": "OpenAI (YouTube)",
-    "sourceId": "openai-channel",
-    "pubDate": "2026-11-20T06:02:57.000Z",
-    "badgeColor": "emerald",
-    "angle": "Data Plugin Release"
+    "id": "simon-willison-https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+    "title": "Mathematician Levent Alpöge Claims Breakthrough in Proving the Riemann Hypothesis",
+    "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+    "sourceName": "Simon Willison",
+    "sourceId": "simon-willison",
+    "pubDate": "2026-11-20T16:30:48.000Z",
+    "badgeColor": "green",
+    "angle": "Mathematical Breakthrough"
   },
   "supportingStories": [
     {
-      "id": "openai-channel-yt:video:KrlfehIapEA",
-      "title": "OpenAI Unveils Data Plugin for Enhanced Data Analysis in ChatGPT",
-      "link": "https://www.youtube.com/watch?v=KrlfehIapEA",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-20T05:35:32.000Z",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3190908",
+      "title": "AI and Human Mathematicians Collaborate to Solve the 167-Year-Old Riemann Hypothesis",
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-20T19:32:08.000Z",
       "badgeColor": "emerald",
-      "angle": "Enhanced Data Analysis"
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "openai-channel-yt:video:3_fayTbZrW8",
-      "title": "OpenAI Introduces Collaborative Report Functionality in ChatGPT Space",
-      "link": "https://www.youtube.com/watch?v=3_fayTbZrW8",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-20T05:32:52.000Z",
+      "id": "the-zvi-https://thezvi.substack.com/p/on-dwarkesh-patels-november-2026",
+      "title": "Paul Christiano Warns of Near-Term AI Risk in Podcast Interview",
+      "link": "https://thezvi.substack.com/p/on-dwarkesh-patels-november-2026",
+      "sourceName": "Don't Worry About the Vase (Zvi)",
+      "sourceId": "the-zvi",
+      "pubDate": "2026-11-20T15:24:40.000Z",
       "badgeColor": "emerald",
-      "angle": "Collaborative Report Functionality"
+      "angle": "Ethical Implications"
     },
     {
-      "id": "openai-channel-yt:video:JEgTn37Sk50",
-      "title": "ChatGPT Enhances Data Analysis Capabilities for Business Users",
-      "link": "https://www.youtube.com/watch?v=JEgTn37Sk50",
+      "id": "openai-channel-yt:video:OSHSopaYjTw",
+      "title": "OpenAI Demonstrates Dashboard Creation in ChatGPT, Facilitating Team Collaboration",
+      "link": "https://www.youtube.com/watch?v=OSHSopaYjTw",
       "sourceName": "OpenAI (YouTube)",
       "sourceId": "openai-channel",
-      "pubDate": "2026-11-20T06:05:59.000Z",
-      "badgeColor": "emerald"
+      "pubDate": "2026-11-20T06:07:50.000Z",
+      "badgeColor": "emerald",
+      "angle": "Collaborative Tools"
     }
   ]
 }
