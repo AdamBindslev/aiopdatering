@@ -1,39 +1,48 @@
 {
-  "headline": "PolyAI Dialog-RSN-1 Model Pioneers Real-Time Reasoning in Amazon SageMaker",
-  "summary": "PolyAI's Dialog-RSN-1, a reasoning model for real-time complex dialog, is now available on Amazon SageMaker JumpStart. This marks a significant advancement in real-time AI reasoning capabilities, potentially transforming conversational AI applications.",
-  "whyItMatters": "It sets a new benchmark for real-time reasoning in conversational AI, enabling more sophisticated and contextually aware interactions, which could have wide-ranging implications for customer service, virtual assistants, and chatbots.",
-  "synthesizedAt": "2026-11-19T22:16:33.765Z",
+  "headline": "Open-Source AI Models Challenge Proprietary Systems, Driving Industry Transformation",
+  "summary": "A surge in open-source AI models, exemplified by Anthropic's IPO and Apple's AI agent development, is reshaping the AI landscape. This shift is democratizing access to advanced AI capabilities and pressuring proprietary platforms to adapt.",
+  "whyItMatters": "It broadens access to cutting-edge AI technologies and forces established players to innovate to maintain market relevance.",
+  "synthesizedAt": "2026-11-20T01:23:07.314Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "aws-ml-4afdc62a132ff7a5a863c90bf1e3a0498e43a530",
-    "title": "PolyAI Dialog-RSN-1 Reasoning Model Now Available on Amazon SageMaker JumpStart",
-    "link": "https://aws.amazon.com/blogs/machine-learning/polyai-dialog-rsn-1-is-now-on-amazon-sagemaker-jumpstart/",
-    "sourceName": "AWS Machine Learning",
-    "sourceId": "aws-ml",
-    "pubDate": "2026-11-19T17:28:47.000Z",
-    "badgeColor": "amber",
-    "angle": "Official Release"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3190713",
+    "title": "Apple Said to Develop AI Agent for Macs, Competing with Leading Players",
+    "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-11-20T00:56:01.000Z",
+    "badgeColor": "emerald",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "weights-and-biases-yt:video:112Bv0O1n3k",
-      "title": "CoreWeave Forge Unveils AI Lifecycle Stages for Seamless Production Management",
-      "link": "https://www.youtube.com/shorts/112Bv0O1n3k",
-      "sourceName": "Weights & Biases",
-      "sourceId": "weights-and-biases",
-      "pubDate": "2026-11-19T21:00:31.000Z",
-      "badgeColor": "yellow",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3190498",
+      "title": "Anthropic Founders Cash Out in Record-Breaking IPO, Valuing Company at Nearly $105 Billion",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-20T00:43:50.000Z",
+      "badgeColor": "emerald",
+      "angle": "Official Launch"
+    },
+    {
+      "id": "aws-ml-1b0652cc95393da48c861946cd586856ffb3f573",
+      "title": "Amazon Bedrock AgentCore Payments Now Supports AWS Marketplace for AI Agents",
+      "link": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-11-19T23:02:16.000Z",
+      "badgeColor": "amber",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=43081",
-      "title": "Chinese Tech Firms Suffer Dual Impact from US Export Controls on AI Chips",
-      "link": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-19T17:02:41.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Analysis"
+      "id": "nvidia-developer-yt:video:3cmv7AAQHH0",
+      "title": "NVIDIA Unveils Alpamayo 2 Edge: A Compact Model for Real-Time In-Vehicle Reasoning",
+      "link": "https://www.youtube.com/watch?v=3cmv7AAQHH0",
+      "sourceName": "NVIDIA Developer",
+      "sourceId": "nvidia-developer",
+      "pubDate": "2026-11-19T23:00:33.000Z",
+      "badgeColor": "green"
     }
   ]
 }
