@@ -1,8 +1,8 @@
 {
-  "headline": "OpenAI's ChatGPT Data Integration Features Drive Team Collaboration and Decision-Making",
-  "summary": "OpenAI has introduced several new features to ChatGPT, including a Data plugin and dashboard creation capabilities, which are enhancing team collaboration and enabling more informed decision-making. These updates are gaining significant traction as they simplify data access and analysis within the AI platform.",
-  "whyItMatters": "These features are crucial for businesses and teams that rely on data-driven decision-making, as they streamline the integration of data into AI workflows, potentially improving productivity and accuracy.",
-  "synthesizedAt": "2026-11-20T10:44:50.310Z",
+  "headline": "OpenAI's Data Plugin Enhances ChatGPT's Business Analytics Capabilities",
+  "summary": "OpenAI has released a new Data plugin for ChatGPT, allowing users to directly analyze and visualize their data, significantly boosting business analytics and decision-making. This feature is commanding industry attention due to its potential to revolutionize how businesses leverage AI for data-driven insights.",
+  "whyItMatters": "It empowers businesses to integrate their data seamlessly with AI tools, enhancing collaboration and driving more informed decision-making processes.",
+  "synthesizedAt": "2026-11-20T13:49:39.307Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "openai-channel-yt:video:oJIuz3AFfEQ",
@@ -36,14 +36,13 @@
       "angle": "Industry Analysis"
     },
     {
-      "id": "openai-channel-yt:video:3_fayTbZrW8",
-      "title": "OpenAI Introduces Collaborative Report Functionality in ChatGPT Space",
-      "link": "https://www.youtube.com/watch?v=3_fayTbZrW8",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-20T05:32:52.000Z",
-      "badgeColor": "emerald",
-      "angle": "Collaborative Features"
+      "id": "arxiv-cl-oai:arXiv.org:2611.24971v1",
+      "title": "New Research Optimizes In-Context Learning to Maximize Efficiency Within Token Budgets",
+      "link": "https://arxiv.org/abs/2611.24971",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-11-20T05:00:00.000Z",
+      "badgeColor": "zinc"
     }
   ]
 }
