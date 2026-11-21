@@ -1,30 +1,20 @@
 {
-  "headline": "AI Solves Complex Mathematical Problems, Sparking Debate on Transparency and Access",
-  "summary": "Recent advancements in AI have enabled the solution of intricate mathematical problems that elude human capabilities, raising questions about the necessity and implications of transparency in AI systems. This trend is accelerating local AI agent deployment and putting downward pressure on closed proprietary platforms.",
-  "whyItMatters": "It broadens access to advanced reasoning capabilities and forces a reevaluation of the transparency and ethical considerations in AI development.",
-  "synthesizedAt": "2026-11-21T11:36:30.280Z",
+  "headline": "AI Proves Riemann Hypothesis, Sparking Debate and Innovation",
+  "summary": "Mathematicians and AI systems have independently proven the Riemann Hypothesis, a long-standing conjecture in number theory, leading to significant advancements in AI reasoning and prompting a global debate on the role of AI in mathematical discovery.",
+  "whyItMatters": "This breakthrough underscores AI's potential in solving complex problems and raises questions about the future of collaboration between humans and machines in scientific research.",
+  "synthesizedAt": "2026-11-21T14:42:41.388Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "version2-https://ing.dk/artikel/bliver-vi-klogere-naar-ai-loeser-de-store-problemer-teknisk-set",
-    "title": "AI Solves Complex Mathematical Problems Beyond Human Reach, Sparking Debate on Transparency",
-    "link": "https://ing.dk/artikel/bliver-vi-klogere-naar-ai-loeser-de-store-problemer-teknisk-set",
-    "sourceName": "Version2 (Ingeniøren)",
-    "sourceId": "version2",
-    "pubDate": "2026-11-21T11:00:00.000Z",
-    "badgeColor": "red",
-    "angle": "Technical Deep Dive"
+    "id": "the-decoder-https://the-decoder.com/?p=43157",
+    "title": "Anthropic Claims Claude Proof of Riemann Hypothesis as Stanford Releases Human-Only Competing Draft",
+    "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-21T11:19:49.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Release"
   },
   "supportingStories": [
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=43157",
-      "title": "Anthropic Claims Claude Proof of Riemann Hypothesis as Stanford Releases Human-Only Competing Draft",
-      "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-21T11:19:49.000Z",
-      "badgeColor": "slate",
-      "angle": "Official Release"
-    },
     {
       "id": "latent-space-urn:latent-space:post:post_3976c9e6-ac0c-4bf2-92c8-c83510a92539",
       "title": "Riemann Hypothesis Proven Independently by Two Teams",
@@ -33,7 +23,7 @@
       "sourceId": "latent-space",
       "pubDate": "2026-11-21T05:02:13.000Z",
       "badgeColor": "pink",
-      "angle": "Critical Debate"
+      "angle": "Independent Verification"
     },
     {
       "id": "wes-roth-yt:video:xjX3jESpZqs",
@@ -43,7 +33,7 @@
       "sourceId": "wes-roth",
       "pubDate": "2026-11-21T02:24:48.000Z",
       "badgeColor": "emerald",
-      "angle": "Official Release"
+      "angle": "AI Assistant Contribution"
     },
     {
       "id": "techcrunch-ai-https://techcrunch.com/?p=3190908",
@@ -52,8 +42,7 @@
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
       "pubDate": "2026-11-20T19:32:08.000Z",
-      "badgeColor": "emerald",
-      "angle": "Critical Debate"
+      "badgeColor": "emerald"
     }
   ]
 }
