@@ -1,48 +1,59 @@
 {
-  "headline": "AI Ethics and Security Gain Urgency as Industry Leaders Call for Moratorium",
-  "summary": "Paul Christiano, a prominent figure in AI ethics, calls for a moratorium on AI research until significant security vulnerabilities are addressed. This call, along with recent data breaches and privacy issues, highlights the growing urgency for ethical and secure AI development.",
-  "whyItMatters": "It underscores the critical need for ethical guidelines and robust security measures in AI research and deployment, affecting all stakeholders in the industry.",
-  "synthesizedAt": "2026-11-21T02:16:45.875Z",
+  "headline": "AI-Driven Riemann Hypothesis Proof Sparks Global Mathematical and Technological Debate",
+  "summary": "Two independent teams, including AI-assisted mathematicians, have claimed to prove the Riemann Hypothesis, a 167-year-old problem. This breakthrough is generating intense debate and accelerating advancements in both AI and mathematics.",
+  "whyItMatters": "It highlights the potential of AI in solving complex mathematical problems and could lead to significant advancements in cryptography and number theory.",
+  "synthesizedAt": "2026-11-21T05:22:16.886Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "dwarkesh-podcast-yt:video:Ru0l6G5oq7U",
-    "title": "Paul Christiano Urges AI Labs to Halt Progress Until Security Issues Are Addressed",
-    "link": "https://www.youtube.com/shorts/Ru0l6G5oq7U",
-    "sourceName": "Dwarkesh Podcast",
-    "sourceId": "dwarkesh-podcast",
-    "pubDate": "2026-11-21T01:17:53.000Z",
-    "badgeColor": "indigo",
-    "angle": "Official Call to Action"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3190908",
+    "title": "AI and Human Mathematicians Collaborate to Solve the 167-Year-Old Riemann Hypothesis",
+    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-11-20T19:32:08.000Z",
+    "badgeColor": "emerald",
+    "angle": "Primary Source"
   },
   "supportingStories": [
     {
-      "id": "ars-technica-https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "title": "Secret Data Exposed in AI Supply Chain Leak",
-      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "sourceName": "Ars Technica – AI",
-      "sourceId": "ars-technica",
-      "pubDate": "2026-11-20T20:59:08.000Z",
-      "badgeColor": "orange",
-      "angle": "Privacy Breach"
+      "id": "latent-space-urn:latent-space:post:post_3976c9e6-ac0c-4bf2-92c8-c83510a92539",
+      "title": "Riemann Hypothesis Proven Independently by Two Teams",
+      "link": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-11-21T05:02:13.000Z",
+      "badgeColor": "pink",
+      "angle": "Official Release"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=43119",
-      "title": "Bloomberg Analysis Reveals AI-Exposed Jobs in China Declined Sharply",
-      "link": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-20T15:56:03.000Z",
-      "badgeColor": "slate",
-      "angle": "Job Market Impact"
+      "id": "assembly-ai-yt:video:3CDTs-0yd1I",
+      "title": "Comparison Reveals Local Whisper Transcription's Role in Claude Code Video Editing Workflow",
+      "link": "https://www.youtube.com/watch?v=3CDTs-0yd1I",
+      "sourceName": "AssemblyAI",
+      "sourceId": "assembly-ai",
+      "pubDate": "2026-11-20T23:50:31.000Z",
+      "badgeColor": "blue",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-zvi-https://thezvi.substack.com/p/on-dwarkesh-patels-november-2026",
-      "title": "Paul Christiano Warns of Near-Term AI Risk in Podcast Interview",
-      "link": "https://thezvi.substack.com/p/on-dwarkesh-patels-november-2026",
-      "sourceName": "Don't Worry About the Vase (Zvi)",
-      "sourceId": "the-zvi",
-      "pubDate": "2026-11-20T15:24:40.000Z",
-      "badgeColor": "emerald"
+      "id": "latent-space-urn:latent-space:post:post_0e68157c-dcc4-4cb1-b11a-0d563d6bcc86",
+      "title": "AI-Powered Formal Verification Aims to Automate Software Correctness Proofs",
+      "link": "https://latent.space/p/formal-verification/",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-11-20T21:18:41.000Z",
+      "badgeColor": "pink",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "simon-willison-https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "title": "Mathematician Ravi Vakil Discusses Progress on Generalized Riemann Hypothesis",
+      "link": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-11-20T19:21:49.000Z",
+      "badgeColor": "green",
+      "angle": "Expert Commentary"
     }
   ]
 }
