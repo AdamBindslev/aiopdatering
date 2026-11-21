@@ -136042,5 +136042,32 @@
     "whyItMatters": "The introduction of GPT-6.2 system cards could lead to a paradigm shift in AI deployment, providing more powerful tools for developers and enterprises to build and scale AI applications more effectively.",
     "enrichedAt": "2026-11-21T17:49:06.873Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Nov/20/llm-gemini/": {
+    "title": "llm-gemini 0.38.1 Update Expands Reasoning Levels for Gemini 4 Hydrogen and Neon",
+    "summary": "Version 0.38.1 of the llm-gemini plugin has been released, adding support for the 'xhigh' reasoning level to Gemini 4 Hydrogen and Neon models, while Gemini 4 Carbon remains at low, medium, and high levels. This update addresses a previous oversight in the plugin's implementation.",
+    "danishTitle": "llm-gemini 0.38.1 Update Expands Reasoning Levels for Gemini 4 Hydrogen and Neon",
+    "danishSummary": "Version 0.38.1 of the llm-gemini plugin has been released, adding support for the 'xhigh' reasoning level to Gemini 4 Hydrogen and Neon models, while Gemini 4 Carbon remains at low, medium, and high levels. This update addresses a previous oversight in the plugin's implementation.",
+    "whyItMatters": "The addition of the 'xhigh' reasoning level enhances the plugin's versatility, allowing for more sophisticated AI reasoning tasks and potentially expanding its use cases in complex problem-solving scenarios.",
+    "enrichedAt": "2026-11-21T20:55:24.175Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/nov/20/llm-gemini": {
+    "title": "llm-gemini 0.38.1 Update Expands Reasoning Levels for Gemini 4 Hydrogen and Neon",
+    "summary": "Version 0.38.1 of the llm-gemini plugin has been released, adding support for the 'xhigh' reasoning level to Gemini 4 Hydrogen and Neon models, while Gemini 4 Carbon remains at low, medium, and high levels. This update addresses a previous oversight in the plugin's implementation.",
+    "danishTitle": "llm-gemini 0.38.1 Update Expands Reasoning Levels for Gemini 4 Hydrogen and Neon",
+    "danishSummary": "Version 0.38.1 of the llm-gemini plugin has been released, adding support for the 'xhigh' reasoning level to Gemini 4 Hydrogen and Neon models, while Gemini 4 Carbon remains at low, medium, and high levels. This update addresses a previous oversight in the plugin's implementation.",
+    "whyItMatters": "The addition of the 'xhigh' reasoning level enhances the plugin's versatility, allowing for more sophisticated AI reasoning tasks and potentially expanding its use cases in complex problem-solving scenarios.",
+    "enrichedAt": "2026-11-21T20:55:24.175Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Nov/20/llm-gemini/": {
+    "title": "llm-gemini 0.38.1 Update Expands Reasoning Levels for Gemini 4 Hydrogen and Neon",
+    "summary": "Version 0.38.1 of the llm-gemini plugin has been released, adding support for the 'xhigh' reasoning level to Gemini 4 Hydrogen and Neon models, while Gemini 4 Carbon remains at low, medium, and high levels. This update addresses a previous oversight in the plugin's implementation.",
+    "danishTitle": "llm-gemini 0.38.1 Update Expands Reasoning Levels for Gemini 4 Hydrogen and Neon",
+    "danishSummary": "Version 0.38.1 of the llm-gemini plugin has been released, adding support for the 'xhigh' reasoning level to Gemini 4 Hydrogen and Neon models, while Gemini 4 Carbon remains at low, medium, and high levels. This update addresses a previous oversight in the plugin's implementation.",
+    "whyItMatters": "The addition of the 'xhigh' reasoning level enhances the plugin's versatility, allowing for more sophisticated AI reasoning tasks and potentially expanding its use cases in complex problem-solving scenarios.",
+    "enrichedAt": "2026-11-21T20:55:24.175Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }
