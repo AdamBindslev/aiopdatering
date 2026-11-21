@@ -1,48 +1,58 @@
 {
-  "headline": "AI Proves Riemann Hypothesis, Sparking Debate and Innovation",
-  "summary": "Mathematicians and AI systems have independently proven the Riemann Hypothesis, a long-standing conjecture in number theory, leading to significant advancements in AI reasoning and prompting a global debate on the role of AI in mathematical discovery.",
-  "whyItMatters": "This breakthrough underscores AI's potential in solving complex problems and raises questions about the future of collaboration between humans and machines in scientific research.",
-  "synthesizedAt": "2026-11-21T14:42:41.388Z",
+  "headline": "Open-Loop Transformers Reshape AI Reasoning Capabilities",
+  "summary": "Thinking Machines has unveiled Inkling 2 Mini, an open-loop transformer that processes layers multiple times, demonstrating advanced reasoning abilities. This development is reshaping the AI landscape, challenging traditional models and potentially lowering barriers to entry.",
+  "whyItMatters": "It showcases a new approach to AI reasoning that could democratize access to advanced capabilities and reduce dependency on proprietary systems.",
+  "synthesizedAt": "2026-11-21T17:49:39.681Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=43157",
-    "title": "Anthropic Claims Claude Proof of Riemann Hypothesis as Stanford Releases Human-Only Competing Draft",
-    "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+    "id": "the-decoder-https://the-decoder.com/?p=43149",
+    "title": "Thinking Machines Unveils Inkling 2 Mini: An Open Loop Transformer Optimized for Efficient Reasoning",
+    "link": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-11-21T11:19:49.000Z",
+    "pubDate": "2026-11-21T10:33:02.000Z",
     "badgeColor": "slate",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "latent-space-urn:latent-space:post:post_3976c9e6-ac0c-4bf2-92c8-c83510a92539",
-      "title": "Riemann Hypothesis Proven Independently by Two Teams",
-      "link": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-11-21T05:02:13.000Z",
-      "badgeColor": "pink",
-      "angle": "Independent Verification"
-    },
-    {
-      "id": "wes-roth-yt:video:xjX3jESpZqs",
-      "title": "Anthropic's Claude Solves Long-Standing Riemann Hypothesis",
-      "link": "https://www.youtube.com/watch?v=xjX3jESpZqs",
-      "sourceName": "Wes Roth",
-      "sourceId": "wes-roth",
-      "pubDate": "2026-11-21T02:24:48.000Z",
-      "badgeColor": "emerald",
-      "angle": "AI Assistant Contribution"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3190908",
-      "title": "AI and Human Mathematicians Collaborate to Solve the 167-Year-Old Riemann Hypothesis",
-      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-20T19:32:08.000Z",
+      "id": "the-zvi-https://thezvi.substack.com/p/gpt-62-astra-and-sol-the-system-card",
+      "title": "GPT-6.2 Astra and Sol: The System Card Revealed",
+      "link": "https://thezvi.substack.com/p/gpt-62-astra-and-sol-the-system-card",
+      "sourceName": "Don't Worry About the Vase (Zvi)",
+      "sourceId": "the-zvi",
+      "pubDate": "2026-11-21T15:11:35.000Z",
       "badgeColor": "emerald"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=43157",
+      "title": "Anthropic Claims Claude Proof of Riemann Hypothesis as Stanford Releases Human-Only Competing Draft",
+      "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-21T11:19:49.000Z",
+      "badgeColor": "slate",
+      "angle": "Critical Debate"
+    },
+    {
+      "id": "version2-https://ing.dk/artikel/bliver-vi-klogere-naar-ai-loeser-de-store-problemer-teknisk-set",
+      "title": "AI Solves Complex Mathematical Problems Beyond Human Reach, Sparking Debate on Transparency",
+      "link": "https://ing.dk/artikel/bliver-vi-klogere-naar-ai-loeser-de-store-problemer-teknisk-set",
+      "sourceName": "Version2 (Ingeniøren)",
+      "sourceId": "version2",
+      "pubDate": "2026-11-21T11:00:00.000Z",
+      "badgeColor": "red",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=43145",
+      "title": "Bytedance and Universities Unveil Axion 1.0: Three-Phase Training Model Challenges Industry Norms",
+      "link": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-21T09:17:24.000Z",
+      "badgeColor": "slate",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
