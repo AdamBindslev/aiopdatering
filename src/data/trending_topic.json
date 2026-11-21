@@ -1,48 +1,48 @@
 {
-  "headline": "NVIDIA's AI Expansion Through Acquisitions and Earnings Boosts Open-Source Models",
-  "summary": "NVIDIA's acquisition of Inception and strong earnings report highlight the company's commitment to open-source AI models, driving growth in the AI ecosystem and increasing competition in the market.",
-  "whyItMatters": "This move strengthens NVIDIA's position in the AI landscape, potentially reducing dependency on proprietary models and fostering innovation through open-source contributions.",
-  "synthesizedAt": "2026-11-20T23:10:57.859Z",
+  "headline": "AI Ethics and Security Gain Urgency as Industry Leaders Call for Moratorium",
+  "summary": "Paul Christiano, a prominent figure in AI ethics, calls for a moratorium on AI research until significant security vulnerabilities are addressed. This call, along with recent data breaches and privacy issues, highlights the growing urgency for ethical and secure AI development.",
+  "whyItMatters": "It underscores the critical need for ethical guidelines and robust security measures in AI research and deployment, affecting all stakeholders in the industry.",
+  "synthesizedAt": "2026-11-21T02:16:45.875Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=43118",
-    "title": "Nvidia Acquires AI Startup Inception for $500 Million to Bolster Open-Source Nemotron Models",
-    "link": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-20T14:53:50.000Z",
-    "badgeColor": "slate",
-    "angle": "Official Launch"
+    "id": "dwarkesh-podcast-yt:video:Ru0l6G5oq7U",
+    "title": "Paul Christiano Urges AI Labs to Halt Progress Until Security Issues Are Addressed",
+    "link": "https://www.youtube.com/shorts/Ru0l6G5oq7U",
+    "sourceName": "Dwarkesh Podcast",
+    "sourceId": "dwarkesh-podcast",
+    "pubDate": "2026-11-21T01:17:53.000Z",
+    "badgeColor": "indigo",
+    "angle": "Official Call to Action"
   },
   "supportingStories": [
     {
-      "id": "aws-ml-08fb4e238d4eba4747871a78311b05e8f79a2286",
-      "title": "Amazon SageMaker HyperPod Enhances Observability for GPU Training Diagnostics",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-11-20T18:24:06.000Z",
-      "badgeColor": "amber",
-      "angle": "Technical Deep Dive"
+      "id": "ars-technica-https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "title": "Secret Data Exposed in AI Supply Chain Leak",
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "sourceName": "Ars Technica – AI",
+      "sourceId": "ars-technica",
+      "pubDate": "2026-11-20T20:59:08.000Z",
+      "badgeColor": "orange",
+      "angle": "Privacy Breach"
     },
     {
-      "id": "mit-tech-review-https://www.technologyreview.com/?p=1149399",
-      "title": "METR Report Reveals Exponential Growth in AI Capabilities but Highlights Limitations in Judgment Tasks",
-      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "sourceName": "MIT Technology Review",
-      "sourceId": "mit-tech-review",
-      "pubDate": "2026-11-20T18:15:15.000Z",
-      "badgeColor": "red"
+      "id": "the-decoder-https://the-decoder.com/?p=43119",
+      "title": "Bloomberg Analysis Reveals AI-Exposed Jobs in China Declined Sharply",
+      "link": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-20T15:56:03.000Z",
+      "badgeColor": "slate",
+      "angle": "Job Market Impact"
     },
     {
-      "id": "simon-willison-https://simonwillison.net/2026/Nov/20/levent-alpoge/",
-      "title": "Mathematician Levent Alpöge Claims Breakthrough in Proving the Riemann Hypothesis",
-      "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
-      "sourceName": "Simon Willison",
-      "sourceId": "simon-willison",
-      "pubDate": "2026-11-20T16:30:48.000Z",
-      "badgeColor": "green",
-      "angle": "Industry Analysis"
+      "id": "the-zvi-https://thezvi.substack.com/p/on-dwarkesh-patels-november-2026",
+      "title": "Paul Christiano Warns of Near-Term AI Risk in Podcast Interview",
+      "link": "https://thezvi.substack.com/p/on-dwarkesh-patels-november-2026",
+      "sourceName": "Don't Worry About the Vase (Zvi)",
+      "sourceId": "the-zvi",
+      "pubDate": "2026-11-20T15:24:40.000Z",
+      "badgeColor": "emerald"
     }
   ]
 }

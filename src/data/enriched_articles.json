@@ -135493,5 +135493,140 @@
     "whyItMatters": "The Inkling 2 Mini addresses the growing demand for on-premises AI solutions, providing a powerful tool for local data processing and analysis, which can enhance privacy and reduce latency in AI applications.",
     "enrichedAt": "2026-11-20T23:10:25.801Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "dwarkesh-podcast-yt:video:Ru0l6G5oq7U": {
+    "title": "Paul Christiano Urges AI Labs to Halt Progress Until Security Issues Are Addressed",
+    "summary": "In a recent podcast, Paul Christiano, a prominent figure in AI ethics, calls for a moratorium on AI research until significant security vulnerabilities are resolved. This comes amid growing concerns over the potential misuse of advanced AI technologies.",
+    "danishTitle": "Paul Christiano Urges AI Labs to Halt Progress Until Security Issues Are Addressed",
+    "danishSummary": "In a recent podcast, Paul Christiano, a prominent figure in AI ethics, calls for a moratorium on AI research until significant security vulnerabilities are resolved. This comes amid growing concerns over the potential misuse of advanced AI technologies.",
+    "whyItMatters": "Christiano's call highlights the urgent need for robust security measures in AI development, potentially influencing industry practices and regulatory frameworks.",
+    "enrichedAt": "2026-11-21T02:14:45.250Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:ru0l6g5oq7u": {
+    "title": "Paul Christiano Urges AI Labs to Halt Progress Until Security Issues Are Addressed",
+    "summary": "In a recent podcast, Paul Christiano, a prominent figure in AI ethics, calls for a moratorium on AI research until significant security vulnerabilities are resolved. This comes amid growing concerns over the potential misuse of advanced AI technologies.",
+    "danishTitle": "Paul Christiano Urges AI Labs to Halt Progress Until Security Issues Are Addressed",
+    "danishSummary": "In a recent podcast, Paul Christiano, a prominent figure in AI ethics, calls for a moratorium on AI research until significant security vulnerabilities are resolved. This comes amid growing concerns over the potential misuse of advanced AI technologies.",
+    "whyItMatters": "Christiano's call highlights the urgent need for robust security measures in AI development, potentially influencing industry practices and regulatory frameworks.",
+    "enrichedAt": "2026-11-21T02:14:45.250Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/shorts/Ru0l6G5oq7U": {
+    "title": "Paul Christiano Urges AI Labs to Halt Progress Until Security Issues Are Addressed",
+    "summary": "In a recent podcast, Paul Christiano, a prominent figure in AI ethics, calls for a moratorium on AI research until significant security vulnerabilities are resolved. This comes amid growing concerns over the potential misuse of advanced AI technologies.",
+    "danishTitle": "Paul Christiano Urges AI Labs to Halt Progress Until Security Issues Are Addressed",
+    "danishSummary": "In a recent podcast, Paul Christiano, a prominent figure in AI ethics, calls for a moratorium on AI research until significant security vulnerabilities are resolved. This comes amid growing concerns over the potential misuse of advanced AI technologies.",
+    "whyItMatters": "Christiano's call highlights the urgent need for robust security measures in AI development, potentially influencing industry practices and regulatory frameworks.",
+    "enrichedAt": "2026-11-21T02:14:45.250Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-02c52259bc83b8aa57b8410eb8c813a22ed5fd28": {
+    "title": "AWS Quick Enhances AI Workflows with Improved Flows and Web Experience",
+    "summary": "AWS has updated its AI workspace, AWS Quick, to include more capable business-process flows, an improved web interface, and collaborative agents. These enhancements aim to streamline and automate tasks, making it easier for teams to manage and execute complex workflows.",
+    "danishTitle": "AWS Quick Enhances AI Workflows with Improved Flows and Web Experience",
+    "danishSummary": "AWS has updated its AI workspace, AWS Quick, to include more capable business-process flows, an improved web interface, and collaborative agents. These enhancements aim to streamline and automate tasks, making it easier for teams to manage and execute complex workflows.",
+    "whyItMatters": "By improving the efficiency and interactivity of AI workflows, AWS Quick can significantly boost productivity and reduce manual effort, positioning AWS as a leader in enterprise AI solutions.",
+    "enrichedAt": "2026-11-21T02:14:55.224Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together": {
+    "title": "AWS Quick Enhances AI Workflows with Improved Flows and Web Experience",
+    "summary": "AWS has updated its AI workspace, AWS Quick, to include more capable business-process flows, an improved web interface, and collaborative agents. These enhancements aim to streamline and automate tasks, making it easier for teams to manage and execute complex workflows.",
+    "danishTitle": "AWS Quick Enhances AI Workflows with Improved Flows and Web Experience",
+    "danishSummary": "AWS has updated its AI workspace, AWS Quick, to include more capable business-process flows, an improved web interface, and collaborative agents. These enhancements aim to streamline and automate tasks, making it easier for teams to manage and execute complex workflows.",
+    "whyItMatters": "By improving the efficiency and interactivity of AI workflows, AWS Quick can significantly boost productivity and reduce manual effort, positioning AWS as a leader in enterprise AI solutions.",
+    "enrichedAt": "2026-11-21T02:14:55.224Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/": {
+    "title": "AWS Quick Enhances AI Workflows with Improved Flows and Web Experience",
+    "summary": "AWS has updated its AI workspace, AWS Quick, to include more capable business-process flows, an improved web interface, and collaborative agents. These enhancements aim to streamline and automate tasks, making it easier for teams to manage and execute complex workflows.",
+    "danishTitle": "AWS Quick Enhances AI Workflows with Improved Flows and Web Experience",
+    "danishSummary": "AWS has updated its AI workspace, AWS Quick, to include more capable business-process flows, an improved web interface, and collaborative agents. These enhancements aim to streamline and automate tasks, making it easier for teams to manage and execute complex workflows.",
+    "whyItMatters": "By improving the efficiency and interactivity of AI workflows, AWS Quick can significantly boost productivity and reduce manual effort, positioning AWS as a leader in enterprise AI solutions.",
+    "enrichedAt": "2026-11-21T02:14:55.224Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-d7bdb91bc1e6b32644ddf96aa43ed4840d83f174": {
+    "title": "AWS Introduces Distributed KV Caching Agent to Reduce Self-Hosted LLM Costs and Latency",
+    "summary": "AWS has launched a distributed key-value (KV) caching agent to optimize self-hosted large language models (LLMs) on GPUs, significantly reducing inference costs and latency. By leveraging Amazon ElastiCache, the solution can cut costs by up to 40% and improve response times by up to 80%.",
+    "danishTitle": "AWS Introduces Distributed KV Caching Agent to Reduce Self-Hosted LLM Costs and Latency",
+    "danishSummary": "AWS has launched a distributed key-value (KV) caching agent to optimize self-hosted large language models (LLMs) on GPUs, significantly reducing inference costs and latency. By leveraging Amazon ElastiCache, the solution can cut costs by up to 40% and improve response times by up to 80%.",
+    "whyItMatters": "This innovation enables enterprises to more efficiently deploy and scale self-hosted LLMs, making advanced AI capabilities more accessible and cost-effective for a broader range of organizations.",
+    "enrichedAt": "2026-11-21T02:15:07.062Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill": {
+    "title": "AWS Introduces Distributed KV Caching Agent to Reduce Self-Hosted LLM Costs and Latency",
+    "summary": "AWS has launched a distributed key-value (KV) caching agent to optimize self-hosted large language models (LLMs) on GPUs, significantly reducing inference costs and latency. By leveraging Amazon ElastiCache, the solution can cut costs by up to 40% and improve response times by up to 80%.",
+    "danishTitle": "AWS Introduces Distributed KV Caching Agent to Reduce Self-Hosted LLM Costs and Latency",
+    "danishSummary": "AWS has launched a distributed key-value (KV) caching agent to optimize self-hosted large language models (LLMs) on GPUs, significantly reducing inference costs and latency. By leveraging Amazon ElastiCache, the solution can cut costs by up to 40% and improve response times by up to 80%.",
+    "whyItMatters": "This innovation enables enterprises to more efficiently deploy and scale self-hosted LLMs, making advanced AI capabilities more accessible and cost-effective for a broader range of organizations.",
+    "enrichedAt": "2026-11-21T02:15:07.062Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/": {
+    "title": "AWS Introduces Distributed KV Caching Agent to Reduce Self-Hosted LLM Costs and Latency",
+    "summary": "AWS has launched a distributed key-value (KV) caching agent to optimize self-hosted large language models (LLMs) on GPUs, significantly reducing inference costs and latency. By leveraging Amazon ElastiCache, the solution can cut costs by up to 40% and improve response times by up to 80%.",
+    "danishTitle": "AWS Introduces Distributed KV Caching Agent to Reduce Self-Hosted LLM Costs and Latency",
+    "danishSummary": "AWS has launched a distributed key-value (KV) caching agent to optimize self-hosted large language models (LLMs) on GPUs, significantly reducing inference costs and latency. By leveraging Amazon ElastiCache, the solution can cut costs by up to 40% and improve response times by up to 80%.",
+    "whyItMatters": "This innovation enables enterprises to more efficiently deploy and scale self-hosted LLMs, making advanced AI capabilities more accessible and cost-effective for a broader range of organizations.",
+    "enrichedAt": "2026-11-21T02:15:07.062Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "stanford-cs25-yt:video:uoSynlTDyMs": {
+    "title": "Stanford University Launches Lecture Series on Evaluating Large Language Models",
+    "summary": "Stanford University has initiated a lecture series focusing on the evaluation of large language models (LLMs) for the upcoming academic year 2026. The course, CME295, aims to provide in-depth knowledge on assessing LLMs, particularly in the context of transformers and their applications.",
+    "danishTitle": "Stanford University Launches Lecture Series on Evaluating Large Language Models",
+    "danishSummary": "Stanford University has initiated a lecture series focusing on the evaluation of large language models (LLMs) for the upcoming academic year 2026. The course, CME295, aims to provide in-depth knowledge on assessing LLMs, particularly in the context of transformers and their applications.",
+    "whyItMatters": "This initiative underscores the growing importance of rigorous evaluation methods in the development and deployment of advanced AI technologies, ensuring their reliability and effectiveness in various industries.",
+    "enrichedAt": "2026-11-21T02:15:17.827Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:uosynltdyms": {
+    "title": "Stanford University Launches Lecture Series on Evaluating Large Language Models",
+    "summary": "Stanford University has initiated a lecture series focusing on the evaluation of large language models (LLMs) for the upcoming academic year 2026. The course, CME295, aims to provide in-depth knowledge on assessing LLMs, particularly in the context of transformers and their applications.",
+    "danishTitle": "Stanford University Launches Lecture Series on Evaluating Large Language Models",
+    "danishSummary": "Stanford University has initiated a lecture series focusing on the evaluation of large language models (LLMs) for the upcoming academic year 2026. The course, CME295, aims to provide in-depth knowledge on assessing LLMs, particularly in the context of transformers and their applications.",
+    "whyItMatters": "This initiative underscores the growing importance of rigorous evaluation methods in the development and deployment of advanced AI technologies, ensuring their reliability and effectiveness in various industries.",
+    "enrichedAt": "2026-11-21T02:15:17.827Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=uoSynlTDyMs": {
+    "title": "Stanford University Launches Lecture Series on Evaluating Large Language Models",
+    "summary": "Stanford University has initiated a lecture series focusing on the evaluation of large language models (LLMs) for the upcoming academic year 2026. The course, CME295, aims to provide in-depth knowledge on assessing LLMs, particularly in the context of transformers and their applications.",
+    "danishTitle": "Stanford University Launches Lecture Series on Evaluating Large Language Models",
+    "danishSummary": "Stanford University has initiated a lecture series focusing on the evaluation of large language models (LLMs) for the upcoming academic year 2026. The course, CME295, aims to provide in-depth knowledge on assessing LLMs, particularly in the context of transformers and their applications.",
+    "whyItMatters": "This initiative underscores the growing importance of rigorous evaluation methods in the development and deployment of advanced AI technologies, ensuring their reliability and effectiveness in various industries.",
+    "enrichedAt": "2026-11-21T02:15:17.827Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "assembly-ai-yt:video:3CDTs-0yd1I": {
+    "title": "Comparison Reveals Local Whisper Transcription's Role in Claude Code Video Editing Workflow",
+    "summary": "A video analysis by AssemblyAI compares the performance of Whisper large-v3, run locally, with AssemblyAI for transcription in a Claude Code video editing session. The comparison highlights the local Whisper's effectiveness in transcribing footage, which is then used for editing with Claude Code.",
+    "danishTitle": "Comparison Reveals Local Whisper Transcription's Role in Claude Code Video Editing Workflow",
+    "danishSummary": "A video analysis by AssemblyAI compares the performance of Whisper large-v3, run locally, with AssemblyAI for transcription in a Claude Code video editing session. The comparison highlights the local Whisper's effectiveness in transcribing footage, which is then used for editing with Claude Code.",
+    "whyItMatters": "This comparison underscores the potential of local transcription tools like Whisper in enhancing the efficiency and accessibility of AI-driven video editing workflows, potentially reducing reliance on cloud services.",
+    "enrichedAt": "2026-11-21T02:15:27.986Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:3cdts-0yd1i": {
+    "title": "Comparison Reveals Local Whisper Transcription's Role in Claude Code Video Editing Workflow",
+    "summary": "A video analysis by AssemblyAI compares the performance of Whisper large-v3, run locally, with AssemblyAI for transcription in a Claude Code video editing session. The comparison highlights the local Whisper's effectiveness in transcribing footage, which is then used for editing with Claude Code.",
+    "danishTitle": "Comparison Reveals Local Whisper Transcription's Role in Claude Code Video Editing Workflow",
+    "danishSummary": "A video analysis by AssemblyAI compares the performance of Whisper large-v3, run locally, with AssemblyAI for transcription in a Claude Code video editing session. The comparison highlights the local Whisper's effectiveness in transcribing footage, which is then used for editing with Claude Code.",
+    "whyItMatters": "This comparison underscores the potential of local transcription tools like Whisper in enhancing the efficiency and accessibility of AI-driven video editing workflows, potentially reducing reliance on cloud services.",
+    "enrichedAt": "2026-11-21T02:15:27.986Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=3CDTs-0yd1I": {
+    "title": "Comparison Reveals Local Whisper Transcription's Role in Claude Code Video Editing Workflow",
+    "summary": "A video analysis by AssemblyAI compares the performance of Whisper large-v3, run locally, with AssemblyAI for transcription in a Claude Code video editing session. The comparison highlights the local Whisper's effectiveness in transcribing footage, which is then used for editing with Claude Code.",
+    "danishTitle": "Comparison Reveals Local Whisper Transcription's Role in Claude Code Video Editing Workflow",
+    "danishSummary": "A video analysis by AssemblyAI compares the performance of Whisper large-v3, run locally, with AssemblyAI for transcription in a Claude Code video editing session. The comparison highlights the local Whisper's effectiveness in transcribing footage, which is then used for editing with Claude Code.",
+    "whyItMatters": "This comparison underscores the potential of local transcription tools like Whisper in enhancing the efficiency and accessibility of AI-driven video editing workflows, potentially reducing reliance on cloud services.",
+    "enrichedAt": "2026-11-21T02:15:27.986Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }
