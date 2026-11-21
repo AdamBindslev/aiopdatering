@@ -1,20 +1,40 @@
 {
-  "headline": "Riemann Hypothesis Proven Independently by Multiple Teams",
-  "summary": "Two independent teams of mathematicians have proven the Riemann Hypothesis, a long-standing conjecture in number theory. This breakthrough, supported by AI, is commanding global attention and reshaping the landscape of mathematical research.",
-  "whyItMatters": "This proof could lead to significant advancements in cryptography, number theory, and AI's role in complex problem-solving.",
-  "synthesizedAt": "2026-11-21T08:28:50.628Z",
+  "headline": "AI Solves Complex Mathematical Problems, Sparking Debate on Transparency and Access",
+  "summary": "Recent advancements in AI have enabled the solution of intricate mathematical problems that elude human capabilities, raising questions about the necessity and implications of transparency in AI systems. This trend is accelerating local AI agent deployment and putting downward pressure on closed proprietary platforms.",
+  "whyItMatters": "It broadens access to advanced reasoning capabilities and forces a reevaluation of the transparency and ethical considerations in AI development.",
+  "synthesizedAt": "2026-11-21T11:36:30.280Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "latent-space-urn:latent-space:post:post_3976c9e6-ac0c-4bf2-92c8-c83510a92539",
-    "title": "Riemann Hypothesis Proven Independently by Two Teams",
-    "link": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
-    "sourceName": "Latent Space (Swyx & Alessio)",
-    "sourceId": "latent-space",
-    "pubDate": "2026-11-21T05:02:13.000Z",
-    "badgeColor": "pink",
-    "angle": "Official Release"
+    "id": "version2-https://ing.dk/artikel/bliver-vi-klogere-naar-ai-loeser-de-store-problemer-teknisk-set",
+    "title": "AI Solves Complex Mathematical Problems Beyond Human Reach, Sparking Debate on Transparency",
+    "link": "https://ing.dk/artikel/bliver-vi-klogere-naar-ai-loeser-de-store-problemer-teknisk-set",
+    "sourceName": "Version2 (Ingeniøren)",
+    "sourceId": "version2",
+    "pubDate": "2026-11-21T11:00:00.000Z",
+    "badgeColor": "red",
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=43157",
+      "title": "Anthropic Claims Claude Proof of Riemann Hypothesis as Stanford Releases Human-Only Competing Draft",
+      "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-21T11:19:49.000Z",
+      "badgeColor": "slate",
+      "angle": "Official Release"
+    },
+    {
+      "id": "latent-space-urn:latent-space:post:post_3976c9e6-ac0c-4bf2-92c8-c83510a92539",
+      "title": "Riemann Hypothesis Proven Independently by Two Teams",
+      "link": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-11-21T05:02:13.000Z",
+      "badgeColor": "pink",
+      "angle": "Critical Debate"
+    },
     {
       "id": "wes-roth-yt:video:xjX3jESpZqs",
       "title": "Anthropic's Claude Solves Long-Standing Riemann Hypothesis",
@@ -23,26 +43,7 @@
       "sourceId": "wes-roth",
       "pubDate": "2026-11-21T02:24:48.000Z",
       "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "assembly-ai-yt:video:3CDTs-0yd1I",
-      "title": "Comparison Reveals Local Whisper Transcription's Role in Claude Code Video Editing Workflow",
-      "link": "https://www.youtube.com/watch?v=3CDTs-0yd1I",
-      "sourceName": "AssemblyAI",
-      "sourceId": "assembly-ai",
-      "pubDate": "2026-11-20T23:50:31.000Z",
-      "badgeColor": "blue",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "aws-ml-7d1155e7ae64ab335a37cde382657a457dce3267",
-      "title": "Amazon SageMaker HyperPod Launches Global Inference Gateway for Enhanced Scalability and Reliability",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-11-20T22:35:24.000Z",
-      "badgeColor": "amber"
+      "angle": "Official Release"
     },
     {
       "id": "techcrunch-ai-https://techcrunch.com/?p=3190908",
