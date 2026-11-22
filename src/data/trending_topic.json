@@ -1,40 +1,20 @@
 {
-  "headline": "AI-Generated Proofs and Models Challenge Industry Norms",
-  "summary": "Recent breakthroughs in AI, including the claimed proof of the Riemann Hypothesis by Anthropic's Claude and the introduction of innovative training models like Axion 1.0, are reshaping the landscape of AI research and development, sparking both excitement and debate.",
-  "whyItMatters": "These advancements could lead to more efficient and powerful AI models, potentially solving long-standing mathematical problems and setting new standards in the industry.",
-  "synthesizedAt": "2026-11-22T00:02:45.208Z",
+  "headline": "AI Solves Riemann Hypothesis, Sparking Debate on Proof and Transparency",
+  "summary": "Mathematicians and AI researchers independently claim to have proven the Riemann Hypothesis, a long-standing mathematical problem. This breakthrough is raising questions about the nature of mathematical proof and the transparency of AI-generated solutions.",
+  "whyItMatters": "It challenges traditional methods of mathematical proof and highlights the growing role of AI in solving complex problems, while also sparking debates on the transparency and validation of AI-generated results.",
+  "synthesizedAt": "2026-11-22T03:09:43.279Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=43157",
-    "title": "Anthropic Claims Claude Proof of Riemann Hypothesis as Stanford Releases Human-Only Competing Draft",
-    "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-21T11:19:49.000Z",
-    "badgeColor": "slate",
-    "angle": "Proof of Concept"
+    "id": "latent-space-urn:latent-space:post:post_3976c9e6-ac0c-4bf2-92c8-c83510a92539",
+    "title": "Riemann Hypothesis Proven Independently by Two Teams",
+    "link": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+    "sourceName": "Latent Space (Swyx & Alessio)",
+    "sourceId": "latent-space",
+    "pubDate": "2026-11-21T05:02:13.000Z",
+    "badgeColor": "pink",
+    "angle": "Official Release"
   },
   "supportingStories": [
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=43145",
-      "title": "Bytedance and Universities Unveil Axion 1.0: Three-Phase Training Model Challenges Industry Norms",
-      "link": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-21T09:17:24.000Z",
-      "badgeColor": "slate",
-      "angle": "Innovative Training Models"
-    },
-    {
-      "id": "latent-space-urn:latent-space:post:post_3976c9e6-ac0c-4bf2-92c8-c83510a92539",
-      "title": "Riemann Hypothesis Proven Independently by Two Teams",
-      "link": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-11-21T05:02:13.000Z",
-      "badgeColor": "pink",
-      "angle": "Independent Verification"
-    },
     {
       "id": "wes-roth-yt:video:xjX3jESpZqs",
       "title": "Anthropic's Claude Solves Long-Standing Riemann Hypothesis",
@@ -42,7 +22,37 @@
       "sourceName": "Wes Roth",
       "sourceId": "wes-roth",
       "pubDate": "2026-11-21T02:24:48.000Z",
-      "badgeColor": "emerald"
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=43157",
+      "title": "Anthropic Claims Claude Proof of Riemann Hypothesis as Stanford Releases Human-Only Competing Draft",
+      "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-21T11:19:49.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
+    },
+    {
+      "id": "aws-ml-7d1155e7ae64ab335a37cde382657a457dce3267",
+      "title": "Amazon SageMaker HyperPod Launches Global Inference Gateway for Enhanced Scalability and Reliability",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+      "sourceName": "AWS Machine Learning",
+      "sourceId": "aws-ml",
+      "pubDate": "2026-11-20T22:35:24.000Z",
+      "badgeColor": "amber"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3191147",
+      "title": "Signal Restricts Screenshot Functionality Amid AI Surveillance Concerns",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-21T21:37:10.000Z",
+      "badgeColor": "emerald",
+      "angle": "Critical Debate"
     }
   ]
 }
