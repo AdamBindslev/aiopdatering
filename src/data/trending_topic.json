@@ -1,8 +1,8 @@
 {
-  "headline": "AI Safety and Security Concerns Outpace Model Advancements",
-  "summary": "Recent studies and reports highlight the growing security vulnerabilities in AI models and the urgent need for safety testing, as rapid advancements in AI capabilities outstrip current safeguards. This trend is raising significant concerns among developers and policymakers.",
-  "whyItMatters": "It underscores the critical need for improved security measures and safety testing frameworks to prevent potential misuse and ensure responsible AI development.",
-  "synthesizedAt": "2026-11-22T18:43:49.412Z",
+  "headline": "AI Safety and Security Concerns Emerge as Top Industry Priority",
+  "summary": "Multiple articles highlight the growing concerns over AI safety and security, from the rapid advancements outpacing testing capabilities to significant vulnerabilities in cheap AI inference providers. These issues are commanding industry attention due to their potential to impact widespread AI adoption and security.",
+  "whyItMatters": "These concerns underscore the need for robust safety measures and secure infrastructure, influencing the development and deployment of AI technologies.",
+  "synthesizedAt": "2026-11-22T21:49:52.910Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=43190",
@@ -26,14 +26,23 @@
       "angle": "Security Flaws"
     },
     {
-      "id": "version2-https://ing.dk/artikel/bliver-vi-klogere-naar-ai-loeser-de-store-problemer-teknisk-set",
-      "title": "AI Solves Complex Mathematical Problems Beyond Human Reach, Sparking Debate on Transparency",
-      "link": "https://ing.dk/artikel/bliver-vi-klogere-naar-ai-loeser-de-store-problemer-teknisk-set",
-      "sourceName": "Version2 (Ingeniøren)",
-      "sourceId": "version2",
-      "pubDate": "2026-11-21T11:00:00.000Z",
-      "badgeColor": "red",
-      "angle": "Transparency Debate"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3173132",
+      "title": "TechCrunch Lists Notable AI Agents for Text Messages Across Various Use Cases",
+      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-21T17:00:00.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Applications"
+    },
+    {
+      "id": "cognitive-revolution-yt:video:6bSzdXKkE2M",
+      "title": "Biden AI Advisors Discuss Global Security and Policy in New Book",
+      "link": "https://www.youtube.com/watch?v=6bSzdXKkE2M",
+      "sourceName": "The Cognitive Revolution",
+      "sourceId": "cognitive-revolution",
+      "pubDate": "2026-11-21T08:00:30.000Z",
+      "badgeColor": "teal"
     }
   ]
 }
