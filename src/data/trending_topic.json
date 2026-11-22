@@ -1,29 +1,39 @@
 {
-  "headline": "Open-Weight Reasoning Models Challenge Proprietary Frontier Labs",
-  "summary": "A wave of new open-weight models is demonstrating reasoning capabilities rivaling top commercial frontier systems. This shift is accelerating local AI agent deployment and putting downward pressure on closed-API pricing models.",
-  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on closed proprietary platforms.",
-  "synthesizedAt": "2026-11-22T12:29:56.325Z",
+  "headline": "AI Reasoning Models Outperform in Real-World Tests, Sparking Debate on Transparency",
+  "summary": "A recent study highlighted the limitations of AI coding agents in real-world simulations, while Epoch AI unveiled GPT-6.2 Sol, an advanced reasoning model. This juxtaposition is sparking debate on the transparency and reliability of AI models.",
+  "whyItMatters": "It underscores the need for more transparent and robust AI models, impacting both developer trust and industry standards.",
+  "synthesizedAt": "2026-11-22T15:36:56.133Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=43182",
-    "title": "Security Researchers Uncover Major Vulnerabilities in Cheap AI Inference Providers",
-    "link": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+    "id": "the-decoder-https://the-decoder.com/?p=43203",
+    "title": "AI Coding Agents Fail Real-World Simulations Despite Strong Isolated Test Performances",
+    "link": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-11-22T12:07:56.000Z",
+    "pubDate": "2026-11-22T15:15:48.000Z",
     "badgeColor": "slate",
-    "angle": "Official Release"
+    "angle": "Real-World Test Failures"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=43149",
-      "title": "Thinking Machines Unveils Inkling 2 Mini: An Open Loop Transformer Optimized for Efficient Reasoning",
-      "link": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
+      "id": "epoch-ai-CBMiS0FVX3lxTE43SVNiWUthUXQyeUFpWUlzaTZHRWxsdjl0azZCck9NM2JQb2NhWEpLLTFQVmc3VGxuMkJFcy1oMUZHVUFWQVdkMDBvVQ",
+      "title": "Epoch AI Unveils GPT-6.2 Sol, Paving Way for Enhanced AI Capabilities",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43SVNiWUthUXQyeUFpWUlzaTZHRWxsdjl0azZCck9NM2JQb2NhWEpLLTFQVmc3VGxuMkJFcy1oMUZHVUFWQVdkMDBvVQ?oc=5",
+      "sourceName": "Epoch AI",
+      "sourceId": "epoch-ai",
+      "pubDate": "2026-11-22T14:30:16.000Z",
+      "badgeColor": "violet",
+      "angle": "Advanced Model Release"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=43130",
+      "title": "GPT-6.2 Astra and Sol Offer Concise Responses but Lack Transparency Compared to Claude",
+      "link": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-11-21T10:33:02.000Z",
+      "pubDate": "2026-11-22T09:41:37.000Z",
       "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
+      "angle": "Transparency Concerns"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=43157",
@@ -32,8 +42,7 @@
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
       "pubDate": "2026-11-21T11:19:49.000Z",
-      "badgeColor": "slate",
-      "angle": "Critical Debate"
+      "badgeColor": "slate"
     }
   ]
 }
