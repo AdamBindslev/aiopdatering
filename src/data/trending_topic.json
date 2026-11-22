@@ -1,48 +1,39 @@
 {
-  "headline": "AI Solves Complex Mathematical Problems, Sparking Debate on Transparency",
-  "summary": "Recent advancements in AI have enabled the solution of intricate mathematical problems that elude human capabilities, raising questions about the necessity of transparency in AI systems. This trend is commanding industry attention as it challenges traditional methods and opens new avenues for research.",
-  "whyItMatters": "It highlights the growing capabilities of AI in complex problem-solving, potentially transforming mathematical research and development processes.",
-  "synthesizedAt": "2026-11-22T09:23:02.020Z",
+  "headline": "Open-Weight Reasoning Models Challenge Proprietary Frontier Labs",
+  "summary": "A wave of new open-weight models is demonstrating reasoning capabilities rivaling top commercial frontier systems. This shift is accelerating local AI agent deployment and putting downward pressure on closed-API pricing models.",
+  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on closed proprietary platforms.",
+  "synthesizedAt": "2026-11-22T12:29:56.325Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "version2-https://ing.dk/artikel/bliver-vi-klogere-naar-ai-loeser-de-store-problemer-teknisk-set",
-    "title": "AI Solves Complex Mathematical Problems Beyond Human Reach, Sparking Debate on Transparency",
-    "link": "https://ing.dk/artikel/bliver-vi-klogere-naar-ai-loeser-de-store-problemer-teknisk-set",
-    "sourceName": "Version2 (Ingeniøren)",
-    "sourceId": "version2",
-    "pubDate": "2026-11-21T11:00:00.000Z",
-    "badgeColor": "red",
-    "angle": "Technical Deep Dive"
+    "id": "the-decoder-https://the-decoder.com/?p=43182",
+    "title": "Security Researchers Uncover Major Vulnerabilities in Cheap AI Inference Providers",
+    "link": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-22T12:07:56.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "latent-space-urn:latent-space:post:post_3976c9e6-ac0c-4bf2-92c8-c83510a92539",
-      "title": "Riemann Hypothesis Proven Independently by Two Teams",
-      "link": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-11-21T05:02:13.000Z",
-      "badgeColor": "pink",
-      "angle": "Official Release"
+      "id": "the-decoder-https://the-decoder.com/?p=43149",
+      "title": "Thinking Machines Unveils Inkling 2 Mini: An Open Loop Transformer Optimized for Efficient Reasoning",
+      "link": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-21T10:33:02.000Z",
+      "badgeColor": "slate",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "wes-roth-yt:video:xjX3jESpZqs",
-      "title": "Anthropic's Claude Solves Long-Standing Riemann Hypothesis",
-      "link": "https://www.youtube.com/watch?v=xjX3jESpZqs",
-      "sourceName": "Wes Roth",
-      "sourceId": "wes-roth",
-      "pubDate": "2026-11-21T02:24:48.000Z",
-      "badgeColor": "emerald",
+      "id": "the-decoder-https://the-decoder.com/?p=43157",
+      "title": "Anthropic Claims Claude Proof of Riemann Hypothesis as Stanford Releases Human-Only Competing Draft",
+      "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-21T11:19:49.000Z",
+      "badgeColor": "slate",
       "angle": "Critical Debate"
-    },
-    {
-      "id": "assembly-ai-yt:video:3CDTs-0yd1I",
-      "title": "Comparison Reveals Local Whisper Transcription's Role in Claude Code Video Editing Workflow",
-      "link": "https://www.youtube.com/watch?v=3CDTs-0yd1I",
-      "sourceName": "AssemblyAI",
-      "sourceId": "assembly-ai",
-      "pubDate": "2026-11-20T23:50:31.000Z",
-      "badgeColor": "blue"
     }
   ]
 }
