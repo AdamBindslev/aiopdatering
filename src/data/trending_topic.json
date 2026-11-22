@@ -1,20 +1,30 @@
 {
-  "headline": "AI Solves Riemann Hypothesis, Sparking Debate on Proof and Transparency",
-  "summary": "Mathematicians and AI researchers independently claim to have proven the Riemann Hypothesis, a long-standing mathematical problem. This breakthrough is raising questions about the nature of mathematical proof and the transparency of AI-generated solutions.",
-  "whyItMatters": "It challenges traditional methods of mathematical proof and highlights the growing role of AI in solving complex problems, while also sparking debates on the transparency and validation of AI-generated results.",
-  "synthesizedAt": "2026-11-22T03:09:43.279Z",
+  "headline": "AI Solves Complex Mathematical Problems, Sparking Debate on Transparency",
+  "summary": "Recent advancements in AI have enabled the solution of intricate mathematical problems that elude human capabilities, raising questions about the necessity and implications of AI transparency. This trend is commanding industry attention as it challenges traditional methods and ethical considerations.",
+  "whyItMatters": "It highlights the growing capabilities of AI in complex problem-solving, which could have significant implications for various industries and ethical debates around AI's role and transparency.",
+  "synthesizedAt": "2026-11-22T06:16:10.094Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "latent-space-urn:latent-space:post:post_3976c9e6-ac0c-4bf2-92c8-c83510a92539",
-    "title": "Riemann Hypothesis Proven Independently by Two Teams",
-    "link": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
-    "sourceName": "Latent Space (Swyx & Alessio)",
-    "sourceId": "latent-space",
-    "pubDate": "2026-11-21T05:02:13.000Z",
-    "badgeColor": "pink",
-    "angle": "Official Release"
+    "id": "version2-https://ing.dk/artikel/bliver-vi-klogere-naar-ai-loeser-de-store-problemer-teknisk-set",
+    "title": "AI Solves Complex Mathematical Problems Beyond Human Reach, Sparking Debate on Transparency",
+    "link": "https://ing.dk/artikel/bliver-vi-klogere-naar-ai-loeser-de-store-problemer-teknisk-set",
+    "sourceName": "Version2 (Ingeniøren)",
+    "sourceId": "version2",
+    "pubDate": "2026-11-21T11:00:00.000Z",
+    "badgeColor": "red",
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
+    {
+      "id": "latent-space-urn:latent-space:post:post_3976c9e6-ac0c-4bf2-92c8-c83510a92539",
+      "title": "Riemann Hypothesis Proven Independently by Two Teams",
+      "link": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-11-21T05:02:13.000Z",
+      "badgeColor": "pink",
+      "angle": "Official Release"
+    },
     {
       "id": "wes-roth-yt:video:xjX3jESpZqs",
       "title": "Anthropic's Claude Solves Long-Standing Riemann Hypothesis",
@@ -23,7 +33,7 @@
       "sourceId": "wes-roth",
       "pubDate": "2026-11-21T02:24:48.000Z",
       "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
+      "angle": "Critical Debate"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=43157",
@@ -34,25 +44,6 @@
       "pubDate": "2026-11-21T11:19:49.000Z",
       "badgeColor": "slate",
       "angle": "Industry Analysis"
-    },
-    {
-      "id": "aws-ml-7d1155e7ae64ab335a37cde382657a457dce3267",
-      "title": "Amazon SageMaker HyperPod Launches Global Inference Gateway for Enhanced Scalability and Reliability",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
-      "sourceName": "AWS Machine Learning",
-      "sourceId": "aws-ml",
-      "pubDate": "2026-11-20T22:35:24.000Z",
-      "badgeColor": "amber"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3191147",
-      "title": "Signal Restricts Screenshot Functionality Amid AI Surveillance Concerns",
-      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-21T21:37:10.000Z",
-      "badgeColor": "emerald",
-      "angle": "Critical Debate"
     }
   ]
 }
