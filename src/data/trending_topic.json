@@ -1,39 +1,39 @@
 {
-  "headline": "Self-Evolving AI Scripts Accelerate EDA Scripting Efficiency",
-  "summary": "A new research paper on arXiv introduces self-evolving AI scripts for Electronic Design Automation (EDA), which promise to overcome scripting bottlenecks and improve efficiency. This development is gaining traction as it could significantly enhance the productivity of EDA workflows.",
-  "whyItMatters": "By automating and optimizing EDA scripting, self-evolving AI scripts can reduce development time and costs, driving innovation in semiconductor design.",
-  "synthesizedAt": "2026-11-23T07:16:21.553Z",
+  "headline": "Weight-Space Programming Enables In-Context Learning and Competes with Fine-Tuning",
+  "summary": "A recent study introduces weight-space programming, a novel technique allowing language models to read and rewrite their own weights in context, offering a competitive alternative to fine-tuning. This breakthrough could significantly enhance model adaptability and efficiency.",
+  "whyItMatters": "This method could revolutionize how language models are fine-tuned, making the process more efficient and adaptable, potentially reducing the need for extensive retraining.",
+  "synthesizedAt": "2026-11-23T10:19:26.369Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2611.26912v1",
-    "title": "Self-Evolving AI Scripts Show Promise in Overcoming EDA Bottlenecks",
-    "link": "https://arxiv.org/abs/2611.26912",
-    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-    "sourceId": "arxiv-ai",
+    "id": "arxiv-cl-oai:arXiv.org:2611.26841v1",
+    "title": "Weight-Space Programming Enables In-Context Learning and Competes with Fine-Tuning in Language Models",
+    "link": "https://arxiv.org/abs/2611.26841",
+    "sourceName": "arXiv cs.CL (Sprog & LLM)",
+    "sourceId": "arxiv-cl",
     "pubDate": "2026-11-23T05:00:00.000Z",
     "badgeColor": "zinc",
-    "angle": "Official Release"
+    "angle": "Primary Source"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2611.26841v1",
-      "title": "Weight-Space Programming Enables In-Context Learning and Competes with Fine-Tuning in Language Models",
-      "link": "https://arxiv.org/abs/2611.26841",
+      "id": "two-minute-papers-yt:video:1jPdehG3Hms",
+      "title": "Claude AI Solves Complex Black Hole Physics Problem",
+      "link": "https://www.youtube.com/watch?v=1jPdehG3Hms",
+      "sourceName": "Two Minute Papers",
+      "sourceId": "two-minute-papers",
+      "pubDate": "2026-11-23T07:37:52.000Z",
+      "badgeColor": "amber",
+      "angle": "Official Release"
+    },
+    {
+      "id": "arxiv-cl-oai:arXiv.org:2611.26833v1",
+      "title": "New Research Proposes Domain and Task Adapter Scaling for Enhanced Question Answering in Technical Documents",
+      "link": "https://arxiv.org/abs/2611.26833",
       "sourceName": "arXiv cs.CL (Sprog & LLM)",
       "sourceId": "arxiv-cl",
       "pubDate": "2026-11-23T05:00:00.000Z",
       "badgeColor": "zinc",
       "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2611.26910v1",
-      "title": "AstronautBench: A New Framework for Evaluating Agent Self-Improvement Across Episodes",
-      "link": "https://arxiv.org/abs/2611.26910",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-11-23T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Industry Analysis"
     }
   ]
 }
