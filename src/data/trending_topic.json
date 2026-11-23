@@ -1,48 +1,39 @@
 {
-  "headline": "OpenAI's GPT-6.2 Astra Solves Complex Math Theorem, Pioneers New Proof Strategy",
-  "summary": "OpenAI's GPT-6.2 Astra has independently proven Smoktunowicz's gap theorem, a significant milestone in AI capabilities. This breakthrough underscores the rapid advancement of AI in complex problem-solving and may redefine the landscape of mathematical research.",
-  "whyItMatters": "It highlights the growing sophistication of AI in handling complex mathematical problems, potentially opening new avenues in research and development.",
-  "synthesizedAt": "2026-11-23T19:39:57.004Z",
+  "headline": "Open-Source AI Models Reshape Industry Landscape",
+  "summary": "A surge in open-source AI models is challenging proprietary systems, driving innovation and democratizing access to advanced capabilities. This shift is particularly evident in tools like Claude Ship, which empower developers with AI agents, and smaller, more efficient models that enhance performance.",
+  "whyItMatters": "It broadens access to advanced AI capabilities, reduces costs, and fosters a more competitive and collaborative AI ecosystem.",
+  "synthesizedAt": "2026-11-23T22:47:34.707Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=43085",
-    "title": "GPT-6.2 Astra Solves Complex Math Theorem, Pioneers New Proof Strategy",
-    "link": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-23T12:17:01.000Z",
-    "badgeColor": "slate",
-    "angle": "Technical Breakthrough"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3191583",
+    "title": "Anthropic Launches Claude Ship, Empowering AI Agents to Review and Approve Code Changes",
+    "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-11-23T22:05:50.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "google-ai-https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-      "title": "Google Introduces Personal Intelligence Mode to Enhance Search Relevance",
-      "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-      "sourceName": "Google News AI",
-      "sourceId": "google-ai",
-      "pubDate": "2026-11-23T17:00:00.000Z",
-      "badgeColor": "cyan",
-      "angle": "Industry Impact"
+      "id": "cognitive-revolution-yt:video:o2-DrDRIaY8",
+      "title": "AI for Cash Aid, Smaller Models with Enhanced Performance | AI:AM",
+      "link": "https://www.youtube.com/watch?v=o2-DrDRIaY8",
+      "sourceName": "The Cognitive Revolution",
+      "sourceId": "cognitive-revolution",
+      "pubDate": "2026-11-23T21:26:08.000Z",
+      "badgeColor": "teal",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=43216",
-      "title": "Z.ai Introduces Loop Transformer Model to Compete with Larger Models",
-      "link": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/",
+      "id": "the-decoder-https://the-decoder.com/?p=43242",
+      "title": "OpenAI Upgrades ChatGPT with GPT-6.2 Sol for Enhanced Image Understanding and Complex Query Handling",
+      "link": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-11-23T15:13:03.000Z",
+      "pubDate": "2026-11-23T20:39:18.000Z",
       "badgeColor": "slate",
-      "angle": "Competitive Landscape"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=43225",
-      "title": "Nvidia Board Reinstates Jensen Huang as CEO After Brief Interim Leadership",
-      "link": "https://the-decoder.com/nvidia-tried-life-without-jensen-huang-and-it-lasted-about-two-weeks/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-23T14:24:47.000Z",
-      "badgeColor": "slate"
+      "angle": "Industry Analysis"
     }
   ]
 }
