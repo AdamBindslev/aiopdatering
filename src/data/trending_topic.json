@@ -1,8 +1,8 @@
 {
   "headline": "OpenAI's GPT-6.2 Astra Solves Complex Math Theorem, Pioneers New Proof Strategy",
-  "summary": "OpenAI's GPT-6.2 Astra has achieved a significant milestone by independently proving Smoktunowicz's gap theorem, a feat no other AI has managed. This breakthrough highlights the potential of advanced AI in solving complex mathematical problems and may redefine the approach to mathematical formalization.",
-  "whyItMatters": "This achievement underscores the growing capabilities of AI in complex problem-solving and could lead to new strategies in mathematical research and formalization.",
-  "synthesizedAt": "2026-11-23T16:33:26.847Z",
+  "summary": "OpenAI's GPT-6.2 Astra has independently proven Smoktunowicz's gap theorem, a significant milestone in AI capabilities. This breakthrough underscores the rapid advancement of AI in complex problem-solving and may redefine the landscape of mathematical research.",
+  "whyItMatters": "It highlights the growing sophistication of AI in handling complex mathematical problems, potentially opening new avenues in research and development.",
+  "synthesizedAt": "2026-11-23T19:39:57.004Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=43085",
@@ -12,37 +12,37 @@
     "sourceId": "the-decoder",
     "pubDate": "2026-11-23T12:17:01.000Z",
     "badgeColor": "slate",
-    "angle": "Critical Milestone"
+    "angle": "Technical Breakthrough"
   },
   "supportingStories": [
     {
-      "id": "wes-roth-yt:video:f5_c0O_chy4",
-      "title": "OpenAI Unveils Critical Metric Behind AI Breakthroughs",
-      "link": "https://www.youtube.com/watch?v=f5_c0O_chy4",
-      "sourceName": "Wes Roth",
-      "sourceId": "wes-roth",
-      "pubDate": "2026-11-23T07:35:14.000Z",
-      "badgeColor": "emerald",
-      "angle": "Pivotal Metric"
+      "id": "google-ai-https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "title": "Google Introduces Personal Intelligence Mode to Enhance Search Relevance",
+      "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "sourceName": "Google News AI",
+      "sourceId": "google-ai",
+      "pubDate": "2026-11-23T17:00:00.000Z",
+      "badgeColor": "cyan",
+      "angle": "Industry Impact"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=43215",
-      "title": "Meta's Alexandr Wang Warns AI Industry of Approaching Superintelligence After Riemann Hypothesis Breakthrough",
-      "link": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/",
+      "id": "the-decoder-https://the-decoder.com/?p=43216",
+      "title": "Z.ai Introduces Loop Transformer Model to Compete with Larger Models",
+      "link": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-11-23T13:59:36.000Z",
+      "pubDate": "2026-11-23T15:13:03.000Z",
       "badgeColor": "slate",
-      "angle": "Superintelligence Concerns"
+      "angle": "Competitive Landscape"
     },
     {
-      "id": "version2-https://ing.dk/artikel/krypteringsprofessor-afblaeser-panik-efter-knaekket-gaade-men-en-opdagelse-vil-faa-ham-op-af-stolen",
-      "title": "AI Model Solves Riemann Hypothesis in Six Weeks, Calms Cryptography Professor’s Fears",
-      "link": "https://ing.dk/artikel/krypteringsprofessor-afblaeser-panik-efter-knaekket-gaade-men-en-opdagelse-vil-faa-ham-op-af-stolen",
-      "sourceName": "Version2 (Ingeniøren)",
-      "sourceId": "version2",
-      "pubDate": "2026-11-23T13:48:11.000Z",
-      "badgeColor": "red"
+      "id": "the-decoder-https://the-decoder.com/?p=43225",
+      "title": "Nvidia Board Reinstates Jensen Huang as CEO After Brief Interim Leadership",
+      "link": "https://the-decoder.com/nvidia-tried-life-without-jensen-huang-and-it-lasted-about-two-weeks/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-23T14:24:47.000Z",
+      "badgeColor": "slate"
     }
   ]
 }
