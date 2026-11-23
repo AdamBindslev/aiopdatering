@@ -1,8 +1,8 @@
 {
-  "headline": "GPT-6.2 Astra Proves Smoktunowicz's Gap Theorem, Challenges Proprietary AI Models",
-  "summary": "OpenAI's GPT-6.2 Astra has independently proven Smoktunowicz's gap theorem, a significant milestone that challenges the dominance of proprietary AI models. This achievement highlights the rapid advancement of open-weight models and their potential to democratize advanced AI capabilities.",
-  "whyItMatters": "It underscores the growing competitiveness of open-source AI models and could lead to broader adoption and innovation in the AI community.",
-  "synthesizedAt": "2026-11-23T13:25:27.447Z",
+  "headline": "OpenAI's GPT-6.2 Astra Solves Complex Math Theorem, Pioneers New Proof Strategy",
+  "summary": "OpenAI's GPT-6.2 Astra has achieved a significant milestone by independently proving Smoktunowicz's gap theorem, a feat no other AI has managed. This breakthrough highlights the potential of advanced AI in solving complex mathematical problems and may redefine the approach to mathematical formalization.",
+  "whyItMatters": "This achievement underscores the growing capabilities of AI in complex problem-solving and could lead to new strategies in mathematical research and formalization.",
+  "synthesizedAt": "2026-11-23T16:33:26.847Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=43085",
@@ -12,29 +12,9 @@
     "sourceId": "the-decoder",
     "pubDate": "2026-11-23T12:17:01.000Z",
     "badgeColor": "slate",
-    "angle": "Official Release"
+    "angle": "Critical Milestone"
   },
   "supportingStories": [
-    {
-      "id": "version2-https://ing.dk/artikel/forskere-slaar-koldt-vand-i-blodet-matematikgaade-er-ikke-officielt-loest-af-ai",
-      "title": "Researchers Cast Doubt on AI's Mastery of Mathematical Challenges",
-      "link": "https://ing.dk/artikel/forskere-slaar-koldt-vand-i-blodet-matematikgaade-er-ikke-officielt-loest-af-ai",
-      "sourceName": "Version2 (Ingeniøren)",
-      "sourceId": "version2",
-      "pubDate": "2026-11-23T10:34:48.000Z",
-      "badgeColor": "red",
-      "angle": "Critical Debate"
-    },
-    {
-      "id": "two-minute-papers-yt:video:1jPdehG3Hms",
-      "title": "Claude AI Solves Complex Black Hole Physics Problem",
-      "link": "https://www.youtube.com/watch?v=1jPdehG3Hms",
-      "sourceName": "Two Minute Papers",
-      "sourceId": "two-minute-papers",
-      "pubDate": "2026-11-23T07:37:52.000Z",
-      "badgeColor": "amber",
-      "angle": "Technical Deep Dive"
-    },
     {
       "id": "wes-roth-yt:video:f5_c0O_chy4",
       "title": "OpenAI Unveils Critical Metric Behind AI Breakthroughs",
@@ -42,7 +22,27 @@
       "sourceName": "Wes Roth",
       "sourceId": "wes-roth",
       "pubDate": "2026-11-23T07:35:14.000Z",
-      "badgeColor": "emerald"
+      "badgeColor": "emerald",
+      "angle": "Pivotal Metric"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=43215",
+      "title": "Meta's Alexandr Wang Warns AI Industry of Approaching Superintelligence After Riemann Hypothesis Breakthrough",
+      "link": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-23T13:59:36.000Z",
+      "badgeColor": "slate",
+      "angle": "Superintelligence Concerns"
+    },
+    {
+      "id": "version2-https://ing.dk/artikel/krypteringsprofessor-afblaeser-panik-efter-knaekket-gaade-men-en-opdagelse-vil-faa-ham-op-af-stolen",
+      "title": "AI Model Solves Riemann Hypothesis in Six Weeks, Calms Cryptography Professor’s Fears",
+      "link": "https://ing.dk/artikel/krypteringsprofessor-afblaeser-panik-efter-knaekket-gaade-men-en-opdagelse-vil-faa-ham-op-af-stolen",
+      "sourceName": "Version2 (Ingeniøren)",
+      "sourceId": "version2",
+      "pubDate": "2026-11-23T13:48:11.000Z",
+      "badgeColor": "red"
     }
   ]
 }
