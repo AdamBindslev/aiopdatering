@@ -1,39 +1,48 @@
 {
-  "headline": "AI Safety and Security Concerns Emerge as Top Industry Priority",
-  "summary": "Recent studies and reports highlight the growing vulnerabilities in AI systems and the need for enhanced safety measures. Security researchers have uncovered significant flaws in AI inference providers, while METR warns that AI advancements are outpacing safety testing capabilities. These issues are commanding industry attention due to their potential risks and the need for urgent action.",
-  "whyItMatters": "These concerns underscore the critical need for robust safety and security measures in AI development, impacting both developers and users globally.",
-  "synthesizedAt": "2026-11-23T00:56:39.064Z",
+  "headline": "AI Safety and Security Flaws Emerge as Top Concerns",
+  "summary": "Recent studies and reports highlight significant security vulnerabilities in AI inference services and the rapid advancements outpacing safety testing capabilities. These issues are raising critical concerns about the deployment and regulation of AI systems.",
+  "whyItMatters": "These challenges underscore the urgent need for improved security measures and regulatory frameworks to ensure the safe and responsible development and use of AI technologies.",
+  "synthesizedAt": "2026-11-23T04:03:26.342Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=43190",
-    "title": "AI Advancements Outpacing Safety Testing Capabilities, Warns METR",
-    "link": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+    "id": "the-decoder-https://the-decoder.com/?p=43182",
+    "title": "Security Researchers Uncover Major Vulnerabilities in Cheap AI Inference Providers",
+    "link": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-11-22T13:00:43.000Z",
+    "pubDate": "2026-11-22T12:07:56.000Z",
     "badgeColor": "slate",
-    "angle": "Safety Testing"
+    "angle": "Security Flaws"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=43182",
-      "title": "Security Researchers Uncover Major Vulnerabilities in Cheap AI Inference Providers",
-      "link": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+      "id": "the-decoder-https://the-decoder.com/?p=43190",
+      "title": "AI Advancements Outpacing Safety Testing Capabilities, Warns METR",
+      "link": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-11-22T12:07:56.000Z",
+      "pubDate": "2026-11-22T13:00:43.000Z",
       "badgeColor": "slate",
-      "angle": "Security Flaws"
+      "angle": "Safety Testing"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3191147",
-      "title": "Signal Restricts Screenshot Functionality Amid AI Surveillance Concerns",
-      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-21T21:37:10.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Response"
+      "id": "the-decoder-https://the-decoder.com/?p=43130",
+      "title": "GPT-6.2 Astra and Sol Offer Concise Responses but Lack Transparency Compared to Claude",
+      "link": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-22T09:41:37.000Z",
+      "badgeColor": "slate",
+      "angle": "Transparency Issues"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=43171",
+      "title": "Nvidia Researchers Argue for Limiting AI Context Windows to Cut Costs and Improve Efficiency",
+      "link": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-21T16:23:45.000Z",
+      "badgeColor": "slate"
     }
   ]
 }
