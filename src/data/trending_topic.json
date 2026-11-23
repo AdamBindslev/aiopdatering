@@ -1,8 +1,8 @@
 {
   "headline": "AI Safety and Security Concerns Emerge as Top Industry Priority",
-  "summary": "Multiple articles highlight the growing concerns over AI safety and security, from the rapid advancements outpacing testing capabilities to significant vulnerabilities in cheap AI inference providers. These issues are commanding industry attention due to their potential to impact widespread AI adoption and security.",
-  "whyItMatters": "These concerns underscore the need for robust safety measures and secure infrastructure, influencing the development and deployment of AI technologies.",
-  "synthesizedAt": "2026-11-22T21:49:52.910Z",
+  "summary": "Recent studies and reports highlight the growing vulnerabilities in AI systems and the need for enhanced safety measures. Security researchers have uncovered significant flaws in AI inference providers, while METR warns that AI advancements are outpacing safety testing capabilities. These issues are commanding industry attention due to their potential risks and the need for urgent action.",
+  "whyItMatters": "These concerns underscore the critical need for robust safety and security measures in AI development, impacting both developers and users globally.",
+  "synthesizedAt": "2026-11-23T00:56:39.064Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=43190",
@@ -12,7 +12,7 @@
     "sourceId": "the-decoder",
     "pubDate": "2026-11-22T13:00:43.000Z",
     "badgeColor": "slate",
-    "angle": "Safety Warning"
+    "angle": "Safety Testing"
   },
   "supportingStories": [
     {
@@ -26,23 +26,14 @@
       "angle": "Security Flaws"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3173132",
-      "title": "TechCrunch Lists Notable AI Agents for Text Messages Across Various Use Cases",
-      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3191147",
+      "title": "Signal Restricts Screenshot Functionality Amid AI Surveillance Concerns",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-21T17:00:00.000Z",
+      "pubDate": "2026-11-21T21:37:10.000Z",
       "badgeColor": "emerald",
-      "angle": "Industry Applications"
-    },
-    {
-      "id": "cognitive-revolution-yt:video:6bSzdXKkE2M",
-      "title": "Biden AI Advisors Discuss Global Security and Policy in New Book",
-      "link": "https://www.youtube.com/watch?v=6bSzdXKkE2M",
-      "sourceName": "The Cognitive Revolution",
-      "sourceId": "cognitive-revolution",
-      "pubDate": "2026-11-21T08:00:30.000Z",
-      "badgeColor": "teal"
+      "angle": "Industry Response"
     }
   ]
 }
