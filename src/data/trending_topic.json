@@ -1,48 +1,39 @@
 {
-  "headline": "AI Safety and Security Flaws Emerge as Top Concerns",
-  "summary": "Recent studies and reports highlight significant security vulnerabilities in AI inference services and the rapid advancements outpacing safety testing capabilities. These issues are raising critical concerns about the deployment and regulation of AI systems.",
-  "whyItMatters": "These challenges underscore the urgent need for improved security measures and regulatory frameworks to ensure the safe and responsible development and use of AI technologies.",
-  "synthesizedAt": "2026-11-23T04:03:26.342Z",
+  "headline": "Self-Evolving AI Scripts Accelerate EDA Scripting Efficiency",
+  "summary": "A new research paper on arXiv introduces self-evolving AI scripts for Electronic Design Automation (EDA), which promise to overcome scripting bottlenecks and improve efficiency. This development is gaining traction as it could significantly enhance the productivity of EDA workflows.",
+  "whyItMatters": "By automating and optimizing EDA scripting, self-evolving AI scripts can reduce development time and costs, driving innovation in semiconductor design.",
+  "synthesizedAt": "2026-11-23T07:16:21.553Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=43182",
-    "title": "Security Researchers Uncover Major Vulnerabilities in Cheap AI Inference Providers",
-    "link": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-22T12:07:56.000Z",
-    "badgeColor": "slate",
-    "angle": "Security Flaws"
+    "id": "arxiv-ai-oai:arXiv.org:2611.26912v1",
+    "title": "Self-Evolving AI Scripts Show Promise in Overcoming EDA Bottlenecks",
+    "link": "https://arxiv.org/abs/2611.26912",
+    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+    "sourceId": "arxiv-ai",
+    "pubDate": "2026-11-23T05:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=43190",
-      "title": "AI Advancements Outpacing Safety Testing Capabilities, Warns METR",
-      "link": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-22T13:00:43.000Z",
-      "badgeColor": "slate",
-      "angle": "Safety Testing"
+      "id": "arxiv-cl-oai:arXiv.org:2611.26841v1",
+      "title": "Weight-Space Programming Enables In-Context Learning and Competes with Fine-Tuning in Language Models",
+      "link": "https://arxiv.org/abs/2611.26841",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-11-23T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=43130",
-      "title": "GPT-6.2 Astra and Sol Offer Concise Responses but Lack Transparency Compared to Claude",
-      "link": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-22T09:41:37.000Z",
-      "badgeColor": "slate",
-      "angle": "Transparency Issues"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=43171",
-      "title": "Nvidia Researchers Argue for Limiting AI Context Windows to Cut Costs and Improve Efficiency",
-      "link": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-21T16:23:45.000Z",
-      "badgeColor": "slate"
+      "id": "arxiv-ai-oai:arXiv.org:2611.26910v1",
+      "title": "AstronautBench: A New Framework for Evaluating Agent Self-Improvement Across Episodes",
+      "link": "https://arxiv.org/abs/2611.26910",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-11-23T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Industry Analysis"
     }
   ]
 }
