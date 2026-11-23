@@ -1,20 +1,30 @@
 {
-  "headline": "Weight-Space Programming Enables In-Context Learning and Competes with Fine-Tuning",
-  "summary": "A recent study introduces weight-space programming, a novel technique allowing language models to read and rewrite their own weights in context, offering a competitive alternative to fine-tuning. This breakthrough could significantly enhance model adaptability and efficiency.",
-  "whyItMatters": "This method could revolutionize how language models are fine-tuned, making the process more efficient and adaptable, potentially reducing the need for extensive retraining.",
-  "synthesizedAt": "2026-11-23T10:19:26.369Z",
+  "headline": "GPT-6.2 Astra Proves Smoktunowicz's Gap Theorem, Challenges Proprietary AI Models",
+  "summary": "OpenAI's GPT-6.2 Astra has independently proven Smoktunowicz's gap theorem, a significant milestone that challenges the dominance of proprietary AI models. This achievement highlights the rapid advancement of open-weight models and their potential to democratize advanced AI capabilities.",
+  "whyItMatters": "It underscores the growing competitiveness of open-source AI models and could lead to broader adoption and innovation in the AI community.",
+  "synthesizedAt": "2026-11-23T13:25:27.447Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-cl-oai:arXiv.org:2611.26841v1",
-    "title": "Weight-Space Programming Enables In-Context Learning and Competes with Fine-Tuning in Language Models",
-    "link": "https://arxiv.org/abs/2611.26841",
-    "sourceName": "arXiv cs.CL (Sprog & LLM)",
-    "sourceId": "arxiv-cl",
-    "pubDate": "2026-11-23T05:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "Primary Source"
+    "id": "the-decoder-https://the-decoder.com/?p=43085",
+    "title": "GPT-6.2 Astra Solves Complex Math Theorem, Pioneers New Proof Strategy",
+    "link": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-23T12:17:01.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Release"
   },
   "supportingStories": [
+    {
+      "id": "version2-https://ing.dk/artikel/forskere-slaar-koldt-vand-i-blodet-matematikgaade-er-ikke-officielt-loest-af-ai",
+      "title": "Researchers Cast Doubt on AI's Mastery of Mathematical Challenges",
+      "link": "https://ing.dk/artikel/forskere-slaar-koldt-vand-i-blodet-matematikgaade-er-ikke-officielt-loest-af-ai",
+      "sourceName": "Version2 (Ingeniøren)",
+      "sourceId": "version2",
+      "pubDate": "2026-11-23T10:34:48.000Z",
+      "badgeColor": "red",
+      "angle": "Critical Debate"
+    },
     {
       "id": "two-minute-papers-yt:video:1jPdehG3Hms",
       "title": "Claude AI Solves Complex Black Hole Physics Problem",
@@ -23,17 +33,16 @@
       "sourceId": "two-minute-papers",
       "pubDate": "2026-11-23T07:37:52.000Z",
       "badgeColor": "amber",
-      "angle": "Official Release"
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2611.26833v1",
-      "title": "New Research Proposes Domain and Task Adapter Scaling for Enhanced Question Answering in Technical Documents",
-      "link": "https://arxiv.org/abs/2611.26833",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-11-23T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
+      "id": "wes-roth-yt:video:f5_c0O_chy4",
+      "title": "OpenAI Unveils Critical Metric Behind AI Breakthroughs",
+      "link": "https://www.youtube.com/watch?v=f5_c0O_chy4",
+      "sourceName": "Wes Roth",
+      "sourceId": "wes-roth",
+      "pubDate": "2026-11-23T07:35:14.000Z",
+      "badgeColor": "emerald"
     }
   ]
 }
