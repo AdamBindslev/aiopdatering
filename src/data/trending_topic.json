@@ -1,39 +1,58 @@
 {
-  "headline": "Anthropic's MCP SDK Milestone Signals Broad AI Agent Adoption",
-  "summary": "Anthropic has surpassed 700 million monthly MCP SDK downloads, underscoring the growing deployment of autonomous AI agents. This milestone highlights the increasing importance of open standards in AI development and deployment.",
-  "whyItMatters": "It underscores the shift towards more accessible and interoperable AI tools, which could accelerate the adoption of AI agents across various industries.",
-  "synthesizedAt": "2026-11-24T20:33:40.824Z",
+  "headline": "ChatGPT's Daily Planning and Scheduling Features Transform User Experience",
+  "summary": "ChatGPT has introduced a series of new features that significantly enhance daily planning and scheduling, including localized information, photo analysis, and calendar integration. These updates are driving user engagement and redefining how AI assistants handle real-world tasks.",
+  "whyItMatters": "These improvements highlight ChatGPT's growing capability to handle complex, everyday tasks, potentially setting new standards for AI assistants and user interaction.",
+  "synthesizedAt": "2026-11-24T23:41:11.724Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=43279",
-    "title": "Anthropic Surpasses 700 Million Monthly MCP SDK Downloads, Enhances Protocol for Autonomous AI Agents",
-    "link": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-24T19:23:41.000Z",
-    "badgeColor": "slate",
-    "angle": "Industry Analysis"
+    "id": "openai-channel-yt:video:4MFBNFyBmQg",
+    "title": "ChatGPT Enhances Daily Planning with Localized Information and Booking Assistance",
+    "link": "https://www.youtube.com/watch?v=4MFBNFyBmQg",
+    "sourceName": "OpenAI (YouTube)",
+    "sourceId": "openai-channel",
+    "pubDate": "2026-11-24T17:14:01.000Z",
+    "badgeColor": "emerald",
+    "angle": "New Feature Launch"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3191971",
-      "title": "Anthropic Shares Plunge Below IPO Price, Casting Doubt on AI Startup Valuations",
-      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-24T18:30:42.000Z",
+      "id": "openai-channel-yt:video:2DUJ2whBJRM",
+      "title": "ChatGPT Enhances Visual Recognition Capabilities with Photo Analysis Feature",
+      "link": "https://www.youtube.com/watch?v=2DUJ2whBJRM",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-11-24T17:14:03.000Z",
       "badgeColor": "emerald",
-      "angle": "Stock Market Impact"
+      "angle": "Photo Analysis"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=43270",
-      "title": "Novartis CEO Narasimhan Debunks AI 'Cure-All' Claims, Emphasizes Drug Development Acceleration",
-      "link": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-24T18:01:55.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Critique"
+      "id": "openai-channel-yt:video:Faoam45LT-Q",
+      "title": "ChatGPT Integrates Calendar Synchronization for Flexible Scheduling",
+      "link": "https://www.youtube.com/watch?v=Faoam45LT-Q",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-11-24T17:13:58.000Z",
+      "badgeColor": "emerald",
+      "angle": "Calendar Integration"
+    },
+    {
+      "id": "openai-channel-yt:video:DLV3XRdJAog",
+      "title": "ChatGPT Enhances Calendar Integration for Flexible Scheduling",
+      "link": "https://www.youtube.com/watch?v=DLV3XRdJAog",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-11-24T17:13:55.000Z",
+      "badgeColor": "emerald",
+      "angle": "Calendar Synchronization"
+    },
+    {
+      "id": "openai-channel-yt:video:bGiFYYrmnAg",
+      "title": "ChatGPT Enables Spontaneous Adventures and Flexible Planning in Daily Life",
+      "link": "https://www.youtube.com/watch?v=bGiFYYrmnAg",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-11-24T17:09:11.000Z",
+      "badgeColor": "emerald"
     }
   ]
 }
