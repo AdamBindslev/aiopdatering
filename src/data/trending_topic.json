@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Source AI Models Gain Ground in Developer Ecosystem",
-  "summary": "A surge in open-source AI models, such as GLM-5.4 and Qwen 3.5 4B, is reshaping the developer landscape, offering enhanced capabilities and reducing reliance on proprietary platforms. This trend is driving innovation and democratizing access to advanced AI technologies.",
-  "whyItMatters": "It broadens access to cutting-edge AI models, fostering a more competitive and diverse ecosystem that can challenge established proprietary solutions.",
-  "synthesizedAt": "2026-11-24T08:05:16.993Z",
+  "headline": "Open-Source AI Models Pave Way for Local Deployment and Competitive Pricing",
+  "summary": "A surge in open-source AI models, such as GLM-5.4 and Qwen 3.5 4B, is driving local AI agent deployment and putting pressure on proprietary platforms. These models offer advanced capabilities, reducing reliance on expensive closed APIs.",
+  "whyItMatters": "This trend broadens access to advanced AI capabilities, potentially democratizing AI development and reducing costs for developers and organizations.",
+  "synthesizedAt": "2026-11-24T11:11:17.807Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "simon-willison-https://simonwillison.net/2026/Nov/23/glm-54/",
@@ -12,7 +12,7 @@
     "sourceId": "simon-willison",
     "pubDate": "2026-11-23T23:40:49.000Z",
     "badgeColor": "green",
-    "angle": "New Release"
+    "angle": "Primary Source"
   },
   "supportingStories": [
     {
@@ -22,7 +22,8 @@
       "sourceName": "LessWrong (Curated AI)",
       "sourceId": "lesswrong-ai",
       "pubDate": "2026-11-24T07:43:49.000Z",
-      "badgeColor": "emerald"
+      "badgeColor": "emerald",
+      "angle": "Industry Analysis"
     },
     {
       "id": "assembly-ai-yt:video:67Kk_y6c-Ww",
@@ -32,7 +33,7 @@
       "sourceId": "assembly-ai",
       "pubDate": "2026-11-23T23:00:04.000Z",
       "badgeColor": "blue",
-      "angle": "Performance Benchmark"
+      "angle": "Technical Deep Dive"
     },
     {
       "id": "assembly-ai-yt:video:Gr0S7tgtesc",
@@ -42,7 +43,7 @@
       "sourceId": "assembly-ai",
       "pubDate": "2026-11-23T22:31:37.000Z",
       "badgeColor": "blue",
-      "angle": "Open-Source Initiative"
+      "angle": "Hands-on Benchmark"
     }
   ]
 }
