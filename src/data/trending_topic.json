@@ -1,59 +1,39 @@
 {
-  "headline": "ChatGPT Expands Capabilities with Voice Mode and Enhanced Features",
-  "summary": "OpenAI has introduced ChatGPT Voice Mode and a series of updates that enhance the AI's functionality, including visual recognition, calendar integration, and daily planning. These advancements are driving user engagement and expanding the AI's utility in daily life.",
-  "whyItMatters": "These updates demonstrate OpenAI's commitment to improving ChatGPT's capabilities, making it a more versatile tool for personal and professional use.",
-  "synthesizedAt": "2026-11-24T17:28:29.293Z",
+  "headline": "Anthropic's MCP SDK Milestone Signals Broad AI Agent Adoption",
+  "summary": "Anthropic has surpassed 700 million monthly MCP SDK downloads, underscoring the growing deployment of autonomous AI agents. This milestone highlights the increasing importance of open standards in AI development and deployment.",
+  "whyItMatters": "It underscores the shift towards more accessible and interoperable AI tools, which could accelerate the adoption of AI agents across various industries.",
+  "synthesizedAt": "2026-11-24T20:33:40.824Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-channel-yt:video:2DUJ2whBJRM",
-    "title": "ChatGPT Enhances Visual Recognition Capabilities with Photo Analysis Feature",
-    "link": "https://www.youtube.com/watch?v=2DUJ2whBJRM",
-    "sourceName": "OpenAI (YouTube)",
-    "sourceId": "openai-channel",
-    "pubDate": "2026-11-24T17:14:03.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Release"
+    "id": "the-decoder-https://the-decoder.com/?p=43279",
+    "title": "Anthropic Surpasses 700 Million Monthly MCP SDK Downloads, Enhances Protocol for Autonomous AI Agents",
+    "link": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-24T19:23:41.000Z",
+    "badgeColor": "slate",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "openai-channel-yt:video:4MFBNFyBmQg",
-      "title": "ChatGPT Enhances Daily Planning with Localized Information and Booking Assistance",
-      "link": "https://www.youtube.com/watch?v=4MFBNFyBmQg",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-24T17:14:01.000Z",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3191971",
+      "title": "Anthropic Shares Plunge Below IPO Price, Casting Doubt on AI Startup Valuations",
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-24T18:30:42.000Z",
       "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
+      "angle": "Stock Market Impact"
     },
     {
-      "id": "openai-channel-yt:video:Faoam45LT-Q",
-      "title": "ChatGPT Integrates Calendar Synchronization for Flexible Scheduling",
-      "link": "https://www.youtube.com/watch?v=Faoam45LT-Q",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-24T17:13:58.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "openai-channel-yt:video:bGiFYYrmnAg",
-      "title": "ChatGPT Enables Spontaneous Adventures and Flexible Planning in Daily Life",
-      "link": "https://www.youtube.com/watch?v=bGiFYYrmnAg",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-24T17:09:11.000Z",
-      "badgeColor": "emerald",
-      "angle": "User Experience"
-    },
-    {
-      "id": "openai-channel-yt:video:5p8CdiQGqV4",
-      "title": "OpenAI Unveils ChatGPT Voice Mode: A Voice-Activated AI Assistant",
-      "link": "https://www.youtube.com/watch?v=5p8CdiQGqV4",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-24T13:14:46.000Z",
-      "badgeColor": "emerald",
-      "angle": "Official Release"
+      "id": "the-decoder-https://the-decoder.com/?p=43270",
+      "title": "Novartis CEO Narasimhan Debunks AI 'Cure-All' Claims, Emphasizes Drug Development Acceleration",
+      "link": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-24T18:01:55.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Critique"
     }
   ]
 }
