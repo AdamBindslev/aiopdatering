@@ -139183,5 +139183,113 @@
     "whyItMatters": "These moves could enhance the competitive landscape in AI research and development, potentially leading to more collaborative efforts and advancements in model performance and efficiency.",
     "enrichedAt": "2026-11-24T04:57:22.493Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "lesswrong-ai-dBEDh2WeZfhuiDnJ5": {
+    "title": "Proposal for Pacing AI Development via Compute Reallocation",
+    "summary": "LessWrong has published a detailed proposal for managing the pace of AI development through the strategic reallocation of computational resources. The initiative aims to ensure ethical and controlled advancement of AI technologies.",
+    "danishTitle": "Proposal for Pacing AI Development via Compute Reallocation",
+    "danishSummary": "LessWrong has published a detailed proposal for managing the pace of AI development through the strategic reallocation of computational resources. The initiative aims to ensure ethical and controlled advancement of AI technologies.",
+    "whyItMatters": "This proposal could provide a framework for responsible AI development, helping to mitigate risks and ensure that AI progress aligns with societal values and safety standards.",
+    "enrichedAt": "2026-11-24T08:04:13.421Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.lesswrong.com/posts/dbedh2wezfhuidnj5/pacing-ai-via-compute-reallocation": {
+    "title": "Proposal for Pacing AI Development via Compute Reallocation",
+    "summary": "LessWrong has published a detailed proposal for managing the pace of AI development through the strategic reallocation of computational resources. The initiative aims to ensure ethical and controlled advancement of AI technologies.",
+    "danishTitle": "Proposal for Pacing AI Development via Compute Reallocation",
+    "danishSummary": "LessWrong has published a detailed proposal for managing the pace of AI development through the strategic reallocation of computational resources. The initiative aims to ensure ethical and controlled advancement of AI technologies.",
+    "whyItMatters": "This proposal could provide a framework for responsible AI development, helping to mitigate risks and ensure that AI progress aligns with societal values and safety standards.",
+    "enrichedAt": "2026-11-24T08:04:13.421Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.lesswrong.com/posts/dBEDh2WeZfhuiDnJ5/pacing-ai-via-compute-reallocation": {
+    "title": "Proposal for Pacing AI Development via Compute Reallocation",
+    "summary": "LessWrong has published a detailed proposal for managing the pace of AI development through the strategic reallocation of computational resources. The initiative aims to ensure ethical and controlled advancement of AI technologies.",
+    "danishTitle": "Proposal for Pacing AI Development via Compute Reallocation",
+    "danishSummary": "LessWrong has published a detailed proposal for managing the pace of AI development through the strategic reallocation of computational resources. The initiative aims to ensure ethical and controlled advancement of AI technologies.",
+    "whyItMatters": "This proposal could provide a framework for responsible AI development, helping to mitigate risks and ensure that AI progress aligns with societal values and safety standards.",
+    "enrichedAt": "2026-11-24T08:04:13.421Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "aws-ml-76b2285b501c3518d9f413fc227aa9b97a5e6b72": {
+    "title": "Amazon Bedrock Launches Trusted Access API with Anthropic’s Enterprise Safeguards",
+    "summary": "Amazon Bedrock has introduced a trusted access program API, enabling organizations to discover, request, and enroll in model provider programs, with initial offerings from Anthropic including Enterprise Frontier Safeguards and Enterprise Data Controls.",
+    "danishTitle": "Amazon Bedrock Launches Trusted Access API with Anthropic’s Enterprise Safeguards",
+    "danishSummary": "Amazon Bedrock has introduced a trusted access program API, enabling organizations to discover, request, and enroll in model provider programs, with initial offerings from Anthropic including Enterprise Frontier Safeguards and Enterprise Data Controls.",
+    "whyItMatters": "This initiative enhances security and compliance for AI model usage, providing enterprises with robust tools to manage and control access to AI services, thereby mitigating risks and ensuring data integrity.",
+    "enrichedAt": "2026-11-24T08:04:23.279Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls": {
+    "title": "Amazon Bedrock Launches Trusted Access API with Anthropic’s Enterprise Safeguards",
+    "summary": "Amazon Bedrock has introduced a trusted access program API, enabling organizations to discover, request, and enroll in model provider programs, with initial offerings from Anthropic including Enterprise Frontier Safeguards and Enterprise Data Controls.",
+    "danishTitle": "Amazon Bedrock Launches Trusted Access API with Anthropic’s Enterprise Safeguards",
+    "danishSummary": "Amazon Bedrock has introduced a trusted access program API, enabling organizations to discover, request, and enroll in model provider programs, with initial offerings from Anthropic including Enterprise Frontier Safeguards and Enterprise Data Controls.",
+    "whyItMatters": "This initiative enhances security and compliance for AI model usage, providing enterprises with robust tools to manage and control access to AI services, thereby mitigating risks and ensuring data integrity.",
+    "enrichedAt": "2026-11-24T08:04:23.279Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/": {
+    "title": "Amazon Bedrock Launches Trusted Access API with Anthropic’s Enterprise Safeguards",
+    "summary": "Amazon Bedrock has introduced a trusted access program API, enabling organizations to discover, request, and enroll in model provider programs, with initial offerings from Anthropic including Enterprise Frontier Safeguards and Enterprise Data Controls.",
+    "danishTitle": "Amazon Bedrock Launches Trusted Access API with Anthropic’s Enterprise Safeguards",
+    "danishSummary": "Amazon Bedrock has introduced a trusted access program API, enabling organizations to discover, request, and enroll in model provider programs, with initial offerings from Anthropic including Enterprise Frontier Safeguards and Enterprise Data Controls.",
+    "whyItMatters": "This initiative enhances security and compliance for AI model usage, providing enterprises with robust tools to manage and control access to AI services, thereby mitigating risks and ensuring data integrity.",
+    "enrichedAt": "2026-11-24T08:04:23.279Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Nov/24/datasette-charts/": {
+    "title": "datasette-charts 0.2a0 Adds Chat Integration for Dynamic Chart Generation",
+    "summary": "Simon Willison has released datasette-charts 0.2a0, a new charting plugin for Datasette that now integrates with Datasette Agent. This update allows users to request charts via chat, which are then generated using the underlying data.",
+    "danishTitle": "datasette-charts 0.2a0 Adds Chat Integration for Dynamic Chart Generation",
+    "danishSummary": "Simon Willison has released datasette-charts 0.2a0, a new charting plugin for Datasette that now integrates with Datasette Agent. This update allows users to request charts via chat, which are then generated using the underlying data.",
+    "whyItMatters": "The integration with Datasette Agent enhances user interaction and data visualization capabilities, making it easier for non-technical users to access and understand complex data through natural language commands.",
+    "enrichedAt": "2026-11-24T08:04:33.788Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/nov/24/datasette-charts": {
+    "title": "datasette-charts 0.2a0 Adds Chat Integration for Dynamic Chart Generation",
+    "summary": "Simon Willison has released datasette-charts 0.2a0, a new charting plugin for Datasette that now integrates with Datasette Agent. This update allows users to request charts via chat, which are then generated using the underlying data.",
+    "danishTitle": "datasette-charts 0.2a0 Adds Chat Integration for Dynamic Chart Generation",
+    "danishSummary": "Simon Willison has released datasette-charts 0.2a0, a new charting plugin for Datasette that now integrates with Datasette Agent. This update allows users to request charts via chat, which are then generated using the underlying data.",
+    "whyItMatters": "The integration with Datasette Agent enhances user interaction and data visualization capabilities, making it easier for non-technical users to access and understand complex data through natural language commands.",
+    "enrichedAt": "2026-11-24T08:04:33.788Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Nov/24/datasette-charts/": {
+    "title": "datasette-charts 0.2a0 Adds Chat Integration for Dynamic Chart Generation",
+    "summary": "Simon Willison has released datasette-charts 0.2a0, a new charting plugin for Datasette that now integrates with Datasette Agent. This update allows users to request charts via chat, which are then generated using the underlying data.",
+    "danishTitle": "datasette-charts 0.2a0 Adds Chat Integration for Dynamic Chart Generation",
+    "danishSummary": "Simon Willison has released datasette-charts 0.2a0, a new charting plugin for Datasette that now integrates with Datasette Agent. This update allows users to request charts via chat, which are then generated using the underlying data.",
+    "whyItMatters": "The integration with Datasette Agent enhances user interaction and data visualization capabilities, making it easier for non-technical users to access and understand complex data through natural language commands.",
+    "enrichedAt": "2026-11-24T08:04:33.788Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "simon-willison-https://simonwillison.net/2026/Nov/24/datasette-agent/": {
+    "title": "Datasette Agent 0.7a1 Updates Chat Interface with Enhanced Navigation",
+    "summary": "Simon Willison has released an update to Datasette Agent, version 0.7a1, which introduces an iframe side panel for chat sessions that can navigate to different pages via fragment hashes. This update enhances the user experience by providing more flexible and deep-linking navigation options.",
+    "danishTitle": "Datasette Agent 0.7a1 Updates Chat Interface with Enhanced Navigation",
+    "danishSummary": "Simon Willison has released an update to Datasette Agent, version 0.7a1, which introduces an iframe side panel for chat sessions that can navigate to different pages via fragment hashes. This update enhances the user experience by providing more flexible and deep-linking navigation options.",
+    "whyItMatters": "The improved navigation capabilities in Datasette Agent make it more user-friendly and versatile, potentially boosting adoption in data management and analysis workflows.",
+    "enrichedAt": "2026-11-24T08:04:43.729Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/nov/24/datasette-agent": {
+    "title": "Datasette Agent 0.7a1 Updates Chat Interface with Enhanced Navigation",
+    "summary": "Simon Willison has released an update to Datasette Agent, version 0.7a1, which introduces an iframe side panel for chat sessions that can navigate to different pages via fragment hashes. This update enhances the user experience by providing more flexible and deep-linking navigation options.",
+    "danishTitle": "Datasette Agent 0.7a1 Updates Chat Interface with Enhanced Navigation",
+    "danishSummary": "Simon Willison has released an update to Datasette Agent, version 0.7a1, which introduces an iframe side panel for chat sessions that can navigate to different pages via fragment hashes. This update enhances the user experience by providing more flexible and deep-linking navigation options.",
+    "whyItMatters": "The improved navigation capabilities in Datasette Agent make it more user-friendly and versatile, potentially boosting adoption in data management and analysis workflows.",
+    "enrichedAt": "2026-11-24T08:04:43.729Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://simonwillison.net/2026/Nov/24/datasette-agent/": {
+    "title": "Datasette Agent 0.7a1 Updates Chat Interface with Enhanced Navigation",
+    "summary": "Simon Willison has released an update to Datasette Agent, version 0.7a1, which introduces an iframe side panel for chat sessions that can navigate to different pages via fragment hashes. This update enhances the user experience by providing more flexible and deep-linking navigation options.",
+    "danishTitle": "Datasette Agent 0.7a1 Updates Chat Interface with Enhanced Navigation",
+    "danishSummary": "Simon Willison has released an update to Datasette Agent, version 0.7a1, which introduces an iframe side panel for chat sessions that can navigate to different pages via fragment hashes. This update enhances the user experience by providing more flexible and deep-linking navigation options.",
+    "whyItMatters": "The improved navigation capabilities in Datasette Agent make it more user-friendly and versatile, potentially boosting adoption in data management and analysis workflows.",
+    "enrichedAt": "2026-11-24T08:04:43.729Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }

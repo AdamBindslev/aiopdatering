@@ -1,29 +1,48 @@
 {
-  "headline": "OpenAI's GPT-6 Cyber Demonstrates Advanced Security Capabilities",
-  "summary": "OpenAI has showcased GPT-6 Cyber, an advanced AI model that can validate and generate patches for Linux kernel vulnerabilities, highlighting its potential to enhance cybersecurity. This development is commanding industry attention due to its immediate practical applications and implications for security practices.",
-  "whyItMatters": "It underscores the growing role of AI in cybersecurity, potentially revolutionizing how vulnerabilities are identified and addressed.",
-  "synthesizedAt": "2026-11-24T04:57:53.898Z",
+  "headline": "Open-Source AI Models Gain Ground in Developer Ecosystem",
+  "summary": "A surge in open-source AI models, such as GLM-5.4 and Qwen 3.5 4B, is reshaping the developer landscape, offering enhanced capabilities and reducing reliance on proprietary platforms. This trend is driving innovation and democratizing access to advanced AI technologies.",
+  "whyItMatters": "It broadens access to cutting-edge AI models, fostering a more competitive and diverse ecosystem that can challenge established proprietary solutions.",
+  "synthesizedAt": "2026-11-24T08:05:16.993Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "openai-channel-yt:video:w-ltt0Np2cY",
-    "title": "GPT-6 Cyber Demonstrates Enhanced Vulnerability Validation and Patch Generation for Linux Kernel",
-    "link": "https://www.youtube.com/shorts/w-ltt0Np2cY",
-    "sourceName": "OpenAI (YouTube)",
-    "sourceId": "openai-channel",
-    "pubDate": "2026-11-23T20:03:11.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Release"
+    "id": "simon-willison-https://simonwillison.net/2026/Nov/23/glm-54/",
+    "title": "Z.ai Unveils GLM-5.4 with Loop Transformer Architecture for Enhanced Generalized Coding",
+    "link": "https://simonwillison.net/2026/Nov/23/glm-54/",
+    "sourceName": "Simon Willison",
+    "sourceId": "simon-willison",
+    "pubDate": "2026-11-23T23:40:49.000Z",
+    "badgeColor": "green",
+    "angle": "New Release"
   },
   "supportingStories": [
     {
-      "id": "openai-channel-yt:video:MpsO8Ds8uyo",
-      "title": "GPT-6 Cyber Demonstrates Enhanced Vulnerability Analysis and Patch Generation for Linux Kernel",
-      "link": "https://www.youtube.com/watch?v=MpsO8Ds8uyo",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-23T20:02:15.000Z",
-      "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
+      "id": "lesswrong-ai-dBEDh2WeZfhuiDnJ5",
+      "title": "Proposal for Pacing AI Development via Compute Reallocation",
+      "link": "https://www.lesswrong.com/posts/dBEDh2WeZfhuiDnJ5/pacing-ai-via-compute-reallocation",
+      "sourceName": "LessWrong (Curated AI)",
+      "sourceId": "lesswrong-ai",
+      "pubDate": "2026-11-24T07:43:49.000Z",
+      "badgeColor": "emerald"
+    },
+    {
+      "id": "assembly-ai-yt:video:67Kk_y6c-Ww",
+      "title": "Blurt: Open-Source Dictation App Outperforms Typing by 300%",
+      "link": "https://www.youtube.com/shorts/67Kk_y6c-Ww",
+      "sourceName": "AssemblyAI",
+      "sourceId": "assembly-ai",
+      "pubDate": "2026-11-23T23:00:04.000Z",
+      "badgeColor": "blue",
+      "angle": "Performance Benchmark"
+    },
+    {
+      "id": "assembly-ai-yt:video:Gr0S7tgtesc",
+      "title": "AssemblyAI Launches Open-Source Voice AI Model for Enhanced Dictation Capabilities",
+      "link": "https://www.youtube.com/watch?v=Gr0S7tgtesc",
+      "sourceName": "AssemblyAI",
+      "sourceId": "assembly-ai",
+      "pubDate": "2026-11-23T22:31:37.000Z",
+      "badgeColor": "blue",
+      "angle": "Open-Source Initiative"
     }
   ]
 }
