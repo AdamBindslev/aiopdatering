@@ -1,38 +1,28 @@
 {
-  "headline": "Open-Source AI Models Reshape Industry Landscape",
-  "summary": "A surge in open-source AI models is challenging proprietary systems, driving innovation and democratizing access to advanced capabilities. This shift is particularly evident in tools like Claude Ship, which empower developers with AI agents, and smaller, more efficient models that enhance performance.",
-  "whyItMatters": "It broadens access to advanced AI capabilities, reduces costs, and fosters a more competitive and collaborative AI ecosystem.",
-  "synthesizedAt": "2026-11-23T22:47:34.707Z",
+  "headline": "OpenAI's GPT-6 Cyber Leads in Linux Kernel Security, Accelerating AI-Driven Vulnerability Analysis",
+  "summary": "OpenAI's GPT-6 Cyber is demonstrating exceptional capabilities in validating and generating patches for Linux kernel vulnerabilities, setting a new standard for AI-driven security. This advancement is driving industry momentum towards more efficient and automated security solutions.",
+  "whyItMatters": "It underscores the growing role of AI in enhancing cybersecurity, potentially revolutionizing how security vulnerabilities are identified and addressed in critical systems.",
+  "synthesizedAt": "2026-11-24T01:52:36.015Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3191583",
-    "title": "Anthropic Launches Claude Ship, Empowering AI Agents to Review and Approve Code Changes",
-    "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-11-23T22:05:50.000Z",
+    "id": "openai-channel-yt:video:w-ltt0Np2cY",
+    "title": "GPT-6 Cyber Demonstrates Enhanced Vulnerability Validation and Patch Generation for Linux Kernel",
+    "link": "https://www.youtube.com/shorts/w-ltt0Np2cY",
+    "sourceName": "OpenAI (YouTube)",
+    "sourceId": "openai-channel",
+    "pubDate": "2026-11-23T20:03:11.000Z",
     "badgeColor": "emerald",
-    "angle": "Official Release"
+    "angle": "Technical Deep Dive"
   },
   "supportingStories": [
     {
-      "id": "cognitive-revolution-yt:video:o2-DrDRIaY8",
-      "title": "AI for Cash Aid, Smaller Models with Enhanced Performance | AI:AM",
-      "link": "https://www.youtube.com/watch?v=o2-DrDRIaY8",
-      "sourceName": "The Cognitive Revolution",
-      "sourceId": "cognitive-revolution",
-      "pubDate": "2026-11-23T21:26:08.000Z",
-      "badgeColor": "teal",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=43242",
-      "title": "OpenAI Upgrades ChatGPT with GPT-6.2 Sol for Enhanced Image Understanding and Complex Query Handling",
-      "link": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-23T20:39:18.000Z",
-      "badgeColor": "slate",
+      "id": "openai-channel-yt:video:MpsO8Ds8uyo",
+      "title": "GPT-6 Cyber Demonstrates Enhanced Vulnerability Analysis and Patch Generation for Linux Kernel",
+      "link": "https://www.youtube.com/watch?v=MpsO8Ds8uyo",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-11-23T20:02:15.000Z",
+      "badgeColor": "emerald",
       "angle": "Industry Analysis"
     }
   ]
