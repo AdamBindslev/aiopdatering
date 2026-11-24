@@ -1,49 +1,39 @@
 {
-  "headline": "Open-Source AI Models Pave Way for Local Deployment and Competitive Pricing",
-  "summary": "A surge in open-source AI models, such as GLM-5.4 and Qwen 3.5 4B, is driving local AI agent deployment and putting pressure on proprietary platforms. These models offer advanced capabilities, reducing reliance on expensive closed APIs.",
-  "whyItMatters": "This trend broadens access to advanced AI capabilities, potentially democratizing AI development and reducing costs for developers and organizations.",
-  "synthesizedAt": "2026-11-24T11:11:17.807Z",
+  "headline": "AI Agents Automate Code Review and Approval with Claude Ship",
+  "summary": "Anthropic has launched Claude Ship, a suite of tools enabling AI agents to autonomously review, correct, and approve code changes, marking a significant step in automating software development processes and enhancing developer productivity.",
+  "whyItMatters": "This advancement could revolutionize code review workflows, reduce human intervention, and accelerate software development cycles, impacting the entire tech industry.",
+  "synthesizedAt": "2026-11-24T14:19:41.919Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "simon-willison-https://simonwillison.net/2026/Nov/23/glm-54/",
-    "title": "Z.ai Unveils GLM-5.4 with Loop Transformer Architecture for Enhanced Generalized Coding",
-    "link": "https://simonwillison.net/2026/Nov/23/glm-54/",
-    "sourceName": "Simon Willison",
-    "sourceId": "simon-willison",
-    "pubDate": "2026-11-23T23:40:49.000Z",
-    "badgeColor": "green",
-    "angle": "Primary Source"
+    "id": "the-decoder-https://the-decoder.com/?p=43253",
+    "title": "Anthropic Launches Claude Ship: AI Agents Automate Code Review and Approval",
+    "link": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-24T11:26:23.000Z",
+    "badgeColor": "slate",
+    "angle": "Official Launch"
   },
   "supportingStories": [
     {
-      "id": "lesswrong-ai-dBEDh2WeZfhuiDnJ5",
-      "title": "Proposal for Pacing AI Development via Compute Reallocation",
-      "link": "https://www.lesswrong.com/posts/dBEDh2WeZfhuiDnJ5/pacing-ai-via-compute-reallocation",
-      "sourceName": "LessWrong (Curated AI)",
-      "sourceId": "lesswrong-ai",
-      "pubDate": "2026-11-24T07:43:49.000Z",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3191583",
+      "title": "Anthropic Launches Claude Ship, Empowering AI Agents to Review and Approve Code Changes",
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-23T22:05:50.000Z",
       "badgeColor": "emerald",
       "angle": "Industry Analysis"
     },
     {
-      "id": "assembly-ai-yt:video:67Kk_y6c-Ww",
-      "title": "Blurt: Open-Source Dictation App Outperforms Typing by 300%",
-      "link": "https://www.youtube.com/shorts/67Kk_y6c-Ww",
-      "sourceName": "AssemblyAI",
-      "sourceId": "assembly-ai",
-      "pubDate": "2026-11-23T23:00:04.000Z",
-      "badgeColor": "blue",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "assembly-ai-yt:video:Gr0S7tgtesc",
-      "title": "AssemblyAI Launches Open-Source Voice AI Model for Enhanced Dictation Capabilities",
-      "link": "https://www.youtube.com/watch?v=Gr0S7tgtesc",
-      "sourceName": "AssemblyAI",
-      "sourceId": "assembly-ai",
-      "pubDate": "2026-11-23T22:31:37.000Z",
-      "badgeColor": "blue",
-      "angle": "Hands-on Benchmark"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3191460",
+      "title": "Supertake Secures $20M to Deploy AI Agents for Market Prediction-Driven Investments",
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-23T22:02:05.000Z",
+      "badgeColor": "emerald",
+      "angle": "Market Impact"
     }
   ]
 }
