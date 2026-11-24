@@ -1,39 +1,59 @@
 {
-  "headline": "AI Agents Automate Code Review and Approval with Claude Ship",
-  "summary": "Anthropic has launched Claude Ship, a suite of tools enabling AI agents to autonomously review, correct, and approve code changes, marking a significant step in automating software development processes and enhancing developer productivity.",
-  "whyItMatters": "This advancement could revolutionize code review workflows, reduce human intervention, and accelerate software development cycles, impacting the entire tech industry.",
-  "synthesizedAt": "2026-11-24T14:19:41.919Z",
+  "headline": "ChatGPT Expands Capabilities with Voice Mode and Enhanced Features",
+  "summary": "OpenAI has introduced ChatGPT Voice Mode and a series of updates that enhance the AI's functionality, including visual recognition, calendar integration, and daily planning. These advancements are driving user engagement and expanding the AI's utility in daily life.",
+  "whyItMatters": "These updates demonstrate OpenAI's commitment to improving ChatGPT's capabilities, making it a more versatile tool for personal and professional use.",
+  "synthesizedAt": "2026-11-24T17:28:29.293Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=43253",
-    "title": "Anthropic Launches Claude Ship: AI Agents Automate Code Review and Approval",
-    "link": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-24T11:26:23.000Z",
-    "badgeColor": "slate",
-    "angle": "Official Launch"
+    "id": "openai-channel-yt:video:2DUJ2whBJRM",
+    "title": "ChatGPT Enhances Visual Recognition Capabilities with Photo Analysis Feature",
+    "link": "https://www.youtube.com/watch?v=2DUJ2whBJRM",
+    "sourceName": "OpenAI (YouTube)",
+    "sourceId": "openai-channel",
+    "pubDate": "2026-11-24T17:14:03.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3191583",
-      "title": "Anthropic Launches Claude Ship, Empowering AI Agents to Review and Approve Code Changes",
-      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-23T22:05:50.000Z",
+      "id": "openai-channel-yt:video:4MFBNFyBmQg",
+      "title": "ChatGPT Enhances Daily Planning with Localized Information and Booking Assistance",
+      "link": "https://www.youtube.com/watch?v=4MFBNFyBmQg",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-11-24T17:14:01.000Z",
+      "badgeColor": "emerald",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "openai-channel-yt:video:Faoam45LT-Q",
+      "title": "ChatGPT Integrates Calendar Synchronization for Flexible Scheduling",
+      "link": "https://www.youtube.com/watch?v=Faoam45LT-Q",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-11-24T17:13:58.000Z",
       "badgeColor": "emerald",
       "angle": "Industry Analysis"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3191460",
-      "title": "Supertake Secures $20M to Deploy AI Agents for Market Prediction-Driven Investments",
-      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-23T22:02:05.000Z",
+      "id": "openai-channel-yt:video:bGiFYYrmnAg",
+      "title": "ChatGPT Enables Spontaneous Adventures and Flexible Planning in Daily Life",
+      "link": "https://www.youtube.com/watch?v=bGiFYYrmnAg",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-11-24T17:09:11.000Z",
       "badgeColor": "emerald",
-      "angle": "Market Impact"
+      "angle": "User Experience"
+    },
+    {
+      "id": "openai-channel-yt:video:5p8CdiQGqV4",
+      "title": "OpenAI Unveils ChatGPT Voice Mode: A Voice-Activated AI Assistant",
+      "link": "https://www.youtube.com/watch?v=5p8CdiQGqV4",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-11-24T13:14:46.000Z",
+      "badgeColor": "emerald",
+      "angle": "Official Release"
     }
   ]
 }
