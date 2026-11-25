@@ -1,39 +1,49 @@
 {
-  "headline": "AI Chatbot Toys Face Regulatory Scrutiny Amid Safety Concerns",
-  "summary": "New York has enacted a five-year ban on AI chatbot toys due to safety concerns, while other states are opposing Character.AI's plan to auction user data. These developments highlight growing regulatory and ethical debates surrounding AI in consumer products.",
-  "whyItMatters": "This trend underscores the increasing need for robust regulatory frameworks and ethical considerations in the development and deployment of AI technologies, particularly in consumer-facing applications.",
-  "synthesizedAt": "2026-11-25T18:20:44.403Z",
+  "headline": "US-China AI Rivalry Intensifies Amid Chip Restrictions",
+  "summary": "US-imposed chip restrictions and anti-distillation measures are significantly impacting Chinese AI labs, highlighting the growing geopolitical tensions and technological competition between the two nations in the AI sector.",
+  "whyItMatters": "This trend underscores the increasing reliance of AI development on hardware, and the strategic importance of semiconductor technology in the global tech landscape.",
+  "synthesizedAt": "2026-11-25T21:27:22.734Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3192412",
-    "title": "New York Bans AI Chatbot Toys for Five Years Over Safety Concerns",
-    "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-11-25T18:11:46.000Z",
-    "badgeColor": "emerald",
-    "angle": "Regulatory Ban"
+    "id": "the-decoder-https://the-decoder.com/?p=43322",
+    "title": "US Chip Restrictions and Anti-Distillation Measures Hinder Chinese AI Labs",
+    "link": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-25T20:51:02.000Z",
+    "badgeColor": "slate",
+    "angle": "Geopolitical Impact"
   },
   "supportingStories": [
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3192361",
-      "title": "State Attorneys General Oppose Character.AI Auction of User Data",
-      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-25T17:35:58.000Z",
-      "badgeColor": "emerald",
-      "angle": "Data Privacy Controversy"
+      "id": "huggingface-https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "title": "Hugging Face Blog Discusses Ethical Boundaries in AI Agent Development",
+      "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "sourceName": "Hugging Face Blog",
+      "sourceId": "huggingface",
+      "pubDate": "2026-11-25T18:52:55.000Z",
+      "badgeColor": "yellow",
+      "angle": "Ethical Considerations"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3192253",
-      "title": "Amazon and Meta Near Deal to Lift Blockade on AI Agent Muse",
-      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3192412",
+      "title": "New York Bans AI Chatbot Toys for Five Years Over Safety Concerns",
+      "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-25T14:10:18.000Z",
+      "pubDate": "2026-11-25T18:11:46.000Z",
       "badgeColor": "emerald",
-      "angle": "Industry Disputes"
+      "angle": "Regulatory Impact"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3192333",
+      "title": "AI Data Centers Face Challenges, Impacting Neoclouds",
+      "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-25T15:41:43.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Challenges"
     }
   ]
 }
