@@ -1,49 +1,39 @@
 {
-  "headline": "AI Agent Deployments Gain Momentum as Open Models Emerge",
-  "summary": "A series of recent developments highlight the growing momentum behind open-source AI agent deployments, with new models like Ternary Bonsai 2.5 27B and Muse lifting barriers to entry. This trend is reshaping the AI landscape by reducing costs and increasing accessibility.",
-  "whyItMatters": "It democratizes advanced AI capabilities, reducing dependency on proprietary platforms and accelerating local AI adoption.",
-  "synthesizedAt": "2026-11-25T15:15:59.125Z",
+  "headline": "AI Chatbot Toys Face Regulatory Scrutiny Amid Safety Concerns",
+  "summary": "New York has enacted a five-year ban on AI chatbot toys due to safety concerns, while other states are opposing Character.AI's plan to auction user data. These developments highlight growing regulatory and ethical debates surrounding AI in consumer products.",
+  "whyItMatters": "This trend underscores the increasing need for robust regulatory frameworks and ethical considerations in the development and deployment of AI technologies, particularly in consumer-facing applications.",
+  "synthesizedAt": "2026-11-25T18:20:44.403Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3192253",
-    "title": "Amazon and Meta Near Deal to Lift Blockade on AI Agent Muse",
-    "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3192412",
+    "title": "New York Bans AI Chatbot Toys for Five Years Over Safety Concerns",
+    "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
     "sourceName": "TechCrunch – AI",
     "sourceId": "techcrunch-ai",
-    "pubDate": "2026-11-25T14:10:18.000Z",
+    "pubDate": "2026-11-25T18:11:46.000Z",
     "badgeColor": "emerald",
-    "angle": "Industry Analysis"
+    "angle": "Regulatory Ban"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=43292",
-      "title": "PrismML Releases Ternary Bonsai 2.5 27B, Shrinking Language Model to 5.9 GB",
-      "link": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-25T11:51:49.000Z",
-      "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3192361",
+      "title": "State Attorneys General Oppose Character.AI Auction of User Data",
+      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-25T17:35:58.000Z",
+      "badgeColor": "emerald",
+      "angle": "Data Privacy Controversy"
     },
     {
-      "id": "huggingface-https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-      "title": "Hugging Face Unveils CUGA-Powered Indic Voice Agent",
-      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-      "sourceName": "Hugging Face Blog",
-      "sourceId": "huggingface",
-      "pubDate": "2026-11-25T10:22:09.000Z",
-      "badgeColor": "yellow",
-      "angle": "Official Release"
-    },
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=43305",
-      "title": "DeepMind Employs AI Agents in Gemini Experiments, Emphasizing Oversight Over Recursive Self-Improvement",
-      "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-25T13:23:36.000Z",
-      "badgeColor": "slate",
-      "angle": "Industry Analysis"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3192253",
+      "title": "Amazon and Meta Near Deal to Lift Blockade on AI Agent Muse",
+      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-25T14:10:18.000Z",
+      "badgeColor": "emerald",
+      "angle": "Industry Disputes"
     }
   ]
 }
