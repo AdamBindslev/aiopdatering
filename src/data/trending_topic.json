@@ -1,8 +1,8 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Systems, Driving Industry Shift",
-  "summary": "A series of open-source AI models, including Gemini 4 Neon, are outperforming proprietary systems in various benchmarks, pushing the industry towards more accessible and cost-effective solutions.",
-  "whyItMatters": "This trend democratizes advanced AI capabilities, reducing barriers to entry for developers and startups, and potentially disrupting established players.",
-  "synthesizedAt": "2026-11-25T08:58:56.022Z",
+  "headline": "Gemini 4 Neon Surpasses Competitors in Performance Benchmarks, Reinforcing GDM’s Position as a Frontier Lab",
+  "summary": "Gemini 4 Neon, a new model from GDM, outperforms competitors in LiveBench tests, highlighting advancements in AI model performance and positioning GDM as a leading frontier lab.",
+  "whyItMatters": "This benchmark success underscores the ongoing competition and innovation in AI model development, with implications for developer choice and industry standards.",
+  "synthesizedAt": "2026-11-25T12:06:34.771Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "latent-space-urn:latent-space:post:post_d721d443-2cdb-44ba-8da8-666b8311df8b",
@@ -12,38 +12,47 @@
     "sourceId": "latent-space",
     "pubDate": "2026-11-25T04:29:07.000Z",
     "badgeColor": "pink",
-    "angle": "Hands-on Benchmark"
+    "angle": "Performance Benchmark"
   },
   "supportingStories": [
     {
-      "id": "ml-street-talk-yt:video:ZeplNfEg0WQ",
-      "title": "Kenneth Stanley Debunks Monolithic AI Models, Advocates for Diverse Specialist Ecosystems",
-      "link": "https://www.youtube.com/shorts/ZeplNfEg0WQ",
-      "sourceName": "Machine Learning Street Talk",
-      "sourceId": "ml-street-talk",
-      "pubDate": "2026-11-25T06:43:03.000Z",
-      "badgeColor": "violet",
+      "id": "the-decoder-https://the-decoder.com/?p=43292",
+      "title": "PrismML Releases Ternary Bonsai 2.5 27B, Shrinking Language Model to 5.9 GB",
+      "link": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-25T11:51:49.000Z",
+      "badgeColor": "slate"
+    },
+    {
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3191990",
+      "title": "Yale’s Sonnenfeld Criticizes Nvidia's Leadership Amid Concerns Over U.S. Industrial Competitiveness",
+      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-25T00:12:02.000Z",
+      "badgeColor": "emerald",
       "angle": "Industry Analysis"
     },
     {
-      "id": "nvidia-developer-yt:video:StEoOVLOIEc",
-      "title": "Google Cloud and NVIDIA Demonstrate JAX on GPU Integration for Scalable Machine Learning Workflows",
-      "link": "https://www.youtube.com/watch?v=StEoOVLOIEc",
-      "sourceName": "NVIDIA Developer",
-      "sourceId": "nvidia-developer",
-      "pubDate": "2026-11-25T08:53:52.000Z",
-      "badgeColor": "green",
-      "angle": "Official Release"
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3192058",
+      "title": "Jensen Huang Defends Against Founder's Removal Amid Company's Shift",
+      "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "sourceName": "TechCrunch – AI",
+      "sourceId": "techcrunch-ai",
+      "pubDate": "2026-11-24T22:27:52.000Z",
+      "badgeColor": "emerald",
+      "angle": "Company Stance"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=43286",
-      "title": "Anthropic Releases Claude Artifacts as Standalone Desktop Apps for macOS and Windows",
-      "link": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-24T20:42:29.000Z",
+      "id": "tech-policy-press-https://techpolicy.press/welcome-to-the-trump-nvidia-china-ai-hyper-spectacle",
+      "title": "Tech Policy Press Explores the Complexities of AI in Global Politics",
+      "link": "https://techpolicy.press/welcome-to-the-trump-nvidia-china-ai-hyper-spectacle",
+      "sourceName": "Tech Policy Press",
+      "sourceId": "tech-policy-press",
+      "pubDate": "2026-11-24T21:50:02.000Z",
       "badgeColor": "slate",
-      "angle": "Critical Debate"
+      "angle": "Geopolitical Impact"
     }
   ]
 }
