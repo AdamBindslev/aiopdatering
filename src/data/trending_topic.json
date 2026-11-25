@@ -1,58 +1,49 @@
 {
-  "headline": "NVIDIA Leadership Crisis Sparks Debate on U.S. AI Competitiveness",
-  "summary": "NVIDIA's leadership transition has sparked significant debate over the company's future direction and U.S. industrial competitiveness. Critics like Yale's Jeffrey Sonnenfeld argue that Jensen Huang's return could harm U.S. tech leadership, while supporters like former President Trump advocate for his continued leadership.",
-  "whyItMatters": "This controversy highlights the broader geopolitical stakes of AI leadership and underscores the need for strategic alignment between industry and government.",
-  "synthesizedAt": "2026-11-25T02:45:36.687Z",
+  "headline": "Gemini 4 Neon Surpasses Competitors, Reinforces GDM’s AI Leadership",
+  "summary": "GDM’s Gemini 4 Neon outperforms leading models in performance benchmarks, solidifying GDM’s position as a top AI research lab. This advancement is driving local AI agent deployment and may impact closed-API pricing models.",
+  "whyItMatters": "It highlights the increasing importance of open-weight models and could accelerate the adoption of more accessible AI technologies.",
+  "synthesizedAt": "2026-11-25T05:52:02.892Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3191990",
-    "title": "Yale’s Sonnenfeld Criticizes Nvidia's Leadership Amid Concerns Over U.S. Industrial Competitiveness",
-    "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-11-25T00:12:02.000Z",
-    "badgeColor": "emerald",
+    "id": "latent-space-urn:latent-space:post:post_d721d443-2cdb-44ba-8da8-666b8311df8b",
+    "title": "Gemini 4 Neon Surpasses Competitors in Performance Benchmarks, Reinforces GDM’s Position as a Frontier Lab",
+    "link": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+    "sourceName": "Latent Space (Swyx & Alessio)",
+    "sourceId": "latent-space",
+    "pubDate": "2026-11-25T04:29:07.000Z",
+    "badgeColor": "pink",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "the-zvi-https://thezvi.substack.com/p/jensen-huang-reinstated-as-nvidia",
-      "title": "Donald Trump Intercedes to Reinstatify Jensen Huang as Nvidia CEO",
-      "link": "https://thezvi.substack.com/p/jensen-huang-reinstated-as-nvidia",
-      "sourceName": "Don't Worry About the Vase (Zvi)",
-      "sourceId": "the-zvi",
-      "pubDate": "2026-11-24T22:42:01.000Z",
-      "badgeColor": "emerald",
-      "angle": "Political Intervention"
+      "id": "simon-willison-https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+      "title": "Three Key Inflection Points in LLM Capabilities Over the Last Year",
+      "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+      "sourceName": "Simon Willison",
+      "sourceId": "simon-willison",
+      "pubDate": "2026-11-24T23:02:07.000Z",
+      "badgeColor": "green",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3192058",
-      "title": "Jensen Huang Defends Against Founder's Removal Amid Company's Shift",
-      "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3192038",
+      "title": "Advanced AI Agents Struggle with Everyday Tasks, New Benchmark Reveals",
+      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-24T22:27:52.000Z",
+      "pubDate": "2026-11-24T21:33:29.000Z",
       "badgeColor": "emerald",
-      "angle": "Company Response"
+      "angle": "Hands-on Benchmark"
     },
     {
-      "id": "tech-policy-press-https://techpolicy.press/welcome-to-the-trump-nvidia-china-ai-hyper-spectacle",
-      "title": "Tech Policy Press Explores the Complexities of AI in Global Politics",
-      "link": "https://techpolicy.press/welcome-to-the-trump-nvidia-china-ai-hyper-spectacle",
-      "sourceName": "Tech Policy Press",
-      "sourceId": "tech-policy-press",
-      "pubDate": "2026-11-24T21:50:02.000Z",
+      "id": "the-decoder-https://the-decoder.com/?p=43286",
+      "title": "Anthropic Releases Claude Artifacts as Standalone Desktop Apps for macOS and Windows",
+      "link": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-24T20:42:29.000Z",
       "badgeColor": "slate",
-      "angle": "Geopolitical Impact"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3192009",
-      "title": "Nvidia CEO Jensen Huang Addresses Staff in All-Hands Meeting, Expresses Gratitude and Personal Struggles",
-      "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-24T21:48:27.000Z",
-      "badgeColor": "emerald"
+      "angle": "Competitor Response"
     }
   ]
 }
