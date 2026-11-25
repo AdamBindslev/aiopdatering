@@ -1,18 +1,18 @@
 {
-  "headline": "Gemini 4 Neon Surpasses Competitors in Performance Benchmarks, Reinforcing GDM’s Position as a Frontier Lab",
-  "summary": "Gemini 4 Neon, a new model from GDM, outperforms competitors in LiveBench tests, highlighting advancements in AI model performance and positioning GDM as a leading frontier lab.",
-  "whyItMatters": "This benchmark success underscores the ongoing competition and innovation in AI model development, with implications for developer choice and industry standards.",
-  "synthesizedAt": "2026-11-25T12:06:34.771Z",
+  "headline": "AI Agent Deployments Gain Momentum as Open Models Emerge",
+  "summary": "A series of recent developments highlight the growing momentum behind open-source AI agent deployments, with new models like Ternary Bonsai 2.5 27B and Muse lifting barriers to entry. This trend is reshaping the AI landscape by reducing costs and increasing accessibility.",
+  "whyItMatters": "It democratizes advanced AI capabilities, reducing dependency on proprietary platforms and accelerating local AI adoption.",
+  "synthesizedAt": "2026-11-25T15:15:59.125Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "latent-space-urn:latent-space:post:post_d721d443-2cdb-44ba-8da8-666b8311df8b",
-    "title": "Gemini 4 Neon Surpasses Competitors in Performance Benchmarks, Reinforces GDM’s Position as a Frontier Lab",
-    "link": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
-    "sourceName": "Latent Space (Swyx & Alessio)",
-    "sourceId": "latent-space",
-    "pubDate": "2026-11-25T04:29:07.000Z",
-    "badgeColor": "pink",
-    "angle": "Performance Benchmark"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3192253",
+    "title": "Amazon and Meta Near Deal to Lift Blockade on AI Agent Muse",
+    "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-11-25T14:10:18.000Z",
+    "badgeColor": "emerald",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
@@ -22,37 +22,28 @@
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
       "pubDate": "2026-11-25T11:51:49.000Z",
-      "badgeColor": "slate"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3191990",
-      "title": "Yale’s Sonnenfeld Criticizes Nvidia's Leadership Amid Concerns Over U.S. Industrial Competitiveness",
-      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-25T00:12:02.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3192058",
-      "title": "Jensen Huang Defends Against Founder's Removal Amid Company's Shift",
-      "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-24T22:27:52.000Z",
-      "badgeColor": "emerald",
-      "angle": "Company Stance"
-    },
-    {
-      "id": "tech-policy-press-https://techpolicy.press/welcome-to-the-trump-nvidia-china-ai-hyper-spectacle",
-      "title": "Tech Policy Press Explores the Complexities of AI in Global Politics",
-      "link": "https://techpolicy.press/welcome-to-the-trump-nvidia-china-ai-hyper-spectacle",
-      "sourceName": "Tech Policy Press",
-      "sourceId": "tech-policy-press",
-      "pubDate": "2026-11-24T21:50:02.000Z",
       "badgeColor": "slate",
-      "angle": "Geopolitical Impact"
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "huggingface-https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "title": "Hugging Face Unveils CUGA-Powered Indic Voice Agent",
+      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "sourceName": "Hugging Face Blog",
+      "sourceId": "huggingface",
+      "pubDate": "2026-11-25T10:22:09.000Z",
+      "badgeColor": "yellow",
+      "angle": "Official Release"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=43305",
+      "title": "DeepMind Employs AI Agents in Gemini Experiments, Emphasizing Oversight Over Recursive Self-Improvement",
+      "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-25T13:23:36.000Z",
+      "badgeColor": "slate",
+      "angle": "Industry Analysis"
     }
   ]
 }
