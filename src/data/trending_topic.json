@@ -1,8 +1,8 @@
 {
-  "headline": "New Research Frameworks and Models Enhance AI Transparency and Performance",
-  "summary": "A series of recent studies and model releases focus on improving the transparency, accuracy, and performance of AI systems, particularly in language models and decision-making agents. These advancements are driving significant industry interest and debate.",
-  "whyItMatters": "These innovations will enhance the reliability and trustworthiness of AI tools, which is crucial for widespread adoption and regulatory compliance.",
-  "synthesizedAt": "2026-11-26T06:52:10.079Z",
+  "headline": "Open-Source AI Models Challenge Proprietary Systems, Driving Industry Shift",
+  "summary": "A surge in open-source AI models, such as Hugging Face's Nemotron 3.5, is enhancing local deployment and reducing reliance on proprietary platforms. This trend is reshaping the AI landscape by broadening access to advanced capabilities and lowering costs.",
+  "whyItMatters": "It democratizes advanced AI technologies, fostering innovation and competition while potentially disrupting established commercial models.",
+  "synthesizedAt": "2026-11-26T09:56:13.135Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "huggingface-https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
@@ -16,24 +16,14 @@
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2611.33174v1",
-      "title": "MGMem: A Novel Framework for Efficient and Provenance-Preserving Long-Horizon Agent Memory",
-      "link": "https://arxiv.org/abs/2611.33174",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-11-26T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "arxiv-cl-oai:arXiv.org:2611.33250v1",
-      "title": "New Text Embedding Models Address Fact Conflation Issues",
-      "link": "https://arxiv.org/abs/2611.33250",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-11-26T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Critical Debate"
+      "id": "version2-https://ing.dk/artikel/jensen-huangs-vanvittige-comeback-beviser-ai-lige-nu-er-utaemmelig",
+      "title": "Jensen Huang's Ambiguous Comeback Highlights the Uncontrollable Nature of AI",
+      "link": "https://ing.dk/artikel/jensen-huangs-vanvittige-comeback-beviser-ai-lige-nu-er-utaemmelig",
+      "sourceName": "Version2 (Ingeniøren)",
+      "sourceId": "version2",
+      "pubDate": "2026-11-26T09:00:00.000Z",
+      "badgeColor": "red",
+      "angle": "Industry Analysis"
     },
     {
       "id": "arxiv-ai-oai:arXiv.org:2611.31347v1",
@@ -43,7 +33,7 @@
       "sourceId": "arxiv-ai",
       "pubDate": "2026-11-26T05:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Industry Analysis"
+      "angle": "Technical Deep Dive"
     }
   ]
 }
