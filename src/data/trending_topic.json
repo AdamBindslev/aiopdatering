@@ -1,39 +1,39 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Systems, Driving Industry Shift",
-  "summary": "A surge in open-source AI models, such as Hugging Face's Nemotron 3.5, is enhancing local deployment and reducing reliance on proprietary platforms. This trend is reshaping the AI landscape by broadening access to advanced capabilities and lowering costs.",
-  "whyItMatters": "It democratizes advanced AI technologies, fostering innovation and competition while potentially disrupting established commercial models.",
-  "synthesizedAt": "2026-11-26T09:56:13.135Z",
+  "headline": "AI Governance Framework Paves Way for Autonomous Agent Regulation",
+  "summary": "A new governance framework for autonomous agent systems has been proposed, addressing key issues like fair allocation and strategy-proofness. This development is gaining traction as the industry grapples with the ethical and strategic implications of AI autonomy.",
+  "whyItMatters": "It sets a foundational standard for the ethical and strategic management of autonomous AI systems, influencing policy and industry practices.",
+  "synthesizedAt": "2026-11-26T13:01:09.419Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "huggingface-https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-    "title": "Hugging Face Unveils Nemotron 3.5: Enhanced Open Data, Fine-Tuning, and Faster Inference",
-    "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-    "sourceName": "Hugging Face Blog",
-    "sourceId": "huggingface",
-    "pubDate": "2026-11-26T05:05:36.000Z",
-    "badgeColor": "yellow",
-    "angle": "Official Release"
+    "id": "arxiv-ai-oai:arXiv.org:2611.31284v1",
+    "title": "New Research Proposes Governance Framework for Autonomous Agent Systems",
+    "link": "https://arxiv.org/abs/2611.31284",
+    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+    "sourceId": "arxiv-ai",
+    "pubDate": "2026-11-26T05:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "New Governance Proposal"
   },
   "supportingStories": [
     {
-      "id": "version2-https://ing.dk/artikel/jensen-huangs-vanvittige-comeback-beviser-ai-lige-nu-er-utaemmelig",
-      "title": "Jensen Huang's Ambiguous Comeback Highlights the Uncontrollable Nature of AI",
-      "link": "https://ing.dk/artikel/jensen-huangs-vanvittige-comeback-beviser-ai-lige-nu-er-utaemmelig",
-      "sourceName": "Version2 (Ingeniøren)",
-      "sourceId": "version2",
-      "pubDate": "2026-11-26T09:00:00.000Z",
-      "badgeColor": "red",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2611.31347v1",
-      "title": "Laya Model Introduces Advanced Decision-Making Capabilities with Named Options",
-      "link": "https://arxiv.org/abs/2611.31347",
+      "id": "arxiv-ai-oai:arXiv.org:2611.31301v2",
+      "title": "MOZAIC: A Comprehensive Benchmark for Evaluating Audio-Video Deepfake Detectors",
+      "link": "https://arxiv.org/abs/2611.31301",
       "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
       "sourceId": "arxiv-ai",
       "pubDate": "2026-11-26T05:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Technical Deep Dive"
+      "angle": "Deepfake Detection Benchmark"
+    },
+    {
+      "id": "arxiv-ai-oai:arXiv.org:2611.31329v1",
+      "title": "New Approach to Attribute Reduction in Incomplete Data Systems Using Conservative Overlap Fuzzy Rough Sets",
+      "link": "https://arxiv.org/abs/2611.31329",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-11-26T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Attribute Reduction Method"
     }
   ]
 }
