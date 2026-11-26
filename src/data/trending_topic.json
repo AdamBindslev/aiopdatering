@@ -1,29 +1,20 @@
 {
-  "headline": "Chinese AI Developers Shift Focus Amid Data Restrictions",
-  "summary": "Chinese AI companies Z.AI and Moonshot AI are adjusting their development strategies due to data restrictions imposed by OpenAI and Anthropic. This shift is prompting a broader exploration of alternative data sources and frameworks, signaling a significant realignment in the AI landscape.",
-  "whyItMatters": "This trend highlights the growing geopolitical tensions and their direct impact on AI innovation, potentially leading to new competitive dynamics and technological diversification.",
-  "synthesizedAt": "2026-11-26T19:14:00.112Z",
+  "headline": "AI Chip Supply Chain Tensions Heat Up Amid U.S. Export Controls",
+  "summary": "Nvidia has suspended chip shipments to Southeast Asian countries due to tightened U.S. export controls, highlighting the growing geopolitical tensions and supply chain disruptions in the AI hardware industry.",
+  "whyItMatters": "This shift affects global AI development and deployment, potentially leading to increased costs and delays for companies and researchers relying on Nvidia chips.",
+  "synthesizedAt": "2026-11-26T22:20:45.488Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=43340",
-    "title": "Chinese AI Developers Shift Focus to Google and Meta Following Data Restrictions by OpenAI and Anthropic",
-    "link": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-26T15:45:08.000Z",
-    "badgeColor": "slate",
-    "angle": "Industry Analysis"
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3192803",
+    "title": "Nvidia Temporarily Halts Chip Shipments to Southeast Asia Amid U.S. Export Restrictions",
+    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-11-26T20:03:54.000Z",
+    "badgeColor": "emerald",
+    "angle": "Supply Chain Impact"
   },
   "supportingStories": [
-    {
-      "id": "the-decoder-https://the-decoder.com/?p=43343",
-      "title": "OpenAI Fixes Billing Bug, Tightening Limits for GPT-6.2 Users",
-      "link": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-26T17:28:56.000Z",
-      "badgeColor": "slate"
-    },
     {
       "id": "the-decoder-https://the-decoder.com/?p=43327",
       "title": "Nvidia Suspends Server Shipments to Southeast Asian Countries Amid Tightened US Export Controls",
@@ -32,7 +23,7 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-11-26T11:21:16.000Z",
       "badgeColor": "slate",
-      "angle": "Policy Impact"
+      "angle": "Regulatory Impact"
     }
   ]
 }

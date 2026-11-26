@@ -144232,5 +144232,113 @@
     "whyItMatters": "These advancements could lead to more precise diagnostics and personalized treatments, significantly impacting patient care and research efficiency.",
     "enrichedAt": "2026-11-26T19:13:28.434Z",
     "modelUsed": "qwen2.5:7b"
+  },
+  "dwarkesh-podcast-yt:video:ufvSPf329pA": {
+    "title": "Terry Tao Discusses AI's Potential in Solving the Riemann Hypothesis",
+    "summary": "In an interview, renowned mathematician Terry Tao discussed the potential of AI in tackling complex mathematical problems like the Riemann hypothesis, emphasizing the importance of such problems in driving mathematical innovation and understanding.",
+    "danishTitle": "Terry Tao Discusses AI's Potential in Solving the Riemann Hypothesis",
+    "danishSummary": "In an interview, renowned mathematician Terry Tao discussed the potential of AI in tackling complex mathematical problems like the Riemann hypothesis, emphasizing the importance of such problems in driving mathematical innovation and understanding.",
+    "whyItMatters": "Tao's insights highlight the significant role AI could play in advancing mathematical research, potentially leading to breakthroughs in number theory and other fields.",
+    "enrichedAt": "2026-11-26T22:19:42.334Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:ufvspf329pa": {
+    "title": "Terry Tao Discusses AI's Potential in Solving the Riemann Hypothesis",
+    "summary": "In an interview, renowned mathematician Terry Tao discussed the potential of AI in tackling complex mathematical problems like the Riemann hypothesis, emphasizing the importance of such problems in driving mathematical innovation and understanding.",
+    "danishTitle": "Terry Tao Discusses AI's Potential in Solving the Riemann Hypothesis",
+    "danishSummary": "In an interview, renowned mathematician Terry Tao discussed the potential of AI in tackling complex mathematical problems like the Riemann hypothesis, emphasizing the importance of such problems in driving mathematical innovation and understanding.",
+    "whyItMatters": "Tao's insights highlight the significant role AI could play in advancing mathematical research, potentially leading to breakthroughs in number theory and other fields.",
+    "enrichedAt": "2026-11-26T22:19:42.334Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/shorts/ufvSPf329pA": {
+    "title": "Terry Tao Discusses AI's Potential in Solving the Riemann Hypothesis",
+    "summary": "In an interview, renowned mathematician Terry Tao discussed the potential of AI in tackling complex mathematical problems like the Riemann hypothesis, emphasizing the importance of such problems in driving mathematical innovation and understanding.",
+    "danishTitle": "Terry Tao Discusses AI's Potential in Solving the Riemann Hypothesis",
+    "danishSummary": "In an interview, renowned mathematician Terry Tao discussed the potential of AI in tackling complex mathematical problems like the Riemann hypothesis, emphasizing the importance of such problems in driving mathematical innovation and understanding.",
+    "whyItMatters": "Tao's insights highlight the significant role AI could play in advancing mathematical research, potentially leading to breakthroughs in number theory and other fields.",
+    "enrichedAt": "2026-11-26T22:19:42.334Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "techcrunch-ai-https://techcrunch.com/?p=3192803": {
+    "title": "Nvidia Temporarily Halts Chip Shipments to Southeast Asia Amid U.S. Export Restrictions",
+    "summary": "Nvidia has instructed its manufacturing partners to suspend shipments of AI server chips to Southeast Asian countries, including Malaysia, Singapore, Thailand, and Indonesia, due to heightened U.S. export controls targeting China. This move is part of a broader U.S. strategy to limit the flow of advanced technology to the country.",
+    "danishTitle": "Nvidia Temporarily Halts Chip Shipments to Southeast Asia Amid U.S. Export Restrictions",
+    "danishSummary": "Nvidia has instructed its manufacturing partners to suspend shipments of AI server chips to Southeast Asian countries, including Malaysia, Singapore, Thailand, and Indonesia, due to heightened U.S. export controls targeting China. This move is part of a broader U.S. strategy to limit the flow of advanced technology to the country.",
+    "whyItMatters": "The restriction could disrupt AI development and deployment in Southeast Asia, potentially affecting local tech industries and their ability to innovate and compete globally.",
+    "enrichedAt": "2026-11-26T22:19:52.897Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia": {
+    "title": "Nvidia Temporarily Halts Chip Shipments to Southeast Asia Amid U.S. Export Restrictions",
+    "summary": "Nvidia has instructed its manufacturing partners to suspend shipments of AI server chips to Southeast Asian countries, including Malaysia, Singapore, Thailand, and Indonesia, due to heightened U.S. export controls targeting China. This move is part of a broader U.S. strategy to limit the flow of advanced technology to the country.",
+    "danishTitle": "Nvidia Temporarily Halts Chip Shipments to Southeast Asia Amid U.S. Export Restrictions",
+    "danishSummary": "Nvidia has instructed its manufacturing partners to suspend shipments of AI server chips to Southeast Asian countries, including Malaysia, Singapore, Thailand, and Indonesia, due to heightened U.S. export controls targeting China. This move is part of a broader U.S. strategy to limit the flow of advanced technology to the country.",
+    "whyItMatters": "The restriction could disrupt AI development and deployment in Southeast Asia, potentially affecting local tech industries and their ability to innovate and compete globally.",
+    "enrichedAt": "2026-11-26T22:19:52.897Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/": {
+    "title": "Nvidia Temporarily Halts Chip Shipments to Southeast Asia Amid U.S. Export Restrictions",
+    "summary": "Nvidia has instructed its manufacturing partners to suspend shipments of AI server chips to Southeast Asian countries, including Malaysia, Singapore, Thailand, and Indonesia, due to heightened U.S. export controls targeting China. This move is part of a broader U.S. strategy to limit the flow of advanced technology to the country.",
+    "danishTitle": "Nvidia Temporarily Halts Chip Shipments to Southeast Asia Amid U.S. Export Restrictions",
+    "danishSummary": "Nvidia has instructed its manufacturing partners to suspend shipments of AI server chips to Southeast Asian countries, including Malaysia, Singapore, Thailand, and Indonesia, due to heightened U.S. export controls targeting China. This move is part of a broader U.S. strategy to limit the flow of advanced technology to the country.",
+    "whyItMatters": "The restriction could disrupt AI development and deployment in Southeast Asia, potentially affecting local tech industries and their ability to innovate and compete globally.",
+    "enrichedAt": "2026-11-26T22:19:52.897Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "stanford-cs25-yt:video:wdjnAOrS7f8": {
+    "title": "Stanford CS312 Explores Why Mini-Batch SGD Succeeds in Deep Learning Despite Convex Optimization Weaknesses",
+    "summary": "In Stanford's CS312 lecture, Tatsunori Hashimoto delves into the effectiveness of mini-batch Stochastic Gradient Descent (SGD) in deep learning, despite its limitations in convex optimization. The lecture focuses on the Noisy Quadratic Model, momentum, and weight decay to explain this phenomenon.",
+    "danishTitle": "Stanford CS312 Explores Why Mini-Batch SGD Succeeds in Deep Learning Despite Convex Optimization Weaknesses",
+    "danishSummary": "In Stanford's CS312 lecture, Tatsunori Hashimoto delves into the effectiveness of mini-batch Stochastic Gradient Descent (SGD) in deep learning, despite its limitations in convex optimization. The lecture focuses on the Noisy Quadratic Model, momentum, and weight decay to explain this phenomenon.",
+    "whyItMatters": "Understanding these techniques can help developers optimize deep learning models more effectively, potentially leading to improved performance and efficiency in various AI applications.",
+    "enrichedAt": "2026-11-26T22:20:04.536Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "yt:wdjnaors7f8": {
+    "title": "Stanford CS312 Explores Why Mini-Batch SGD Succeeds in Deep Learning Despite Convex Optimization Weaknesses",
+    "summary": "In Stanford's CS312 lecture, Tatsunori Hashimoto delves into the effectiveness of mini-batch Stochastic Gradient Descent (SGD) in deep learning, despite its limitations in convex optimization. The lecture focuses on the Noisy Quadratic Model, momentum, and weight decay to explain this phenomenon.",
+    "danishTitle": "Stanford CS312 Explores Why Mini-Batch SGD Succeeds in Deep Learning Despite Convex Optimization Weaknesses",
+    "danishSummary": "In Stanford's CS312 lecture, Tatsunori Hashimoto delves into the effectiveness of mini-batch Stochastic Gradient Descent (SGD) in deep learning, despite its limitations in convex optimization. The lecture focuses on the Noisy Quadratic Model, momentum, and weight decay to explain this phenomenon.",
+    "whyItMatters": "Understanding these techniques can help developers optimize deep learning models more effectively, potentially leading to improved performance and efficiency in various AI applications.",
+    "enrichedAt": "2026-11-26T22:20:04.536Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://www.youtube.com/watch?v=wdjnAOrS7f8": {
+    "title": "Stanford CS312 Explores Why Mini-Batch SGD Succeeds in Deep Learning Despite Convex Optimization Weaknesses",
+    "summary": "In Stanford's CS312 lecture, Tatsunori Hashimoto delves into the effectiveness of mini-batch Stochastic Gradient Descent (SGD) in deep learning, despite its limitations in convex optimization. The lecture focuses on the Noisy Quadratic Model, momentum, and weight decay to explain this phenomenon.",
+    "danishTitle": "Stanford CS312 Explores Why Mini-Batch SGD Succeeds in Deep Learning Despite Convex Optimization Weaknesses",
+    "danishSummary": "In Stanford's CS312 lecture, Tatsunori Hashimoto delves into the effectiveness of mini-batch Stochastic Gradient Descent (SGD) in deep learning, despite its limitations in convex optimization. The lecture focuses on the Noisy Quadratic Model, momentum, and weight decay to explain this phenomenon.",
+    "whyItMatters": "Understanding these techniques can help developers optimize deep learning models more effectively, potentially leading to improved performance and efficiency in various AI applications.",
+    "enrichedAt": "2026-11-26T22:20:04.536Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "the-decoder-https://the-decoder.com/?p=43346": {
+    "title": "Scott Aaronson Argues AI Math Breakthroughs Have Far-Reaching Implications Beyond Academia",
+    "summary": "Former OpenAI researcher Scott Aaronson contends that recent AI achievements in mathematics, such as proving the Riemann Hypothesis, have broader implications for society, potentially transforming the global economy and even posing existential threats.",
+    "danishTitle": "Scott Aaronson Argues AI Math Breakthroughs Have Far-Reaching Implications Beyond Academia",
+    "danishSummary": "Former OpenAI researcher Scott Aaronson contends that recent AI achievements in mathematics, such as proving the Riemann Hypothesis, have broader implications for society, potentially transforming the global economy and even posing existential threats.",
+    "whyItMatters": "Aaronson's perspective highlights the significant real-world impact of AI advancements, emphasizing the need for careful consideration and regulation of AI capabilities as they extend beyond academic boundaries.",
+    "enrichedAt": "2026-11-26T22:20:14.531Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it": {
+    "title": "Scott Aaronson Argues AI Math Breakthroughs Have Far-Reaching Implications Beyond Academia",
+    "summary": "Former OpenAI researcher Scott Aaronson contends that recent AI achievements in mathematics, such as proving the Riemann Hypothesis, have broader implications for society, potentially transforming the global economy and even posing existential threats.",
+    "danishTitle": "Scott Aaronson Argues AI Math Breakthroughs Have Far-Reaching Implications Beyond Academia",
+    "danishSummary": "Former OpenAI researcher Scott Aaronson contends that recent AI achievements in mathematics, such as proving the Riemann Hypothesis, have broader implications for society, potentially transforming the global economy and even posing existential threats.",
+    "whyItMatters": "Aaronson's perspective highlights the significant real-world impact of AI advancements, emphasizing the need for careful consideration and regulation of AI capabilities as they extend beyond academic boundaries.",
+    "enrichedAt": "2026-11-26T22:20:14.531Z",
+    "modelUsed": "qwen2.5:7b"
+  },
+  "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/": {
+    "title": "Scott Aaronson Argues AI Math Breakthroughs Have Far-Reaching Implications Beyond Academia",
+    "summary": "Former OpenAI researcher Scott Aaronson contends that recent AI achievements in mathematics, such as proving the Riemann Hypothesis, have broader implications for society, potentially transforming the global economy and even posing existential threats.",
+    "danishTitle": "Scott Aaronson Argues AI Math Breakthroughs Have Far-Reaching Implications Beyond Academia",
+    "danishSummary": "Former OpenAI researcher Scott Aaronson contends that recent AI achievements in mathematics, such as proving the Riemann Hypothesis, have broader implications for society, potentially transforming the global economy and even posing existential threats.",
+    "whyItMatters": "Aaronson's perspective highlights the significant real-world impact of AI advancements, emphasizing the need for careful consideration and regulation of AI capabilities as they extend beyond academic boundaries.",
+    "enrichedAt": "2026-11-26T22:20:14.531Z",
+    "modelUsed": "qwen2.5:7b"
   }
 }
