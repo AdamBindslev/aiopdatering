@@ -1,39 +1,39 @@
 {
-  "headline": "AI Governance Framework Paves Way for Autonomous Agent Regulation",
-  "summary": "A new governance framework for autonomous agent systems has been proposed, addressing key issues like fair allocation and strategy-proofness. This development is gaining traction as the industry grapples with the ethical and strategic implications of AI autonomy.",
-  "whyItMatters": "It sets a foundational standard for the ethical and strategic management of autonomous AI systems, influencing policy and industry practices.",
-  "synthesizedAt": "2026-11-26T13:01:09.419Z",
+  "headline": "Chinese AI Developers Shift Focus Amid Data Restrictions",
+  "summary": "Chinese AI companies Z.AI and Moonshot AI are facing delays in developing their next flagship models due to restricted access to training data from OpenAI and Anthropic. This shift highlights the impact of data restrictions on global AI innovation and underscores the growing importance of alternative data sources and local AI development.",
+  "whyItMatters": "It demonstrates the strategic importance of data access and the potential for localized AI ecosystems to emerge, affecting global AI competition and innovation.",
+  "synthesizedAt": "2026-11-26T16:08:14.464Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2611.31284v1",
-    "title": "New Research Proposes Governance Framework for Autonomous Agent Systems",
-    "link": "https://arxiv.org/abs/2611.31284",
-    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-    "sourceId": "arxiv-ai",
-    "pubDate": "2026-11-26T05:00:00.000Z",
-    "badgeColor": "zinc",
-    "angle": "New Governance Proposal"
+    "id": "the-decoder-https://the-decoder.com/?p=43340",
+    "title": "Chinese AI Developers Shift Focus to Google and Meta Following Data Restrictions by OpenAI and Anthropic",
+    "link": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-26T15:45:08.000Z",
+    "badgeColor": "slate",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "arxiv-ai-oai:arXiv.org:2611.31301v2",
-      "title": "MOZAIC: A Comprehensive Benchmark for Evaluating Audio-Video Deepfake Detectors",
-      "link": "https://arxiv.org/abs/2611.31301",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-11-26T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Deepfake Detection Benchmark"
+      "id": "the-decoder-https://the-decoder.com/?p=43328",
+      "title": "Microsoft Reveals ARTEX AI Framework Used by State-Backed Hackers for Automated Cyberattacks",
+      "link": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-26T11:30:06.000Z",
+      "badgeColor": "slate",
+      "angle": "Security and Compliance"
     },
     {
-      "id": "arxiv-ai-oai:arXiv.org:2611.31329v1",
-      "title": "New Approach to Attribute Reduction in Incomplete Data Systems Using Conservative Overlap Fuzzy Rough Sets",
-      "link": "https://arxiv.org/abs/2611.31329",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
-      "pubDate": "2026-11-26T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Attribute Reduction Method"
+      "id": "the-decoder-https://the-decoder.com/?p=43327",
+      "title": "Nvidia Suspends Server Shipments to Southeast Asian Countries Amid Tightened US Export Controls",
+      "link": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-26T11:21:16.000Z",
+      "badgeColor": "slate",
+      "angle": "Geopolitical Impact"
     }
   ]
 }
