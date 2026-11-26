@@ -1,39 +1,28 @@
 {
-  "headline": "OpenAI's Open-Weight Models Spark AI Industry Shift",
-  "summary": "OpenAI's release of open-weight models is demonstrating advanced reasoning capabilities, challenging proprietary systems and accelerating local AI deployment. This trend is reshaping the AI landscape and reducing reliance on closed platforms.",
-  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on closed proprietary platforms, fostering a more competitive and open AI ecosystem.",
-  "synthesizedAt": "2026-11-26T00:34:07.871Z",
+  "headline": "OpenAI's Innovations Drive Ethical AI Boundaries and Data Privacy",
+  "summary": "OpenAI's recent updates, including the launch of 'Private Inference' and the introduction of the 'dot' feature, are pushing the ethical and privacy boundaries of AI development. These advancements are commanding industry attention as they address critical concerns in data privacy and continuity of work.",
+  "whyItMatters": "These developments highlight OpenAI's commitment to ethical AI practices and underscore the importance of data privacy in AI applications, setting new standards for the industry.",
+  "synthesizedAt": "2026-11-26T03:40:12.300Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "wes-roth-yt:video:RlemAajyNrQ",
-    "title": "OpenAI, Google, Anthropic, and NVIDIA Update on AI Progress and AGI Rollout",
-    "link": "https://www.youtube.com/watch?v=RlemAajyNrQ",
-    "sourceName": "Wes Roth",
-    "sourceId": "wes-roth",
-    "pubDate": "2026-11-25T22:11:34.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Release"
+    "id": "the-decoder-https://the-decoder.com/?p=43315",
+    "title": "OpenAI Introduces 'Private Inference' to Enhance Data Privacy for Sensitive Workloads",
+    "link": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-25T18:22:02.000Z",
+    "badgeColor": "slate",
+    "angle": "Private Inference"
   },
   "supportingStories": [
     {
-      "id": "latent-space-urn:latent-space:post:post_b346515a-5480-4fa6-830e-a144eacab773",
-      "title": "Mathematical Proofs Generated at Breakneck Speeds by Advanced AI Models",
-      "link": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
-      "sourceName": "Latent Space (Swyx & Alessio)",
-      "sourceId": "latent-space",
-      "pubDate": "2026-11-25T22:23:41.000Z",
-      "badgeColor": "pink",
-      "angle": "Technical Deep Dive"
-    },
-    {
-      "id": "openai-channel-yt:video:C6DENY3rgqg",
-      "title": "OpenAI Expresses Gratitude to Customers on Anniversary of Deployment",
-      "link": "https://www.youtube.com/watch?v=C6DENY3rgqg",
+      "id": "openai-channel-yt:video:A4UNP-axGHU",
+      "title": "OpenAI's 'Dot' Feature Ensures Work Continuity During Absences",
+      "link": "https://www.youtube.com/watch?v=A4UNP-axGHU",
       "sourceName": "OpenAI (YouTube)",
       "sourceId": "openai-channel",
-      "pubDate": "2026-11-25T23:50:43.000Z",
-      "badgeColor": "emerald",
-      "angle": "Industry Analysis"
+      "pubDate": "2026-11-25T18:21:11.000Z",
+      "badgeColor": "emerald"
     },
     {
       "id": "techcrunch-ai-https://techcrunch.com/?p=3192524",
@@ -43,7 +32,17 @@
       "sourceId": "techcrunch-ai",
       "pubDate": "2026-11-25T20:03:27.000Z",
       "badgeColor": "emerald",
-      "angle": "Usage and Impact"
+      "angle": "Unified Usage Meter"
+    },
+    {
+      "id": "openai-channel-yt:video:kfGYU_-SuaE",
+      "title": "ChatGPT Enables Spontaneous Adventures and Efficient Planning in Daily Life",
+      "link": "https://www.youtube.com/watch?v=kfGYU_-SuaE",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-11-25T16:45:33.000Z",
+      "badgeColor": "emerald",
+      "angle": "Spontaneous Adventures"
     }
   ]
 }
