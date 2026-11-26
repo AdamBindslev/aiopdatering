@@ -1,49 +1,49 @@
 {
-  "headline": "US-China AI Rivalry Intensifies Amid Chip Restrictions",
-  "summary": "US-imposed chip restrictions and anti-distillation measures are significantly impacting Chinese AI labs, highlighting the growing geopolitical tensions and technological competition between the two nations in the AI sector.",
-  "whyItMatters": "This trend underscores the increasing reliance of AI development on hardware, and the strategic importance of semiconductor technology in the global tech landscape.",
-  "synthesizedAt": "2026-11-25T21:27:22.734Z",
+  "headline": "OpenAI's Open-Weight Models Spark AI Industry Shift",
+  "summary": "OpenAI's release of open-weight models is demonstrating advanced reasoning capabilities, challenging proprietary systems and accelerating local AI deployment. This trend is reshaping the AI landscape and reducing reliance on closed platforms.",
+  "whyItMatters": "It broadens access to advanced reasoning capabilities and reduces developer dependence on closed proprietary platforms, fostering a more competitive and open AI ecosystem.",
+  "synthesizedAt": "2026-11-26T00:34:07.871Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=43322",
-    "title": "US Chip Restrictions and Anti-Distillation Measures Hinder Chinese AI Labs",
-    "link": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-25T20:51:02.000Z",
-    "badgeColor": "slate",
-    "angle": "Geopolitical Impact"
+    "id": "wes-roth-yt:video:RlemAajyNrQ",
+    "title": "OpenAI, Google, Anthropic, and NVIDIA Update on AI Progress and AGI Rollout",
+    "link": "https://www.youtube.com/watch?v=RlemAajyNrQ",
+    "sourceName": "Wes Roth",
+    "sourceId": "wes-roth",
+    "pubDate": "2026-11-25T22:11:34.000Z",
+    "badgeColor": "emerald",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "huggingface-https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-      "title": "Hugging Face Blog Discusses Ethical Boundaries in AI Agent Development",
-      "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-      "sourceName": "Hugging Face Blog",
-      "sourceId": "huggingface",
-      "pubDate": "2026-11-25T18:52:55.000Z",
-      "badgeColor": "yellow",
-      "angle": "Ethical Considerations"
+      "id": "latent-space-urn:latent-space:post:post_b346515a-5480-4fa6-830e-a144eacab773",
+      "title": "Mathematical Proofs Generated at Breakneck Speeds by Advanced AI Models",
+      "link": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
+      "sourceName": "Latent Space (Swyx & Alessio)",
+      "sourceId": "latent-space",
+      "pubDate": "2026-11-25T22:23:41.000Z",
+      "badgeColor": "pink",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3192412",
-      "title": "New York Bans AI Chatbot Toys for Five Years Over Safety Concerns",
-      "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-25T18:11:46.000Z",
+      "id": "openai-channel-yt:video:C6DENY3rgqg",
+      "title": "OpenAI Expresses Gratitude to Customers on Anniversary of Deployment",
+      "link": "https://www.youtube.com/watch?v=C6DENY3rgqg",
+      "sourceName": "OpenAI (YouTube)",
+      "sourceId": "openai-channel",
+      "pubDate": "2026-11-25T23:50:43.000Z",
       "badgeColor": "emerald",
-      "angle": "Regulatory Impact"
+      "angle": "Industry Analysis"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?post_type=tc_podcast&p=3192333",
-      "title": "AI Data Centers Face Challenges, Impacting Neoclouds",
-      "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "id": "techcrunch-ai-https://techcrunch.com/?p=3192524",
+      "title": "OpenAI Introduces Unified Usage Meter for ChatGPT as It Merges Chat and Work Experiences",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
       "sourceName": "TechCrunch – AI",
       "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-25T15:41:43.000Z",
+      "pubDate": "2026-11-25T20:03:27.000Z",
       "badgeColor": "emerald",
-      "angle": "Industry Challenges"
+      "angle": "Usage and Impact"
     }
   ]
 }
