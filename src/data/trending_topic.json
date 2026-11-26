@@ -1,48 +1,49 @@
 {
-  "headline": "OpenAI's Innovations Drive Ethical AI Boundaries and Data Privacy",
-  "summary": "OpenAI's recent updates, including the launch of 'Private Inference' and the introduction of the 'dot' feature, are pushing the ethical and privacy boundaries of AI development. These advancements are commanding industry attention as they address critical concerns in data privacy and continuity of work.",
-  "whyItMatters": "These developments highlight OpenAI's commitment to ethical AI practices and underscore the importance of data privacy in AI applications, setting new standards for the industry.",
-  "synthesizedAt": "2026-11-26T03:40:12.300Z",
+  "headline": "New Research Frameworks and Models Enhance AI Transparency and Performance",
+  "summary": "A series of recent studies and model releases focus on improving the transparency, accuracy, and performance of AI systems, particularly in language models and decision-making agents. These advancements are driving significant industry interest and debate.",
+  "whyItMatters": "These innovations will enhance the reliability and trustworthiness of AI tools, which is crucial for widespread adoption and regulatory compliance.",
+  "synthesizedAt": "2026-11-26T06:52:10.079Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=43315",
-    "title": "OpenAI Introduces 'Private Inference' to Enhance Data Privacy for Sensitive Workloads",
-    "link": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-25T18:22:02.000Z",
-    "badgeColor": "slate",
-    "angle": "Private Inference"
+    "id": "huggingface-https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "title": "Hugging Face Unveils Nemotron 3.5: Enhanced Open Data, Fine-Tuning, and Faster Inference",
+    "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "sourceName": "Hugging Face Blog",
+    "sourceId": "huggingface",
+    "pubDate": "2026-11-26T05:05:36.000Z",
+    "badgeColor": "yellow",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "openai-channel-yt:video:A4UNP-axGHU",
-      "title": "OpenAI's 'Dot' Feature Ensures Work Continuity During Absences",
-      "link": "https://www.youtube.com/watch?v=A4UNP-axGHU",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-25T18:21:11.000Z",
-      "badgeColor": "emerald"
+      "id": "arxiv-cl-oai:arXiv.org:2611.33174v1",
+      "title": "MGMem: A Novel Framework for Efficient and Provenance-Preserving Long-Horizon Agent Memory",
+      "link": "https://arxiv.org/abs/2611.33174",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-11-26T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Technical Deep Dive"
     },
     {
-      "id": "techcrunch-ai-https://techcrunch.com/?p=3192524",
-      "title": "OpenAI Introduces Unified Usage Meter for ChatGPT as It Merges Chat and Work Experiences",
-      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "sourceName": "TechCrunch – AI",
-      "sourceId": "techcrunch-ai",
-      "pubDate": "2026-11-25T20:03:27.000Z",
-      "badgeColor": "emerald",
-      "angle": "Unified Usage Meter"
+      "id": "arxiv-cl-oai:arXiv.org:2611.33250v1",
+      "title": "New Text Embedding Models Address Fact Conflation Issues",
+      "link": "https://arxiv.org/abs/2611.33250",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-11-26T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Critical Debate"
     },
     {
-      "id": "openai-channel-yt:video:kfGYU_-SuaE",
-      "title": "ChatGPT Enables Spontaneous Adventures and Efficient Planning in Daily Life",
-      "link": "https://www.youtube.com/watch?v=kfGYU_-SuaE",
-      "sourceName": "OpenAI (YouTube)",
-      "sourceId": "openai-channel",
-      "pubDate": "2026-11-25T16:45:33.000Z",
-      "badgeColor": "emerald",
-      "angle": "Spontaneous Adventures"
+      "id": "arxiv-ai-oai:arXiv.org:2611.31347v1",
+      "title": "Laya Model Introduces Advanced Decision-Making Capabilities with Named Options",
+      "link": "https://arxiv.org/abs/2611.31347",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-11-26T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Industry Analysis"
     }
   ]
 }
