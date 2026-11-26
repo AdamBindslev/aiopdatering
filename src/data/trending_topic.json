@@ -1,8 +1,8 @@
 {
   "headline": "Chinese AI Developers Shift Focus Amid Data Restrictions",
-  "summary": "Chinese AI companies Z.AI and Moonshot AI are facing delays in developing their next flagship models due to restricted access to training data from OpenAI and Anthropic. This shift highlights the impact of data restrictions on global AI innovation and underscores the growing importance of alternative data sources and local AI development.",
-  "whyItMatters": "It demonstrates the strategic importance of data access and the potential for localized AI ecosystems to emerge, affecting global AI competition and innovation.",
-  "synthesizedAt": "2026-11-26T16:08:14.464Z",
+  "summary": "Chinese AI companies Z.AI and Moonshot AI are adjusting their development strategies due to data restrictions imposed by OpenAI and Anthropic. This shift is prompting a broader exploration of alternative data sources and frameworks, signaling a significant realignment in the AI landscape.",
+  "whyItMatters": "This trend highlights the growing geopolitical tensions and their direct impact on AI innovation, potentially leading to new competitive dynamics and technological diversification.",
+  "synthesizedAt": "2026-11-26T19:14:00.112Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=43340",
@@ -16,14 +16,13 @@
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=43328",
-      "title": "Microsoft Reveals ARTEX AI Framework Used by State-Backed Hackers for Automated Cyberattacks",
-      "link": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+      "id": "the-decoder-https://the-decoder.com/?p=43343",
+      "title": "OpenAI Fixes Billing Bug, Tightening Limits for GPT-6.2 Users",
+      "link": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-11-26T11:30:06.000Z",
-      "badgeColor": "slate",
-      "angle": "Security and Compliance"
+      "pubDate": "2026-11-26T17:28:56.000Z",
+      "badgeColor": "slate"
     },
     {
       "id": "the-decoder-https://the-decoder.com/?p=43327",
@@ -33,7 +32,7 @@
       "sourceId": "the-decoder",
       "pubDate": "2026-11-26T11:21:16.000Z",
       "badgeColor": "slate",
-      "angle": "Geopolitical Impact"
+      "angle": "Policy Impact"
     }
   ]
 }
