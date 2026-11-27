@@ -1,39 +1,49 @@
 {
-  "headline": "AI Model Expansion Challenges Proprietary Platforms",
-  "summary": "A surge in open-source AI models is pushing the boundaries of traditional proprietary platforms, with Clay leading the charge. This trend is reshaping the AI landscape by democratizing access to advanced capabilities and reducing dependency on closed systems.",
-  "whyItMatters": "It accelerates the adoption of AI across industries by providing more accessible and flexible alternatives to proprietary solutions.",
-  "synthesizedAt": "2026-11-27T04:33:37.928Z",
+  "headline": "Real-Time Reasoning Advances Pave Way for Dynamic Decision-Making",
+  "summary": "A new AI model enables real-time reasoning, enhancing decision-making capabilities. This breakthrough is driving innovation in dynamic systems and could significantly impact various industries, from healthcare to finance.",
+  "whyItMatters": "Real-time reasoning capabilities are crucial for dynamic decision-making, enabling more responsive and adaptive AI systems that can operate in real-world, ever-changing environments.",
+  "synthesizedAt": "2026-11-27T07:43:04.092Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "latent-space-urn:latent-space:post:post_da868ce2-6565-4f67-8686-e33c78bee319",
-    "title": "Clay Expands GTM Infrastructure for AI Agents, Addressing Model Selector Criticisms",
-    "link": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
-    "sourceName": "Latent Space (Swyx & Alessio)",
-    "sourceId": "latent-space",
-    "pubDate": "2026-11-26T23:02:48.000Z",
-    "badgeColor": "pink",
-    "angle": "Official Release"
+    "id": "arxiv-ai-oai:arXiv.org:2611.33497v1",
+    "title": "CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation",
+    "link": "https://arxiv.org/abs/2611.33497",
+    "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+    "sourceId": "arxiv-ai",
+    "pubDate": "2026-11-27T05:00:00.000Z",
+    "badgeColor": "zinc",
+    "angle": "New Framework"
   },
   "supportingStories": [
     {
-      "id": "version2-https://ing.dk/holdning/europa-halter-bagefter-i-kaploebet-om-fremtidens-ai-robotter-nu-skal-vi-selv-paa-banen",
-      "title": "Europe Races to Lead in Future AI Robotics – Now It's Our Turn to Step Up",
-      "link": "https://ing.dk/holdning/europa-halter-bagefter-i-kaploebet-om-fremtidens-ai-robotter-nu-skal-vi-selv-paa-banen",
-      "sourceName": "Version2 (Ingeniøren)",
-      "sourceId": "version2",
-      "pubDate": "2026-11-27T04:00:00.000Z",
-      "badgeColor": "red",
-      "angle": "Industry Analysis"
+      "id": "arxiv-cl-oai:arXiv.org:2611.33307v1",
+      "title": "Lost in Translation, Not in Confidence: Benchmarking and Calibrating Multilingual Decision Models",
+      "link": "https://arxiv.org/abs/2611.33307",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
+      "pubDate": "2026-11-27T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Benchmarking"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=43346",
-      "title": "Scott Aaronson Argues AI Math Breakthroughs Have Far-Reaching Implications Beyond Academia",
-      "link": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-26T19:31:46.000Z",
-      "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
+      "id": "arxiv-ai-oai:arXiv.org:2611.33160v1",
+      "title": "New Research Explores Context Scaling to Address AI Mismatch Issues",
+      "link": "https://arxiv.org/abs/2611.33160",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-11-27T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Context Scaling"
+    },
+    {
+      "id": "arxiv-ai-oai:arXiv.org:2611.33190v1",
+      "title": "New General-Purpose Decision Models Aim to Enhance AI Configuration Tuning",
+      "link": "https://arxiv.org/abs/2611.33190",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-11-27T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "General-Purpose Decision Models"
     }
   ]
 }
