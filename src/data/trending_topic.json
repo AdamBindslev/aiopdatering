@@ -1,49 +1,39 @@
 {
-  "headline": "AI in Mathematics and Its Broader Implications",
-  "summary": "Recent developments in AI's potential to solve complex mathematical problems, such as the Riemann Hypothesis, are generating significant industry interest and debate, highlighting the broader implications for research and technology.",
-  "whyItMatters": "These advancements could revolutionize mathematical research and demonstrate AI's potential in solving long-standing problems, influencing both academic and practical applications.",
-  "synthesizedAt": "2026-11-27T01:27:13.397Z",
+  "headline": "AI Model Expansion Challenges Proprietary Platforms",
+  "summary": "A surge in open-source AI models is pushing the boundaries of traditional proprietary platforms, with Clay leading the charge. This trend is reshaping the AI landscape by democratizing access to advanced capabilities and reducing dependency on closed systems.",
+  "whyItMatters": "It accelerates the adoption of AI across industries by providing more accessible and flexible alternatives to proprietary solutions.",
+  "synthesizedAt": "2026-11-27T04:33:37.928Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=43346",
-    "title": "Scott Aaronson Argues AI Math Breakthroughs Have Far-Reaching Implications Beyond Academia",
-    "link": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-26T19:31:46.000Z",
-    "badgeColor": "slate",
-    "angle": "Industry Analysis"
+    "id": "latent-space-urn:latent-space:post:post_da868ce2-6565-4f67-8686-e33c78bee319",
+    "title": "Clay Expands GTM Infrastructure for AI Agents, Addressing Model Selector Criticisms",
+    "link": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+    "sourceName": "Latent Space (Swyx & Alessio)",
+    "sourceId": "latent-space",
+    "pubDate": "2026-11-26T23:02:48.000Z",
+    "badgeColor": "pink",
+    "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "dwarkesh-podcast-yt:video:WNHac8LYzKQ",
-      "title": "Grant Sanderson Discusses AI's Potential to Solve the Riemann Hypothesis",
-      "link": "https://www.youtube.com/shorts/WNHac8LYzKQ",
-      "sourceName": "Dwarkesh Podcast",
-      "sourceId": "dwarkesh-podcast",
-      "pubDate": "2026-11-26T23:00:27.000Z",
-      "badgeColor": "indigo",
-      "angle": "Mathematical Breakthrough"
+      "id": "version2-https://ing.dk/holdning/europa-halter-bagefter-i-kaploebet-om-fremtidens-ai-robotter-nu-skal-vi-selv-paa-banen",
+      "title": "Europe Races to Lead in Future AI Robotics – Now It's Our Turn to Step Up",
+      "link": "https://ing.dk/holdning/europa-halter-bagefter-i-kaploebet-om-fremtidens-ai-robotter-nu-skal-vi-selv-paa-banen",
+      "sourceName": "Version2 (Ingeniøren)",
+      "sourceId": "version2",
+      "pubDate": "2026-11-27T04:00:00.000Z",
+      "badgeColor": "red",
+      "angle": "Industry Analysis"
     },
     {
-      "id": "dwarkesh-podcast-yt:video:ufvSPf329pA",
-      "title": "Terry Tao Discusses AI's Potential in Solving the Riemann Hypothesis",
-      "link": "https://www.youtube.com/shorts/ufvSPf329pA",
-      "sourceName": "Dwarkesh Podcast",
-      "sourceId": "dwarkesh-podcast",
-      "pubDate": "2026-11-26T21:33:01.000Z",
-      "badgeColor": "indigo",
-      "angle": "Mathematical Breakthrough"
-    },
-    {
-      "id": "ml-street-talk-yt:video:4HGQvNT8guw",
-      "title": "Exploring the Paradox of Random Noise and Algorithmic Statistics",
-      "link": "https://www.youtube.com/shorts/4HGQvNT8guw",
-      "sourceName": "Machine Learning Street Talk",
-      "sourceId": "ml-street-talk",
-      "pubDate": "2026-11-26T05:32:42.000Z",
-      "badgeColor": "violet",
-      "angle": "Technical Insight"
+      "id": "the-decoder-https://the-decoder.com/?p=43346",
+      "title": "Scott Aaronson Argues AI Math Breakthroughs Have Far-Reaching Implications Beyond Academia",
+      "link": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-26T19:31:46.000Z",
+      "badgeColor": "slate",
+      "angle": "Technical Deep Dive"
     }
   ]
 }
