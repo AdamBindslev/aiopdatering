@@ -1,49 +1,39 @@
 {
-  "headline": "New Open-Source Models Challenge Proprietary AI Systems",
-  "summary": "A series of new open-source AI models are demonstrating advanced capabilities, challenging the dominance of proprietary systems. These models are driving innovation and reducing barriers to entry for developers and researchers.",
-  "whyItMatters": "This trend democratizes access to advanced AI technologies, fostering competition and accelerating the development of open-source ecosystems.",
-  "synthesizedAt": "2026-11-27T13:54:01.374Z",
+  "headline": "Open-Source AI Models Challenge Proprietary Solutions",
+  "summary": "A growing number of open-source AI models are demonstrating competitive capabilities with proprietary systems, driving innovation and reducing costs in the industry. This trend is accelerating local AI agent deployment and challenging established players.",
+  "whyItMatters": "It broadens access to advanced AI capabilities and reduces dependence on expensive proprietary platforms, fostering a more competitive and inclusive AI ecosystem.",
+  "synthesizedAt": "2026-11-27T17:01:30.686Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-zvi-https://thezvi.substack.com/p/astra-62s-brain-gets-smart-but-its",
-    "title": "Astra 6.2 Enhances Cognitive Capabilities While Reducing Physical Resources",
-    "link": "https://thezvi.substack.com/p/astra-62s-brain-gets-smart-but-its",
-    "sourceName": "Don't Worry About the Vase (Zvi)",
-    "sourceId": "the-zvi",
-    "pubDate": "2026-11-27T13:36:29.000Z",
-    "badgeColor": "emerald",
-    "angle": "Official Release"
+    "id": "the-decoder-https://the-decoder.com/?p=43363",
+    "title": "Three Studies Support AMI Labs' JEPA World Models Over Large Language Models",
+    "link": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-27T16:58:56.000Z",
+    "badgeColor": "slate",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "two-minute-papers-yt:video:u6UYsl-KEoc",
-      "title": "DeepMind Unveils Gemini 4, Advancing AI Safety and Performance",
-      "link": "https://www.youtube.com/watch?v=u6UYsl-KEoc",
-      "sourceName": "Two Minute Papers",
-      "sourceId": "two-minute-papers",
-      "pubDate": "2026-11-27T08:42:30.000Z",
-      "badgeColor": "amber",
+      "id": "the-zvi-https://thezvi.substack.com/p/astra-62s-brain-gets-smart-but-its",
+      "title": "Astra 6.2 Enhances Cognitive Capabilities While Reducing Physical Resources",
+      "link": "https://thezvi.substack.com/p/astra-62s-brain-gets-smart-but-its",
+      "sourceName": "Don't Worry About the Vase (Zvi)",
+      "sourceId": "the-zvi",
+      "pubDate": "2026-11-27T13:36:29.000Z",
+      "badgeColor": "emerald",
       "angle": "Technical Deep Dive"
     },
     {
-      "id": "version2-https://ing.dk/artikel/traenet-paa-data-fra-danmark-ny-ai-forudser-tidlig-doed-ud-fra-et-enkelt-billede",
-      "title": "Danish-Trained AI Model Accurately Predicts High-Risk Patients from Single Image",
-      "link": "https://ing.dk/artikel/traenet-paa-data-fra-danmark-ny-ai-forudser-tidlig-doed-ud-fra-et-enkelt-billede",
-      "sourceName": "Version2 (Ingeniøren)",
-      "sourceId": "version2",
-      "pubDate": "2026-11-27T07:29:56.000Z",
-      "badgeColor": "red",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2611.33322v1",
-      "title": "Study Evaluates Brand Recall and Category Accuracy in Language Models Across 1,000 B2B SaaS Brands",
-      "link": "https://arxiv.org/abs/2611.33322",
-      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
-      "sourceId": "arxiv-ai",
+      "id": "arxiv-cl-oai:arXiv.org:2611.33174v1",
+      "title": "MGMem: A Novel Framework for Efficient and Provenance-Preserving Long-Horizon Agent Memory",
+      "link": "https://arxiv.org/abs/2611.33174",
+      "sourceName": "arXiv cs.CL (Sprog & LLM)",
+      "sourceId": "arxiv-cl",
       "pubDate": "2026-11-27T05:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Benchmarking and Performance"
+      "angle": "Innovation Frontier"
     }
   ]
 }
