@@ -1,39 +1,39 @@
 {
-  "headline": "Real-Time Reasoning Advances Pave Way for Dynamic Decision-Making",
-  "summary": "A new AI model enables real-time reasoning, enhancing decision-making capabilities. This breakthrough is driving innovation in dynamic systems and could significantly impact various industries, from healthcare to finance.",
-  "whyItMatters": "Real-time reasoning capabilities are crucial for dynamic decision-making, enabling more responsive and adaptive AI systems that can operate in real-world, ever-changing environments.",
-  "synthesizedAt": "2026-11-27T07:43:04.092Z",
+  "headline": "New Research Explores Context Scaling to Address AI Mismatch Issues",
+  "summary": "A recent study proposes a novel approach called context scaling to mitigate the common problem of AI systems failing due to a mismatch between training and deployment contexts, highlighting a significant advancement in AI robustness and adaptability.",
+  "whyItMatters": "This research could lead to more reliable AI systems that perform better in real-world scenarios, reducing the risk of AI failures and enhancing overall system trustworthiness.",
+  "synthesizedAt": "2026-11-27T10:47:29.090Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "arxiv-ai-oai:arXiv.org:2611.33497v1",
-    "title": "CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation",
-    "link": "https://arxiv.org/abs/2611.33497",
+    "id": "arxiv-ai-oai:arXiv.org:2611.33160v1",
+    "title": "New Research Explores Context Scaling to Address AI Mismatch Issues",
+    "link": "https://arxiv.org/abs/2611.33160",
     "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
     "sourceId": "arxiv-ai",
     "pubDate": "2026-11-27T05:00:00.000Z",
     "badgeColor": "zinc",
-    "angle": "New Framework"
+    "angle": "New Research"
   },
   "supportingStories": [
     {
-      "id": "arxiv-cl-oai:arXiv.org:2611.33307v1",
-      "title": "Lost in Translation, Not in Confidence: Benchmarking and Calibrating Multilingual Decision Models",
-      "link": "https://arxiv.org/abs/2611.33307",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-11-27T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Benchmarking"
-    },
-    {
-      "id": "arxiv-ai-oai:arXiv.org:2611.33160v1",
-      "title": "New Research Explores Context Scaling to Address AI Mismatch Issues",
-      "link": "https://arxiv.org/abs/2611.33160",
+      "id": "arxiv-ai-oai:arXiv.org:2611.33161v1",
+      "title": "New Method for Selecting Optimal LLM and VLM Candidates Introduces Constraint-Aware Scoring",
+      "link": "https://arxiv.org/abs/2611.33161",
       "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
       "sourceId": "arxiv-ai",
       "pubDate": "2026-11-27T05:00:00.000Z",
       "badgeColor": "zinc",
-      "angle": "Context Scaling"
+      "angle": "Optimization Techniques"
+    },
+    {
+      "id": "arxiv-ai-oai:arXiv.org:2611.33165v1",
+      "title": "AutoformBench: A New Benchmark for Evaluating AI in Advanced Mathematical Formalization",
+      "link": "https://arxiv.org/abs/2611.33165",
+      "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
+      "sourceId": "arxiv-ai",
+      "pubDate": "2026-11-27T05:00:00.000Z",
+      "badgeColor": "zinc",
+      "angle": "Benchmarking"
     },
     {
       "id": "arxiv-ai-oai:arXiv.org:2611.33190v1",
@@ -42,8 +42,7 @@
       "sourceName": "arXiv cs.AI (Kunstig Intelligens)",
       "sourceId": "arxiv-ai",
       "pubDate": "2026-11-27T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "General-Purpose Decision Models"
+      "badgeColor": "zinc"
     }
   ]
 }
