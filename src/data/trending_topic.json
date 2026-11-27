@@ -1,39 +1,49 @@
 {
-  "headline": "Open-Source AI Models Challenge Proprietary Solutions",
-  "summary": "A growing number of open-source AI models are demonstrating competitive capabilities with proprietary systems, driving innovation and reducing costs in the industry. This trend is accelerating local AI agent deployment and challenging established players.",
-  "whyItMatters": "It broadens access to advanced AI capabilities and reduces dependence on expensive proprietary platforms, fostering a more competitive and inclusive AI ecosystem.",
-  "synthesizedAt": "2026-11-27T17:01:30.686Z",
+  "headline": "OpenAI's Legal Battle Over Trade Secrets Sparks AI Industry Controversy",
+  "summary": "OpenAI's lawsuit against Apple for alleged trade secret theft and supplier coercion has ignited a debate on data security, intellectual property, and competition in the AI sector. This legal action is drawing significant industry attention and could reshape AI development practices.",
+  "whyItMatters": "It highlights the growing tensions in the AI industry over data and intellectual property, potentially influencing future practices and regulations.",
+  "synthesizedAt": "2026-11-27T20:07:54.402Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=43363",
-    "title": "Three Studies Support AMI Labs' JEPA World Models Over Large Language Models",
-    "link": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+    "id": "the-decoder-https://the-decoder.com/?p=43380",
+    "title": "OpenAI Sues Apple Over Alleged Trade Secret Theft and Supplier Coercion",
+    "link": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
     "sourceName": "The Decoder",
     "sourceId": "the-decoder",
-    "pubDate": "2026-11-27T16:58:56.000Z",
+    "pubDate": "2026-11-27T19:38:37.000Z",
     "badgeColor": "slate",
-    "angle": "Industry Analysis"
+    "angle": "Legal Dispute"
   },
   "supportingStories": [
     {
-      "id": "the-zvi-https://thezvi.substack.com/p/astra-62s-brain-gets-smart-but-its",
-      "title": "Astra 6.2 Enhances Cognitive Capabilities While Reducing Physical Resources",
-      "link": "https://thezvi.substack.com/p/astra-62s-brain-gets-smart-but-its",
-      "sourceName": "Don't Worry About the Vase (Zvi)",
-      "sourceId": "the-zvi",
-      "pubDate": "2026-11-27T13:36:29.000Z",
-      "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
+      "id": "the-decoder-https://the-decoder.com/?p=43375",
+      "title": "Banned Nvidia Blackwell Chips Used in Shanghai Data Center Linked to Alice Huang",
+      "link": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-27T18:27:02.000Z",
+      "badgeColor": "slate",
+      "angle": "Tech Industry Impact"
     },
     {
-      "id": "arxiv-cl-oai:arXiv.org:2611.33174v1",
-      "title": "MGMem: A Novel Framework for Efficient and Provenance-Preserving Long-Horizon Agent Memory",
-      "link": "https://arxiv.org/abs/2611.33174",
-      "sourceName": "arXiv cs.CL (Sprog & LLM)",
-      "sourceId": "arxiv-cl",
-      "pubDate": "2026-11-27T05:00:00.000Z",
-      "badgeColor": "zinc",
-      "angle": "Innovation Frontier"
+      "id": "the-decoder-https://the-decoder.com/?p=43364",
+      "title": "OpenAI Develops 'Athena' Data Platform to Enhance AI Agent Accuracy",
+      "link": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-27T16:05:23.000Z",
+      "badgeColor": "slate",
+      "angle": "AI Platform Strategy"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=43354",
+      "title": "SAP Announces Major Job Cuts as It Shifts Focus to AI",
+      "link": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-27T14:57:25.000Z",
+      "badgeColor": "slate",
+      "angle": "Corporate Strategy Shift"
     }
   ]
 }
