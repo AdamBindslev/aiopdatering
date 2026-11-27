@@ -1,29 +1,49 @@
 {
-  "headline": "AI Chip Supply Chain Tensions Heat Up Amid U.S. Export Controls",
-  "summary": "Nvidia has suspended chip shipments to Southeast Asian countries due to tightened U.S. export controls, highlighting the growing geopolitical tensions and supply chain disruptions in the AI hardware industry.",
-  "whyItMatters": "This shift affects global AI development and deployment, potentially leading to increased costs and delays for companies and researchers relying on Nvidia chips.",
-  "synthesizedAt": "2026-11-26T22:20:45.488Z",
+  "headline": "AI in Mathematics and Its Broader Implications",
+  "summary": "Recent developments in AI's potential to solve complex mathematical problems, such as the Riemann Hypothesis, are generating significant industry interest and debate, highlighting the broader implications for research and technology.",
+  "whyItMatters": "These advancements could revolutionize mathematical research and demonstrate AI's potential in solving long-standing problems, influencing both academic and practical applications.",
+  "synthesizedAt": "2026-11-27T01:27:13.397Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "techcrunch-ai-https://techcrunch.com/?p=3192803",
-    "title": "Nvidia Temporarily Halts Chip Shipments to Southeast Asia Amid U.S. Export Restrictions",
-    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-    "sourceName": "TechCrunch – AI",
-    "sourceId": "techcrunch-ai",
-    "pubDate": "2026-11-26T20:03:54.000Z",
-    "badgeColor": "emerald",
-    "angle": "Supply Chain Impact"
+    "id": "the-decoder-https://the-decoder.com/?p=43346",
+    "title": "Scott Aaronson Argues AI Math Breakthroughs Have Far-Reaching Implications Beyond Academia",
+    "link": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+    "sourceName": "The Decoder",
+    "sourceId": "the-decoder",
+    "pubDate": "2026-11-26T19:31:46.000Z",
+    "badgeColor": "slate",
+    "angle": "Industry Analysis"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=43327",
-      "title": "Nvidia Suspends Server Shipments to Southeast Asian Countries Amid Tightened US Export Controls",
-      "link": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
-      "sourceName": "The Decoder",
-      "sourceId": "the-decoder",
-      "pubDate": "2026-11-26T11:21:16.000Z",
-      "badgeColor": "slate",
-      "angle": "Regulatory Impact"
+      "id": "dwarkesh-podcast-yt:video:WNHac8LYzKQ",
+      "title": "Grant Sanderson Discusses AI's Potential to Solve the Riemann Hypothesis",
+      "link": "https://www.youtube.com/shorts/WNHac8LYzKQ",
+      "sourceName": "Dwarkesh Podcast",
+      "sourceId": "dwarkesh-podcast",
+      "pubDate": "2026-11-26T23:00:27.000Z",
+      "badgeColor": "indigo",
+      "angle": "Mathematical Breakthrough"
+    },
+    {
+      "id": "dwarkesh-podcast-yt:video:ufvSPf329pA",
+      "title": "Terry Tao Discusses AI's Potential in Solving the Riemann Hypothesis",
+      "link": "https://www.youtube.com/shorts/ufvSPf329pA",
+      "sourceName": "Dwarkesh Podcast",
+      "sourceId": "dwarkesh-podcast",
+      "pubDate": "2026-11-26T21:33:01.000Z",
+      "badgeColor": "indigo",
+      "angle": "Mathematical Breakthrough"
+    },
+    {
+      "id": "ml-street-talk-yt:video:4HGQvNT8guw",
+      "title": "Exploring the Paradox of Random Noise and Algorithmic Statistics",
+      "link": "https://www.youtube.com/shorts/4HGQvNT8guw",
+      "sourceName": "Machine Learning Street Talk",
+      "sourceId": "ml-street-talk",
+      "pubDate": "2026-11-26T05:32:42.000Z",
+      "badgeColor": "violet",
+      "angle": "Technical Insight"
     }
   ]
 }
