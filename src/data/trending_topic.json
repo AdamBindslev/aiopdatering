@@ -1,48 +1,39 @@
 {
-  "headline": "OpenAI's 'Athena' Data Platform Pioneers AI Agent Accuracy",
-  "summary": "OpenAI is developing the 'Athena' data platform to enhance the accuracy of AI agents by providing standardized definitions for business metrics. This initiative is gaining significant attention as it could revolutionize how AI models are trained and deployed.",
-  "whyItMatters": "It addresses a critical aspect of AI development, potentially improving the reliability and performance of AI agents across various industries.",
-  "synthesizedAt": "2026-11-28T14:48:28.494Z",
+  "headline": "OpenAI's Legal Battle with Apple Signals AI Industry Tensions",
+  "summary": "OpenAI's countersuit against Apple over alleged trade secret theft and supplier coercion highlights ongoing tensions in the AI industry, with major tech companies engaging in legal disputes over intellectual property and vendor relationships.",
+  "whyItMatters": "This legal battle underscores the competitive landscape and potential regulatory challenges in the AI sector, affecting how companies collaborate and innovate.",
+  "synthesizedAt": "2026-11-28T17:55:25.267Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
-    "id": "the-decoder-https://the-decoder.com/?p=43364",
-    "title": "OpenAI Develops 'Athena' Data Platform to Enhance AI Agent Accuracy",
-    "link": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
-    "sourceName": "The Decoder",
-    "sourceId": "the-decoder",
-    "pubDate": "2026-11-27T16:05:23.000Z",
-    "badgeColor": "slate",
+    "id": "techcrunch-ai-https://techcrunch.com/?p=3192854",
+    "title": "OpenAI Files Countersuit Against Apple, Accusing Vendor Pressure",
+    "link": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/",
+    "sourceName": "TechCrunch – AI",
+    "sourceId": "techcrunch-ai",
+    "pubDate": "2026-11-28T17:46:47.000Z",
+    "badgeColor": "emerald",
     "angle": "Official Release"
   },
   "supportingStories": [
     {
-      "id": "the-decoder-https://the-decoder.com/?p=43384",
-      "title": "Google DeepMind's 'Humanity's First Exam' Reveals Persistent Failures in AI Consistency",
-      "link": "https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/",
+      "id": "the-decoder-https://the-decoder.com/?p=43380",
+      "title": "OpenAI Sues Apple Over Alleged Trade Secret Theft and Supplier Coercion",
+      "link": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-11-28T11:12:30.000Z",
+      "pubDate": "2026-11-27T19:38:37.000Z",
       "badgeColor": "slate",
-      "angle": "Technical Deep Dive"
+      "angle": "Legal Dispute"
     },
     {
-      "id": "the-decoder-https://the-decoder.com/?p=43363",
-      "title": "Three Studies Support AMI Labs' JEPA World Models Over Large Language Models",
-      "link": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+      "id": "the-decoder-https://the-decoder.com/?p=43364",
+      "title": "OpenAI Develops 'Athena' Data Platform to Enhance AI Agent Accuracy",
+      "link": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
       "sourceName": "The Decoder",
       "sourceId": "the-decoder",
-      "pubDate": "2026-11-27T16:58:56.000Z",
+      "pubDate": "2026-11-27T16:05:23.000Z",
       "badgeColor": "slate",
-      "angle": "Industry Analysis"
-    },
-    {
-      "id": "two-minute-papers-yt:video:u6UYsl-KEoc",
-      "title": "DeepMind Unveils Gemini 4, Advancing AI Safety and Performance",
-      "link": "https://www.youtube.com/watch?v=u6UYsl-KEoc",
-      "sourceName": "Two Minute Papers",
-      "sourceId": "two-minute-papers",
-      "pubDate": "2026-11-27T08:42:30.000Z",
-      "badgeColor": "amber"
+      "angle": "Industry Impact"
     }
   ]
 }
