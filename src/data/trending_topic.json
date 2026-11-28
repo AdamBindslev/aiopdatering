@@ -1,8 +1,8 @@
 {
-  "headline": "OpenAI's Athena Platform Pioneers New Standards in AI Agent Accuracy",
-  "summary": "OpenAI has developed the 'Athena' data platform to enhance the accuracy of AI agents by providing standardized definitions for business metrics. This initiative is gaining significant attention as it could set new benchmarks for the industry.",
-  "whyItMatters": "It highlights OpenAI's commitment to improving AI agent reliability and could influence the development of more accurate and efficient AI systems.",
-  "synthesizedAt": "2026-11-28T11:41:36.334Z",
+  "headline": "OpenAI's 'Athena' Data Platform Pioneers AI Agent Accuracy",
+  "summary": "OpenAI is developing the 'Athena' data platform to enhance the accuracy of AI agents by providing standardized definitions for business metrics. This initiative is gaining significant attention as it could revolutionize how AI models are trained and deployed.",
+  "whyItMatters": "It addresses a critical aspect of AI development, potentially improving the reliability and performance of AI agents across various industries.",
+  "synthesizedAt": "2026-11-28T14:48:28.494Z",
   "modelUsed": "qwen2.5:7b",
   "primaryArticle": {
     "id": "the-decoder-https://the-decoder.com/?p=43364",
@@ -16,24 +16,33 @@
   },
   "supportingStories": [
     {
-      "id": "dwarkesh-podcast-yt:video:7YLqyt5lCXg",
-      "title": "AI Achieves Decade of Mathematical Research in a Month",
-      "link": "https://www.youtube.com/shorts/7YLqyt5lCXg",
-      "sourceName": "Dwarkesh Podcast",
-      "sourceId": "dwarkesh-podcast",
-      "pubDate": "2026-11-27T22:53:12.000Z",
-      "badgeColor": "indigo",
+      "id": "the-decoder-https://the-decoder.com/?p=43384",
+      "title": "Google DeepMind's 'Humanity's First Exam' Reveals Persistent Failures in AI Consistency",
+      "link": "https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-28T11:12:30.000Z",
+      "badgeColor": "slate",
+      "angle": "Technical Deep Dive"
+    },
+    {
+      "id": "the-decoder-https://the-decoder.com/?p=43363",
+      "title": "Three Studies Support AMI Labs' JEPA World Models Over Large Language Models",
+      "link": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+      "sourceName": "The Decoder",
+      "sourceId": "the-decoder",
+      "pubDate": "2026-11-27T16:58:56.000Z",
+      "badgeColor": "slate",
       "angle": "Industry Analysis"
     },
     {
-      "id": "the-zvi-https://thezvi.substack.com/p/astra-62s-brain-gets-smart-but-its",
-      "title": "Astra 6.2 Enhances Cognitive Capabilities While Reducing Physical Resources",
-      "link": "https://thezvi.substack.com/p/astra-62s-brain-gets-smart-but-its",
-      "sourceName": "Don't Worry About the Vase (Zvi)",
-      "sourceId": "the-zvi",
-      "pubDate": "2026-11-27T13:36:29.000Z",
-      "badgeColor": "emerald",
-      "angle": "Technical Deep Dive"
+      "id": "two-minute-papers-yt:video:u6UYsl-KEoc",
+      "title": "DeepMind Unveils Gemini 4, Advancing AI Safety and Performance",
+      "link": "https://www.youtube.com/watch?v=u6UYsl-KEoc",
+      "sourceName": "Two Minute Papers",
+      "sourceId": "two-minute-papers",
+      "pubDate": "2026-11-27T08:42:30.000Z",
+      "badgeColor": "amber"
     }
   ]
 }
